@@ -1,6 +1,38 @@
 {
   "jobs": [
     {
+      "company": "Shaw Industries",
+      "fetched_at": "2026-08-05T18:26:00.883405+00:00",
+      "id": "c59f5d93e1ad",
+      "location": "Sanquhar,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "dev",
+        "finance",
+        "exec",
+        "digital nomad"
+      ],
+      "title": "Creeler",
+      "url": "https://remoteOK.com/remote-jobs/remote-creeler-shaw-industries-1136092"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-05T18:26:00.883405+00:00",
+      "id": "dd6eb442301c",
+      "location": "Remote",
+      "posted_at": "2026-08-05T18:00:30+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1bm"
+    },
+    {
       "company": "Dexterra",
       "fetched_at": "2026-08-05T16:45:17.080422+00:00",
       "id": "3bf089e7abd6",
@@ -2539,6 +2571,32 @@
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2kff"
     },
     {
+      "company": "Gusto, Inc.",
+      "fetched_at": "2026-08-05T18:26:00.883405+00:00",
+      "id": "f3016438116d",
+      "location": "Remote",
+      "posted_at": "2026-07-22T07:01:14+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Full-Stack Programming"
+      ],
+      "title": "Enterprise Application AI Architect",
+      "url": "https://weworkremotely.com/remote-jobs/gusto-inc-enterprise-application-ai-architect"
+    },
+    {
+      "company": "Stripe",
+      "fetched_at": "2026-08-05T18:26:00.883405+00:00",
+      "id": "b670e6a23ffa",
+      "location": "Remote",
+      "posted_at": "2026-07-22T07:01:13+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Back-End Programming"
+      ],
+      "title": "Backend Engineer, Core Technology",
+      "url": "https://weworkremotely.com/remote-jobs/stripe-backend-engineer-core-technology"
+    },
+    {
       "company": "Stripe",
       "fetched_at": "2026-08-05T14:21:54.411152+00:00",
       "id": "6a8d17f2dcd5",
@@ -2773,5 +2831,5 @@
       "url": "https://weworkremotely.com/remote-jobs/vidalytics-europe-only-gtm-martech-engineer-growth-attribution-at-video-martech-saas"
     }
   ],
-  "updated_at": "2026-08-05T16:45:17.080422+00:00"
+  "updated_at": "2026-08-05T18:26:00.883405+00:00"
 }
