@@ -1,6 +1,146 @@
 {
   "jobs": [
     {
+      "company": "Dexterra",
+      "fetched_at": "2026-08-05T16:45:17.080422+00:00",
+      "id": "3bf089e7abd6",
+      "location": "Truro,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec",
+        "full time",
+        "part time"
+      ],
+      "title": "Lead Hand",
+      "url": "https://remoteOK.com/remote-jobs/remote-lead-hand-dexterra-1136174"
+    },
+    {
+      "company": "INNERGY",
+      "fetched_at": "2026-08-05T16:45:17.080422+00:00",
+      "id": "3f8306634dc8",
+      "location": "Austin, Austin, Texas, United States",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "design",
+        "saas",
+        "salesforce",
+        "wordpress",
+        "customer support",
+        "dev",
+        "testing",
+        "marketing",
+        "web dev",
+        "travel",
+        "cloud",
+        "ads",
+        "exec",
+        "content writing",
+        "stats",
+        "sales",
+        "recruiter",
+        "digital nomad"
+      ],
+      "title": "Marketing Specialist",
+      "url": "https://remoteOK.com/remote-jobs/remote-marketing-specialist-innergy-1136094"
+    },
+    {
+      "company": "Curcle",
+      "fetched_at": "2026-08-05T16:45:17.080422+00:00",
+      "id": "2aefb5a9eec2",
+      "location": "Silver Water,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec",
+        "full time",
+        "part time",
+        "sys admin",
+        "infosec",
+        "technical",
+        "customer support",
+        "marketing",
+        "finance",
+        "c",
+        "sales",
+        "medical",
+        "mobile",
+        "dev",
+        "chatbot",
+        "ops",
+        "legal",
+        "engineer",
+        "digital nomad"
+      ],
+      "title": "Compliance",
+      "url": "https://remoteOK.com/remote-jobs/remote-compliance-curcle-1136179"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-05T16:45:17.080422+00:00",
+      "id": "744982cca41f",
+      "location": "Remote",
+      "posted_at": "2026-08-05T16:24:06+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1dck"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-08-05T16:45:17.080422+00:00",
+      "id": "3295f687e970",
+      "location": "Remote",
+      "posted_at": "2026-08-05T15:00:29+00:00",
+      "source": "devto",
+      "tags": [
+        "beginners",
+        "jobs",
+        "career",
+        "programming"
+      ],
+      "title": "These Companies Want Interns This Summer (Aug 5)",
+      "url": "https://dev.to/crackr/these-companies-want-interns-this-summer-aug-5-cco"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-08-05T16:45:17.080422+00:00",
+      "id": "a28c68c2d2f5",
+      "location": "Remote",
+      "posted_at": "2026-08-05T15:00:25+00:00",
+      "source": "devto",
+      "tags": [
+        "remotework",
+        "jobs",
+        "webdev",
+        "career"
+      ],
+      "title": "8 Remote SWE Jobs You Can Apply to From Anywhere (Aug 5)",
+      "url": "https://dev.to/crackr/8-remote-swe-jobs-you-can-apply-to-from-anywhere-aug-5-3dfp"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-05T16:45:17.080422+00:00",
+      "id": "875157ba58e2",
+      "location": "Remote",
+      "posted_at": "2026-08-05T14:43:06+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2p1i"
+    },
+    {
       "company": "Enable Dental",
       "fetched_at": "2026-08-05T14:21:54.411152+00:00",
       "id": "a484b7ea18c9",
@@ -2633,5 +2773,5 @@
       "url": "https://weworkremotely.com/remote-jobs/vidalytics-europe-only-gtm-martech-engineer-growth-attribution-at-video-martech-saas"
     }
   ],
-  "updated_at": "2026-08-05T14:21:54.411152+00:00"
+  "updated_at": "2026-08-05T16:45:17.080422+00:00"
 }
