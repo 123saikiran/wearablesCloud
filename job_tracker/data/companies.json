@@ -23,12 +23,33 @@
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
+    "Allied Enterprises Baku LTD": {
+      "count": 1,
+      "job_ids": [
+        "e8fbb722ccb7"
+      ],
+      "last_seen": "2026-08-05T22:15:55.329949+00:00"
+    },
+    "Amentum": {
+      "count": 1,
+      "job_ids": [
+        "1acffc6fa342"
+      ],
+      "last_seen": "2026-08-05T22:15:55.329949+00:00"
+    },
     "Anansewaa": {
       "count": 1,
       "job_ids": [
         "869bb59fea79"
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
+    },
+    "Apex Local": {
+      "count": 1,
+      "job_ids": [
+        "eb0fc47b38e5"
+      ],
+      "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "Apprentus": {
       "count": 1,
@@ -397,6 +418,15 @@
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
+    "MacSweeney LLC": {
+      "count": 3,
+      "job_ids": [
+        "ab36092b1c6c",
+        "686f9f0e5959",
+        "2606ce8b5244"
+      ],
+      "last_seen": "2026-08-05T22:15:55.329949+00:00"
+    },
     "MapTiler": {
       "count": 1,
       "job_ids": [
@@ -479,6 +509,13 @@
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
+    "PT. Mastersystem Infotama": {
+      "count": 1,
+      "job_ids": [
+        "f19c98b41c2c"
+      ],
+      "last_seen": "2026-08-05T22:15:55.329949+00:00"
+    },
     "Pareto": {
       "count": 1,
       "job_ids": [
@@ -501,12 +538,26 @@
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
+    "Paul B": {
+      "count": 1,
+      "job_ids": [
+        "2689d725de84"
+      ],
+      "last_seen": "2026-08-05T22:15:55.329949+00:00"
+    },
     "PinPoint Middleware Test Company": {
       "count": 1,
       "job_ids": [
         "c77d0c58319d"
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
+    },
+    "Polar": {
+      "count": 1,
+      "job_ids": [
+        "f7feee15942f"
+      ],
+      "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "Program Delta Performance Group": {
       "count": 1,
@@ -540,6 +591,13 @@
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
+    "Qorsi": {
+      "count": 1,
+      "job_ids": [
+        "0933f2b93b0c"
+      ],
+      "last_seen": "2026-08-05T22:15:55.329949+00:00"
+    },
     "Queensland Corrective Services": {
       "count": 1,
       "job_ids": [
@@ -554,9 +612,19 @@
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
-    "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 14,
+    "Quizzly.ai": {
+      "count": 2,
       "job_ids": [
+        "f5d86e63206c",
+        "ff308ff42152"
+      ],
+      "last_seen": "2026-08-05T22:15:55.329949+00:00"
+    },
+    "RAZIX DEVIL NEMESIS (Loki)": {
+      "count": 16,
+      "job_ids": [
+        "5905086f2042",
+        "58dea2e8367e",
         "dd6eb442301c",
         "744982cca41f",
         "875157ba58e2",
@@ -572,7 +640,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-05T18:00:30+00:00"
+      "last_seen": "2026-08-05T22:01:41+00:00"
     },
     "Re Lytics Hires": {
       "count": 3,
@@ -646,12 +714,26 @@
       ],
       "last_seen": "2026-07-16T21:08:09+00:00"
     },
+    "Sitawi FinanÃ§as do Bem": {
+      "count": 1,
+      "job_ids": [
+        "82e546645b4f"
+      ],
+      "last_seen": "2026-08-05T22:15:55.329949+00:00"
+    },
     "Snapscale": {
       "count": 1,
       "job_ids": [
         "40aedc5c33fa"
       ],
       "last_seen": "2026-07-16T21:08:09+00:00"
+    },
+    "Spore N Sprouts": {
+      "count": 1,
+      "job_ids": [
+        "680ff32a97bb"
+      ],
+      "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "Steady Vision": {
       "count": 1,
@@ -791,5 +873,5 @@
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     }
   },
-  "updated_at": "2026-08-05T20:35:14.106337+00:00"
+  "updated_at": "2026-08-05T22:15:55.329949+00:00"
 }

@@ -1,6 +1,340 @@
 {
   "jobs": [
     {
+      "company": "Quizzly.ai",
+      "fetched_at": "2026-08-05T22:15:55.329949+00:00",
+      "id": "f5d86e63206c",
+      "location": "Bideford,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "cloud",
+        "engineer",
+        "admin",
+        "ops",
+        "finance",
+        "exec"
+      ],
+      "title": "Business &amp; Management",
+      "url": "https://remoteOK.com/remote-jobs/remote-business-amp-management-quizzly-ai-1136118"
+    },
+    {
+      "company": "Quizzly.ai",
+      "fetched_at": "2026-08-05T22:15:55.329949+00:00",
+      "id": "ff308ff42152",
+      "location": "Nellore,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "dev",
+        "digital nomad",
+        "customer support",
+        "non tech",
+        "quality assurance",
+        "math",
+        "ops",
+        "golang",
+        "web dev",
+        "infosec",
+        "cloud",
+        "finance"
+      ],
+      "title": "Creative Professions",
+      "url": "https://remoteOK.com/remote-jobs/remote-creative-professions-quizzly-ai-1136149"
+    },
+    {
+      "company": "Sitawi FinanÃ§as do Bem",
+      "fetched_at": "2026-08-05T22:15:55.329949+00:00",
+      "id": "82e546645b4f",
+      "location": "Rio de Janeiro, Rio de Janeiro, Rio de Janeiro, Brasil",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "supervisor",
+        "excel",
+        "non tech"
+      ],
+      "title": "Pessoa EstagiÃ¡ria em GestÃ£o de Filantropia",
+      "url": "https://remoteOK.com/remote-jobs/remote-pessoa-estagiaria-em-gestao-de-filantropia-sitawi-financas-do-bem-1136127"
+    },
+    {
+      "company": "Qorsi",
+      "fetched_at": "2026-08-05T22:15:55.329949+00:00",
+      "id": "0933f2b93b0c",
+      "location": "Salon,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "dev",
+        "digital nomad",
+        "customer support",
+        "non tech",
+        "quality assurance",
+        "math",
+        "ops",
+        "golang",
+        "web dev",
+        "infosec",
+        "cloud",
+        "finance",
+        "microsoft",
+        "medical",
+        "education"
+      ],
+      "title": "Seatdo",
+      "url": "https://remoteOK.com/remote-jobs/remote-seatdo-qorsi-1136158"
+    },
+    {
+      "company": "MacSweeney LLC",
+      "fetched_at": "2026-08-05T22:15:55.329949+00:00",
+      "id": "ab36092b1c6c",
+      "location": "Norge,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "cloud"
+      ],
+      "title": "Learning Intelligence",
+      "url": "https://remoteOK.com/remote-jobs/remote-learning-intelligence-macsweeney-llc-1136113"
+    },
+    {
+      "company": "MacSweeney LLC",
+      "fetched_at": "2026-08-05T22:15:55.329949+00:00",
+      "id": "686f9f0e5959",
+      "location": "Strovolos,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "dev",
+        "digital nomad",
+        "customer support",
+        "non tech",
+        "quality assurance",
+        "math",
+        "ops",
+        "golang",
+        "web dev",
+        "infosec",
+        "cloud"
+      ],
+      "title": "Boston Flight",
+      "url": "https://remoteOK.com/remote-jobs/remote-boston-flight-macsweeney-llc-1136147"
+    },
+    {
+      "company": "MacSweeney LLC",
+      "fetched_at": "2026-08-05T22:15:55.329949+00:00",
+      "id": "2606ce8b5244",
+      "location": "Nendaz,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "cloud",
+        "engineer"
+      ],
+      "title": "Iâm a Mac",
+      "url": "https://remoteOK.com/remote-jobs/remote-im-a-mac-macsweeney-llc-1136115"
+    },
+    {
+      "company": "PT. Mastersystem Infotama",
+      "fetched_at": "2026-08-05T22:15:55.329949+00:00",
+      "id": "f19c98b41c2c",
+      "location": "Quezon City, Quezon City, National Capital Region, Philippines",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "data entry",
+        "virtual assistant",
+        "teaching",
+        "education",
+        "marketing"
+      ],
+      "title": "Data Entry Assistant",
+      "url": "https://remoteOK.com/remote-jobs/remote-data-entry-assistant-pt-mastersystem-infotama-1136103"
+    },
+    {
+      "company": "Spore N Sprouts",
+      "fetched_at": "2026-08-05T22:15:55.329949+00:00",
+      "id": "680ff32a97bb",
+      "location": "Ajmer,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "dev",
+        "digital nomad",
+        "customer support",
+        "non tech",
+        "quality assurance",
+        "math",
+        "ops",
+        "golang",
+        "web dev",
+        "infosec",
+        "cloud",
+        "finance"
+      ],
+      "title": "Julius AI",
+      "url": "https://remoteOK.com/remote-jobs/remote-julius-ai-spore-n-sprouts-1136150"
+    },
+    {
+      "company": "Apex Local",
+      "fetched_at": "2026-08-05T22:15:55.329949+00:00",
+      "id": "eb0fc47b38e5",
+      "location": "Golconda,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "dev",
+        "digital nomad",
+        "customer support",
+        "non tech",
+        "quality assurance",
+        "math",
+        "ops",
+        "golang",
+        "web dev",
+        "infosec",
+        "cloud",
+        "finance",
+        "microsoft",
+        "medical"
+      ],
+      "title": "The CRM updates itself the moment a call ends",
+      "url": "https://remoteOK.com/remote-jobs/remote-the-crm-updates-itself-the-moment-a-call-ends-apex-local-1136154"
+    },
+    {
+      "company": "Allied Enterprises Baku LTD",
+      "fetched_at": "2026-08-05T22:15:55.329949+00:00",
+      "id": "e8fbb722ccb7",
+      "location": "Alwal,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "dev",
+        "digital nomad",
+        "customer support",
+        "non tech"
+      ],
+      "title": "EMPLOYEES",
+      "url": "https://remoteOK.com/remote-jobs/remote-employees-allied-enterprises-baku-ltd-1136140"
+    },
+    {
+      "company": "Paul B",
+      "fetched_at": "2026-08-05T22:15:55.329949+00:00",
+      "id": "2689d725de84",
+      "location": "Anupgarh,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "dev",
+        "digital nomad",
+        "customer support",
+        "non tech",
+        "quality assurance",
+        "math",
+        "ops",
+        "golang",
+        "web dev",
+        "infosec",
+        "cloud",
+        "finance",
+        "microsoft",
+        "medical"
+      ],
+      "title": "15 15",
+      "url": "https://remoteOK.com/remote-jobs/remote-15-15-paul-b-1136153"
+    },
+    {
+      "company": "Amentum",
+      "fetched_at": "2026-08-05T22:15:55.329949+00:00",
+      "id": "1acffc6fa342",
+      "location": "New Providence,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "dev",
+        "digital nomad",
+        "infosec",
+        "education",
+        "technical",
+        "supervisor",
+        "customer support",
+        "testing",
+        "video",
+        "ops"
+      ],
+      "title": "Diver III",
+      "url": "https://remoteOK.com/remote-jobs/remote-diver-iii-amentum-1136101"
+    },
+    {
+      "company": "Polar",
+      "fetched_at": "2026-08-05T22:15:55.329949+00:00",
+      "id": "f7feee15942f",
+      "location": "New York, New York, United States",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec",
+        "design",
+        "architecture",
+        "recruiter",
+        "customer support",
+        "marketing",
+        "content writing",
+        "ops",
+        "golang",
+        "full time",
+        "digital nomad",
+        "dev",
+        "senior",
+        "medical",
+        "engineer",
+        "infosec",
+        "react",
+        "embedded",
+        "technical",
+        "finance",
+        "cloud",
+        "postgres",
+        "typescript",
+        "ruby",
+        "stats"
+      ],
+      "title": "Risk &amp; Compliance Specialist",
+      "url": "https://remoteOK.com/remote-jobs/remote-risk-amp-compliance-specialist-polar-1136211"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-05T22:15:55.329949+00:00",
+      "id": "5905086f2042",
+      "location": "Remote",
+      "posted_at": "2026-08-05T22:01:41+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3lk7"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-05T22:15:55.329949+00:00",
+      "id": "58dea2e8367e",
+      "location": "Remote",
+      "posted_at": "2026-08-05T20:50:27+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4g1j"
+    },
+    {
       "company": "The Site Office",
       "fetched_at": "2026-08-05T20:35:14.106337+00:00",
       "id": "6eddea86887f",
@@ -2969,5 +3303,5 @@
       "url": "https://weworkremotely.com/remote-jobs/vidalytics-europe-only-gtm-martech-engineer-growth-attribution-at-video-martech-saas"
     }
   ],
-  "updated_at": "2026-08-05T20:35:14.106337+00:00"
+  "updated_at": "2026-08-05T22:15:55.329949+00:00"
 }
