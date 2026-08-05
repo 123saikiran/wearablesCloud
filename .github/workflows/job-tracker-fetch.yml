@@ -30,6 +30,18 @@ jobs:
       - name: Fetch and aggregate jobs
         run: python job_tracker/scripts/fetch_jobs.py
 
+      - name: Send job alerts
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          ALERT_EMAIL_TO: ${{ secrets.ALERT_EMAIL_TO }}
+        run: python job_tracker/scripts/send_alerts.py
+
+      - name: Clean up ephemeral run data
+        run: rm -f job_tracker/data/.new_this_run.json
+
       - name: Commit updated data
         run: |
           git config user.name "github-actions[bot]"

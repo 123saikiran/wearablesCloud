@@ -21,6 +21,7 @@ DATA_DIR = ROOT / "data"
 JOBS_FILE = DATA_DIR / "jobs.json"
 COMPANIES_FILE = DATA_DIR / "companies.json"
 HISTORY_FILE = DATA_DIR / "job-history.json"
+NEW_THIS_RUN_FILE = DATA_DIR / ".new_this_run.json"
 
 RETENTION_DAYS = 30
 HISTORY_CAP = 5000
@@ -160,7 +161,7 @@ def main() -> int:
     existing_by_id = {j["id"]: j for j in existing.get("jobs", [])}
 
     fetched_at = now_iso()
-    new_count = 0
+    newly_added: list[dict] = []
 
     for name, fetcher in SOURCES:
         try:
@@ -176,9 +177,11 @@ def main() -> int:
             job["id"] = jid
             job["fetched_at"] = fetched_at
             existing_by_id[jid] = job
-            new_count += 1
+            newly_added.append(job)
 
         print(f"[info] {name}: {len(raw_jobs)} listing(s) parsed")
+
+    save_json(NEW_THIS_RUN_FILE, {"jobs": newly_added})
 
     cutoff = datetime.now(timezone.utc) - timedelta(days=RETENTION_DAYS)
 
@@ -222,7 +225,7 @@ def main() -> int:
 
     save_json(COMPANIES_FILE, {"updated_at": fetched_at, "companies": companies})
 
-    print(f"[info] {new_count} new listing(s); {len(active_jobs)} active; {len(archived_jobs)} archived this run")
+    print(f"[info] {len(newly_added)} new listing(s); {len(active_jobs)} active; {len(archived_jobs)} archived this run")
     return 0
 
 

@@ -1,0 +1,10 @@
+{
+  "telegram": {
+    "enabled": true
+  },
+  "email": {
+    "enabled": true,
+    "to": ""
+  },
+  "keywords": []
+}
