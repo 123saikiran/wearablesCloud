@@ -212,6 +212,13 @@
       ],
       "last_seen": "2026-08-05T16:45:17.080422+00:00"
     },
+    "Dexterra Group": {
+      "count": 1,
+      "job_ids": [
+        "40535f36eb2f"
+      ],
+      "last_seen": "2026-08-05T20:35:14.106337+00:00"
+    },
     "Digiday": {
       "count": 1,
       "job_ids": [
@@ -260,6 +267,13 @@
         "711b2ca9a481"
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
+    },
+    "Fox Group of Companies": {
+      "count": 1,
+      "job_ids": [
+        "2410505e7ef0"
+      ],
+      "last_seen": "2026-08-05T20:35:14.106337+00:00"
     },
     "Grapefruit Health": {
       "count": 1,
@@ -604,6 +618,13 @@
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
+    "Securancy Intelligence": {
+      "count": 1,
+      "job_ids": [
+        "5d4301b50355"
+      ],
+      "last_seen": "2026-08-05T20:35:14.106337+00:00"
+    },
     "Shaw Industries": {
       "count": 1,
       "job_ids": [
@@ -654,6 +675,13 @@
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
+    "Svetoviz": {
+      "count": 1,
+      "job_ids": [
+        "0183ad5fd733"
+      ],
+      "last_seen": "2026-08-05T20:35:14.106337+00:00"
+    },
     "TED Conferences": {
       "count": 1,
       "job_ids": [
@@ -667,6 +695,13 @@
         "cb79b165d6bb"
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
+    },
+    "The Site Office": {
+      "count": 1,
+      "job_ids": [
+        "6eddea86887f"
+      ],
+      "last_seen": "2026-08-05T20:35:14.106337+00:00"
     },
     "Tito's Handmade Vodka": {
       "count": 1,
@@ -711,6 +746,14 @@
       ],
       "last_seen": "2026-07-16T21:08:09+00:00"
     },
+    "World Data League": {
+      "count": 2,
+      "job_ids": [
+        "5fd4b3fad296",
+        "073e6214ce2e"
+      ],
+      "last_seen": "2026-08-05T20:35:14.106337+00:00"
+    },
     "YT Corporation": {
       "count": 1,
       "job_ids": [
@@ -748,5 +791,5 @@
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     }
   },
-  "updated_at": "2026-08-05T18:26:00.883405+00:00"
+  "updated_at": "2026-08-05T20:35:14.106337+00:00"
 }
