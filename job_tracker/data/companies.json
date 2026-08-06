@@ -23,6 +23,13 @@
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
+    "Akasa Air": {
+      "count": 1,
+      "job_ids": [
+        "8bb62d4f0b6d"
+      ],
+      "last_seen": "2026-08-06T12:59:49.258060+00:00"
+    },
     "Allied Enterprises Baku LTD": {
       "count": 1,
       "job_ids": [
@@ -193,12 +200,26 @@
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
+    "Capgemini": {
+      "count": 1,
+      "job_ids": [
+        "d3517fa1fea0"
+      ],
+      "last_seen": "2026-08-06T12:59:49.258060+00:00"
+    },
     "Check": {
       "count": 1,
       "job_ids": [
         "0fa8e985d08a"
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
+    },
+    "Chris Greer Press": {
+      "count": 1,
+      "job_ids": [
+        "4577fcc0da6c"
+      ],
+      "last_seen": "2026-08-06T12:59:49.258060+00:00"
     },
     "Chubb Fire &amp; Security": {
       "count": 1,
@@ -250,6 +271,13 @@
         "a2a73b51fa3e"
       ],
       "last_seen": "2026-07-22T07:00:51+00:00"
+    },
+    "Coinbase": {
+      "count": 1,
+      "job_ids": [
+        "2030e1c432ca"
+      ],
+      "last_seen": "2026-07-22T07:01:32+00:00"
     },
     "Control Shift Video": {
       "count": 1,
@@ -359,6 +387,13 @@
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
+    "Dropbox": {
+      "count": 1,
+      "job_ids": [
+        "34721677bc39"
+      ],
+      "last_seen": "2026-07-22T07:01:32+00:00"
+    },
     "Eddy": {
       "count": 1,
       "job_ids": [
@@ -372,6 +407,13 @@
         "a484b7ea18c9"
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
+    },
+    "Enerzo Tech": {
+      "count": 1,
+      "job_ids": [
+        "4477d5e781b5"
+      ],
+      "last_seen": "2026-08-06T12:59:49.258060+00:00"
     },
     "Eterniseed": {
       "count": 1,
@@ -486,6 +528,13 @@
         "3831f9d5ca1c"
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
+    },
+    "Homeland Surveillance": {
+      "count": 1,
+      "job_ids": [
+        "723f14032fcf"
+      ],
+      "last_seen": "2026-08-06T12:59:49.258060+00:00"
     },
     "Hot9ja": {
       "count": 2,
@@ -616,6 +665,13 @@
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
+    "METRIQ SRL": {
+      "count": 1,
+      "job_ids": [
+        "0474a9b4d93b"
+      ],
+      "last_seen": "2026-08-06T12:59:49.258060+00:00"
+    },
     "MITRITY": {
       "count": 1,
       "job_ids": [
@@ -689,12 +745,27 @@
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
+    "New Atlantis": {
+      "count": 1,
+      "job_ids": [
+        "989f1f46cb9b"
+      ],
+      "last_seen": "2026-08-06T12:59:49.258060+00:00"
+    },
     "Nexerada": {
       "count": 1,
       "job_ids": [
         "d07ae443f39c"
       ],
       "last_seen": "2026-08-06T04:17:53.869792+00:00"
+    },
+    "Nexlane": {
+      "count": 2,
+      "job_ids": [
+        "fbf76edf86fb",
+        "5f1225fcf1c0"
+      ],
+      "last_seen": "2026-08-06T12:59:49.258060+00:00"
     },
     "Next Reels": {
       "count": 1,
@@ -883,8 +954,9 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 21,
+      "count": 22,
       "job_ids": [
+        "5a0468c80009",
         "76d360580138",
         "d0a0179db67a",
         "12f97aaf0bae",
@@ -907,7 +979,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-06T09:19:08+00:00"
+      "last_seen": "2026-08-06T11:38:37+00:00"
     },
     "Re Lytics Hires": {
       "count": 3,
@@ -917,6 +989,13 @@
         "57f55e4477c8"
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
+    },
+    "Remora Technologies Limited": {
+      "count": 1,
+      "job_ids": [
+        "a0a33c958b9a"
+      ],
+      "last_seen": "2026-08-06T12:59:49.258060+00:00"
     },
     "Resource Guru": {
       "count": 1,
@@ -1009,12 +1088,27 @@
       ],
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
+    "Skinventory": {
+      "count": 2,
+      "job_ids": [
+        "cc08ac882e18",
+        "3c745ab8bcea"
+      ],
+      "last_seen": "2026-08-06T12:59:49.258060+00:00"
+    },
     "Snapscale": {
       "count": 1,
       "job_ids": [
         "40aedc5c33fa"
       ],
       "last_seen": "2026-07-16T21:08:09+00:00"
+    },
+    "Sophie's Flats Inc.": {
+      "count": 1,
+      "job_ids": [
+        "0861a6d3cc39"
+      ],
+      "last_seen": "2026-08-06T12:59:49.258060+00:00"
     },
     "Spore N Sprouts": {
       "count": 1,
@@ -1037,6 +1131,13 @@
         "6a8d17f2dcd5"
       ],
       "last_seen": "2026-07-22T07:01:13+00:00"
+    },
+    "Sumyfi.com": {
+      "count": 1,
+      "job_ids": [
+        "b2753fa7b5fe"
+      ],
+      "last_seen": "2026-08-06T12:59:49.258060+00:00"
     },
     "Super Creative": {
       "count": 1,
@@ -1165,14 +1266,6 @@
       ],
       "last_seen": "2026-08-06T00:04:03.364954+00:00"
     },
-    "Vidalytics": {
-      "count": 2,
-      "job_ids": [
-        "eff80e2c832b",
-        "6f27ba599e08"
-      ],
-      "last_seen": "2026-07-07T12:49:42+00:00"
-    },
     "Wing": {
       "count": 3,
       "job_ids": [
@@ -1276,7 +1369,14 @@
         "b6fb8bfd7d97"
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
+    },
+    "testacy": {
+      "count": 1,
+      "job_ids": [
+        "bfbaf901c569"
+      ],
+      "last_seen": "2026-08-06T12:59:49.258060+00:00"
     }
   },
-  "updated_at": "2026-08-06T10:45:03.991691+00:00"
+  "updated_at": "2026-08-06T12:59:49.258060+00:00"
 }

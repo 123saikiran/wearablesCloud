@@ -1,9 +1,35 @@
 {
-  "archived_before": "2026-08-06T10:45:03.991691+00:00",
+  "archived_before": "2026-08-06T12:59:49.258060+00:00",
   "jobs": [
     {
+      "company": "Vidalytics",
+      "fetched_at": "2026-08-05T14:21:54.411152+00:00",
+      "id": "eff80e2c832b",
+      "location": "Remote",
+      "posted_at": "2026-07-07T12:49:42+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Back-End Programming"
+      ],
+      "title": "AI Automation Engineer, In-House MarTech Video SaaS",
+      "url": "https://weworkremotely.com/remote-jobs/vidalytics-ai-automation-engineer-in-house-martech-video-saas"
+    },
+    {
+      "company": "Vidalytics",
+      "fetched_at": "2026-08-05T14:21:54.411152+00:00",
+      "id": "6f27ba599e08",
+      "location": "Remote",
+      "posted_at": "2026-07-07T12:39:09+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Full-Stack Programming"
+      ],
+      "title": "[EUROPE ONLY] GTM MarTech Engineer (Growth & Attribution) at Video MarTech SaaS",
+      "url": "https://weworkremotely.com/remote-jobs/vidalytics-europe-only-gtm-martech-engineer-growth-attribution-at-video-martech-saas"
+    },
+    {
       "company": "Proxify AB",
-      "fetched_at": "2026-08-06T10:45:03.991691+00:00",
+      "fetched_at": "2026-08-06T12:59:49.258060+00:00",
       "id": "cea9a1876e9f",
       "location": "Remote",
       "posted_at": "2026-06-17T17:33:39+00:00",
@@ -16,7 +42,7 @@
     },
     {
       "company": "Cortes 23",
-      "fetched_at": "2026-08-06T10:45:03.991691+00:00",
+      "fetched_at": "2026-08-06T12:59:49.258060+00:00",
       "id": "4a4b714eef47",
       "location": "Remote",
       "posted_at": "2026-06-11T18:02:55+00:00",
@@ -29,7 +55,7 @@
     },
     {
       "company": "Sticker Mule",
-      "fetched_at": "2026-08-06T10:45:03.991691+00:00",
+      "fetched_at": "2026-08-06T12:59:49.258060+00:00",
       "id": "2e168d779702",
       "location": "Remote",
       "posted_at": "2026-05-14T09:14:28+00:00",
@@ -42,7 +68,7 @@
     },
     {
       "company": "bunny.net",
-      "fetched_at": "2026-08-06T10:45:03.991691+00:00",
+      "fetched_at": "2026-08-06T12:59:49.258060+00:00",
       "id": "6a631f404ae8",
       "location": "Remote",
       "posted_at": "2026-05-12T12:34:46+00:00",
@@ -55,7 +81,7 @@
     },
     {
       "company": "Stellar AI",
-      "fetched_at": "2026-08-06T10:45:03.991691+00:00",
+      "fetched_at": "2026-08-06T12:59:49.258060+00:00",
       "id": "d83eb520b875",
       "location": "Remote",
       "posted_at": "2025-10-21T19:36:26+00:00",
