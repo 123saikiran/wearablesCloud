@@ -1,6 +1,199 @@
 {
   "jobs": [
     {
+      "company": "TerraNovita BV",
+      "fetched_at": "2026-08-06T07:43:52.639381+00:00",
+      "id": "8bb3fd22129b",
+      "location": "Good Design,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "design",
+        "dev",
+        "digital nomad"
+      ],
+      "title": "Terra Habitus",
+      "url": "https://remoteOK.com/remote-jobs/remote-terra-habitus-terranovita-bv-1136130"
+    },
+    {
+      "company": "HapScale",
+      "fetched_at": "2026-08-06T07:43:52.639381+00:00",
+      "id": "120e3357b2c9",
+      "location": "å©å³¶,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "dev",
+        "digital nomad",
+        "customer support",
+        "non tech",
+        "quality assurance",
+        "math",
+        "ops",
+        "golang",
+        "web dev",
+        "infosec",
+        "cloud",
+        "finance"
+      ],
+      "title": "Join Our Team",
+      "url": "https://remoteOK.com/remote-jobs/remote-join-our-team-hapscale-1136151"
+    },
+    {
+      "company": "Amann Girrbach MEA &amp; Turkey",
+      "fetched_at": "2026-08-06T07:43:52.639381+00:00",
+      "id": "50f77b392644",
+      "location": "No. 67 Village,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "design",
+        "dev",
+        "digital nomad",
+        "infosec",
+        "cloud",
+        "sys admin",
+        "web dev",
+        "content writing"
+      ],
+      "title": "Speculative application",
+      "url": "https://remoteOK.com/remote-jobs/remote-speculative-application-amann-girrbach-mea-amp-turkey-1136132"
+    },
+    {
+      "company": "CAI | CanadaâAsia Council for AI",
+      "fetched_at": "2026-08-06T07:43:52.639381+00:00",
+      "id": "d0c3cb2c1d8f",
+      "location": "Venture,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [],
+      "title": "Build from the frontier",
+      "url": "https://remoteOK.com/remote-jobs/remote-build-from-the-frontier-cai-canada-asia-council-for-ai-1136129"
+    },
+    {
+      "company": "OpenSkills",
+      "fetched_at": "2026-08-06T07:43:52.639381+00:00",
+      "id": "e9770624a3e3",
+      "location": "Good Design,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "design",
+        "dev",
+        "digital nomad",
+        "infosec",
+        "cloud",
+        "sys admin",
+        "web dev",
+        "content writing",
+        "product manager",
+        "exec",
+        "technical",
+        "writer",
+        "scrum",
+        "stats",
+        "medical",
+        "engineer"
+      ],
+      "title": "Product Manager",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-manager-openskills-1136133"
+    },
+    {
+      "company": "Kore 360",
+      "fetched_at": "2026-08-06T07:43:52.639381+00:00",
+      "id": "182804a15f01",
+      "location": "Hunterganj,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [],
+      "title": "NOW HIRING",
+      "url": "https://remoteOK.com/remote-jobs/remote-now-hiring-kore-360-1136135"
+    },
+    {
+      "company": "Team Panamera",
+      "fetched_at": "2026-08-06T07:43:52.639381+00:00",
+      "id": "d6d06868adf5",
+      "location": "Northwest Territories,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec",
+        "full time",
+        "part time",
+        "sys admin",
+        "infosec",
+        "technical",
+        "customer support",
+        "marketing",
+        "finance",
+        "c",
+        "sales",
+        "medical"
+      ],
+      "title": "DEMPSTER",
+      "url": "https://remoteOK.com/remote-jobs/remote-dempster-team-panamera-1136177"
+    },
+    {
+      "company": "Fajita",
+      "fetched_at": "2026-08-06T07:43:52.639381+00:00",
+      "id": "6fa9e2bebe68",
+      "location": "Success,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec",
+        "full time",
+        "part time",
+        "sys admin",
+        "infosec",
+        "technical",
+        "customer support",
+        "marketing",
+        "finance",
+        "c",
+        "sales",
+        "medical",
+        "mobile",
+        "dev",
+        "chatbot",
+        "ops",
+        "legal",
+        "engineer",
+        "digital nomad",
+        "testing",
+        "api"
+      ],
+      "title": "Background job monitoring",
+      "url": "https://remoteOK.com/remote-jobs/remote-background-job-monitoring-fajita-1136181"
+    },
+    {
+      "company": "Fochis",
+      "fetched_at": "2026-08-06T07:43:52.639381+00:00",
+      "id": "eaeee80cd09e",
+      "location": "Sports Park,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [],
+      "title": "The Next Football Superstars After FIFA 2026",
+      "url": "https://remoteOK.com/remote-jobs/remote-the-next-football-superstars-after-fifa-2026-fochis-1136215"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-06T07:43:52.639381+00:00",
+      "id": "d0a0179db67a",
+      "location": "Remote",
+      "posted_at": "2026-08-06T06:19:17+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4li0"
+    },
+    {
       "company": "The Story Shack",
       "fetched_at": "2026-08-06T04:17:53.869792+00:00",
       "id": "9770f81003cb",
@@ -4147,5 +4340,5 @@
       "url": "https://weworkremotely.com/remote-jobs/vidalytics-europe-only-gtm-martech-engineer-growth-attribution-at-video-martech-saas"
     }
   ],
-  "updated_at": "2026-08-06T04:17:53.869792+00:00"
+  "updated_at": "2026-08-06T07:43:52.639381+00:00"
 }

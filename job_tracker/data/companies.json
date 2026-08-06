@@ -30,6 +30,13 @@
       ],
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
+    "Amann Girrbach MEA &amp; Turkey": {
+      "count": 1,
+      "job_ids": [
+        "50f77b392644"
+      ],
+      "last_seen": "2026-08-06T07:43:52.639381+00:00"
+    },
     "Amentum": {
       "count": 1,
       "job_ids": [
@@ -137,6 +144,13 @@
         "d57f64a55a0c"
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
+    },
+    "CAI | CanadaâAsia Council for AI": {
+      "count": 1,
+      "job_ids": [
+        "d0c3cb2c1d8f"
+      ],
+      "last_seen": "2026-08-06T07:43:52.639381+00:00"
     },
     "Canadian Base Operators Inc.": {
       "count": 1,
@@ -310,6 +324,13 @@
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
+    "Fajita": {
+      "count": 1,
+      "job_ids": [
+        "6fa9e2bebe68"
+      ],
+      "last_seen": "2026-08-06T07:43:52.639381+00:00"
+    },
     "Favorite Records": {
       "count": 1,
       "job_ids": [
@@ -323,6 +344,13 @@
         "711b2ca9a481"
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
+    },
+    "Fochis": {
+      "count": 1,
+      "job_ids": [
+        "eaeee80cd09e"
+      ],
+      "last_seen": "2026-08-06T07:43:52.639381+00:00"
     },
     "Fox Group of Companies": {
       "count": 1,
@@ -367,6 +395,13 @@
         "06b03be225d1"
       ],
       "last_seen": "2026-08-06T04:17:53.869792+00:00"
+    },
+    "HapScale": {
+      "count": 1,
+      "job_ids": [
+        "120e3357b2c9"
+      ],
+      "last_seen": "2026-08-06T07:43:52.639381+00:00"
     },
     "Haystack": {
       "count": 1,
@@ -446,6 +481,13 @@
         "ef141062fdf9"
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
+    },
+    "Kore 360": {
+      "count": 1,
+      "job_ids": [
+        "182804a15f01"
+      ],
+      "last_seen": "2026-08-06T07:43:52.639381+00:00"
     },
     "LDT (Latham Direct Timber)": {
       "count": 1,
@@ -607,6 +649,13 @@
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
+    "OpenSkills": {
+      "count": 1,
+      "job_ids": [
+        "e9770624a3e3"
+      ],
+      "last_seen": "2026-08-06T07:43:52.639381+00:00"
+    },
     "Ouba": {
       "count": 3,
       "job_ids": [
@@ -735,8 +784,9 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 19,
+      "count": 20,
       "job_ids": [
+        "d0a0179db67a",
         "12f97aaf0bae",
         "178368eabed5",
         "a608970c1769",
@@ -757,7 +807,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-06T03:47:35+00:00"
+      "last_seen": "2026-08-06T06:19:17+00:00"
     },
     "Re Lytics Hires": {
       "count": 3,
@@ -915,6 +965,20 @@
         "84539aa25215"
       ],
       "last_seen": "2026-08-06T04:17:53.869792+00:00"
+    },
+    "Team Panamera": {
+      "count": 1,
+      "job_ids": [
+        "d6d06868adf5"
+      ],
+      "last_seen": "2026-08-06T07:43:52.639381+00:00"
+    },
+    "TerraNovita BV": {
+      "count": 1,
+      "job_ids": [
+        "8bb3fd22129b"
+      ],
+      "last_seen": "2026-08-06T07:43:52.639381+00:00"
     },
     "The Site Office": {
       "count": 1,
@@ -1092,5 +1156,5 @@
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     }
   },
-  "updated_at": "2026-08-06T04:17:53.869792+00:00"
+  "updated_at": "2026-08-06T07:43:52.639381+00:00"
 }
