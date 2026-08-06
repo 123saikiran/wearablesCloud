@@ -44,6 +44,13 @@
       ],
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
+    "Amoi Group": {
+      "count": 1,
+      "job_ids": [
+        "a8fd78470595"
+      ],
+      "last_seen": "2026-08-06T10:45:03.991691+00:00"
+    },
     "Anansewaa": {
       "count": 1,
       "job_ids": [
@@ -71,6 +78,13 @@
         "3decd8f0dbf5"
       ],
       "last_seen": "2026-08-06T00:04:03.364954+00:00"
+    },
+    "Ark Intelligence": {
+      "count": 1,
+      "job_ids": [
+        "a490ad02e389"
+      ],
+      "last_seen": "2026-08-06T10:45:03.991691+00:00"
     },
     "BAT Pros": {
       "count": 1,
@@ -145,12 +159,32 @@
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
+    "Build Fast with AI": {
+      "count": 3,
+      "job_ids": [
+        "520cbe4dd28c",
+        "3bfe132c9fa0",
+        "18b2174b3faa"
+      ],
+      "last_seen": "2026-08-06T10:45:03.991691+00:00"
+    },
     "CAI | CanadaâAsia Council for AI": {
       "count": 1,
       "job_ids": [
         "d0c3cb2c1d8f"
       ],
       "last_seen": "2026-08-06T07:43:52.639381+00:00"
+    },
+    "COLDOUTREACH.BLOG": {
+      "count": 5,
+      "job_ids": [
+        "9643516b152b",
+        "752b540f926b",
+        "3a0b1c5e632c",
+        "a439548bb9ee",
+        "1c8ac9444033"
+      ],
+      "last_seen": "2026-08-06T10:45:03.991691+00:00"
     },
     "Canadian Base Operators Inc.": {
       "count": 1,
@@ -217,6 +251,13 @@
       ],
       "last_seen": "2026-07-22T07:00:51+00:00"
     },
+    "Control Shift Video": {
+      "count": 1,
+      "job_ids": [
+        "a21bcc6ded29"
+      ],
+      "last_seen": "2026-08-06T10:45:03.991691+00:00"
+    },
     "Crackr": {
       "count": 2,
       "job_ids": [
@@ -238,6 +279,14 @@
         "f849d20ff906"
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
+    },
+    "Daisy Cottage": {
+      "count": 2,
+      "job_ids": [
+        "1315c7a61674",
+        "2023099651fc"
+      ],
+      "last_seen": "2026-08-06T10:45:03.991691+00:00"
     },
     "Dana Solutions LLC": {
       "count": 1,
@@ -324,6 +373,20 @@
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
+    "Eterniseed": {
+      "count": 1,
+      "job_ids": [
+        "275ba5d36829"
+      ],
+      "last_seen": "2026-08-06T10:45:03.991691+00:00"
+    },
+    "FYLOS": {
+      "count": 1,
+      "job_ids": [
+        "972ee94fda83"
+      ],
+      "last_seen": "2026-08-06T10:45:03.991691+00:00"
+    },
     "Fajita": {
       "count": 1,
       "job_ids": [
@@ -358,6 +421,13 @@
         "2410505e7ef0"
       ],
       "last_seen": "2026-08-05T20:35:14.106337+00:00"
+    },
+    "Franchise Brokers": {
+      "count": 1,
+      "job_ids": [
+        "b80d09d4076f"
+      ],
+      "last_seen": "2026-08-06T10:45:03.991691+00:00"
     },
     "GROW10X": {
       "count": 2,
@@ -460,6 +530,13 @@
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
+    "KEV MGMT": {
+      "count": 1,
+      "job_ids": [
+        "0a8d567ee303"
+      ],
+      "last_seen": "2026-08-06T10:45:03.991691+00:00"
+    },
     "KSNL Consulting LLC": {
       "count": 1,
       "job_ids": [
@@ -516,6 +593,13 @@
         "8073a19826a2"
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
+    },
+    "LookNet": {
+      "count": 1,
+      "job_ids": [
+        "8b1c319ccbda"
+      ],
+      "last_seen": "2026-08-06T10:45:03.991691+00:00"
     },
     "Lsn": {
       "count": 2,
@@ -665,6 +749,13 @@
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
+    "PERI Homeworks Collection Ltd.": {
+      "count": 1,
+      "job_ids": [
+        "9c895bdc02d9"
+      ],
+      "last_seen": "2026-08-06T10:45:03.991691+00:00"
+    },
     "PT. Mastersystem Infotama": {
       "count": 1,
       "job_ids": [
@@ -678,6 +769,13 @@
         "5859bb5069ef"
       ],
       "last_seen": "2026-08-06T00:04:03.364954+00:00"
+    },
+    "Pak Business World": {
+      "count": 1,
+      "job_ids": [
+        "372dbd376e1f"
+      ],
+      "last_seen": "2026-08-06T10:45:03.991691+00:00"
     },
     "Pareto": {
       "count": 1,
@@ -755,11 +853,12 @@
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
     "Qorsi": {
-      "count": 1,
+      "count": 2,
       "job_ids": [
+        "d3dc7e663d55",
         "0933f2b93b0c"
       ],
-      "last_seen": "2026-08-05T22:15:55.329949+00:00"
+      "last_seen": "2026-08-06T10:45:03.991691+00:00"
     },
     "Queensland Corrective Services": {
       "count": 1,
@@ -784,8 +883,9 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 20,
+      "count": 21,
       "job_ids": [
+        "76d360580138",
         "d0a0179db67a",
         "12f97aaf0bae",
         "178368eabed5",
@@ -807,7 +907,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-06T06:19:17+00:00"
+      "last_seen": "2026-08-06T09:19:08+00:00"
     },
     "Re Lytics Hires": {
       "count": 3,
@@ -866,6 +966,13 @@
         "a9644058866d"
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
+    },
+    "SafetyTest UK": {
+      "count": 1,
+      "job_ids": [
+        "b15fc18f5b47"
+      ],
+      "last_seen": "2026-08-06T10:45:03.991691+00:00"
     },
     "Securancy Intelligence": {
       "count": 1,
@@ -979,6 +1086,13 @@
         "8bb3fd22129b"
       ],
       "last_seen": "2026-08-06T07:43:52.639381+00:00"
+    },
+    "The Model Agency": {
+      "count": 1,
+      "job_ids": [
+        "c6dcd01bf5d5"
+      ],
+      "last_seen": "2026-08-06T10:45:03.991691+00:00"
     },
     "The Site Office": {
       "count": 1,
@@ -1119,6 +1233,14 @@
       ],
       "last_seen": "2026-08-06T04:17:53.869792+00:00"
     },
+    "boldtechie": {
+      "count": 2,
+      "job_ids": [
+        "c6d794a2eac7",
+        "918ca2d42ed5"
+      ],
+      "last_seen": "2026-08-06T10:45:03.991691+00:00"
+    },
     "ciitÃ©lÃ©com - Alerte des Populations": {
       "count": 1,
       "job_ids": [
@@ -1156,5 +1278,5 @@
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     }
   },
-  "updated_at": "2026-08-06T07:43:52.639381+00:00"
+  "updated_at": "2026-08-06T10:45:03.991691+00:00"
 }
