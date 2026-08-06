@@ -1,6 +1,419 @@
 {
   "jobs": [
     {
+      "company": "InBrief.ai",
+      "fetched_at": "2026-08-06T00:04:03.364954+00:00",
+      "id": "17773335ba1c",
+      "location": "Guide Post,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "cloud",
+        "engineer",
+        "admin",
+        "ops",
+        "finance",
+        "exec"
+      ],
+      "title": "The AI Optimization Playbook",
+      "url": "https://remoteOK.com/remote-jobs/remote-the-ai-optimization-playbook-inbrief-ai-1136119"
+    },
+    {
+      "company": "Tyrell Solar",
+      "fetched_at": "2026-08-06T00:04:03.364954+00:00",
+      "id": "7b426bce38dd",
+      "location": "Ludhiana,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "dev",
+        "digital nomad",
+        "customer support",
+        "non tech",
+        "quality assurance",
+        "math",
+        "ops",
+        "golang",
+        "web dev",
+        "infosec",
+        "cloud",
+        "finance",
+        "microsoft",
+        "medical"
+      ],
+      "title": "VISUAL INSPECTION",
+      "url": "https://remoteOK.com/remote-jobs/remote-visual-inspection-tyrell-solar-1136157"
+    },
+    {
+      "company": "Zyke",
+      "fetched_at": "2026-08-06T00:04:03.364954+00:00",
+      "id": "e4526a811510",
+      "location": "å¿æ©,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "dev",
+        "digital nomad"
+      ],
+      "title": "Silicon Valley",
+      "url": "https://remoteOK.com/remote-jobs/remote-silicon-valley-zyke-1136138"
+    },
+    {
+      "company": "BAT Pros",
+      "fetched_at": "2026-08-06T00:04:03.364954+00:00",
+      "id": "0f69946a47fc",
+      "location": "Tirukovilur,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "dev",
+        "digital nomad",
+        "customer support",
+        "non tech",
+        "quality assurance",
+        "math",
+        "ops",
+        "golang"
+      ],
+      "title": "Avi Go",
+      "url": "https://remoteOK.com/remote-jobs/remote-avi-go-bat-pros-1136141"
+    },
+    {
+      "company": "NibraSec",
+      "fetched_at": "2026-08-06T00:04:03.364954+00:00",
+      "id": "73bb72950203",
+      "location": "Atherstone On Stour,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "cloud",
+        "engineer"
+      ],
+      "title": "Send us your CV",
+      "url": "https://remoteOK.com/remote-jobs/remote-send-us-your-cv-nibrasec-1136114"
+    },
+    {
+      "company": "LDT (Latham Direct Timber)",
+      "fetched_at": "2026-08-06T00:04:03.364954+00:00",
+      "id": "47574b4f2841",
+      "location": "Gateshead,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "cloud",
+        "engineer"
+      ],
+      "title": "Information",
+      "url": "https://remoteOK.com/remote-jobs/remote-information-ldt-latham-direct-timber-1136116"
+    },
+    {
+      "company": "Wing",
+      "fetched_at": "2026-08-06T00:04:03.364954+00:00",
+      "id": "c5327cdae3bf",
+      "location": "Palo Alto, Palo Alto, California, United States",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec",
+        "design",
+        "architecture",
+        "recruiter",
+        "customer support",
+        "marketing",
+        "content writing",
+        "ops",
+        "golang",
+        "full time",
+        "digital nomad",
+        "dev",
+        "senior",
+        "medical",
+        "engineer"
+      ],
+      "title": "Senior Director of Global Operations",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-director-of-global-operations-wing-1136209"
+    },
+    {
+      "company": "Wing",
+      "fetched_at": "2026-08-06T00:04:03.364954+00:00",
+      "id": "f8ed1cdd3ee6",
+      "location": "Palo Alto, Palo Alto, California, United States",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec",
+        "design",
+        "architecture",
+        "recruiter",
+        "customer support",
+        "marketing",
+        "content writing",
+        "ops",
+        "golang",
+        "full time",
+        "digital nomad"
+      ],
+      "title": "Director of Marketing",
+      "url": "https://remoteOK.com/remote-jobs/remote-director-of-marketing-wing-1136208"
+    },
+    {
+      "company": "Eddy",
+      "fetched_at": "2026-08-06T00:04:03.364954+00:00",
+      "id": "752560c14217",
+      "location": "Nashik,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "dev",
+        "digital nomad",
+        "customer support",
+        "non tech",
+        "quality assurance",
+        "math",
+        "ops",
+        "golang",
+        "web dev",
+        "infosec",
+        "cloud"
+      ],
+      "title": "Krish Gupta",
+      "url": "https://remoteOK.com/remote-jobs/remote-krish-gupta-eddy-1136146"
+    },
+    {
+      "company": "CliAvalia",
+      "fetched_at": "2026-08-06T00:04:03.364954+00:00",
+      "id": "b2620f4e59ff",
+      "location": "Anupgarh,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "dev",
+        "digital nomad",
+        "customer support",
+        "non tech",
+        "quality assurance",
+        "math",
+        "ops",
+        "golang",
+        "web dev",
+        "infosec",
+        "cloud",
+        "finance",
+        "microsoft",
+        "medical",
+        "education"
+      ],
+      "title": "ZAP",
+      "url": "https://remoteOK.com/remote-jobs/remote-zap-cliavalia-1136159"
+    },
+    {
+      "company": "Twitan.com",
+      "fetched_at": "2026-08-06T00:04:03.364954+00:00",
+      "id": "eb8883f9d41a",
+      "location": "Little Badminton,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "cloud",
+        "engineer",
+        "admin",
+        "ops"
+      ],
+      "title": "Shutlify",
+      "url": "https://remoteOK.com/remote-jobs/remote-shutlify-twitan-com-1136117"
+    },
+    {
+      "company": "MP Software",
+      "fetched_at": "2026-08-06T00:04:03.364954+00:00",
+      "id": "b958661375a8",
+      "location": "Roorkee,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "dev",
+        "digital nomad"
+      ],
+      "title": "Waitology",
+      "url": "https://remoteOK.com/remote-jobs/remote-waitology-mp-software-1136137"
+    },
+    {
+      "company": "Universia Brasil",
+      "fetched_at": "2026-08-06T00:04:03.364954+00:00",
+      "id": "5bfeca446605",
+      "location": "Miguel Hidalgo, Miguel Hidalgo, CDMX, Ciudad de MÃ©xico, MÃ©xico",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [],
+      "title": "Asistente virtual administrativo",
+      "url": "https://remoteOK.com/remote-jobs/remote-asistente-virtual-administrativo-universia-brasil-1136125"
+    },
+    {
+      "company": "Universia Brasil",
+      "fetched_at": "2026-08-06T00:04:03.364954+00:00",
+      "id": "24c91bfe3b9b",
+      "location": "Miguel Hidalgo, Miguel Hidalgo, CDMX, Ciudad de MÃ©xico, MÃ©xico",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "supervisor",
+        "excel",
+        "non tech"
+      ],
+      "title": "Capturista de datos Remoto e hibrido",
+      "url": "https://remoteOK.com/remote-jobs/remote-capturista-de-datos-remoto-e-hibrido-universia-brasil-1136128"
+    },
+    {
+      "company": "Jalandhar Local",
+      "fetched_at": "2026-08-06T00:04:03.364954+00:00",
+      "id": "9f5af81a84a7",
+      "location": "Jalandhar I,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "dev",
+        "digital nomad",
+        "customer support",
+        "non tech",
+        "quality assurance",
+        "math",
+        "ops",
+        "golang",
+        "web dev",
+        "infosec",
+        "cloud",
+        "finance",
+        "microsoft",
+        "medical",
+        "education"
+      ],
+      "title": "Company Name",
+      "url": "https://remoteOK.com/remote-jobs/remote-company-name-jalandhar-local-1136160"
+    },
+    {
+      "company": "Yemma",
+      "fetched_at": "2026-08-06T00:04:03.364954+00:00",
+      "id": "09ed66e6bf33",
+      "location": "Read,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "cloud"
+      ],
+      "title": "Optimize",
+      "url": "https://remoteOK.com/remote-jobs/remote-optimize-yemma-1136111"
+    },
+    {
+      "company": "Yemma",
+      "fetched_at": "2026-08-06T00:04:03.364954+00:00",
+      "id": "fefd7c2df931",
+      "location": "Read,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "cloud"
+      ],
+      "title": "Share",
+      "url": "https://remoteOK.com/remote-jobs/remote-share-yemma-1136112"
+    },
+    {
+      "company": "PadSplit",
+      "fetched_at": "2026-08-06T00:04:03.364954+00:00",
+      "id": "5859bb5069ef",
+      "location": "Ormoc, Ormoc, Eastern Visayas, Philippines",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "saas",
+        "customer support",
+        "marketing",
+        "exec",
+        "ops",
+        "sales",
+        "analyst",
+        "virtual assistant",
+        "infosec",
+        "consulting",
+        "dev",
+        "finance",
+        "math",
+        "data science",
+        "medical",
+        "full time",
+        "digital nomad",
+        "web dev",
+        "speech",
+        "video",
+        "mobile",
+        "senior",
+        "recruiter"
+      ],
+      "title": "Tier 2 Member Support Agent",
+      "url": "https://remoteOK.com/remote-jobs/remote-tier-2-member-support-agent-padsplit-1136218"
+    },
+    {
+      "company": "Arabian Private Holdings",
+      "fetched_at": "2026-08-06T00:04:03.364954+00:00",
+      "id": "3decd8f0dbf5",
+      "location": "Ø¯Ø¨Ù, Ø¯Ø¨Ù Ø¯Ø¨Ù Ø§ÙØ¥Ù Ø§Ø±Ø§Øª Ø§ÙØ¹Ø±Ø¨ÙØ© Ø§ÙÙ ØªØ­Ø¯Ø©",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "saas",
+        "customer support",
+        "marketing",
+        "exec",
+        "ops",
+        "sales",
+        "analyst",
+        "virtual assistant",
+        "infosec",
+        "consulting",
+        "dev",
+        "finance",
+        "math",
+        "data science",
+        "medical",
+        "full time",
+        "digital nomad"
+      ],
+      "title": "Data Analyst Assistant",
+      "url": "https://remoteOK.com/remote-jobs/remote-data-analyst-assistant-arabian-private-holdings-1136217"
+    },
+    {
+      "company": "GROW10X",
+      "fetched_at": "2026-08-06T00:04:03.364954+00:00",
+      "id": "3234b98a11bc",
+      "location": "Chennai, Chennai, Tamil Nadu, India",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "saas",
+        "customer support",
+        "marketing",
+        "exec",
+        "ops",
+        "sales"
+      ],
+      "title": "Market Research",
+      "url": "https://remoteOK.com/remote-jobs/remote-market-research-grow10x-1136216"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-06T00:04:03.364954+00:00",
+      "id": "a608970c1769",
+      "location": "Remote",
+      "posted_at": "2026-08-05T23:17:19+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4le3"
+    },
+    {
       "company": "Quizzly.ai",
       "fetched_at": "2026-08-05T22:15:55.329949+00:00",
       "id": "f5d86e63206c",
@@ -3303,5 +3716,5 @@
       "url": "https://weworkremotely.com/remote-jobs/vidalytics-europe-only-gtm-martech-engineer-growth-attribution-at-video-martech-saas"
     }
   ],
-  "updated_at": "2026-08-05T22:15:55.329949+00:00"
+  "updated_at": "2026-08-06T00:04:03.364954+00:00"
 }

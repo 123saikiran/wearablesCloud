@@ -58,6 +58,20 @@
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
+    "Arabian Private Holdings": {
+      "count": 1,
+      "job_ids": [
+        "3decd8f0dbf5"
+      ],
+      "last_seen": "2026-08-06T00:04:03.364954+00:00"
+    },
+    "BAT Pros": {
+      "count": 1,
+      "job_ids": [
+        "0f69946a47fc"
+      ],
+      "last_seen": "2026-08-06T00:04:03.364954+00:00"
+    },
     "BRAVO1ALPHA BV": {
       "count": 1,
       "job_ids": [
@@ -158,6 +172,13 @@
         "28a82ee34841"
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
+    },
+    "CliAvalia": {
+      "count": 1,
+      "job_ids": [
+        "b2620f4e59ff"
+      ],
+      "last_seen": "2026-08-06T00:04:03.364954+00:00"
     },
     "Cllimber": {
       "count": 2,
@@ -268,6 +289,13 @@
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
+    "Eddy": {
+      "count": 1,
+      "job_ids": [
+        "752560c14217"
+      ],
+      "last_seen": "2026-08-06T00:04:03.364954+00:00"
+    },
     "Enable Dental": {
       "count": 1,
       "job_ids": [
@@ -295,6 +323,13 @@
         "2410505e7ef0"
       ],
       "last_seen": "2026-08-05T20:35:14.106337+00:00"
+    },
+    "GROW10X": {
+      "count": 1,
+      "job_ids": [
+        "3234b98a11bc"
+      ],
+      "last_seen": "2026-08-06T00:04:03.364954+00:00"
     },
     "Grapefruit Health": {
       "count": 1,
@@ -354,6 +389,20 @@
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
+    "InBrief.ai": {
+      "count": 1,
+      "job_ids": [
+        "17773335ba1c"
+      ],
+      "last_seen": "2026-08-06T00:04:03.364954+00:00"
+    },
+    "Jalandhar Local": {
+      "count": 1,
+      "job_ids": [
+        "9f5af81a84a7"
+      ],
+      "last_seen": "2026-08-06T00:04:03.364954+00:00"
+    },
     "Jobot": {
       "count": 1,
       "job_ids": [
@@ -374,6 +423,13 @@
         "ef141062fdf9"
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
+    },
+    "LDT (Latham Direct Timber)": {
+      "count": 1,
+      "job_ids": [
+        "47574b4f2841"
+      ],
+      "last_seen": "2026-08-06T00:04:03.364954+00:00"
     },
     "Lemon.io": {
       "count": 1,
@@ -417,6 +473,13 @@
         "6094369924f0"
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
+    },
+    "MP Software": {
+      "count": 1,
+      "job_ids": [
+        "b958661375a8"
+      ],
+      "last_seen": "2026-08-06T00:04:03.364954+00:00"
     },
     "MacSweeney LLC": {
       "count": 3,
@@ -477,6 +540,13 @@
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
+    "NibraSec": {
+      "count": 1,
+      "job_ids": [
+        "73bb72950203"
+      ],
+      "last_seen": "2026-08-06T00:04:03.364954+00:00"
+    },
     "No Quarter": {
       "count": 3,
       "job_ids": [
@@ -515,6 +585,13 @@
         "f19c98b41c2c"
       ],
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
+    },
+    "PadSplit": {
+      "count": 1,
+      "job_ids": [
+        "5859bb5069ef"
+      ],
+      "last_seen": "2026-08-06T00:04:03.364954+00:00"
     },
     "Pareto": {
       "count": 1,
@@ -621,8 +698,9 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 16,
+      "count": 17,
       "job_ids": [
+        "a608970c1769",
         "5905086f2042",
         "58dea2e8367e",
         "dd6eb442301c",
@@ -640,7 +718,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-05T22:01:41+00:00"
+      "last_seen": "2026-08-05T23:17:19+00:00"
     },
     "Re Lytics Hires": {
       "count": 3,
@@ -792,12 +870,34 @@
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
+    "Twitan.com": {
+      "count": 1,
+      "job_ids": [
+        "eb8883f9d41a"
+      ],
+      "last_seen": "2026-08-06T00:04:03.364954+00:00"
+    },
+    "Tyrell Solar": {
+      "count": 1,
+      "job_ids": [
+        "7b426bce38dd"
+      ],
+      "last_seen": "2026-08-06T00:04:03.364954+00:00"
+    },
     "Unilever": {
       "count": 1,
       "job_ids": [
         "84689f301367"
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
+    },
+    "Universia Brasil": {
+      "count": 2,
+      "job_ids": [
+        "5bfeca446605",
+        "24c91bfe3b9b"
+      ],
+      "last_seen": "2026-08-06T00:04:03.364954+00:00"
     },
     "Vidalytics": {
       "count": 2,
@@ -808,11 +908,13 @@
       "last_seen": "2026-07-07T12:49:42+00:00"
     },
     "Wing": {
-      "count": 1,
+      "count": 3,
       "job_ids": [
+        "c5327cdae3bf",
+        "f8ed1cdd3ee6",
         "3a08ab09ded6"
       ],
-      "last_seen": "2026-08-05T14:21:54.411152+00:00"
+      "last_seen": "2026-08-06T00:04:03.364954+00:00"
     },
     "Wonderdog": {
       "count": 1,
@@ -842,6 +944,21 @@
         "71405c05858e"
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
+    },
+    "Yemma": {
+      "count": 2,
+      "job_ids": [
+        "09ed66e6bf33",
+        "fefd7c2df931"
+      ],
+      "last_seen": "2026-08-06T00:04:03.364954+00:00"
+    },
+    "Zyke": {
+      "count": 1,
+      "job_ids": [
+        "e4526a811510"
+      ],
+      "last_seen": "2026-08-06T00:04:03.364954+00:00"
     },
     "ciitÃ©lÃ©com - Alerte des Populations": {
       "count": 1,
@@ -873,5 +990,5 @@
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     }
   },
-  "updated_at": "2026-08-05T22:15:55.329949+00:00"
+  "updated_at": "2026-08-06T00:04:03.364954+00:00"
 }
