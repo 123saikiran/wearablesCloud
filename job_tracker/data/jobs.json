@@ -1,6 +1,38 @@
 {
   "jobs": [
     {
+      "company": "CHOBH1024",
+      "fetched_at": "2026-08-07T22:42:54.623751+00:00",
+      "id": "d5bf3ad03c15",
+      "location": "Remote",
+      "posted_at": "2026-08-07T22:26:38+00:00",
+      "source": "devto",
+      "tags": [
+        "career",
+        "jobs",
+        "management",
+        "life"
+      ],
+      "title": "🛑 7 Signs You Are Working for a Toxic Tech Company (Run Early)",
+      "url": "https://dev.to/chobh1024/7-signs-you-are-working-for-a-toxic-tech-company-run-early-4ij2"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-07T22:42:54.623751+00:00",
+      "id": "3a65910ebc0f",
+      "location": "Remote",
+      "posted_at": "2026-08-07T22:03:02+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-hm0"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-07T21:44:57.440584+00:00",
       "id": "eb85751a5e5f",
@@ -6480,5 +6512,5 @@
       "url": "https://weworkremotely.com/remote-jobs/wonderdog-full-stack-product-engineer-agentic-first"
     }
   ],
-  "updated_at": "2026-08-07T21:44:57.440584+00:00"
+  "updated_at": "2026-08-07T22:42:54.623751+00:00"
 }
