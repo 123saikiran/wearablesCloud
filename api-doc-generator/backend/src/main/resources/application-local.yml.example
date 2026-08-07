@@ -1,0 +1,14 @@
+# Copy this file's guidance into your shell environment - do NOT rename this to
+# application-local.yml and fill in real secrets, since that file would then need
+# to be gitignored to avoid ever being committed. Prefer exporting env vars instead:
+#
+#   export AI_PROVIDER=openai            # or: github-models
+#   export OPENAI_API_KEY=sk-...
+#   export OPENAI_MODEL=gpt-4o-mini      # optional, this is already the default
+#
+#   export AI_PROVIDER=github-models
+#   export GITHUB_TOKEN=ghp_...          # a PAT with Models access
+#   export GITHUB_MODELS_MODEL=gpt-4o-mini
+#
+# application.yml reads all of these via ${ENV_VAR:default} placeholders, so
+# nothing here ever needs to be hardcoded or committed.
