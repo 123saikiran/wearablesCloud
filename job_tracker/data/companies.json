@@ -264,6 +264,13 @@
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
+    "City of Lancaster, Pennsylvania": {
+      "count": 1,
+      "job_ids": [
+        "7a0c3a80a814"
+      ],
+      "last_seen": "2026-08-07T17:52:05.887557+00:00"
+    },
     "Clandestine Magazine": {
       "count": 1,
       "job_ids": [
@@ -1088,8 +1095,10 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 36,
+      "count": 38,
       "job_ids": [
+        "d3ffa8da1013",
+        "42ef15e9446d",
         "46d50f19bb26",
         "e36ff78aa0b0",
         "5684fd11e287",
@@ -1127,7 +1136,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-07T15:08:02+00:00"
+      "last_seen": "2026-08-07T17:05:22+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -1651,5 +1660,5 @@
       "last_seen": "2026-08-07T00:07:27.688735+00:00"
     }
   },
-  "updated_at": "2026-08-07T16:03:21.858790+00:00"
+  "updated_at": "2026-08-07T17:52:05.887557+00:00"
 }

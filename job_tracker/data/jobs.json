@@ -1,6 +1,53 @@
 {
   "jobs": [
     {
+      "company": "City of Lancaster, Pennsylvania",
+      "fetched_at": "2026-08-07T17:52:05.887557+00:00",
+      "id": "7a0c3a80a814",
+      "location": "Lancaster,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "marketing",
+        "medical",
+        "non tech"
+      ],
+      "title": "Multiple Positions",
+      "url": "https://remoteOK.com/remote-jobs/remote-multiple-positions-city-of-lancaster-pennsylvania-1136274"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-07T17:52:05.887557+00:00",
+      "id": "d3ffa8da1013",
+      "location": "Remote",
+      "posted_at": "2026-08-07T17:05:22+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-269c"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-07T17:52:05.887557+00:00",
+      "id": "42ef15e9446d",
+      "location": "Remote",
+      "posted_at": "2026-08-07T16:07:35+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-ifm"
+    },
+    {
       "company": "Svitzer",
       "fetched_at": "2026-08-07T16:03:21.858790+00:00",
       "id": "589bc91695a2",
@@ -6339,5 +6386,5 @@
       "url": "https://weworkremotely.com/remote-jobs/wonderdog-full-stack-product-engineer-agentic-first"
     }
   ],
-  "updated_at": "2026-08-07T16:03:21.858790+00:00"
+  "updated_at": "2026-08-07T17:52:05.887557+00:00"
 }
