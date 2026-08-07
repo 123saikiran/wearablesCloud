@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-07T21:44:57.440584+00:00",
+      "id": "eb85751a5e5f",
+      "location": "Remote",
+      "posted_at": "2026-08-07T21:21:55+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-45p2"
+    },
+    {
       "company": "NHS Ayrshire &amp; Arran",
       "fetched_at": "2026-08-07T20:48:29.269297+00:00",
       "id": "f17d8f1a8818",
@@ -6464,5 +6480,5 @@
       "url": "https://weworkremotely.com/remote-jobs/wonderdog-full-stack-product-engineer-agentic-first"
     }
   ],
-  "updated_at": "2026-08-07T20:48:29.269297+00:00"
+  "updated_at": "2026-08-07T21:44:57.440584+00:00"
 }
