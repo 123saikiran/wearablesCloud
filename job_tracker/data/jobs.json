@@ -1,6 +1,59 @@
 {
   "jobs": [
     {
+      "company": "Durbean",
+      "fetched_at": "2026-08-07T10:57:53.117430+00:00",
+      "id": "6f5d22e032c8",
+      "location": "Day,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [],
+      "title": "Aditya Mudbhary",
+      "url": "https://remoteOK.com/remote-jobs/remote-aditya-mudbhary-durbean-1136283"
+    },
+    {
+      "company": "Skinventory",
+      "fetched_at": "2026-08-07T10:57:53.117430+00:00",
+      "id": "0dcf9cec9e2b",
+      "location": "Oakdale 320,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [],
+      "title": "Wave Chaser",
+      "url": "https://remoteOK.com/remote-jobs/remote-wave-chaser-skinventory-1136266"
+    },
+    {
+      "company": "Skinventory",
+      "fetched_at": "2026-08-07T10:57:53.117430+00:00",
+      "id": "70eab8625c33",
+      "location": "Loch Sport,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "testing",
+        "non tech",
+        "education"
+      ],
+      "title": "Omega",
+      "url": "https://remoteOK.com/remote-jobs/remote-omega-skinventory-1136256"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-07T10:57:53.117430+00:00",
+      "id": "a1efbe0e3959",
+      "location": "Remote",
+      "posted_at": "2026-08-07T10:09:07+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2m02"
+    },
+    {
       "company": "Mukti Switzerland",
       "fetched_at": "2026-08-07T09:05:45.193318+00:00",
       "id": "b748608ef209",
@@ -6107,5 +6160,5 @@
       "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-5"
     }
   ],
-  "updated_at": "2026-08-07T09:05:45.193318+00:00"
+  "updated_at": "2026-08-07T10:57:53.117430+00:00"
 }
