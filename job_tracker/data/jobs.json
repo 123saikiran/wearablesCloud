@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-07T05:44:38.580152+00:00",
+      "id": "d96423d3d826",
+      "location": "Remote",
+      "posted_at": "2026-08-07T05:20:49+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-p97"
+    },
+    {
       "company": "Cafe March 21",
       "fetched_at": "2026-08-07T03:53:30.887701+00:00",
       "id": "6d36c65a34b9",
@@ -6016,5 +6032,5 @@
       "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-5"
     }
   ],
-  "updated_at": "2026-08-07T03:53:30.887701+00:00"
+  "updated_at": "2026-08-07T05:44:38.580152+00:00"
 }
