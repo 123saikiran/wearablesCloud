@@ -1,6 +1,64 @@
 {
   "jobs": [
     {
+      "company": "SEO",
+      "fetched_at": "2026-08-07T23:38:07.576541+00:00",
+      "id": "6f3b2a64533e",
+      "location": "Leeds,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "seo"
+      ],
+      "title": "A glimpse of the pool",
+      "url": "https://remoteOK.com/remote-jobs/remote-a-glimpse-of-the-pool-seo-1136292"
+    },
+    {
+      "company": "CarRentalRating.com",
+      "fetched_at": "2026-08-07T23:38:07.576541+00:00",
+      "id": "f41b1d3f53fb",
+      "location": "Vancouver,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec"
+      ],
+      "title": "Drive Now",
+      "url": "https://remoteOK.com/remote-jobs/remote-drive-now-carrentalrating-com-1136287"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-07T23:38:07.576541+00:00",
+      "id": "7943ca1ad22e",
+      "location": "Remote",
+      "posted_at": "2026-08-07T23:25:26+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1d9d"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-07T23:38:07.576541+00:00",
+      "id": "862954b49cb2",
+      "location": "Remote",
+      "posted_at": "2026-08-07T22:54:04+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1h6a"
+    },
+    {
       "company": "CHOBH1024",
       "fetched_at": "2026-08-07T22:42:54.623751+00:00",
       "id": "d5bf3ad03c15",
@@ -6512,5 +6570,5 @@
       "url": "https://weworkremotely.com/remote-jobs/wonderdog-full-stack-product-engineer-agentic-first"
     }
   ],
-  "updated_at": "2026-08-07T22:42:54.623751+00:00"
+  "updated_at": "2026-08-07T23:38:07.576541+00:00"
 }
