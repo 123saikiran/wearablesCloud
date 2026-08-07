@@ -1,6 +1,47 @@
 {
   "jobs": [
     {
+      "company": "New Atlantis",
+      "fetched_at": "2026-08-07T11:52:08.369963+00:00",
+      "id": "44ffb363ec89",
+      "location": "Well,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "teaching",
+        "data annotation"
+      ],
+      "title": "Stoic",
+      "url": "https://remoteOK.com/remote-jobs/remote-stoic-new-atlantis-1136271"
+    },
+    {
+      "company": "AddVision Sweden",
+      "fetched_at": "2026-08-07T11:52:08.369963+00:00",
+      "id": "7427808e305c",
+      "location": "Amet,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [],
+      "title": "With an eye for the very best",
+      "url": "https://remoteOK.com/remote-jobs/remote-with-an-eye-for-the-very-best-addvision-sweden-1136294"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-07T11:52:08.369963+00:00",
+      "id": "f80e127533f1",
+      "location": "Remote",
+      "posted_at": "2026-08-07T11:05:47+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3p3g"
+    },
+    {
       "company": "Durbean",
       "fetched_at": "2026-08-07T10:57:53.117430+00:00",
       "id": "6f5d22e032c8",
@@ -6160,5 +6201,5 @@
       "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-5"
     }
   ],
-  "updated_at": "2026-08-07T10:57:53.117430+00:00"
+  "updated_at": "2026-08-07T11:52:08.369963+00:00"
 }
