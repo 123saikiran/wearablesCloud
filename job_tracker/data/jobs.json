@@ -1,6 +1,67 @@
 {
   "jobs": [
     {
+      "company": "Supply Coffee",
+      "fetched_at": "2026-08-07T13:16:19.088394+00:00",
+      "id": "751b89d30a00",
+      "location": "Coffs Harbour,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "marketing",
+        "junior",
+        "ops",
+        "full time",
+        "non tech"
+      ],
+      "title": "Junior Team Members weekdays availability",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-team-members-weekdays-availability-supply-coffee-1136278"
+    },
+    {
+      "company": "EventThone Network",
+      "fetched_at": "2026-08-07T13:16:19.088394+00:00",
+      "id": "dd3023e92039",
+      "location": "Recruit,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [],
+      "title": "The Future Belongs People Who Build Together",
+      "url": "https://remoteOK.com/remote-jobs/remote-the-future-belongs-people-who-build-together-eventthone-network-1136273"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-07T13:16:19.088394+00:00",
+      "id": "5684fd11e287",
+      "location": "Remote",
+      "posted_at": "2026-08-07T12:50:15+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2aj9"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-07T13:16:19.088394+00:00",
+      "id": "b6e21de307c4",
+      "location": "Remote",
+      "posted_at": "2026-08-07T11:55:18+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-ok1"
+    },
+    {
       "company": "New Atlantis",
       "fetched_at": "2026-08-07T11:52:08.369963+00:00",
       "id": "44ffb363ec89",
@@ -6201,5 +6262,5 @@
       "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-5"
     }
   ],
-  "updated_at": "2026-08-07T11:52:08.369963+00:00"
+  "updated_at": "2026-08-07T13:16:19.088394+00:00"
 }
