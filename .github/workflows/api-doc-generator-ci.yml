@@ -1,0 +1,55 @@
+name: API Doc Generator - Build
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'api-doc-generator/**'
+      - '.github/workflows/api-doc-generator-ci.yml'
+  pull_request:
+    paths:
+      - 'api-doc-generator/**'
+      - '.github/workflows/api-doc-generator-ci.yml'
+  workflow_dispatch: {}
+
+jobs:
+  backend:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: api-doc-generator/backend
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up JDK 21
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '21'
+          cache: maven
+
+      - name: Build and test
+        run: ./mvnw -B verify
+
+  frontend:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: api-doc-generator/frontend
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: npm
+          cache-dependency-path: api-doc-generator/frontend/package-lock.json
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build
+        run: npm run build

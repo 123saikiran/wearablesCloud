@@ -1,0 +1,21 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: api-doc-generator
+  servlet:
+    multipart:
+      max-file-size: 5MB
+      max-request-size: 5MB
+
+ai:
+  provider: ${AI_PROVIDER:openai}
+  openai:
+    api-key: ${OPENAI_API_KEY:}
+    base-url: ${OPENAI_BASE_URL:https://api.openai.com/v1}
+    model: ${OPENAI_MODEL:gpt-4o-mini}
+  github-models:
+    token: ${GITHUB_TOKEN:}
+    base-url: ${GITHUB_MODELS_BASE_URL:https://models.inference.ai.azure.com}
+    model: ${GITHUB_MODELS_MODEL:gpt-4o-mini}
