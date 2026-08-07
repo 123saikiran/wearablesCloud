@@ -1,6 +1,399 @@
 {
   "jobs": [
     {
+      "company": "The McBride Group",
+      "fetched_at": "2026-08-07T00:07:27.688735+00:00",
+      "id": "75847fa0f48c",
+      "location": "Oistins,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "sys admin",
+        "infosec",
+        "education",
+        "technical",
+        "supervisor",
+        "customer support",
+        "finance",
+        "microsoft",
+        "exec",
+        "ops",
+        "legal",
+        "medical"
+      ],
+      "title": "Maintenance Technician",
+      "url": "https://remoteOK.com/remote-jobs/remote-maintenance-technician-the-mcbride-group-1136269"
+    },
+    {
+      "company": "Carnival Corporation",
+      "fetched_at": "2026-08-07T00:07:27.688735+00:00",
+      "id": "f281febdea99",
+      "location": "East Grand Bahama,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "sys admin",
+        "infosec",
+        "education",
+        "technical",
+        "supervisor",
+        "customer support",
+        "finance",
+        "microsoft",
+        "exec",
+        "ops",
+        "legal",
+        "medical"
+      ],
+      "title": "Technical Storekeeper",
+      "url": "https://remoteOK.com/remote-jobs/remote-technical-storekeeper-carnival-corporation-1136268"
+    },
+    {
+      "company": "Radical Reversibility",
+      "fetched_at": "2026-08-07T00:07:27.688735+00:00",
+      "id": "e6e571fad0e8",
+      "location": "Shijak,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "non tech",
+        "finance",
+        "exec",
+        "saas",
+        "sys admin",
+        "vfx",
+        "c"
+      ],
+      "title": "12650000",
+      "url": "https://remoteOK.com/remote-jobs/remote-12650000-radical-reversibility-1136202"
+    },
+    {
+      "company": "Radical Reversibility",
+      "fetched_at": "2026-08-07T00:07:27.688735+00:00",
+      "id": "b260939d08c6",
+      "location": "Belleek,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "non tech",
+        "finance",
+        "exec",
+        "saas",
+        "sys admin",
+        "vfx",
+        "c"
+      ],
+      "title": "There is no such thing as coincidence",
+      "url": "https://remoteOK.com/remote-jobs/remote-there-is-no-such-thing-as-coincidence-radical-reversibility-1136203"
+    },
+    {
+      "company": "Crown &amp; Pearl",
+      "fetched_at": "2026-08-07T00:07:27.688735+00:00",
+      "id": "e858cb27126f",
+      "location": "Melbourne,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "testing",
+        "non tech",
+        "education"
+      ],
+      "title": "CROWN MELBOURNE",
+      "url": "https://remoteOK.com/remote-jobs/remote-crown-melbourne-crown-amp-pearl-1136263"
+    },
+    {
+      "company": "SetRsoft",
+      "fetched_at": "2026-08-07T00:07:27.688735+00:00",
+      "id": "a8bf2565dd80",
+      "location": "Test Valley,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "non tech",
+        "finance",
+        "exec",
+        "saas",
+        "sys admin",
+        "vfx"
+      ],
+      "title": "Routesetters",
+      "url": "https://remoteOK.com/remote-jobs/remote-routesetters-setrsoft-1136200"
+    },
+    {
+      "company": "OmeSync",
+      "fetched_at": "2026-08-07T00:07:27.688735+00:00",
+      "id": "9996478af97b",
+      "location": "Division No. 11,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "non tech",
+        "design",
+        "speech",
+        "admin",
+        "exec",
+        "digital nomad",
+        "ops"
+      ],
+      "title": "The right person can still introduce themselves",
+      "url": "https://remoteOK.com/remote-jobs/remote-the-right-person-can-still-introduce-themselves-omesync-1136233"
+    },
+    {
+      "company": "Reboot with AI",
+      "fetched_at": "2026-08-07T00:07:27.688735+00:00",
+      "id": "52757a3d2d6e",
+      "location": "Bhopal,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec"
+      ],
+      "title": "Adrien Maret",
+      "url": "https://remoteOK.com/remote-jobs/remote-adrien-maret-reboot-with-ai-1136277"
+    },
+    {
+      "company": "Kuykendall Industries",
+      "fetched_at": "2026-08-07T00:07:27.688735+00:00",
+      "id": "941fde467879",
+      "location": "Bengough 40,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "non tech",
+        "design",
+        "speech",
+        "admin",
+        "exec",
+        "digital nomad",
+        "ops",
+        "architecture"
+      ],
+      "title": "LEGACY OF THE HORIZON",
+      "url": "https://remoteOK.com/remote-jobs/remote-legacy-of-the-horizon-kuykendall-industries-1136234"
+    },
+    {
+      "company": "Simmons Civil",
+      "fetched_at": "2026-08-07T00:07:27.688735+00:00",
+      "id": "7e3922dd83b2",
+      "location": "Gladstone,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "testing",
+        "marketing",
+        "sales",
+        "ecommerce",
+        "shopify",
+        "non tech",
+        "embedded",
+        "infosec",
+        "travel",
+        "finance",
+        "video",
+        "laravel",
+        "html",
+        "ads",
+        "content writing",
+        "senior",
+        "ops",
+        "stats",
+        "golang",
+        "engineer",
+        "education",
+        "customer support"
+      ],
+      "title": "Labourers",
+      "url": "https://remoteOK.com/remote-jobs/remote-labourers-simmons-civil-1136230"
+    },
+    {
+      "company": "J&amp;D Quality Smash Repairs",
+      "fetched_at": "2026-08-07T00:07:27.688735+00:00",
+      "id": "7098a2f02532",
+      "location": "Queensland,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "testing",
+        "marketing",
+        "sales",
+        "ecommerce",
+        "shopify",
+        "non tech",
+        "embedded",
+        "infosec",
+        "travel",
+        "finance",
+        "video",
+        "laravel",
+        "html",
+        "ads",
+        "content writing",
+        "senior",
+        "ops",
+        "stats",
+        "golang",
+        "engineer"
+      ],
+      "title": "Automotive Estimator",
+      "url": "https://remoteOK.com/remote-jobs/remote-automotive-estimator-jampd-quality-smash-repairs-1136229"
+    },
+    {
+      "company": "Managing AI",
+      "fetched_at": "2026-08-07T00:07:27.688735+00:00",
+      "id": "d972b4b9d4be",
+      "location": "Anupgarh,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "dev",
+        "exec",
+        "digital nomad",
+        "ruby"
+      ],
+      "title": "Vibes on Rails",
+      "url": "https://remoteOK.com/remote-jobs/remote-vibes-on-rails-managing-ai-1136244"
+    },
+    {
+      "company": "Clera",
+      "fetched_at": "2026-08-07T00:07:27.688735+00:00",
+      "id": "ac4722536f8f",
+      "location": "Los Angeles",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "dev",
+        "design",
+        "education",
+        "docker",
+        "java",
+        "cloud",
+        "ops",
+        "sys admin",
+        "golang",
+        "engineer",
+        "backend",
+        "full time",
+        "digital nomad"
+      ],
+      "title": "Java Developer",
+      "url": "https://remoteOK.com/remote-jobs/remote-java-developer-clera-1136188"
+    },
+    {
+      "company": "UXGeek.tech",
+      "fetched_at": "2026-08-07T00:07:27.688735+00:00",
+      "id": "7739a46780d1",
+      "location": "London,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "non tech",
+        "finance",
+        "exec",
+        "saas",
+        "sys admin",
+        "vfx",
+        "c"
+      ],
+      "title": "Performance optimization",
+      "url": "https://remoteOK.com/remote-jobs/remote-performance-optimization-uxgeek-tech-1136201"
+    },
+    {
+      "company": "xsbrt",
+      "fetched_at": "2026-08-07T00:07:27.688735+00:00",
+      "id": "f3fe03625beb",
+      "location": "Foresight,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "testing",
+        "non tech"
+      ],
+      "title": "Ideas Brief Library",
+      "url": "https://remoteOK.com/remote-jobs/remote-ideas-brief-library-xsbrt-1136254"
+    },
+    {
+      "company": "xsbrt",
+      "fetched_at": "2026-08-07T00:07:27.688735+00:00",
+      "id": "99c396352a63",
+      "location": "Foresight,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "testing",
+        "non tech",
+        "education"
+      ],
+      "title": "FutureLens",
+      "url": "https://remoteOK.com/remote-jobs/remote-futurelens-xsbrt-1136259"
+    },
+    {
+      "company": "Tridant",
+      "fetched_at": "2026-08-07T00:07:27.688735+00:00",
+      "id": "8a42d78e7dc2",
+      "location": "Fleet,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "non tech",
+        "finance",
+        "exec",
+        "saas",
+        "sys admin",
+        "vfx",
+        "c",
+        "embedded",
+        "infosec",
+        "technical",
+        "customer support",
+        "web dev",
+        "travel",
+        "html",
+        "ads",
+        "content writing",
+        "marketing",
+        "stats",
+        "golang",
+        "recruiter",
+        "engineer",
+        "consulting",
+        "dev",
+        "virtual assistant",
+        "firebase",
+        "cloud",
+        "typescript",
+        "node",
+        "api",
+        "apache",
+        "backend",
+        "digital nomad"
+      ],
+      "title": "owlette",
+      "url": "https://remoteOK.com/remote-jobs/remote-owlette-tridant-1136206"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-07T00:07:27.688735+00:00",
+      "id": "2f73b0d1e5ee",
+      "location": "Remote",
+      "posted_at": "2026-08-06T15:37:37+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-ebf"
+    },
+    {
       "company": "apply.coop",
       "fetched_at": "2026-08-06T15:26:05.274918+00:00",
       "id": "33eb6d1b8730",
@@ -5550,5 +5943,5 @@
       "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-5"
     }
   ],
-  "updated_at": "2026-08-06T15:26:05.274918+00:00"
+  "updated_at": "2026-08-07T00:07:27.688735+00:00"
 }
