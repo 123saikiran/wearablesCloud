@@ -200,6 +200,13 @@
       ],
       "last_seen": "2026-08-06T10:45:03.991691+00:00"
     },
+    "Cafe March 21": {
+      "count": 1,
+      "job_ids": [
+        "6d36c65a34b9"
+      ],
+      "last_seen": "2026-08-07T03:53:30.887701+00:00"
+    },
     "Cameron Newspapers | Citizen Observer &amp; Cameron Shopper": {
       "count": 2,
       "job_ids": [
@@ -332,6 +339,13 @@
         "a28c68c2d2f5"
       ],
       "last_seen": "2026-08-06T15:00:29+00:00"
+    },
+    "Crawler Bros": {
+      "count": 1,
+      "job_ids": [
+        "0388d6115c82"
+      ],
+      "last_seen": "2026-08-07T00:53:27+00:00"
     },
     "Crown &amp; Pearl": {
       "count": 1,
@@ -1042,8 +1056,10 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 24,
+      "count": 26,
       "job_ids": [
+        "e3d6ad9b42fc",
+        "e591048687e7",
         "2f73b0d1e5ee",
         "42d01a476c7e",
         "5a0468c80009",
@@ -1069,7 +1085,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-06T15:37:37+00:00"
+      "last_seen": "2026-08-07T03:36:27+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -1546,6 +1562,13 @@
       ],
       "last_seen": "2026-08-06T04:17:53.869792+00:00"
     },
+    "iOpener.Today": {
+      "count": 1,
+      "job_ids": [
+        "730fadc2f127"
+      ],
+      "last_seen": "2026-08-07T03:53:30.887701+00:00"
+    },
     "koodup": {
       "count": 2,
       "job_ids": [
@@ -1570,5 +1593,5 @@
       "last_seen": "2026-08-07T00:07:27.688735+00:00"
     }
   },
-  "updated_at": "2026-08-07T00:07:27.688735+00:00"
+  "updated_at": "2026-08-07T03:53:30.887701+00:00"
 }

@@ -1,6 +1,79 @@
 {
   "jobs": [
     {
+      "company": "Cafe March 21",
+      "fetched_at": "2026-08-07T03:53:30.887701+00:00",
+      "id": "6d36c65a34b9",
+      "location": "Windsor,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "non tech"
+      ],
+      "title": "barista",
+      "url": "https://remoteOK.com/remote-jobs/remote-barista-cafe-march-21-1136231"
+    },
+    {
+      "company": "iOpener.Today",
+      "fetched_at": "2026-08-07T03:53:30.887701+00:00",
+      "id": "730fadc2f127",
+      "location": "Marwar Junction,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [],
+      "title": "Donât miss the stitch Time",
+      "url": "https://remoteOK.com/remote-jobs/remote-dont-miss-the-stitch-time-iopener-today-1136281"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-07T03:53:30.887701+00:00",
+      "id": "e3d6ad9b42fc",
+      "location": "Remote",
+      "posted_at": "2026-08-07T03:36:27+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-52a9"
+    },
+    {
+      "company": "Crawler Bros",
+      "fetched_at": "2026-08-07T03:53:30.887701+00:00",
+      "id": "0388d6115c82",
+      "location": "Remote",
+      "posted_at": "2026-08-07T00:53:27+00:00",
+      "source": "devto",
+      "tags": [
+        "jobs",
+        "remote",
+        "data",
+        "trends"
+      ],
+      "title": "Data-Driven Remote Job Market Analysis with Apify",
+      "url": "https://dev.to/crawlerbros/data-driven-remote-job-market-analysis-with-apify-bjb"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-07T03:53:30.887701+00:00",
+      "id": "e591048687e7",
+      "location": "Remote",
+      "posted_at": "2026-08-07T00:34:56+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-563"
+    },
+    {
       "company": "The McBride Group",
       "fetched_at": "2026-08-07T00:07:27.688735+00:00",
       "id": "75847fa0f48c",
@@ -5943,5 +6016,5 @@
       "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-5"
     }
   ],
-  "updated_at": "2026-08-07T00:07:27.688735+00:00"
+  "updated_at": "2026-08-07T03:53:30.887701+00:00"
 }
