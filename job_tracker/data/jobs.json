@@ -1,6 +1,68 @@
 {
   "jobs": [
     {
+      "company": "NHS Ayrshire &amp; Arran",
+      "fetched_at": "2026-08-07T20:48:29.269297+00:00",
+      "id": "f17d8f1a8818",
+      "location": "Greater Perth Area,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "testing",
+        "non tech"
+      ],
+      "title": "Porter",
+      "url": "https://remoteOK.com/remote-jobs/remote-porter-nhs-ayrshire-amp-arran-1136291"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-07T20:48:29.269297+00:00",
+      "id": "9e10a3a8e898",
+      "location": "Remote",
+      "posted_at": "2026-08-07T20:41:42+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-he"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-07T20:48:29.269297+00:00",
+      "id": "e8b39d19863e",
+      "location": "Remote",
+      "posted_at": "2026-08-07T19:57:45+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3481"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-07T20:48:29.269297+00:00",
+      "id": "e477e9c38a43",
+      "location": "Remote",
+      "posted_at": "2026-08-07T19:06:50+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-313n"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-07T19:04:46.285149+00:00",
       "id": "6a9d62391152",
@@ -6402,5 +6464,5 @@
       "url": "https://weworkremotely.com/remote-jobs/wonderdog-full-stack-product-engineer-agentic-first"
     }
   ],
-  "updated_at": "2026-08-07T19:04:46.285149+00:00"
+  "updated_at": "2026-08-07T20:48:29.269297+00:00"
 }
