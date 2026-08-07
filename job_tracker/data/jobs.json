@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-07T19:04:46.285149+00:00",
+      "id": "6a9d62391152",
+      "location": "Remote",
+      "posted_at": "2026-08-07T18:00:04+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-513c"
+    },
+    {
       "company": "City of Lancaster, Pennsylvania",
       "fetched_at": "2026-08-07T17:52:05.887557+00:00",
       "id": "7a0c3a80a814",
@@ -6386,5 +6402,5 @@
       "url": "https://weworkremotely.com/remote-jobs/wonderdog-full-stack-product-engineer-agentic-first"
     }
   ],
-  "updated_at": "2026-08-07T17:52:05.887557+00:00"
+  "updated_at": "2026-08-07T19:04:46.285149+00:00"
 }
