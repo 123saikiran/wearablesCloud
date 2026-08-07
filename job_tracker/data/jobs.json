@@ -1,6 +1,67 @@
 {
   "jobs": [
     {
+      "company": "Svitzer",
+      "fetched_at": "2026-08-07T16:03:21.858790+00:00",
+      "id": "589bc91695a2",
+      "location": "Freeport,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "engineer"
+      ],
+      "title": "Chief Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-chief-engineer-svitzer-1136275"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-07T16:03:21.858790+00:00",
+      "id": "46d50f19bb26",
+      "location": "Remote",
+      "posted_at": "2026-08-07T15:08:02+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4anb"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-08-07T16:03:21.858790+00:00",
+      "id": "5d101fc2e92b",
+      "location": "Remote",
+      "posted_at": "2026-08-07T15:00:29+00:00",
+      "source": "devto",
+      "tags": [
+        "beginners",
+        "jobs",
+        "career",
+        "programming"
+      ],
+      "title": "Summer 2026 Internships: 8 New Openings This Week (Aug 7)",
+      "url": "https://dev.to/crackr/summer-2026-internships-8-new-openings-this-week-aug-7-lff"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-08-07T16:03:21.858790+00:00",
+      "id": "a7856dc33bd8",
+      "location": "Remote",
+      "posted_at": "2026-08-07T15:00:25+00:00",
+      "source": "devto",
+      "tags": [
+        "remotework",
+        "jobs",
+        "webdev",
+        "career"
+      ],
+      "title": "Remote SWE Jobs Paying Up to $200k (Aug 7)",
+      "url": "https://dev.to/crackr/remote-swe-jobs-paying-up-to-200k-aug-7-3n7o"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-07T14:58:19.326472+00:00",
       "id": "e36ff78aa0b0",
@@ -6045,6 +6106,19 @@
     },
     {
       "company": "Gusto, Inc.",
+      "fetched_at": "2026-08-07T16:03:21.858790+00:00",
+      "id": "e69fa491ba7b",
+      "location": "Remote",
+      "posted_at": "2026-07-22T07:01:32+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Full-Stack Programming"
+      ],
+      "title": "Retirement Implementation Specialist",
+      "url": "https://weworkremotely.com/remote-jobs/gusto-inc-retirement-implementation-specialist"
+    },
+    {
+      "company": "Gusto, Inc.",
       "fetched_at": "2026-08-05T18:26:00.883405+00:00",
       "id": "f3016438116d",
       "location": "Remote",
@@ -6263,20 +6337,7 @@
       ],
       "title": "Full-Stack Product Engineer - Agentic First",
       "url": "https://weworkremotely.com/remote-jobs/wonderdog-full-stack-product-engineer-agentic-first"
-    },
-    {
-      "company": "Lemon.io",
-      "fetched_at": "2026-08-05T14:21:54.411152+00:00",
-      "id": "1e1b331e7a2e",
-      "location": "Remote",
-      "posted_at": "2026-07-08T15:28:25+00:00",
-      "source": "weworkremotely",
-      "tags": [
-        "Full-Stack Programming"
-      ],
-      "title": "Senior React Full-stack Developer",
-      "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-5"
     }
   ],
-  "updated_at": "2026-08-07T14:58:19.326472+00:00"
+  "updated_at": "2026-08-07T16:03:21.858790+00:00"
 }
