@@ -461,6 +461,13 @@
       ],
       "last_seen": "2026-08-06T00:04:03.364954+00:00"
     },
+    "Elockers.Com Pty Ltd": {
+      "count": 1,
+      "job_ids": [
+        "9982eccaf8cd"
+      ],
+      "last_seen": "2026-08-07T07:24:55.806812+00:00"
+    },
     "Enable Dental": {
       "count": 1,
       "job_ids": [
@@ -1056,8 +1063,9 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 27,
+      "count": 28,
       "job_ids": [
+        "a91b44503ac4",
         "d96423d3d826",
         "e3d6ad9b42fc",
         "e591048687e7",
@@ -1086,7 +1094,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-07T05:20:49+00:00"
+      "last_seen": "2026-08-07T06:40:30+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -1594,5 +1602,5 @@
       "last_seen": "2026-08-07T00:07:27.688735+00:00"
     }
   },
-  "updated_at": "2026-08-07T05:44:38.580152+00:00"
+  "updated_at": "2026-08-07T07:24:55.806812+00:00"
 }

@@ -1,6 +1,38 @@
 {
   "jobs": [
     {
+      "company": "Elockers.Com Pty Ltd",
+      "fetched_at": "2026-08-07T07:24:55.806812+00:00",
+      "id": "9982eccaf8cd",
+      "location": "Queensland,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "testing",
+        "non tech",
+        "education",
+        "travel"
+      ],
+      "title": "YHA QUEENSLAND",
+      "url": "https://remoteOK.com/remote-jobs/remote-yha-queensland-elockers-com-pty-ltd-1136265"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-07T07:24:55.806812+00:00",
+      "id": "a91b44503ac4",
+      "location": "Remote",
+      "posted_at": "2026-08-07T06:40:30+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1ic5"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-07T05:44:38.580152+00:00",
       "id": "d96423d3d826",
@@ -6032,5 +6064,5 @@
       "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-5"
     }
   ],
-  "updated_at": "2026-08-07T05:44:38.580152+00:00"
+  "updated_at": "2026-08-07T07:24:55.806812+00:00"
 }
