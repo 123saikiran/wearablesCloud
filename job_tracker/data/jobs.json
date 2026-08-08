@@ -1,6 +1,81 @@
 {
   "jobs": [
     {
+      "company": "The Philadelphia School",
+      "fetched_at": "2026-08-08T15:35:20.088839+00:00",
+      "id": "544bfacd643e",
+      "location": "Jabalpur,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [],
+      "title": "How Apply",
+      "url": "https://remoteOK.com/remote-jobs/remote-how-apply-the-philadelphia-school-1136304"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-08T15:35:20.088839+00:00",
+      "id": "a835e522b1c4",
+      "location": "Remote",
+      "posted_at": "2026-08-08T15:14:58+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-7gp"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-08-08T15:35:20.088839+00:00",
+      "id": "6ddaf6432b86",
+      "location": "Remote",
+      "posted_at": "2026-08-08T15:01:23+00:00",
+      "source": "devto",
+      "tags": [
+        "beginners",
+        "jobs",
+        "career",
+        "programming"
+      ],
+      "title": "These Companies Want Interns This Summer (Aug 8)",
+      "url": "https://dev.to/crackr/these-companies-want-interns-this-summer-aug-8-n1g"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-08-08T15:35:20.088839+00:00",
+      "id": "5b2421189218",
+      "location": "Remote",
+      "posted_at": "2026-08-08T15:01:20+00:00",
+      "source": "devto",
+      "tags": [
+        "remotework",
+        "jobs",
+        "webdev",
+        "career"
+      ],
+      "title": "8 Remote SWE Jobs You Can Apply to From Anywhere (Aug 8)",
+      "url": "https://dev.to/crackr/8-remote-swe-jobs-you-can-apply-to-from-anywhere-aug-8-53fc"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-08T15:35:20.088839+00:00",
+      "id": "d84112a1609e",
+      "location": "Remote",
+      "posted_at": "2026-08-08T14:48:10+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4g4m"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-08T14:36:49.008349+00:00",
       "id": "73f847d44e5e",
@@ -7094,5 +7169,5 @@
       "url": "https://weworkremotely.com/remote-jobs/wonderdog-full-stack-product-engineer-agentic-first"
     }
   ],
-  "updated_at": "2026-08-08T14:36:49.008349+00:00"
+  "updated_at": "2026-08-08T15:35:20.088839+00:00"
 }
