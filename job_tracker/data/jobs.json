@@ -1,6 +1,49 @@
 {
   "jobs": [
     {
+      "company": "The Well",
+      "fetched_at": "2026-08-08T05:03:35.353503+00:00",
+      "id": "032c5e327382",
+      "location": "Edmonton,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec",
+        "writer",
+        "marketing",
+        "engineer"
+      ],
+      "title": "Joel Q",
+      "url": "https://remoteOK.com/remote-jobs/remote-joel-q-the-well-1136288"
+    },
+    {
+      "company": "Germain HÃ´tels",
+      "fetched_at": "2026-08-08T05:03:35.353503+00:00",
+      "id": "c0483b9823d7",
+      "location": "Enfield,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [],
+      "title": "Spontaneous Application Halifax",
+      "url": "https://remoteOK.com/remote-jobs/remote-spontaneous-application-halifax-germain-hotels-1136285"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-08T05:03:35.353503+00:00",
+      "id": "0404b0b0cad1",
+      "location": "Remote",
+      "posted_at": "2026-08-08T04:28:39+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4iin"
+    },
+    {
       "company": "Compact Home Lifts",
       "fetched_at": "2026-08-08T03:41:03.894705+00:00",
       "id": "b20c70227705",
@@ -6690,5 +6733,5 @@
       "url": "https://weworkremotely.com/remote-jobs/wonderdog-full-stack-product-engineer-agentic-first"
     }
   ],
-  "updated_at": "2026-08-08T03:41:03.894705+00:00"
+  "updated_at": "2026-08-08T05:03:35.353503+00:00"
 }

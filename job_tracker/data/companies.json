@@ -611,6 +611,13 @@
       ],
       "last_seen": "2026-08-06T04:17:53.869792+00:00"
     },
+    "Germain HÃ´tels": {
+      "count": 1,
+      "job_ids": [
+        "c0483b9823d7"
+      ],
+      "last_seen": "2026-08-08T05:03:35.353503+00:00"
+    },
     "Grapefruit Health": {
       "count": 1,
       "job_ids": [
@@ -1158,8 +1165,9 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 49,
+      "count": 50,
       "job_ids": [
+        "0404b0b0cad1",
         "594c71c49324",
         "fd3ec3551ba1",
         "cca2ec5ee20b",
@@ -1210,7 +1218,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-08T03:13:00+00:00"
+      "last_seen": "2026-08-08T04:28:39+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -1521,6 +1529,13 @@
       ],
       "last_seen": "2026-08-06T04:17:53.869792+00:00"
     },
+    "The Well": {
+      "count": 1,
+      "job_ids": [
+        "032c5e327382"
+      ],
+      "last_seen": "2026-08-08T05:03:35.353503+00:00"
+    },
     "Tito's Handmade Vodka": {
       "count": 1,
       "job_ids": [
@@ -1741,5 +1756,5 @@
       "last_seen": "2026-08-07T00:07:27.688735+00:00"
     }
   },
-  "updated_at": "2026-08-08T03:41:03.894705+00:00"
+  "updated_at": "2026-08-08T05:03:35.353503+00:00"
 }
