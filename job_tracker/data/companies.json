@@ -271,6 +271,13 @@
       ],
       "last_seen": "2026-08-06T12:59:49.258060+00:00"
     },
+    "Captain PQ chemical industries Pvt. Limited": {
+      "count": 1,
+      "job_ids": [
+        "e4e9e91a7028"
+      ],
+      "last_seen": "2026-08-08T18:45:41.971981+00:00"
+    },
     "CarRentalRating.com": {
       "count": 1,
       "job_ids": [
@@ -1244,8 +1251,10 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 68,
+      "count": 70,
       "job_ids": [
+        "33f33b0552c9",
+        "187f23c9dd69",
         "06bec3290b98",
         "4b6868ca575d",
         "016d5e78ee45",
@@ -1315,7 +1324,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-08T16:59:34+00:00"
+      "last_seen": "2026-08-08T18:01:43+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -1733,6 +1742,13 @@
       ],
       "last_seen": "2026-08-06T15:26:05.274918+00:00"
     },
+    "Wildflower": {
+      "count": 1,
+      "job_ids": [
+        "f0eff06fb823"
+      ],
+      "last_seen": "2026-08-08T18:45:41.971981+00:00"
+    },
     "Wing": {
       "count": 3,
       "job_ids": [
@@ -1874,5 +1890,5 @@
       "last_seen": "2026-08-07T00:07:27.688735+00:00"
     }
   },
-  "updated_at": "2026-08-08T17:35:56.345269+00:00"
+  "updated_at": "2026-08-08T18:45:41.971981+00:00"
 }

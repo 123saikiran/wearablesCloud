@@ -1,6 +1,64 @@
 {
   "jobs": [
     {
+      "company": "Wildflower",
+      "fetched_at": "2026-08-08T18:45:41.971981+00:00",
+      "id": "f0eff06fb823",
+      "location": "Front of Yonge,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "hr"
+      ],
+      "title": "$15.15 $17 HR depending on location",
+      "url": "https://remoteOK.com/remote-jobs/remote-15-15-17-hr-depending-on-location-wildflower-1136308"
+    },
+    {
+      "company": "Captain PQ chemical industries Pvt. Limited",
+      "fetched_at": "2026-08-08T18:45:41.971981+00:00",
+      "id": "e4e9e91a7028",
+      "location": "Swift Current,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "hr"
+      ],
+      "title": "CURRENT JOBS OPENING",
+      "url": "https://remoteOK.com/remote-jobs/remote-current-jobs-opening-captain-pq-chemical-industries-pvt-limited-1136309"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-08T18:45:41.971981+00:00",
+      "id": "33f33b0552c9",
+      "location": "Remote",
+      "posted_at": "2026-08-08T18:01:43+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3a0k"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-08T18:45:41.971981+00:00",
+      "id": "187f23c9dd69",
+      "location": "Remote",
+      "posted_at": "2026-08-08T17:36:08+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-5bg1"
+    },
+    {
       "company": "BRIMBLE",
       "fetched_at": "2026-08-08T17:35:56.345269+00:00",
       "id": "6cc4804d20fe",
@@ -7260,5 +7318,5 @@
       "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-8"
     }
   ],
-  "updated_at": "2026-08-08T17:35:56.345269+00:00"
+  "updated_at": "2026-08-08T18:45:41.971981+00:00"
 }
