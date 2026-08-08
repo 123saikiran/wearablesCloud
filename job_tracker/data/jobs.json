@@ -1,6 +1,57 @@
 {
   "jobs": [
     {
+      "company": "Washington State University School of Food Science",
+      "fetched_at": "2026-08-08T20:36:40.655468+00:00",
+      "id": "8450871da896",
+      "location": "Baxters,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "coordinator",
+        "customer support",
+        "travel",
+        "exec",
+        "ops",
+        "legal",
+        "medical"
+      ],
+      "title": "Baxters Food Group",
+      "url": "https://remoteOK.com/remote-jobs/remote-baxters-food-group-washington-state-university-school-of-food-science-1136338"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-08T20:36:40.655468+00:00",
+      "id": "0e2ceb60852c",
+      "location": "Remote",
+      "posted_at": "2026-08-08T20:19:33+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-18n"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-08T20:36:40.655468+00:00",
+      "id": "81cb9dbd4229",
+      "location": "Remote",
+      "posted_at": "2026-08-08T19:54:28+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4pgj"
+    },
+    {
       "company": "Manunor Inc.",
       "fetched_at": "2026-08-08T19:34:35.087178+00:00",
       "id": "baea7b0b2589",
@@ -7380,5 +7431,5 @@
       "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-8"
     }
   ],
-  "updated_at": "2026-08-08T19:34:35.087178+00:00"
+  "updated_at": "2026-08-08T20:36:40.655468+00:00"
 }
