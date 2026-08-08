@@ -1,6 +1,51 @@
 {
   "jobs": [
     {
+      "company": "Neulogy Ventures",
+      "fetched_at": "2026-08-08T11:33:45.566704+00:00",
+      "id": "8bde0f2187e6",
+      "location": "Box,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "golang"
+      ],
+      "title": "Various @ Luigiâs Box",
+      "url": "https://remoteOK.com/remote-jobs/remote-various-luigis-box-neulogy-ventures-1136307"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-08T11:33:45.566704+00:00",
+      "id": "a1c025d1a2eb",
+      "location": "Remote",
+      "posted_at": "2026-08-08T11:16:25+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-627"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-08T11:33:45.566704+00:00",
+      "id": "481d5a63b870",
+      "location": "Remote",
+      "posted_at": "2026-08-08T10:49:31+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1ddb"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-08T10:38:56.197443+00:00",
       "id": "8619f75c676e",
@@ -6934,5 +6979,5 @@
       "url": "https://weworkremotely.com/remote-jobs/wonderdog-full-stack-product-engineer-agentic-first"
     }
   ],
-  "updated_at": "2026-08-08T10:38:56.197443+00:00"
+  "updated_at": "2026-08-08T11:33:45.566704+00:00"
 }
