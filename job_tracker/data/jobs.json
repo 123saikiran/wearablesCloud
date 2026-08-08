@@ -1,6 +1,46 @@
 {
   "jobs": [
     {
+      "company": "Lemon.io",
+      "fetched_at": "2026-08-08T13:52:10.953064+00:00",
+      "id": "3d0cac674819",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "dev",
+        "engineer",
+        "senior",
+        "full time",
+        "python",
+        "aws",
+        "gcp",
+        "javascript",
+        "react",
+        "node",
+        "ruby",
+        "typescript"
+      ],
+      "title": "Senior React Full stack Developer",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-react-full-stack-developer-lemon-io-1136299"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-08T13:52:10.953064+00:00",
+      "id": "738e0d1fb43a",
+      "location": "Remote",
+      "posted_at": "2026-08-08T13:24:41+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-46e8"
+    },
+    {
       "company": "Haus.com",
       "fetched_at": "2026-08-08T12:59:26.192358+00:00",
       "id": "5ea360c5d2e7",
@@ -7022,5 +7062,5 @@
       "url": "https://weworkremotely.com/remote-jobs/wonderdog-full-stack-product-engineer-agentic-first"
     }
   ],
-  "updated_at": "2026-08-08T12:59:26.192358+00:00"
+  "updated_at": "2026-08-08T13:52:10.953064+00:00"
 }

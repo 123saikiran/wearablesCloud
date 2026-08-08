@@ -818,6 +818,13 @@
       ],
       "last_seen": "2026-08-06T00:04:03.364954+00:00"
     },
+    "Lemon.io": {
+      "count": 1,
+      "job_ids": [
+        "3d0cac674819"
+      ],
+      "last_seen": "2026-08-08T13:52:10.953064+00:00"
+    },
     "Liberty Mutual Insurance": {
       "count": 1,
       "job_ids": [
@@ -1207,8 +1214,9 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 61,
+      "count": 62,
       "job_ids": [
+        "738e0d1fb43a",
         "c487178a871b",
         "1383437ffa3f",
         "a1c025d1a2eb",
@@ -1271,7 +1279,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-08T12:18:13+00:00"
+      "last_seen": "2026-08-08T13:24:41+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -1823,5 +1831,5 @@
       "last_seen": "2026-08-07T00:07:27.688735+00:00"
     }
   },
-  "updated_at": "2026-08-08T12:59:26.192358+00:00"
+  "updated_at": "2026-08-08T13:52:10.953064+00:00"
 }
