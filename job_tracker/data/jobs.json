@@ -1,6 +1,52 @@
 {
   "jobs": [
     {
+      "company": "Giant Leap Consulting",
+      "fetched_at": "2026-08-08T21:35:52.348633+00:00",
+      "id": "164bf7b0cbee",
+      "location": "Three Hills,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "consulting",
+        "exec"
+      ],
+      "title": "The Three Bills",
+      "url": "https://remoteOK.com/remote-jobs/remote-the-three-bills-giant-leap-consulting-1136315"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-08T21:35:52.348633+00:00",
+      "id": "9802e2791d09",
+      "location": "Remote",
+      "posted_at": "2026-08-08T21:23:06+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-46nk"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-08T21:35:52.348633+00:00",
+      "id": "d424ccb2cc50",
+      "location": "Remote",
+      "posted_at": "2026-08-08T20:54:57+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3838"
+    },
+    {
       "company": "Washington State University School of Food Science",
       "fetched_at": "2026-08-08T20:36:40.655468+00:00",
       "id": "8450871da896",
@@ -7431,5 +7477,5 @@
       "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-8"
     }
   ],
-  "updated_at": "2026-08-08T20:36:40.655468+00:00"
+  "updated_at": "2026-08-08T21:35:52.348633+00:00"
 }

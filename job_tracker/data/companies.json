@@ -669,6 +669,13 @@
       ],
       "last_seen": "2026-08-08T05:03:35.353503+00:00"
     },
+    "Giant Leap Consulting": {
+      "count": 1,
+      "job_ids": [
+        "164bf7b0cbee"
+      ],
+      "last_seen": "2026-08-08T21:35:52.348633+00:00"
+    },
     "Grapefruit Health": {
       "count": 1,
       "job_ids": [
@@ -1265,8 +1272,10 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 74,
+      "count": 76,
       "job_ids": [
+        "9802e2791d09",
+        "d424ccb2cc50",
         "0e2ceb60852c",
         "81cb9dbd4229",
         "cdb868b8c835",
@@ -1342,7 +1351,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-08T20:19:33+00:00"
+      "last_seen": "2026-08-08T21:23:06+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -1915,5 +1924,5 @@
       "last_seen": "2026-08-07T00:07:27.688735+00:00"
     }
   },
-  "updated_at": "2026-08-08T20:36:40.655468+00:00"
+  "updated_at": "2026-08-08T21:35:52.348633+00:00"
 }
