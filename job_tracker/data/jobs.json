@@ -1,6 +1,50 @@
 {
   "jobs": [
     {
+      "company": "BRIMBLE",
+      "fetched_at": "2026-08-08T17:35:56.345269+00:00",
+      "id": "6cc4804d20fe",
+      "location": "Greater Newcastle Area,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [],
+      "title": "LABOURER",
+      "url": "https://remoteOK.com/remote-jobs/remote-labourer-brimble-1136313"
+    },
+    {
+      "company": "Four Seasons",
+      "fetched_at": "2026-08-08T17:35:56.345269+00:00",
+      "id": "310529c8c42e",
+      "location": "Nassau,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "sys admin",
+        "supervisor",
+        "exec",
+        "legal",
+        "engineer"
+      ],
+      "title": "Holly Can Fix It",
+      "url": "https://remoteOK.com/remote-jobs/remote-holly-can-fix-it-four-seasons-1136305"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-08T17:35:56.345269+00:00",
+      "id": "06bec3290b98",
+      "location": "Remote",
+      "posted_at": "2026-08-08T16:59:34+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-46h0"
+    },
+    {
       "company": "JobsMedia.io",
       "fetched_at": "2026-08-08T16:39:56.602392+00:00",
       "id": "fef6bfdb1659",
@@ -7214,20 +7258,7 @@
       ],
       "title": "Senior Backend Developer (Python)",
       "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-8"
-    },
-    {
-      "company": "Wonderdog",
-      "fetched_at": "2026-08-05T14:21:54.411152+00:00",
-      "id": "a8bf741196f0",
-      "location": "Remote",
-      "posted_at": "2026-07-09T17:03:38+00:00",
-      "source": "weworkremotely",
-      "tags": [
-        "Full-Stack Programming"
-      ],
-      "title": "Full-Stack Product Engineer - Agentic First",
-      "url": "https://weworkremotely.com/remote-jobs/wonderdog-full-stack-product-engineer-agentic-first"
     }
   ],
-  "updated_at": "2026-08-08T16:39:56.602392+00:00"
+  "updated_at": "2026-08-08T17:35:56.345269+00:00"
 }

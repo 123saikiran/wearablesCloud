@@ -135,6 +135,13 @@
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
+    "BRIMBLE": {
+      "count": 1,
+      "job_ids": [
+        "6cc4804d20fe"
+      ],
+      "last_seen": "2026-08-08T17:35:56.345269+00:00"
+    },
     "Balco, Inc.": {
       "count": 1,
       "job_ids": [
@@ -611,6 +618,13 @@
         "eaeee80cd09e"
       ],
       "last_seen": "2026-08-06T07:43:52.639381+00:00"
+    },
+    "Four Seasons": {
+      "count": 1,
+      "job_ids": [
+        "310529c8c42e"
+      ],
+      "last_seen": "2026-08-08T17:35:56.345269+00:00"
     },
     "Fox Group of Companies": {
       "count": 1,
@@ -1230,8 +1244,9 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 67,
+      "count": 68,
       "job_ids": [
+        "06bec3290b98",
         "4b6868ca575d",
         "016d5e78ee45",
         "a835e522b1c4",
@@ -1300,7 +1315,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-08T16:18:42+00:00"
+      "last_seen": "2026-08-08T16:59:34+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -1727,13 +1742,6 @@
       ],
       "last_seen": "2026-08-06T00:04:03.364954+00:00"
     },
-    "Wonderdog": {
-      "count": 1,
-      "job_ids": [
-        "a8bf741196f0"
-      ],
-      "last_seen": "2026-07-09T17:03:38+00:00"
-    },
     "Work and Study Travel": {
       "count": 1,
       "job_ids": [
@@ -1866,5 +1874,5 @@
       "last_seen": "2026-08-07T00:07:27.688735+00:00"
     }
   },
-  "updated_at": "2026-08-08T16:39:56.602392+00:00"
+  "updated_at": "2026-08-08T17:35:56.345269+00:00"
 }

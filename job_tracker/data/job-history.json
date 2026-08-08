@@ -1,6 +1,19 @@
 {
-  "archived_before": "2026-08-08T16:39:56.602392+00:00",
+  "archived_before": "2026-08-08T17:35:56.345269+00:00",
   "jobs": [
+    {
+      "company": "Wonderdog",
+      "fetched_at": "2026-08-05T14:21:54.411152+00:00",
+      "id": "a8bf741196f0",
+      "location": "Remote",
+      "posted_at": "2026-07-09T17:03:38+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Full-Stack Programming"
+      ],
+      "title": "Full-Stack Product Engineer - Agentic First",
+      "url": "https://weworkremotely.com/remote-jobs/wonderdog-full-stack-product-engineer-agentic-first"
+    },
     {
       "company": "Lemon.io",
       "fetched_at": "2026-08-05T14:21:54.411152+00:00",
@@ -42,7 +55,7 @@
     },
     {
       "company": "Proxify AB",
-      "fetched_at": "2026-08-08T16:39:56.602392+00:00",
+      "fetched_at": "2026-08-08T17:35:56.345269+00:00",
       "id": "cea9a1876e9f",
       "location": "Remote",
       "posted_at": "2026-06-17T17:33:39+00:00",
@@ -55,7 +68,7 @@
     },
     {
       "company": "Cortes 23",
-      "fetched_at": "2026-08-08T16:39:56.602392+00:00",
+      "fetched_at": "2026-08-08T17:35:56.345269+00:00",
       "id": "4a4b714eef47",
       "location": "Remote",
       "posted_at": "2026-06-11T18:02:55+00:00",
@@ -68,7 +81,7 @@
     },
     {
       "company": "Sticker Mule",
-      "fetched_at": "2026-08-08T16:39:56.602392+00:00",
+      "fetched_at": "2026-08-08T17:35:56.345269+00:00",
       "id": "2e168d779702",
       "location": "Remote",
       "posted_at": "2026-05-14T09:14:28+00:00",
@@ -81,7 +94,7 @@
     },
     {
       "company": "bunny.net",
-      "fetched_at": "2026-08-08T16:39:56.602392+00:00",
+      "fetched_at": "2026-08-08T17:35:56.345269+00:00",
       "id": "6a631f404ae8",
       "location": "Remote",
       "posted_at": "2026-05-12T12:34:46+00:00",
@@ -94,7 +107,7 @@
     },
     {
       "company": "Stellar AI",
-      "fetched_at": "2026-08-08T16:39:56.602392+00:00",
+      "fetched_at": "2026-08-08T17:35:56.345269+00:00",
       "id": "d83eb520b875",
       "location": "Remote",
       "posted_at": "2025-10-21T19:36:26+00:00",
