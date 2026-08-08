@@ -7,6 +7,13 @@
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
+    "ALSEI": {
+      "count": 1,
+      "job_ids": [
+        "054a1f177eba"
+      ],
+      "last_seen": "2026-08-08T07:02:08.776203+00:00"
+    },
     "AS UNEXPECTED": {
       "count": 1,
       "job_ids": [
@@ -611,6 +618,13 @@
       ],
       "last_seen": "2026-08-06T04:17:53.869792+00:00"
     },
+    "Geeks Ltd": {
+      "count": 1,
+      "job_ids": [
+        "893d0a3c9bc3"
+      ],
+      "last_seen": "2026-08-08T07:02:08.776203+00:00"
+    },
     "Germain HÃ´tels": {
       "count": 1,
       "job_ids": [
@@ -987,6 +1001,13 @@
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
+    "ODF": {
+      "count": 1,
+      "job_ids": [
+        "7c49acff1eb4"
+      ],
+      "last_seen": "2026-08-08T07:02:08.776203+00:00"
+    },
     "Office Notarial des Vallons de Vilaine": {
       "count": 1,
       "job_ids": [
@@ -1165,8 +1186,10 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 50,
+      "count": 52,
       "job_ids": [
+        "71b1cbd7a320",
+        "f6e99d96942d",
         "0404b0b0cad1",
         "594c71c49324",
         "fd3ec3551ba1",
@@ -1218,7 +1241,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-08T04:28:39+00:00"
+      "last_seen": "2026-08-08T06:03:32+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -1660,6 +1683,13 @@
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
+    "Yacht Club Games": {
+      "count": 1,
+      "job_ids": [
+        "53d4bf885d86"
+      ],
+      "last_seen": "2026-08-08T07:02:08.776203+00:00"
+    },
     "Yemma": {
       "count": 2,
       "job_ids": [
@@ -1756,5 +1786,5 @@
       "last_seen": "2026-08-07T00:07:27.688735+00:00"
     }
   },
-  "updated_at": "2026-08-08T05:03:35.353503+00:00"
+  "updated_at": "2026-08-08T07:02:08.776203+00:00"
 }

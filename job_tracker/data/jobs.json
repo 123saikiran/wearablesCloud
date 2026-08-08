@@ -1,6 +1,92 @@
 {
   "jobs": [
     {
+      "company": "ODF",
+      "fetched_at": "2026-08-08T07:02:08.776203+00:00",
+      "id": "7c49acff1eb4",
+      "location": "New York,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [],
+      "title": "Traba",
+      "url": "https://remoteOK.com/remote-jobs/remote-traba-odf-1136297"
+    },
+    {
+      "company": "Geeks Ltd",
+      "fetched_at": "2026-08-08T07:02:08.776203+00:00",
+      "id": "893d0a3c9bc3",
+      "location": "ç§å°æ²å³ç¿¼åæ,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "dev",
+        "marketing",
+        "exec",
+        "digital nomad"
+      ],
+      "title": "Our vacancies",
+      "url": "https://remoteOK.com/remote-jobs/remote-our-vacancies-geeks-ltd-1136289"
+    },
+    {
+      "company": "ALSEI",
+      "fetched_at": "2026-08-08T07:02:08.776203+00:00",
+      "id": "054a1f177eba",
+      "location": "The Pas,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec"
+      ],
+      "title": "CANDIDATURE SPONTANÃE",
+      "url": "https://remoteOK.com/remote-jobs/remote-candidature-spontanee-alsei-1136286"
+    },
+    {
+      "company": "Yacht Club Games",
+      "fetched_at": "2026-08-08T07:02:08.776203+00:00",
+      "id": "53d4bf885d86",
+      "location": "More,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "seo",
+        "c"
+      ],
+      "title": "CHECK BACK SOON",
+      "url": "https://remoteOK.com/remote-jobs/remote-check-back-soon-yacht-club-games-1136293"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-08T07:02:08.776203+00:00",
+      "id": "71b1cbd7a320",
+      "location": "Remote",
+      "posted_at": "2026-08-08T06:03:32+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-8jk"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-08T07:02:08.776203+00:00",
+      "id": "f6e99d96942d",
+      "location": "Remote",
+      "posted_at": "2026-08-08T05:23:19+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2jf6"
+    },
+    {
       "company": "The Well",
       "fetched_at": "2026-08-08T05:03:35.353503+00:00",
       "id": "032c5e327382",
@@ -6733,5 +6819,5 @@
       "url": "https://weworkremotely.com/remote-jobs/wonderdog-full-stack-product-engineer-agentic-first"
     }
   ],
-  "updated_at": "2026-08-08T05:03:35.353503+00:00"
+  "updated_at": "2026-08-08T07:02:08.776203+00:00"
 }
