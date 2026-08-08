@@ -1,6 +1,53 @@
 {
   "jobs": [
     {
+      "company": "JobsMedia.io",
+      "fetched_at": "2026-08-08T16:39:56.602392+00:00",
+      "id": "fef6bfdb1659",
+      "location": "Regina,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "exec",
+        "medical"
+      ],
+      "title": "Cleaner",
+      "url": "https://remoteOK.com/remote-jobs/remote-cleaner-jobsmedia-io-1136306"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-08T16:39:56.602392+00:00",
+      "id": "4b6868ca575d",
+      "location": "Remote",
+      "posted_at": "2026-08-08T16:18:42+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3a0c"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-08T16:39:56.602392+00:00",
+      "id": "016d5e78ee45",
+      "location": "Remote",
+      "posted_at": "2026-08-08T15:53:11+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-mae"
+    },
+    {
       "company": "The Philadelphia School",
       "fetched_at": "2026-08-08T15:35:20.088839+00:00",
       "id": "544bfacd643e",
@@ -6948,6 +6995,19 @@
       "url": "https://weworkremotely.com/remote-jobs/gusto-inc-retirement-implementation-specialist"
     },
     {
+      "company": "Airtable",
+      "fetched_at": "2026-08-08T16:39:56.602392+00:00",
+      "id": "5b922f42f670",
+      "location": "Remote",
+      "posted_at": "2026-07-22T07:01:32+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Full-Stack Programming"
+      ],
+      "title": "Manager, Sales Strategy & Planning",
+      "url": "https://weworkremotely.com/remote-jobs/airtable-manager-sales-strategy-planning"
+    },
+    {
       "company": "Gusto, Inc.",
       "fetched_at": "2026-08-05T18:26:00.883405+00:00",
       "id": "f3016438116d",
@@ -7169,5 +7229,5 @@
       "url": "https://weworkremotely.com/remote-jobs/wonderdog-full-stack-product-engineer-agentic-first"
     }
   ],
-  "updated_at": "2026-08-08T15:35:20.088839+00:00"
+  "updated_at": "2026-08-08T16:39:56.602392+00:00"
 }

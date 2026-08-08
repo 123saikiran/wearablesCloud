@@ -44,6 +44,13 @@
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
+    "Airtable": {
+      "count": 1,
+      "job_ids": [
+        "5b922f42f670"
+      ],
+      "last_seen": "2026-07-22T07:01:32+00:00"
+    },
     "Akasa Air": {
       "count": 1,
       "job_ids": [
@@ -763,6 +770,13 @@
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
+    "JobsMedia.io": {
+      "count": 1,
+      "job_ids": [
+        "fef6bfdb1659"
+      ],
+      "last_seen": "2026-08-08T16:39:56.602392+00:00"
+    },
     "John Keells Consumer Foods Sector": {
       "count": 1,
       "job_ids": [
@@ -1216,8 +1230,10 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 65,
+      "count": 67,
       "job_ids": [
+        "4b6868ca575d",
+        "016d5e78ee45",
         "a835e522b1c4",
         "d84112a1609e",
         "73f847d44e5e",
@@ -1284,7 +1300,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-08T15:14:58+00:00"
+      "last_seen": "2026-08-08T16:18:42+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -1850,5 +1866,5 @@
       "last_seen": "2026-08-07T00:07:27.688735+00:00"
     }
   },
-  "updated_at": "2026-08-08T15:35:20.088839+00:00"
+  "updated_at": "2026-08-08T16:39:56.602392+00:00"
 }
