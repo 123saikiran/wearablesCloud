@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-08T10:38:56.197443+00:00",
+      "id": "8619f75c676e",
+      "location": "Remote",
+      "posted_at": "2026-08-08T10:00:58+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-493c"
+    },
+    {
       "company": "CCDC - The Cambridge Crystallographic Data Centre",
       "fetched_at": "2026-08-08T09:43:39.006739+00:00",
       "id": "90bad7d56905",
@@ -6918,5 +6934,5 @@
       "url": "https://weworkremotely.com/remote-jobs/wonderdog-full-stack-product-engineer-agentic-first"
     }
   ],
-  "updated_at": "2026-08-08T09:43:39.006739+00:00"
+  "updated_at": "2026-08-08T10:38:56.197443+00:00"
 }
