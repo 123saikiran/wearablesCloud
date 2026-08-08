@@ -1,6 +1,57 @@
 {
   "jobs": [
     {
+      "company": "CCDC - The Cambridge Crystallographic Data Centre",
+      "fetched_at": "2026-08-08T09:43:39.006739+00:00",
+      "id": "90bad7d56905",
+      "location": "Open Hall,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "testing",
+        "assembly",
+        "non tech",
+        "design",
+        "customer support",
+        "dev",
+        "finance",
+        "digital nomad"
+      ],
+      "title": "Open Vacancies",
+      "url": "https://remoteOK.com/remote-jobs/remote-open-vacancies-ccdc-the-cambridge-crystallographic-data-centre-1136303"
+    },
+    {
+      "company": "Tees Components",
+      "fetched_at": "2026-08-08T09:43:39.006739+00:00",
+      "id": "81e6a466312c",
+      "location": "Fort Good Hope,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "testing",
+        "assembly",
+        "non tech"
+      ],
+      "title": "THINK WE COULD BE A GOOD FIT",
+      "url": "https://remoteOK.com/remote-jobs/remote-think-we-could-be-a-good-fit-tees-components-1136302"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-08T09:43:39.006739+00:00",
+      "id": "2db1ae0d345e",
+      "location": "Remote",
+      "posted_at": "2026-08-08T09:23:32+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-fmh"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-08T08:49:43.834584+00:00",
       "id": "c0d822ae8789",
@@ -6867,5 +6918,5 @@
       "url": "https://weworkremotely.com/remote-jobs/wonderdog-full-stack-product-engineer-agentic-first"
     }
   ],
-  "updated_at": "2026-08-08T08:49:43.834584+00:00"
+  "updated_at": "2026-08-08T09:43:39.006739+00:00"
 }

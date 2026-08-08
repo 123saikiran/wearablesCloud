@@ -203,6 +203,13 @@
       ],
       "last_seen": "2026-08-06T07:43:52.639381+00:00"
     },
+    "CCDC - The Cambridge Crystallographic Data Centre": {
+      "count": 1,
+      "job_ids": [
+        "90bad7d56905"
+      ],
+      "last_seen": "2026-08-08T09:43:39.006739+00:00"
+    },
     "CHOBH1024": {
       "count": 1,
       "job_ids": [
@@ -1186,8 +1193,9 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 55,
+      "count": 56,
       "job_ids": [
+        "2db1ae0d345e",
         "c0d822ae8789",
         "7c4145c1a7e6",
         "16ae93a67aca",
@@ -1244,7 +1252,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-08T08:49:26+00:00"
+      "last_seen": "2026-08-08T09:23:32+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -1520,6 +1528,13 @@
       ],
       "last_seen": "2026-08-06T07:43:52.639381+00:00"
     },
+    "Tees Components": {
+      "count": 1,
+      "job_ids": [
+        "81e6a466312c"
+      ],
+      "last_seen": "2026-08-08T09:43:39.006739+00:00"
+    },
     "TerraNovita BV": {
       "count": 1,
       "job_ids": [
@@ -1789,5 +1804,5 @@
       "last_seen": "2026-08-07T00:07:27.688735+00:00"
     }
   },
-  "updated_at": "2026-08-08T08:49:43.834584+00:00"
+  "updated_at": "2026-08-08T09:43:39.006739+00:00"
 }
