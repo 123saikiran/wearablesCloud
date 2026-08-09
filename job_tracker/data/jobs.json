@@ -1,6 +1,61 @@
 {
   "jobs": [
     {
+      "company": "American Academy of Achievement",
+      "fetched_at": "2026-08-09T22:36:58.232087+00:00",
+      "id": "a3e3bae5f996",
+      "location": "Thunder Bay,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "c"
+      ],
+      "title": "Beekeeper Academy of Achievement",
+      "url": "https://remoteOK.com/remote-jobs/remote-beekeeper-academy-of-achievement-american-academy-of-achievement-1136345"
+    },
+    {
+      "company": "Bapcor Retail",
+      "fetched_at": "2026-08-09T22:36:58.232087+00:00",
+      "id": "dcd1bace5480",
+      "location": "Shepparton,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "ops"
+      ],
+      "title": "Driver",
+      "url": "https://remoteOK.com/remote-jobs/remote-driver-bapcor-retail-1136341"
+    },
+    {
+      "company": "tClara",
+      "fetched_at": "2026-08-09T22:36:58.232087+00:00",
+      "id": "f08f08468b55",
+      "location": "Much Cowarne,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "c"
+      ],
+      "title": "Recognizing the Friction",
+      "url": "https://remoteOK.com/remote-jobs/remote-recognizing-the-friction-tclara-1136342"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-09T22:36:58.232087+00:00",
+      "id": "7e7b1d79bd88",
+      "location": "Remote",
+      "posted_at": "2026-08-09T22:01:49+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2h89"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-09T21:38:09.494236+00:00",
       "id": "1a659770f4d4",
@@ -8308,5 +8363,5 @@
       "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-8"
     }
   ],
-  "updated_at": "2026-08-09T21:38:09.494236+00:00"
+  "updated_at": "2026-08-09T22:36:58.232087+00:00"
 }

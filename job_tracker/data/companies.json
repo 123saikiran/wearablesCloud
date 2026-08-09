@@ -79,6 +79,13 @@
       ],
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
+    "American Academy of Achievement": {
+      "count": 1,
+      "job_ids": [
+        "a3e3bae5f996"
+      ],
+      "last_seen": "2026-08-09T22:36:58.232087+00:00"
+    },
     "Amoi Group": {
       "count": 1,
       "job_ids": [
@@ -148,6 +155,13 @@
         "2e843b402962"
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
+    },
+    "Bapcor Retail": {
+      "count": 1,
+      "job_ids": [
+        "dcd1bace5480"
+      ],
+      "last_seen": "2026-08-09T22:36:58.232087+00:00"
     },
     "Barefoot Student": {
       "count": 1,
@@ -1362,8 +1376,9 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 108,
+      "count": 109,
       "job_ids": [
+        "7e7b1d79bd88",
         "1a659770f4d4",
         "6710a4fe64d0",
         "e4e90e8e533b",
@@ -1473,7 +1488,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-09T21:37:33+00:00"
+      "last_seen": "2026-08-09T22:01:49+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -2054,6 +2069,13 @@
       ],
       "last_seen": "2026-08-08T14:00:08+00:00"
     },
+    "tClara": {
+      "count": 1,
+      "job_ids": [
+        "f08f08468b55"
+      ],
+      "last_seen": "2026-08-09T22:36:58.232087+00:00"
+    },
     "testacy": {
       "count": 1,
       "job_ids": [
@@ -2070,5 +2092,5 @@
       "last_seen": "2026-08-07T00:07:27.688735+00:00"
     }
   },
-  "updated_at": "2026-08-09T21:38:09.494236+00:00"
+  "updated_at": "2026-08-09T22:36:58.232087+00:00"
 }
