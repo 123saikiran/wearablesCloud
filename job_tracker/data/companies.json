@@ -437,8 +437,10 @@
       "last_seen": "2026-08-06T15:26:05.274918+00:00"
     },
     "Crackr": {
-      "count": 8,
+      "count": 10,
       "job_ids": [
+        "b57c5b0e9427",
+        "3c32ddae7bba",
         "6ddaf6432b86",
         "5b2421189218",
         "5d101fc2e92b",
@@ -448,7 +450,7 @@
         "3295f687e970",
         "a28c68c2d2f5"
       ],
-      "last_seen": "2026-08-08T15:01:23+00:00"
+      "last_seen": "2026-08-09T15:00:29+00:00"
     },
     "Crawler Bros": {
       "count": 1,
@@ -1336,6 +1338,13 @@
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
+    "Quintessence Films Limited": {
+      "count": 1,
+      "job_ids": [
+        "1dac5b6cc70f"
+      ],
+      "last_seen": "2026-08-09T15:37:09.517549+00:00"
+    },
     "Quizzly.ai": {
       "count": 2,
       "job_ids": [
@@ -1345,8 +1354,9 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 97,
+      "count": 98,
       "job_ids": [
+        "3dcd0d7b48a1",
         "168a5fb40563",
         "1cd2126e0751",
         "b4d4f29efaf1",
@@ -1445,7 +1455,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-09T14:33:28+00:00"
+      "last_seen": "2026-08-09T15:04:59+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -2034,5 +2044,5 @@
       "last_seen": "2026-08-07T00:07:27.688735+00:00"
     }
   },
-  "updated_at": "2026-08-09T14:40:12.916179+00:00"
+  "updated_at": "2026-08-09T15:37:09.517549+00:00"
 }

@@ -1,6 +1,65 @@
 {
   "jobs": [
     {
+      "company": "Quintessence Films Limited",
+      "fetched_at": "2026-08-09T15:37:09.517549+00:00",
+      "id": "1dac5b6cc70f",
+      "location": "St. George's,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [],
+      "title": "St Georgeâs Cares",
+      "url": "https://remoteOK.com/remote-jobs/remote-st-georges-cares-quintessence-films-limited-1136334"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-09T15:37:09.517549+00:00",
+      "id": "3dcd0d7b48a1",
+      "location": "Remote",
+      "posted_at": "2026-08-09T15:04:59+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-48ni"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-08-09T15:37:09.517549+00:00",
+      "id": "b57c5b0e9427",
+      "location": "Remote",
+      "posted_at": "2026-08-09T15:00:29+00:00",
+      "source": "devto",
+      "tags": [
+        "beginners",
+        "jobs",
+        "career",
+        "programming"
+      ],
+      "title": "Where to Find Tech Internships This Summer (Aug 9)",
+      "url": "https://dev.to/crackr/where-to-find-tech-internships-this-summer-aug-9-21an"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-08-09T15:37:09.517549+00:00",
+      "id": "3c32ddae7bba",
+      "location": "Remote",
+      "posted_at": "2026-08-09T15:00:25+00:00",
+      "source": "devto",
+      "tags": [
+        "remotework",
+        "jobs",
+        "webdev",
+        "career"
+      ],
+      "title": "Senior Remote SWE Roles Hiring Now - 2 Pay $150k+ (Aug 9)",
+      "url": "https://dev.to/crackr/senior-remote-swe-roles-hiring-now-2-pay-150k-aug-9-220i"
+    },
+    {
       "company": "Compucorp Inc",
       "fetched_at": "2026-08-09T14:40:12.916179+00:00",
       "id": "3f100240cfdf",
@@ -8026,5 +8085,5 @@
       "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-8"
     }
   ],
-  "updated_at": "2026-08-09T14:40:12.916179+00:00"
+  "updated_at": "2026-08-09T15:37:09.517549+00:00"
 }
