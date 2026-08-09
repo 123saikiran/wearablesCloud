@@ -1,6 +1,61 @@
 {
   "jobs": [
     {
+      "company": "Get a Job",
+      "fetched_at": "2026-08-09T13:02:29.661043+00:00",
+      "id": "b3db348c54de",
+      "location": "Other Side Of The Moon,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "game dev",
+        "mobile"
+      ],
+      "title": "CLASSIC",
+      "url": "https://remoteOK.com/remote-jobs/remote-classic-get-a-job-1136333"
+    },
+    {
+      "company": "PlayToMax",
+      "fetched_at": "2026-08-09T13:02:29.661043+00:00",
+      "id": "77595e64d43a",
+      "location": "Puzzle Pocket,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "game dev",
+        "mobile"
+      ],
+      "title": "WereBox",
+      "url": "https://remoteOK.com/remote-jobs/remote-werebox-playtomax-1136330"
+    },
+    {
+      "company": "PlayToMax",
+      "fetched_at": "2026-08-09T13:02:29.661043+00:00",
+      "id": "09654c2fa36b",
+      "location": "Puzzle Pocket,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [],
+      "title": "Exit Searcher",
+      "url": "https://remoteOK.com/remote-jobs/remote-exit-searcher-playtomax-1136328"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-09T13:02:29.661043+00:00",
+      "id": "5ab59c1be077",
+      "location": "Remote",
+      "posted_at": "2026-08-09T12:00:05+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-5gac"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-09T11:34:47.346372+00:00",
       "id": "86d48b227445",
@@ -7912,5 +7967,5 @@
       "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-8"
     }
   ],
-  "updated_at": "2026-08-09T11:34:47.346372+00:00"
+  "updated_at": "2026-08-09T13:02:29.661043+00:00"
 }
