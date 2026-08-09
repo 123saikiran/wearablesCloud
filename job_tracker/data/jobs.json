@@ -1,6 +1,123 @@
 {
   "jobs": [
     {
+      "company": "Ulta 3 Cosmetics &amp; Salon",
+      "fetched_at": "2026-08-09T04:21:53.059120+00:00",
+      "id": "5d3586b0fcc4",
+      "location": "Miles,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "game dev",
+        "mobile"
+      ],
+      "title": "Corporate",
+      "url": "https://remoteOK.com/remote-jobs/remote-corporate-ulta-3-cosmetics-amp-salon-1136331"
+    },
+    {
+      "company": "Ulta 3 Cosmetics &amp; Salon",
+      "fetched_at": "2026-08-09T04:21:53.059120+00:00",
+      "id": "d5fc208cd871",
+      "location": "Miles,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "game dev",
+        "mobile"
+      ],
+      "title": "Distribution Centers",
+      "url": "https://remoteOK.com/remote-jobs/remote-distribution-centers-ulta-3-cosmetics-amp-salon-1136332"
+    },
+    {
+      "company": "ProductionBeast",
+      "fetched_at": "2026-08-09T04:21:53.059120+00:00",
+      "id": "0700f9f7fd33",
+      "location": "Greater Anchorage Area,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [],
+      "title": "Veck IO",
+      "url": "https://remoteOK.com/remote-jobs/remote-veck-io-productionbeast-1136320"
+    },
+    {
+      "company": "ProductionBeast",
+      "fetched_at": "2026-08-09T04:21:53.059120+00:00",
+      "id": "c2ed03696d64",
+      "location": "Lincoln,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [],
+      "title": "Driving Directions",
+      "url": "https://remoteOK.com/remote-jobs/remote-driving-directions-productionbeast-1136319"
+    },
+    {
+      "company": "Uniparts India Ltd.",
+      "fetched_at": "2026-08-09T04:21:53.059120+00:00",
+      "id": "690c78efd4a1",
+      "location": "Greater Kolkata Area,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [],
+      "title": "For India",
+      "url": "https://remoteOK.com/remote-jobs/remote-for-india-uniparts-india-ltd-1136318"
+    },
+    {
+      "company": "Precision Safe Sidewalks",
+      "fetched_at": "2026-08-09T04:21:53.059120+00:00",
+      "id": "615e3bd35acf",
+      "location": "North Carolina,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "c"
+      ],
+      "title": "JOIN OUR TEAM",
+      "url": "https://remoteOK.com/remote-jobs/remote-join-our-team-precision-safe-sidewalks-1136321"
+    },
+    {
+      "company": "Belfast Area Chamber of Commerce",
+      "fetched_at": "2026-08-09T04:21:53.059120+00:00",
+      "id": "012a556d7d56",
+      "location": "Belfast,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [],
+      "title": "Come join our team",
+      "url": "https://remoteOK.com/remote-jobs/remote-come-join-our-team-belfast-area-chamber-of-commerce-1136322"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-09T04:21:53.059120+00:00",
+      "id": "15ca36641707",
+      "location": "Remote",
+      "posted_at": "2026-08-09T04:05:49+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3ogn"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-09T04:21:53.059120+00:00",
+      "id": "6362160c2c14",
+      "location": "Remote",
+      "posted_at": "2026-08-09T02:49:29+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3lec"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-09T02:07:40.557168+00:00",
       "id": "c81ea47f5d8e",
@@ -7573,5 +7690,5 @@
       "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-8"
     }
   ],
-  "updated_at": "2026-08-09T02:07:40.557168+00:00"
+  "updated_at": "2026-08-09T04:21:53.059120+00:00"
 }

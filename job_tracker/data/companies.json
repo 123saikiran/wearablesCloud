@@ -172,6 +172,13 @@
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
+    "Belfast Area Chamber of Commerce": {
+      "count": 1,
+      "job_ids": [
+        "012a556d7d56"
+      ],
+      "last_seen": "2026-08-09T04:21:53.059120+00:00"
+    },
     "Berry Avionics": {
       "count": 1,
       "job_ids": [
@@ -1209,6 +1216,21 @@
       ],
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
+    "Precision Safe Sidewalks": {
+      "count": 1,
+      "job_ids": [
+        "615e3bd35acf"
+      ],
+      "last_seen": "2026-08-09T04:21:53.059120+00:00"
+    },
+    "ProductionBeast": {
+      "count": 2,
+      "job_ids": [
+        "0700f9f7fd33",
+        "c2ed03696d64"
+      ],
+      "last_seen": "2026-08-09T04:21:53.059120+00:00"
+    },
     "Program Delta Performance Group": {
       "count": 1,
       "job_ids": [
@@ -1272,8 +1294,10 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 82,
+      "count": 84,
       "job_ids": [
+        "15ca36641707",
+        "6362160c2c14",
         "c81ea47f5d8e",
         "c640098b8941",
         "ee23f57862bc",
@@ -1357,7 +1381,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-09T00:38:09+00:00"
+      "last_seen": "2026-08-09T04:05:49+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -1745,12 +1769,27 @@
       ],
       "last_seen": "2026-08-07T00:07:27.688735+00:00"
     },
+    "Ulta 3 Cosmetics &amp; Salon": {
+      "count": 2,
+      "job_ids": [
+        "5d3586b0fcc4",
+        "d5fc208cd871"
+      ],
+      "last_seen": "2026-08-09T04:21:53.059120+00:00"
+    },
     "Unilever": {
       "count": 1,
       "job_ids": [
         "84689f301367"
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
+    },
+    "Uniparts India Ltd.": {
+      "count": 1,
+      "job_ids": [
+        "690c78efd4a1"
+      ],
+      "last_seen": "2026-08-09T04:21:53.059120+00:00"
     },
     "Universia Brasil": {
       "count": 2,
@@ -1930,5 +1969,5 @@
       "last_seen": "2026-08-07T00:07:27.688735+00:00"
     }
   },
-  "updated_at": "2026-08-09T02:07:40.557168+00:00"
+  "updated_at": "2026-08-09T04:21:53.059120+00:00"
 }
