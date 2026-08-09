@@ -1,6 +1,59 @@
 {
   "jobs": [
     {
+      "company": "CHINADebate",
+      "fetched_at": "2026-08-09T05:50:14.704971+00:00",
+      "id": "032f799c3e53",
+      "location": "Anupgarh,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec"
+      ],
+      "title": "'This Time Feels Different",
+      "url": "https://remoteOK.com/remote-jobs/remote-this-time-feels-different-chinadebate-1136327"
+    },
+    {
+      "company": "CHINADebate",
+      "fetched_at": "2026-08-09T05:50:14.704971+00:00",
+      "id": "933cad1d697a",
+      "location": "March,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [],
+      "title": "Faint Cracks",
+      "url": "https://remoteOK.com/remote-jobs/remote-faint-cracks-chinadebate-1136323"
+    },
+    {
+      "company": "Casna Group",
+      "fetched_at": "2026-08-09T05:50:14.704971+00:00",
+      "id": "0da65dbc4ae4",
+      "location": "Roorkee,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec"
+      ],
+      "title": "Management",
+      "url": "https://remoteOK.com/remote-jobs/remote-management-casna-group-1136326"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-09T05:50:14.704971+00:00",
+      "id": "0a433a37e9a9",
+      "location": "Remote",
+      "posted_at": "2026-08-09T05:17:05+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3cpb"
+    },
+    {
       "company": "Ulta 3 Cosmetics &amp; Salon",
       "fetched_at": "2026-08-09T04:21:53.059120+00:00",
       "id": "5d3586b0fcc4",
@@ -7690,5 +7743,5 @@
       "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-8"
     }
   ],
-  "updated_at": "2026-08-09T04:21:53.059120+00:00"
+  "updated_at": "2026-08-09T05:50:14.704971+00:00"
 }
