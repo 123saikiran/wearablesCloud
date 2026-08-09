@@ -1,6 +1,38 @@
 {
   "jobs": [
     {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-09T10:40:16.641404+00:00",
+      "id": "33a3d9539aab",
+      "location": "Remote",
+      "posted_at": "2026-08-09T10:22:49+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-29md"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-09T10:40:16.641404+00:00",
+      "id": "ab2b3e29aceb",
+      "location": "Remote",
+      "posted_at": "2026-08-09T09:53:56+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-20gm"
+    },
+    {
       "company": "Skinventory",
       "fetched_at": "2026-08-09T09:46:00.050168+00:00",
       "id": "654f1ba4a829",
@@ -7848,5 +7880,5 @@
       "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-8"
     }
   ],
-  "updated_at": "2026-08-09T09:46:00.050168+00:00"
+  "updated_at": "2026-08-09T10:40:16.641404+00:00"
 }
