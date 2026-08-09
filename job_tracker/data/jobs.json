@@ -1,6 +1,44 @@
 {
   "jobs": [
     {
+      "company": "Skinventory",
+      "fetched_at": "2026-08-09T09:46:00.050168+00:00",
+      "id": "654f1ba4a829",
+      "location": "Loch Sport,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [],
+      "title": "Nocts",
+      "url": "https://remoteOK.com/remote-jobs/remote-nocts-skinventory-1136329"
+    },
+    {
+      "company": "Beltrami County",
+      "fetched_at": "2026-08-09T09:46:00.050168+00:00",
+      "id": "f1d499c16f8b",
+      "location": "Hunterganj,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [],
+      "title": "Hiring Process",
+      "url": "https://remoteOK.com/remote-jobs/remote-hiring-process-beltrami-county-1136346"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-09T09:46:00.050168+00:00",
+      "id": "0784728ab12b",
+      "location": "Remote",
+      "posted_at": "2026-08-09T09:00:32+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4l7d"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-09T08:51:08.845261+00:00",
       "id": "31a721961937",
@@ -7810,5 +7848,5 @@
       "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-8"
     }
   ],
-  "updated_at": "2026-08-09T08:51:08.845261+00:00"
+  "updated_at": "2026-08-09T09:46:00.050168+00:00"
 }
