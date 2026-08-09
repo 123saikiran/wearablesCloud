@@ -1,6 +1,65 @@
 {
   "jobs": [
     {
+      "company": "Compucorp Inc",
+      "fetched_at": "2026-08-09T14:40:12.916179+00:00",
+      "id": "3f100240cfdf",
+      "location": "Kharagpur-I,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [],
+      "title": "YOUR JOB DESCRIPTION HERE",
+      "url": "https://remoteOK.com/remote-jobs/remote-your-job-description-here-compucorp-inc-1136336"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-09T14:40:12.916179+00:00",
+      "id": "168a5fb40563",
+      "location": "Remote",
+      "posted_at": "2026-08-09T14:33:28+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2ej5"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-09T14:40:12.916179+00:00",
+      "id": "1cd2126e0751",
+      "location": "Remote",
+      "posted_at": "2026-08-09T13:57:08+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4dc0"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-09T14:40:12.916179+00:00",
+      "id": "b4d4f29efaf1",
+      "location": "Remote",
+      "posted_at": "2026-08-09T13:06:24+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2khf"
+    },
+    {
       "company": "Get a Job",
       "fetched_at": "2026-08-09T13:02:29.661043+00:00",
       "id": "b3db348c54de",
@@ -7967,5 +8026,5 @@
       "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-8"
     }
   ],
-  "updated_at": "2026-08-09T13:02:29.661043+00:00"
+  "updated_at": "2026-08-09T14:40:12.916179+00:00"
 }

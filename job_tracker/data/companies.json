@@ -414,6 +414,13 @@
       ],
       "last_seen": "2026-08-08T03:41:03.894705+00:00"
     },
+    "Compucorp Inc": {
+      "count": 1,
+      "job_ids": [
+        "3f100240cfdf"
+      ],
+      "last_seen": "2026-08-09T14:40:12.916179+00:00"
+    },
     "Control Shift Video": {
       "count": 1,
       "job_ids": [
@@ -1338,8 +1345,11 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 94,
+      "count": 97,
       "job_ids": [
+        "168a5fb40563",
+        "1cd2126e0751",
+        "b4d4f29efaf1",
         "5ab59c1be077",
         "86d48b227445",
         "acc8bb1ab0f0",
@@ -1435,7 +1445,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-09T12:00:05+00:00"
+      "last_seen": "2026-08-09T14:33:28+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -2024,5 +2034,5 @@
       "last_seen": "2026-08-07T00:07:27.688735+00:00"
     }
   },
-  "updated_at": "2026-08-09T13:02:29.661043+00:00"
+  "updated_at": "2026-08-09T14:40:12.916179+00:00"
 }
