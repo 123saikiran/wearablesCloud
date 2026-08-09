@@ -294,11 +294,12 @@
       "last_seen": "2026-08-06T12:59:49.258060+00:00"
     },
     "Captain PQ chemical industries Pvt. Limited": {
-      "count": 1,
+      "count": 2,
       "job_ids": [
+        "183409c79c6f",
         "e4e9e91a7028"
       ],
-      "last_seen": "2026-08-08T18:45:41.971981+00:00"
+      "last_seen": "2026-08-09T18:49:48.996072+00:00"
     },
     "CarRentalRating.com": {
       "count": 1,
@@ -427,6 +428,13 @@
         "a21bcc6ded29"
       ],
       "last_seen": "2026-08-06T10:45:03.991691+00:00"
+    },
+    "Corrtech Energy Limited": {
+      "count": 1,
+      "job_ids": [
+        "718f819cba07"
+      ],
+      "last_seen": "2026-08-09T18:49:48.996072+00:00"
     },
     "CovalTech": {
       "count": 2,
@@ -1354,8 +1362,10 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 101,
+      "count": 103,
       "job_ids": [
+        "9e367f7b9db3",
+        "5d0e8b5f648f",
         "b8f196ef5c8d",
         "3bf2e877199a",
         "bd7fddbd844f",
@@ -1458,7 +1468,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-09T17:02:25+00:00"
+      "last_seen": "2026-08-09T18:18:38+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -1826,6 +1836,13 @@
       ],
       "last_seen": "2026-08-06T00:04:03.364954+00:00"
     },
+    "Twittaer": {
+      "count": 1,
+      "job_ids": [
+        "415c024b2648"
+      ],
+      "last_seen": "2026-08-09T18:49:48.996072+00:00"
+    },
     "Tyrell Solar": {
       "count": 1,
       "job_ids": [
@@ -2010,11 +2027,12 @@
       "last_seen": "2026-08-06T04:17:53.869792+00:00"
     },
     "iOpener.Today": {
-      "count": 1,
+      "count": 2,
       "job_ids": [
+        "41cfc6880bba",
         "730fadc2f127"
       ],
-      "last_seen": "2026-08-07T03:53:30.887701+00:00"
+      "last_seen": "2026-08-09T18:49:48.996072+00:00"
     },
     "koodup": {
       "count": 2,
@@ -2047,5 +2065,5 @@
       "last_seen": "2026-08-07T00:07:27.688735+00:00"
     }
   },
-  "updated_at": "2026-08-09T17:36:27.410634+00:00"
+  "updated_at": "2026-08-09T18:49:48.996072+00:00"
 }

@@ -1,6 +1,101 @@
 {
   "jobs": [
     {
+      "company": "Captain PQ chemical industries Pvt. Limited",
+      "fetched_at": "2026-08-09T18:49:48.996072+00:00",
+      "id": "183409c79c6f",
+      "location": "How,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "c",
+        "recruiter",
+        "customer support",
+        "travel",
+        "exec",
+        "finance",
+        "scheme",
+        "ops",
+        "medical",
+        "full time",
+        "part time",
+        "infosec",
+        "dev",
+        "digital nomad"
+      ],
+      "title": "HOW APPLY",
+      "url": "https://remoteOK.com/remote-jobs/remote-how-apply-captain-pq-chemical-industries-pvt-limited-1136344"
+    },
+    {
+      "company": "Corrtech Energy Limited",
+      "fetched_at": "2026-08-09T18:49:48.996072+00:00",
+      "id": "718f819cba07",
+      "location": "Amet,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [],
+      "title": "Job Title",
+      "url": "https://remoteOK.com/remote-jobs/remote-job-title-corrtech-energy-limited-1136337"
+    },
+    {
+      "company": "Twittaer",
+      "fetched_at": "2026-08-09T18:49:48.996072+00:00",
+      "id": "415c024b2648",
+      "location": "å®å± ,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec"
+      ],
+      "title": "Need find out the us border wait times real time both directions https www.lalineaapp.com..",
+      "url": "https://remoteOK.com/remote-jobs/remote-need-find-out-the-us-border-wait-times-real-time-both-directions-https-www-lalineaapp-com-twittaer-1136351"
+    },
+    {
+      "company": "iOpener.Today",
+      "fetched_at": "2026-08-09T18:49:48.996072+00:00",
+      "id": "41cfc6880bba",
+      "location": "Marwar Junction,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec"
+      ],
+      "title": "Knowledge vs Wisdom",
+      "url": "https://remoteOK.com/remote-jobs/remote-knowledge-vs-wisdom-iopener-today-1136350"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-09T18:49:48.996072+00:00",
+      "id": "9e367f7b9db3",
+      "location": "Remote",
+      "posted_at": "2026-08-09T18:18:38+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-fp5"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-09T18:49:48.996072+00:00",
+      "id": "5d0e8b5f648f",
+      "location": "Remote",
+      "posted_at": "2026-08-09T17:45:37+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2f3m"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-09T17:36:27.410634+00:00",
       "id": "b8f196ef5c8d",
@@ -8133,5 +8228,5 @@
       "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-8"
     }
   ],
-  "updated_at": "2026-08-09T17:36:27.410634+00:00"
+  "updated_at": "2026-08-09T18:49:48.996072+00:00"
 }
