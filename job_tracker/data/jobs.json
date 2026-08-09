@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-09T19:38:10.655369+00:00",
+      "id": "0c6c23fa3041",
+      "location": "Remote",
+      "posted_at": "2026-08-09T19:09:46+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-pj5"
+    },
+    {
       "company": "Captain PQ chemical industries Pvt. Limited",
       "fetched_at": "2026-08-09T18:49:48.996072+00:00",
       "id": "183409c79c6f",
@@ -8228,5 +8244,5 @@
       "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-8"
     }
   ],
-  "updated_at": "2026-08-09T18:49:48.996072+00:00"
+  "updated_at": "2026-08-09T19:38:10.655369+00:00"
 }
