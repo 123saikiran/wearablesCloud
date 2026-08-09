@@ -1,6 +1,41 @@
 {
   "jobs": [
     {
+      "company": "Mercanti",
+      "fetched_at": "2026-08-09T07:04:28.535746+00:00",
+      "id": "9a895b1dc0c6",
+      "location": "Saint Philips,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "game dev",
+        "customer support",
+        "dev",
+        "video",
+        "exec",
+        "senior",
+        "digital nomad"
+      ],
+      "title": "Wholesale",
+      "url": "https://remoteOK.com/remote-jobs/remote-wholesale-mercanti-1136325"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-09T07:04:28.535746+00:00",
+      "id": "81c89c1524d8",
+      "location": "Remote",
+      "posted_at": "2026-08-09T06:05:25+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-456j"
+    },
+    {
       "company": "CHINADebate",
       "fetched_at": "2026-08-09T05:50:14.704971+00:00",
       "id": "032f799c3e53",
@@ -7743,5 +7778,5 @@
       "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-8"
     }
   ],
-  "updated_at": "2026-08-09T05:50:14.704971+00:00"
+  "updated_at": "2026-08-09T07:04:28.535746+00:00"
 }
