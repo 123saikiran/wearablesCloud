@@ -2,6 +2,22 @@
   "jobs": [
     {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-10T13:21:11.328604+00:00",
+      "id": "57d4de8dd69b",
+      "location": "Remote",
+      "posted_at": "2026-08-10T12:31:09+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-71j"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-10T11:52:14.271339+00:00",
       "id": "8c0dbbd2d62e",
       "location": "Remote",
@@ -8279,6 +8295,19 @@
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2kff"
     },
     {
+      "company": "Airtable",
+      "fetched_at": "2026-08-10T13:21:11.328604+00:00",
+      "id": "736b01bb1885",
+      "location": "Remote",
+      "posted_at": "2026-07-22T07:01:35+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Full-Stack Programming"
+      ],
+      "title": "Program Manager, Professional Services - East",
+      "url": "https://weworkremotely.com/remote-jobs/airtable-program-manager-professional-services-east"
+    },
+    {
       "company": "Dropbox",
       "fetched_at": "2026-08-06T12:59:49.258060+00:00",
       "id": "34721677bc39",
@@ -8539,5 +8568,5 @@
       "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-8"
     }
   ],
-  "updated_at": "2026-08-10T11:52:14.271339+00:00"
+  "updated_at": "2026-08-10T13:21:11.328604+00:00"
 }
