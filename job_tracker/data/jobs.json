@@ -1,6 +1,54 @@
 {
   "jobs": [
     {
+      "company": "Crackr",
+      "fetched_at": "2026-08-10T15:04:47.738203+00:00",
+      "id": "f2971d48c2c7",
+      "location": "Remote",
+      "posted_at": "2026-08-10T15:00:30+00:00",
+      "source": "devto",
+      "tags": [
+        "beginners",
+        "jobs",
+        "career",
+        "programming"
+      ],
+      "title": "Summer 2026 Internships: 8 New Openings This Week (Aug 10)",
+      "url": "https://dev.to/crackr/summer-2026-internships-8-new-openings-this-week-aug-10-1n6"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-08-10T15:04:47.738203+00:00",
+      "id": "0ce0de03c78d",
+      "location": "Remote",
+      "posted_at": "2026-08-10T15:00:26+00:00",
+      "source": "devto",
+      "tags": [
+        "remotework",
+        "jobs",
+        "webdev",
+        "career"
+      ],
+      "title": "Remote SWE Jobs Paying Up to $210k (Aug 10)",
+      "url": "https://dev.to/crackr/remote-swe-jobs-paying-up-to-210k-aug-10-36pi"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-10T15:04:47.738203+00:00",
+      "id": "ae79422e37cc",
+      "location": "Remote",
+      "posted_at": "2026-08-10T14:03:23+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-561k"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-10T13:21:11.328604+00:00",
       "id": "57d4de8dd69b",
@@ -8568,5 +8616,5 @@
       "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-8"
     }
   ],
-  "updated_at": "2026-08-10T13:21:11.328604+00:00"
+  "updated_at": "2026-08-10T15:04:47.738203+00:00"
 }
