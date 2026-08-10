@@ -2,6 +2,22 @@
   "jobs": [
     {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-10T19:08:22.056625+00:00",
+      "id": "25e4fb192e5c",
+      "location": "Remote",
+      "posted_at": "2026-08-10T18:01:54+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4ge3"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-10T17:57:12.564965+00:00",
       "id": "dfb256841a2d",
       "location": "Remote",
@@ -8419,6 +8435,19 @@
       "url": "https://weworkremotely.com/remote-jobs/airtable-program-manager-professional-services-east"
     },
     {
+      "company": "Stripe",
+      "fetched_at": "2026-08-10T19:08:22.056625+00:00",
+      "id": "504218801790",
+      "location": "Remote",
+      "posted_at": "2026-07-22T07:01:35+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Full-Stack Programming"
+      ],
+      "title": "Credit Risk Analyst Commercial Underwriter, West Coast",
+      "url": "https://weworkremotely.com/remote-jobs/stripe-credit-risk-analyst-commercial-underwriter-west-coast"
+    },
+    {
       "company": "Dropbox",
       "fetched_at": "2026-08-06T12:59:49.258060+00:00",
       "id": "34721677bc39",
@@ -8679,5 +8708,5 @@
       "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-8"
     }
   ],
-  "updated_at": "2026-08-10T17:57:12.564965+00:00"
+  "updated_at": "2026-08-10T19:08:22.056625+00:00"
 }
