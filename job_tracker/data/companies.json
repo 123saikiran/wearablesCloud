@@ -1379,8 +1379,10 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 122,
+      "count": 124,
       "job_ids": [
+        "35c9410478c8",
+        "a585135cf4d4",
         "ae79422e37cc",
         "57d4de8dd69b",
         "8c0dbbd2d62e",
@@ -1504,7 +1506,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-10T14:03:23+00:00"
+      "last_seen": "2026-08-10T16:13:29+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -1952,6 +1954,13 @@
       ],
       "last_seen": "2026-08-06T15:26:05.274918+00:00"
     },
+    "Whiterose Janitorial Services": {
+      "count": 1,
+      "job_ids": [
+        "f97f9c0fb6eb"
+      ],
+      "last_seen": "2026-08-10T16:58:50.282425+00:00"
+    },
     "Wildflower": {
       "count": 1,
       "job_ids": [
@@ -2108,5 +2117,5 @@
       "last_seen": "2026-08-07T00:07:27.688735+00:00"
     }
   },
-  "updated_at": "2026-08-10T15:04:47.738203+00:00"
+  "updated_at": "2026-08-10T16:58:50.282425+00:00"
 }

@@ -1,6 +1,53 @@
 {
   "jobs": [
     {
+      "company": "Whiterose Janitorial Services",
+      "fetched_at": "2026-08-10T16:58:50.282425+00:00",
+      "id": "f97f9c0fb6eb",
+      "location": "Toronto,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "exec",
+        "medical"
+      ],
+      "title": "Jobs",
+      "url": "https://remoteOK.com/remote-jobs/remote-jobs-whiterose-janitorial-services-1136357"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-10T16:58:50.282425+00:00",
+      "id": "35c9410478c8",
+      "location": "Remote",
+      "posted_at": "2026-08-10T16:13:29+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-33ob"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-10T16:58:50.282425+00:00",
+      "id": "a585135cf4d4",
+      "location": "Remote",
+      "posted_at": "2026-08-10T15:15:18+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-dbd"
+    },
+    {
       "company": "Crackr",
       "fetched_at": "2026-08-10T15:04:47.738203+00:00",
       "id": "f2971d48c2c7",
@@ -8616,5 +8663,5 @@
       "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-8"
     }
   ],
-  "updated_at": "2026-08-10T15:04:47.738203+00:00"
+  "updated_at": "2026-08-10T16:58:50.282425+00:00"
 }
