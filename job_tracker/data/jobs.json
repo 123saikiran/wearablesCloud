@@ -1,6 +1,55 @@
 {
   "jobs": [
     {
+      "company": "Homelyo",
+      "fetched_at": "2026-08-11T20:53:11.189185+00:00",
+      "id": "8727343f5aec",
+      "location": "Jamshedpur,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "customer support",
+        "mobile",
+        "sys admin",
+        "full time",
+        "non tech"
+      ],
+      "title": "service professionals",
+      "url": "https://remoteOK.com/remote-jobs/remote-service-professionals-homelyo-1136366"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-11T20:53:11.189185+00:00",
+      "id": "fa0da628be4a",
+      "location": "Remote",
+      "posted_at": "2026-08-11T20:29:47+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2a85"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-11T20:53:11.189185+00:00",
+      "id": "619e8883e8b2",
+      "location": "Remote",
+      "posted_at": "2026-08-11T19:42:34+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-34hm"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-11T19:09:16.029691+00:00",
       "id": "368f0edb708e",
@@ -9249,5 +9298,5 @@
       "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-8"
     }
   ],
-  "updated_at": "2026-08-11T19:09:16.029691+00:00"
+  "updated_at": "2026-08-11T20:53:11.189185+00:00"
 }
