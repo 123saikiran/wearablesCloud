@@ -1,6 +1,109 @@
 {
   "jobs": [
     {
+      "company": "Royal Caribbean International",
+      "fetched_at": "2026-08-11T15:03:30.365892+00:00",
+      "id": "16e11f697477",
+      "location": "Nassau,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "sys admin",
+        "infosec",
+        "education",
+        "technical",
+        "supervisor",
+        "exec",
+        "finance",
+        "video",
+        "ops",
+        "medical"
+      ],
+      "title": "Electrician Royal Beach Club",
+      "url": "https://remoteOK.com/remote-jobs/remote-electrician-royal-beach-club-royal-caribbean-international-1136364"
+    },
+    {
+      "company": "U-Haul",
+      "fetched_at": "2026-08-11T15:03:30.365892+00:00",
+      "id": "852173d8b4ab",
+      "location": "Windsor,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "customer support",
+        "marketing",
+        "payroll",
+        "non tech"
+      ],
+      "title": "Detail Specialist",
+      "url": "https://remoteOK.com/remote-jobs/remote-detail-specialist-u-haul-1136363"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-08-11T15:03:30.365892+00:00",
+      "id": "492aa732bdb5",
+      "location": "Remote",
+      "posted_at": "2026-08-11T15:00:30+00:00",
+      "source": "devto",
+      "tags": [
+        "beginners",
+        "jobs",
+        "career",
+        "programming"
+      ],
+      "title": "These Companies Want Interns This Summer (Aug 11)",
+      "url": "https://dev.to/crackr/these-companies-want-interns-this-summer-aug-11-3n4b"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-08-11T15:03:30.365892+00:00",
+      "id": "bfba225aa5ae",
+      "location": "Remote",
+      "posted_at": "2026-08-11T15:00:26+00:00",
+      "source": "devto",
+      "tags": [
+        "remotework",
+        "jobs",
+        "webdev",
+        "career"
+      ],
+      "title": "8 Remote SWE Jobs You Can Apply to From Anywhere (Aug 11)",
+      "url": "https://dev.to/crackr/8-remote-swe-jobs-you-can-apply-to-from-anywhere-aug-11-3124"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-11T15:03:30.365892+00:00",
+      "id": "a5536e14a300",
+      "location": "Remote",
+      "posted_at": "2026-08-11T14:42:51+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1bi6"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-11T15:03:30.365892+00:00",
+      "id": "fc6b59936fb9",
+      "location": "Remote",
+      "posted_at": "2026-08-11T13:39:50+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4oba"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-11T13:18:16.289554+00:00",
       "id": "d3a5d10b608c",
@@ -9066,5 +9169,5 @@
       "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-8"
     }
   ],
-  "updated_at": "2026-08-11T13:18:16.289554+00:00"
+  "updated_at": "2026-08-11T15:03:30.365892+00:00"
 }
