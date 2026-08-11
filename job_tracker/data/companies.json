@@ -606,6 +606,13 @@
       ],
       "last_seen": "2026-08-07T10:57:53.117430+00:00"
     },
+    "EZSpace Ventures": {
+      "count": 1,
+      "job_ids": [
+        "dfbacc7bab05"
+      ],
+      "last_seen": "2026-08-11T10:55:03.464080+00:00"
+    },
     "Eddy": {
       "count": 1,
       "job_ids": [
@@ -1387,8 +1394,10 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 140,
+      "count": 142,
       "job_ids": [
+        "d215896233f1",
+        "6a3b47aa45b6",
         "ec7b765f82b7",
         "154fcdaf4423",
         "f06c1423088b",
@@ -1530,7 +1539,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-11T08:35:10+00:00"
+      "last_seen": "2026-08-11T10:31:19+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -1674,6 +1683,13 @@
         "7e3922dd83b2"
       ],
       "last_seen": "2026-08-07T00:07:27.688735+00:00"
+    },
+    "Simond Fibertech Limited - India": {
+      "count": 1,
+      "job_ids": [
+        "cf575f95115f"
+      ],
+      "last_seen": "2026-08-11T10:55:03.464080+00:00"
     },
     "SimpleTech.AI": {
       "count": 2,
@@ -2142,5 +2158,5 @@
       "last_seen": "2026-08-07T00:07:27.688735+00:00"
     }
   },
-  "updated_at": "2026-08-11T09:05:03.258146+00:00"
+  "updated_at": "2026-08-11T10:55:03.464080+00:00"
 }
