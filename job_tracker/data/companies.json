@@ -459,6 +459,13 @@
       ],
       "last_seen": "2026-08-09T18:49:48.996072+00:00"
     },
+    "Cotton On Group": {
+      "count": 1,
+      "job_ids": [
+        "6c151569c9ac"
+      ],
+      "last_seen": "2026-08-11T23:49:14.583630+00:00"
+    },
     "CovalTech": {
       "count": 2,
       "job_ids": [
@@ -807,6 +814,13 @@
       ],
       "last_seen": "2026-08-08T12:59:26.192358+00:00"
     },
+    "Hawaiian": {
+      "count": 1,
+      "job_ids": [
+        "5ff90e5f58e6"
+      ],
+      "last_seen": "2026-08-11T23:49:14.583630+00:00"
+    },
     "Haystack": {
       "count": 1,
       "job_ids": [
@@ -1035,6 +1049,13 @@
         "2606ce8b5244"
       ],
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
+    },
+    "Macpac Ltd.": {
+      "count": 1,
+      "job_ids": [
+        "01fc6de61bba"
+      ],
+      "last_seen": "2026-08-11T23:49:14.583630+00:00"
     },
     "Managing AI": {
       "count": 1,
@@ -1310,6 +1331,14 @@
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
+    "Platypus Shoes": {
+      "count": 2,
+      "job_ids": [
+        "3bced3f0354d",
+        "a35a420882fd"
+      ],
+      "last_seen": "2026-08-11T23:49:14.583630+00:00"
+    },
     "PlayToMax": {
       "count": 2,
       "job_ids": [
@@ -1410,8 +1439,9 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 154,
+      "count": 155,
       "job_ids": [
+        "d9b2661b5af5",
         "bdbb1b151aed",
         "fbdb8a3f81fe",
         "fa0da628be4a",
@@ -1567,7 +1597,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-11T22:12:02+00:00"
+      "last_seen": "2026-08-11T23:03:29+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -2207,5 +2237,5 @@
       "last_seen": "2026-08-07T00:07:27.688735+00:00"
     }
   },
-  "updated_at": "2026-08-11T22:51:03.533629+00:00"
+  "updated_at": "2026-08-11T23:49:14.583630+00:00"
 }
