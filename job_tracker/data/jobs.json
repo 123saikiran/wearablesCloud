@@ -1,6 +1,35 @@
 {
   "jobs": [
     {
+      "company": "Cart.com",
+      "fetched_at": "2026-08-11T22:51:03.533629+00:00",
+      "id": "6a67702a83b7",
+      "location": "Temecula,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec"
+      ],
+      "title": "FC Lead",
+      "url": "https://remoteOK.com/remote-jobs/remote-fc-lead-cart-com-1136375"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-11T22:51:03.533629+00:00",
+      "id": "bdbb1b151aed",
+      "location": "Remote",
+      "posted_at": "2026-08-11T22:12:02+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-16h2"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-11T21:54:34.053224+00:00",
       "id": "fbdb8a3f81fe",
@@ -9314,5 +9343,5 @@
       "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-8"
     }
   ],
-  "updated_at": "2026-08-11T21:54:34.053224+00:00"
+  "updated_at": "2026-08-11T22:51:03.533629+00:00"
 }
