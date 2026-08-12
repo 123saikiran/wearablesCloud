@@ -1,6 +1,78 @@
 {
   "jobs": [
     {
+      "company": "CoverGo",
+      "fetched_at": "2026-08-12T08:22:52.939400+00:00",
+      "id": "ccb116c5ee76",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "dev",
+        "customer support",
+        "testing",
+        "quality assurance",
+        "video",
+        "finance",
+        "c",
+        "api",
+        "exec",
+        "content writing",
+        "senior",
+        "medical",
+        "engineer",
+        "digital nomad"
+      ],
+      "title": "Senior Software QA Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-qa-engineer-covergo-1136378"
+    },
+    {
+      "company": "Valley Bank Women in Business",
+      "fetched_at": "2026-08-12T08:22:52.939400+00:00",
+      "id": "07375b378b5d",
+      "location": "Better Hope,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "finance",
+        "non tech"
+      ],
+      "title": "Join a team helping people make better financial decisions",
+      "url": "https://remoteOK.com/remote-jobs/remote-join-a-team-helping-people-make-better-financial-decisions-valley-bank-women-in-business-1136381"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-12T08:22:52.939400+00:00",
+      "id": "27afb5ed4c3e",
+      "location": "Remote",
+      "posted_at": "2026-08-12T08:06:49+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1fd7"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-12T08:22:52.939400+00:00",
+      "id": "5b97a4fd9ed0",
+      "location": "Remote",
+      "posted_at": "2026-08-12T06:51:48+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1ed7"
+    },
+    {
       "company": "Compass Group Canada",
       "fetched_at": "2026-08-12T06:18:42.957642+00:00",
       "id": "8bb426b6dbbf",
@@ -10215,5 +10287,5 @@
       "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-8"
     }
   ],
-  "updated_at": "2026-08-12T06:18:42.957642+00:00"
+  "updated_at": "2026-08-12T08:22:52.939400+00:00"
 }

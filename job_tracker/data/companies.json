@@ -489,6 +489,13 @@
       ],
       "last_seen": "2026-08-06T15:26:05.274918+00:00"
     },
+    "CoverGo": {
+      "count": 1,
+      "job_ids": [
+        "ccb116c5ee76"
+      ],
+      "last_seen": "2026-08-12T08:22:52.939400+00:00"
+    },
     "Crackr": {
       "count": 14,
       "job_ids": [
@@ -1518,8 +1525,10 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 159,
+      "count": 161,
       "job_ids": [
+        "27afb5ed4c3e",
+        "5b97a4fd9ed0",
         "424ba1e80c2a",
         "c33f0b9335b9",
         "a0cd3093c440",
@@ -1680,7 +1689,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-12T05:24:38+00:00"
+      "last_seen": "2026-08-12T08:06:49+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -2157,6 +2166,13 @@
       ],
       "last_seen": "2026-08-12T06:18:42.957642+00:00"
     },
+    "Valley Bank Women in Business": {
+      "count": 1,
+      "job_ids": [
+        "07375b378b5d"
+      ],
+      "last_seen": "2026-08-12T08:22:52.939400+00:00"
+    },
     "Walmart Canada": {
       "count": 1,
       "job_ids": [
@@ -2356,5 +2372,5 @@
       "last_seen": "2026-08-07T00:07:27.688735+00:00"
     }
   },
-  "updated_at": "2026-08-12T06:18:42.957642+00:00"
+  "updated_at": "2026-08-12T08:22:52.939400+00:00"
 }
