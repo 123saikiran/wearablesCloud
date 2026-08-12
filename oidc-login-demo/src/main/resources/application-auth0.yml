@@ -1,0 +1,15 @@
+# Activate with SPRING_PROFILES_ACTIVE=auth0
+# Requires an Auth0 "Regular Web Application" with
+# redirect URI: http://localhost:8080/login/oauth2/code/auth0
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          auth0:
+            client-id: ${AUTH0_CLIENT_ID}
+            client-secret: ${AUTH0_CLIENT_SECRET}
+            scope: [ openid, profile, email ]
+        provider:
+          auth0:
+            issuer-uri: ${AUTH0_ISSUER_URI}

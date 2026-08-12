@@ -1,0 +1,18 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: oidc-login-demo
+  # Default identity provider for this prototype is a local, throwaway
+  # Keycloak instance started via `docker compose up` — no external
+  # registration needed to try the login flow. Override with, e.g.,
+  # SPRING_PROFILES_ACTIVE=google to use a real provider instead.
+  profiles:
+    active: keycloak
+  thymeleaf:
+    cache: false
+
+logging:
+  level:
+    org.springframework.security: INFO

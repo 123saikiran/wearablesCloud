@@ -1,0 +1,15 @@
+# Points at the throwaway Keycloak realm defined in keycloak/realm-export.json
+# and started via `docker compose up` (see README). Demo login: demo / demo
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          keycloak:
+            client-id: oidc-demo-client
+            client-secret: oidc-demo-secret
+            authorization-grant-type: authorization_code
+            scope: [ openid, profile, email ]
+        provider:
+          keycloak:
+            issuer-uri: http://localhost:8081/realms/oidc-demo

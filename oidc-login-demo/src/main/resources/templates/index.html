@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OIDC Login Demo</title>
+    <link rel="stylesheet" th:href="@{/css/style.css}">
+</head>
+<body>
+<div class="page">
+    <header class="hero">
+        <h1>OIDC Login Demo</h1>
+        <p>A tiny Spring Boot prototype that authenticates users via <strong>OpenID Connect</strong>.</p>
+    </header>
+
+    <div class="card" th:if="${loginError}">
+        <p class="error">Sign-in failed or was cancelled. Please try again.</p>
+    </div>
+
+    <div class="card">
+        <h2>Sign in</h2>
+        <p class="muted" th:if="${#lists.isEmpty(registrations)}">
+            No identity provider is configured. See the README for setup steps.
+        </p>
+        <div class="providers" th:unless="${#lists.isEmpty(registrations)}">
+            <a th:each="reg : ${registrations}"
+               th:href="@{'/oauth2/authorization/' + ${reg.registrationId}}"
+               class="provider-btn"
+               th:classappend="${reg.registrationId}">
+                <span th:text="${'Sign in with ' + #strings.capitalize(reg.registrationId)}">Sign in</span>
+            </a>
+        </div>
+    </div>
+
+    <div class="card explainer">
+        <h2>How this login flow works</h2>
+        <ol>
+            <li>You click a <em>Sign in with&hellip;</em> button, which sends you to the identity provider's
+                <code>/authorize</code> endpoint.</li>
+            <li>You authenticate directly with the provider (this app never sees your password).</li>
+            <li>The provider redirects back with an authorization code at
+                <code>/login/oauth2/code/{provider}</code>.</li>
+            <li>Spring Security exchanges that code for an <strong>ID token</strong> (a signed JWT describing who
+                you are) and, optionally, an access token.</li>
+            <li>The ID token is validated and its claims (<code>sub</code>, <code>name</code>, <code>email</code>,
+                &hellip;) become your Spring Security principal — visible on your profile page.</li>
+        </ol>
+    </div>
+</div>
+</body>
+</html>
