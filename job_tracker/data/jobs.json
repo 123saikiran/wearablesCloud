@@ -1,6 +1,97 @@
 {
   "jobs": [
     {
+      "company": "Jobs in Council",
+      "fetched_at": "2026-08-12T20:52:19.777081+00:00",
+      "id": "3b2d8ed19448",
+      "location": "Chinchilla,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "hr",
+        "infosec",
+        "supervisor",
+        "customer support",
+        "testing",
+        "marketing",
+        "legal",
+        "medical",
+        "recruiter"
+      ],
+      "title": "Ganger",
+      "url": "https://remoteOK.com/remote-jobs/remote-ganger-jobs-in-council-1136451"
+    },
+    {
+      "company": "Modi's Boutique",
+      "fetched_at": "2026-08-12T20:52:19.777081+00:00",
+      "id": "b8cddb7aa45f",
+      "location": "Ranchi,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "wordpress",
+        "vfx",
+        "teaching",
+        "education",
+        "game dev",
+        "full stack",
+        "writer",
+        "transcribing",
+        "dev",
+        "testing",
+        "marketing",
+        "web dev",
+        "speech",
+        "virtual assistant",
+        "video",
+        "serverless",
+        "cloud",
+        "git",
+        "seo",
+        "content writing",
+        "stats",
+        "sales",
+        "golang",
+        "non tech",
+        "digital nomad",
+        "artificial intelligence"
+      ],
+      "title": "Artificial Intelligence Specialist",
+      "url": "https://remoteOK.com/remote-jobs/remote-artificial-intelligence-specialist-modis-boutique-1136555"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-12T20:52:19.777081+00:00",
+      "id": "fc40ef4c0113",
+      "location": "Remote",
+      "posted_at": "2026-08-12T20:07:57+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-n46"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-12T20:52:19.777081+00:00",
+      "id": "ef81d1fd029a",
+      "location": "Remote",
+      "posted_at": "2026-08-12T19:17:58+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-26oc"
+    },
+    {
       "company": "The Home Depot Canada",
       "fetched_at": "2026-08-12T19:08:38.490828+00:00",
       "id": "d745d22e0e55",
@@ -11004,5 +11095,5 @@
       "url": "https://weworkremotely.com/remote-jobs/snapscale-wp-dev-remote"
     }
   ],
-  "updated_at": "2026-08-12T19:08:38.490828+00:00"
+  "updated_at": "2026-08-12T20:52:19.777081+00:00"
 }

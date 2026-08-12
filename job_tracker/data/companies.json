@@ -1018,6 +1018,13 @@
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
+    "Jobs in Council": {
+      "count": 1,
+      "job_ids": [
+        "3b2d8ed19448"
+      ],
+      "last_seen": "2026-08-12T20:52:19.777081+00:00"
+    },
     "JobsMedia.io": {
       "count": 1,
       "job_ids": [
@@ -1225,6 +1232,13 @@
         "9a895b1dc0c6"
       ],
       "last_seen": "2026-08-09T07:04:28.535746+00:00"
+    },
+    "Modi's Boutique": {
+      "count": 1,
+      "job_ids": [
+        "b8cddb7aa45f"
+      ],
+      "last_seen": "2026-08-12T20:52:19.777081+00:00"
     },
     "Ms Represents": {
       "count": 1,
@@ -1575,8 +1589,10 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 170,
+      "count": 172,
       "job_ids": [
+        "fc40ef4c0113",
+        "ef81d1fd029a",
         "7b2f3f733fd2",
         "8ded37010fad",
         "c408e998d57b",
@@ -1748,7 +1764,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-12T18:05:49+00:00"
+      "last_seen": "2026-08-12T20:07:57+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -2462,5 +2478,5 @@
       "last_seen": "2026-08-07T00:07:27.688735+00:00"
     }
   },
-  "updated_at": "2026-08-12T19:08:38.490828+00:00"
+  "updated_at": "2026-08-12T20:52:19.777081+00:00"
 }
