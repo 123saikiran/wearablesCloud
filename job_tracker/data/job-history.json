@@ -1,6 +1,58 @@
 {
-  "archived_before": "2026-08-12T13:21:46.868019+00:00",
+  "archived_before": "2026-08-12T15:03:02.733629+00:00",
   "jobs": [
+    {
+      "company": "Proxify AB",
+      "fetched_at": "2026-08-05T14:21:54.411152+00:00",
+      "id": "4f15e453c57f",
+      "location": "Remote",
+      "posted_at": "2026-07-13T13:41:15+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Back-End Programming"
+      ],
+      "title": "Senior Java Backend Developer",
+      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-java-backend-developer"
+    },
+    {
+      "company": "Proxify AB",
+      "fetched_at": "2026-08-05T14:21:54.411152+00:00",
+      "id": "a5aa0e23feb3",
+      "location": "Remote",
+      "posted_at": "2026-07-13T13:36:33+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Front-End Programming"
+      ],
+      "title": "Senior Frontend Developer (React.js / Next.js)",
+      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-frontend-developer-react-js-next-js-1"
+    },
+    {
+      "company": "Proxify AB",
+      "fetched_at": "2026-08-05T14:21:54.411152+00:00",
+      "id": "fa50fa4ea679",
+      "location": "Remote",
+      "posted_at": "2026-07-13T13:34:16+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Full-Stack Programming"
+      ],
+      "title": "Senior Fullstack Developer (React.js / Node.js)",
+      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-2"
+    },
+    {
+      "company": "Proxify AB",
+      "fetched_at": "2026-08-05T14:21:54.411152+00:00",
+      "id": "15dab902d0a7",
+      "location": "Remote",
+      "posted_at": "2026-07-13T13:31:24+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Back-End Programming"
+      ],
+      "title": "Senior Ruby on Rails Developer",
+      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-3"
+    },
     {
       "company": "Proxify AB",
       "fetched_at": "2026-08-05T14:21:54.411152+00:00",
@@ -68,7 +120,7 @@
     },
     {
       "company": "Proxify AB",
-      "fetched_at": "2026-08-12T13:21:46.868019+00:00",
+      "fetched_at": "2026-08-12T15:03:02.733629+00:00",
       "id": "cea9a1876e9f",
       "location": "Remote",
       "posted_at": "2026-06-17T17:33:39+00:00",
@@ -120,7 +172,7 @@
     },
     {
       "company": "Stellar AI",
-      "fetched_at": "2026-08-12T13:21:46.868019+00:00",
+      "fetched_at": "2026-08-12T15:03:02.733629+00:00",
       "id": "d83eb520b875",
       "location": "Remote",
       "posted_at": "2025-10-21T19:36:26+00:00",

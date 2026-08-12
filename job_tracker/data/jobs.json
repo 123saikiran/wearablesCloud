@@ -1,6 +1,99 @@
 {
   "jobs": [
     {
+      "company": "Tommy Gun's Original Barbershop",
+      "fetched_at": "2026-08-12T15:03:02.733629+00:00",
+      "id": "7f8e442df270",
+      "location": "Regina,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "supervisor",
+        "web dev",
+        "travel",
+        "exec",
+        "sales",
+        "customer support",
+        "recruiter",
+        "marketing",
+        "testing",
+        "technical",
+        "dev",
+        "medical",
+        "digital nomad",
+        "sys admin",
+        "virtual assistant",
+        "finance",
+        "ops",
+        "full time",
+        "part time",
+        "music",
+        "payroll",
+        "internship",
+        "game dev",
+        "excel",
+        "hr",
+        "speech",
+        "golang",
+        "infosec",
+        "consulting",
+        "ecommerce",
+        "assembly",
+        "engineer"
+      ],
+      "title": "barber",
+      "url": "https://remoteOK.com/remote-jobs/remote-barber-tommy-guns-original-barbershop-1136548"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-08-12T15:03:02.733629+00:00",
+      "id": "3f42c648f625",
+      "location": "Remote",
+      "posted_at": "2026-08-12T15:00:29+00:00",
+      "source": "devto",
+      "tags": [
+        "beginners",
+        "jobs",
+        "career",
+        "programming"
+      ],
+      "title": "Where to Find Tech Internships This Summer (Aug 12)",
+      "url": "https://dev.to/crackr/where-to-find-tech-internships-this-summer-aug-12-1c3g"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-08-12T15:03:02.733629+00:00",
+      "id": "3ffefc07eff5",
+      "location": "Remote",
+      "posted_at": "2026-08-12T15:00:26+00:00",
+      "source": "devto",
+      "tags": [
+        "remotework",
+        "jobs",
+        "webdev",
+        "career"
+      ],
+      "title": "Senior Remote SWE Roles Hiring Now - 2 Pay $150k+ (Aug 12)",
+      "url": "https://dev.to/crackr/senior-remote-swe-roles-hiring-now-2-pay-150k-aug-12-3nhj"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-12T15:03:02.733629+00:00",
+      "id": "63aab68fdc86",
+      "location": "Remote",
+      "posted_at": "2026-08-12T14:04:30+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-22e0"
+    },
+    {
       "company": "ATOM Partners",
       "fetched_at": "2026-08-12T13:21:46.868019+00:00",
       "id": "36f3e335cfc7",
@@ -10192,6 +10285,32 @@
     },
     {
       "company": "Airtable",
+      "fetched_at": "2026-08-12T15:03:02.733629+00:00",
+      "id": "b3f799034d48",
+      "location": "Remote",
+      "posted_at": "2026-07-22T07:02:04+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Full-Stack Programming"
+      ],
+      "title": "Senior Solutions Architect- West Coast",
+      "url": "https://weworkremotely.com/remote-jobs/airtable-senior-solutions-architect-west-coast"
+    },
+    {
+      "company": "Gusto, Inc.",
+      "fetched_at": "2026-08-12T15:03:02.733629+00:00",
+      "id": "6117114b69a2",
+      "location": "Remote",
+      "posted_at": "2026-07-22T07:01:49+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Full-Stack Programming"
+      ],
+      "title": "Staff Software Engineer, AI Developer Tools",
+      "url": "https://weworkremotely.com/remote-jobs/gusto-inc-staff-software-engineer-ai-developer-tools"
+    },
+    {
+      "company": "Airtable",
       "fetched_at": "2026-08-11T07:19:52.857221+00:00",
       "id": "a9678c63ff51",
       "location": "Remote",
@@ -10228,6 +10347,32 @@
       ],
       "title": "Credit Risk Analyst, North American Underwriter",
       "url": "https://weworkremotely.com/remote-jobs/stripe-credit-risk-analyst-north-american-underwriter"
+    },
+    {
+      "company": "Coinbase",
+      "fetched_at": "2026-08-12T15:03:02.733629+00:00",
+      "id": "ee3df6041d5b",
+      "location": "Remote",
+      "posted_at": "2026-07-22T07:01:44+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Full-Stack Programming"
+      ],
+      "title": "Communications Manager, Policy & Public Affairs",
+      "url": "https://weworkremotely.com/remote-jobs/coinbase-communications-manager-policy-public-affairs"
+    },
+    {
+      "company": "Dropbox",
+      "fetched_at": "2026-08-12T15:03:02.733629+00:00",
+      "id": "ed857d14e935",
+      "location": "Remote",
+      "posted_at": "2026-07-22T07:01:44+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Full-Stack Programming"
+      ],
+      "title": "Head of Field and Partner Marketing",
+      "url": "https://weworkremotely.com/remote-jobs/dropbox-head-of-field-and-partner-marketing"
     },
     {
       "company": "Airtable",
@@ -10449,59 +10594,7 @@
       ],
       "title": "WP dev (remote)",
       "url": "https://weworkremotely.com/remote-jobs/snapscale-wp-dev-remote"
-    },
-    {
-      "company": "Proxify AB",
-      "fetched_at": "2026-08-05T14:21:54.411152+00:00",
-      "id": "4f15e453c57f",
-      "location": "Remote",
-      "posted_at": "2026-07-13T13:41:15+00:00",
-      "source": "weworkremotely",
-      "tags": [
-        "Back-End Programming"
-      ],
-      "title": "Senior Java Backend Developer",
-      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-java-backend-developer"
-    },
-    {
-      "company": "Proxify AB",
-      "fetched_at": "2026-08-05T14:21:54.411152+00:00",
-      "id": "a5aa0e23feb3",
-      "location": "Remote",
-      "posted_at": "2026-07-13T13:36:33+00:00",
-      "source": "weworkremotely",
-      "tags": [
-        "Front-End Programming"
-      ],
-      "title": "Senior Frontend Developer (React.js / Next.js)",
-      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-frontend-developer-react-js-next-js-1"
-    },
-    {
-      "company": "Proxify AB",
-      "fetched_at": "2026-08-05T14:21:54.411152+00:00",
-      "id": "fa50fa4ea679",
-      "location": "Remote",
-      "posted_at": "2026-07-13T13:34:16+00:00",
-      "source": "weworkremotely",
-      "tags": [
-        "Full-Stack Programming"
-      ],
-      "title": "Senior Fullstack Developer (React.js / Node.js)",
-      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-2"
-    },
-    {
-      "company": "Proxify AB",
-      "fetched_at": "2026-08-05T14:21:54.411152+00:00",
-      "id": "15dab902d0a7",
-      "location": "Remote",
-      "posted_at": "2026-07-13T13:31:24+00:00",
-      "source": "weworkremotely",
-      "tags": [
-        "Back-End Programming"
-      ],
-      "title": "Senior Ruby on Rails Developer",
-      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-3"
     }
   ],
-  "updated_at": "2026-08-12T13:21:46.868019+00:00"
+  "updated_at": "2026-08-12T15:03:02.733629+00:00"
 }
