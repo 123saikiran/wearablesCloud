@@ -75,11 +75,12 @@
       "last_seen": "2026-08-06T07:43:52.639381+00:00"
     },
     "Amentum": {
-      "count": 1,
+      "count": 2,
       "job_ids": [
+        "cfb97a2a274c",
         "1acffc6fa342"
       ],
-      "last_seen": "2026-08-05T22:15:55.329949+00:00"
+      "last_seen": "2026-08-12T02:24:35.076711+00:00"
     },
     "American Academy of Achievement": {
       "count": 1,
@@ -878,6 +879,13 @@
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
+    "Immutable": {
+      "count": 1,
+      "job_ids": [
+        "dafa209da441"
+      ],
+      "last_seen": "2026-08-12T02:24:35.076711+00:00"
+    },
     "InBrief.ai": {
       "count": 1,
       "job_ids": [
@@ -1216,6 +1224,13 @@
       ],
       "last_seen": "2026-08-08T07:02:08.776203+00:00"
     },
+    "Ocean Hotels Group BARBADOS": {
+      "count": 1,
+      "job_ids": [
+        "de2204e892ed"
+      ],
+      "last_seen": "2026-08-12T02:24:35.076711+00:00"
+    },
     "Office Notarial des Vallons de Vilaine": {
       "count": 1,
       "job_ids": [
@@ -1266,6 +1281,13 @@
         "923657b830cd"
       ],
       "last_seen": "2026-08-08T19:34:35.087178+00:00"
+    },
+    "PAYTM SERVICES PVT LTD": {
+      "count": 1,
+      "job_ids": [
+        "ad9eea62ca68"
+      ],
+      "last_seen": "2026-08-12T02:24:35.076711+00:00"
     },
     "PERI Homeworks Collection Ltd.": {
       "count": 1,
@@ -1439,8 +1461,10 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 155,
+      "count": 157,
       "job_ids": [
+        "a0cd3093c440",
+        "896233cd355c",
         "d9b2661b5af5",
         "bdbb1b151aed",
         "fbdb8a3f81fe",
@@ -1597,7 +1621,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-11T23:03:29+00:00"
+      "last_seen": "2026-08-12T01:53:01+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -2237,5 +2261,5 @@
       "last_seen": "2026-08-07T00:07:27.688735+00:00"
     }
   },
-  "updated_at": "2026-08-11T23:49:14.583630+00:00"
+  "updated_at": "2026-08-12T02:24:35.076711+00:00"
 }
