@@ -1,6 +1,44 @@
 {
   "jobs": [
     {
+      "company": "Syfting",
+      "fetched_at": "2026-08-12T21:52:45.951534+00:00",
+      "id": "fb2ef9952246",
+      "location": "Bedford,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [],
+      "title": "Strawberry Matcha Dreams &lt;3",
+      "url": "https://remoteOK.com/remote-jobs/remote-strawberry-matcha-dreams-lt3-syfting-1136575"
+    },
+    {
+      "company": "Syfting",
+      "fetched_at": "2026-08-12T21:52:45.951534+00:00",
+      "id": "769e6eb53b6b",
+      "location": "Bedford,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [],
+      "title": "Dirt and worms cake",
+      "url": "https://remoteOK.com/remote-jobs/remote-dirt-and-worms-cake-syfting-1136574"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-12T21:52:45.951534+00:00",
+      "id": "b652f36a4798",
+      "location": "Remote",
+      "posted_at": "2026-08-12T21:01:00+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-5c5k"
+    },
+    {
       "company": "Jobs in Council",
       "fetched_at": "2026-08-12T20:52:19.777081+00:00",
       "id": "3b2d8ed19448",
@@ -11095,5 +11133,5 @@
       "url": "https://weworkremotely.com/remote-jobs/snapscale-wp-dev-remote"
     }
   ],
-  "updated_at": "2026-08-12T20:52:19.777081+00:00"
+  "updated_at": "2026-08-12T21:52:45.951534+00:00"
 }
