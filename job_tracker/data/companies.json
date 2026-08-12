@@ -67,6 +67,13 @@
       ],
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
+    "Alloy Robotics": {
+      "count": 1,
+      "job_ids": [
+        "9b84da56e240"
+      ],
+      "last_seen": "2026-08-12T11:52:07.572794+00:00"
+    },
     "Amann Girrbach MEA &amp; Turkey": {
       "count": 1,
       "job_ids": [
@@ -254,6 +261,13 @@
         "90bad7d56905"
       ],
       "last_seen": "2026-08-08T09:43:39.006739+00:00"
+    },
+    "CGC Recruitment": {
+      "count": 1,
+      "job_ids": [
+        "b9e9cc1fb02a"
+      ],
+      "last_seen": "2026-08-12T11:52:07.572794+00:00"
     },
     "CHINADebate": {
       "count": 2,
@@ -1526,8 +1540,10 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 162,
+      "count": 164,
       "job_ids": [
+        "373ccf7d3b20",
+        "5c9bb219bbb9",
         "c0ef97bcc203",
         "27afb5ed4c3e",
         "5b97a4fd9ed0",
@@ -1691,7 +1707,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-12T09:31:07+00:00"
+      "last_seen": "2026-08-12T11:29:05+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -2153,6 +2169,13 @@
       ],
       "last_seen": "2026-08-09T04:21:53.059120+00:00"
     },
+    "Universal Wolf": {
+      "count": 1,
+      "job_ids": [
+        "0263d04e5eaf"
+      ],
+      "last_seen": "2026-08-12T11:52:07.572794+00:00"
+    },
     "Universia Brasil": {
       "count": 2,
       "job_ids": [
@@ -2381,5 +2404,5 @@
       "last_seen": "2026-08-07T00:07:27.688735+00:00"
     }
   },
-  "updated_at": "2026-08-12T10:12:44.697129+00:00"
+  "updated_at": "2026-08-12T11:52:07.572794+00:00"
 }

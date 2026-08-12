@@ -1,6 +1,113 @@
 {
   "jobs": [
     {
+      "company": "Universal Wolf",
+      "fetched_at": "2026-08-12T11:52:07.572794+00:00",
+      "id": "0263d04e5eaf",
+      "location": "Blyth,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "marketing",
+        "exec",
+        "ops",
+        "customer support"
+      ],
+      "title": "Talk us here if you canât find the job that youâre looking for",
+      "url": "https://remoteOK.com/remote-jobs/remote-talk-us-here-if-you-cant-find-the-job-that-youre-looking-for-universal-wolf-1136450"
+    },
+    {
+      "company": "CGC Recruitment",
+      "fetched_at": "2026-08-12T11:52:07.572794+00:00",
+      "id": "b9e9cc1fb02a",
+      "location": "Brisbane,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "customer support",
+        "marketing",
+        "travel",
+        "speech",
+        "finance",
+        "sales",
+        "medical",
+        "recruiter",
+        "non tech",
+        "architecture",
+        "exec",
+        "education",
+        "ops",
+        "golang",
+        "scheme",
+        "full time",
+        "game dev",
+        "engineer",
+        "music",
+        "ios",
+        "design",
+        "swift",
+        "technical",
+        "dev",
+        "c",
+        "haskell",
+        "senior",
+        "digital nomad",
+        "microsoft",
+        "excel",
+        "virtual assistant",
+        "html",
+        "legal",
+        "teaching"
+      ],
+      "title": "Estimator",
+      "url": "https://remoteOK.com/remote-jobs/remote-estimator-cgc-recruitment-1136416"
+    },
+    {
+      "company": "Alloy Robotics",
+      "fetched_at": "2026-08-12T11:52:07.572794+00:00",
+      "id": "9b84da56e240",
+      "location": "Sydney,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "robotics"
+      ],
+      "title": "Expression of Interest",
+      "url": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-alloy-robotics-1136384"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-12T11:52:07.572794+00:00",
+      "id": "373ccf7d3b20",
+      "location": "Remote",
+      "posted_at": "2026-08-12T11:29:05+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-j8c"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-12T11:52:07.572794+00:00",
+      "id": "5c9bb219bbb9",
+      "location": "Remote",
+      "posted_at": "2026-08-12T10:41:12+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2gce"
+    },
+    {
       "company": "University of Patanjali",
       "fetched_at": "2026-08-12T10:12:44.697129+00:00",
       "id": "1e0f2e275322",
@@ -10329,5 +10436,5 @@
       "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-8"
     }
   ],
-  "updated_at": "2026-08-12T10:12:44.697129+00:00"
+  "updated_at": "2026-08-12T11:52:07.572794+00:00"
 }
