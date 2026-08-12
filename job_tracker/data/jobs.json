@@ -1,6 +1,66 @@
 {
   "jobs": [
     {
+      "company": "City of Peoria, Arizona",
+      "fetched_at": "2026-08-12T04:51:53.810932+00:00",
+      "id": "0062fd84d033",
+      "location": "Peoria,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "ops",
+        "testing",
+        "non tech"
+      ],
+      "title": "Facilities Technician II #JR100294",
+      "url": "https://remoteOK.com/remote-jobs/remote-facilities-technician-ii-jr100294-city-of-peoria-arizona-1136454"
+    },
+    {
+      "company": "US Army Corps of Engineers",
+      "fetched_at": "2026-08-12T04:51:53.810932+00:00",
+      "id": "14b2376f9569",
+      "location": "Redstone Arsenal,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "ops"
+      ],
+      "title": "Interdisciplinary",
+      "url": "https://remoteOK.com/remote-jobs/remote-interdisciplinary-us-army-corps-of-engineers-1136453"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-12T04:51:53.810932+00:00",
+      "id": "c33f0b9335b9",
+      "location": "Remote",
+      "posted_at": "2026-08-12T03:53:48+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-l79"
+    },
+    {
+      "company": "David Stark",
+      "fetched_at": "2026-08-12T04:51:53.810932+00:00",
+      "id": "f1ec93be4731",
+      "location": "Remote",
+      "posted_at": "2026-08-12T02:26:09+00:00",
+      "source": "devto",
+      "tags": [
+        "python",
+        "django",
+        "datascience",
+        "jobs"
+      ],
+      "title": "David Stark: Top High-Paying Roles",
+      "url": "https://dev.to/devpulse/david-stark-top-high-paying-roles-4263"
+    },
+    {
       "company": "PAYTM SERVICES PVT LTD",
       "fetched_at": "2026-08-12T02:24:35.076711+00:00",
       "id": "ad9eea62ca68",
@@ -9666,5 +9726,5 @@
       "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-8"
     }
   ],
-  "updated_at": "2026-08-12T02:24:35.076711+00:00"
+  "updated_at": "2026-08-12T04:51:53.810932+00:00"
 }
