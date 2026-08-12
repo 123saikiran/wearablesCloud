@@ -21,6 +21,13 @@
       ],
       "last_seen": "2026-08-06T15:26:05.274918+00:00"
     },
+    "ATOM Partners": {
+      "count": 1,
+      "job_ids": [
+        "36f3e335cfc7"
+      ],
+      "last_seen": "2026-08-12T13:21:46.868019+00:00"
+    },
     "Accenture in India": {
       "count": 2,
       "job_ids": [
@@ -380,6 +387,13 @@
         "9ae7b313b648"
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
+    },
+    "City of Kamloops": {
+      "count": 1,
+      "job_ids": [
+        "786b8d720dc6"
+      ],
+      "last_seen": "2026-08-12T13:21:46.868019+00:00"
     },
     "City of Lancaster, Pennsylvania": {
       "count": 1,
@@ -1485,13 +1499,12 @@
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
     "Proxify AB": {
-      "count": 5,
+      "count": 4,
       "job_ids": [
         "4f15e453c57f",
         "a5aa0e23feb3",
         "fa50fa4ea679",
-        "15dab902d0a7",
-        "342e95eaf1dd"
+        "15dab902d0a7"
       ],
       "last_seen": "2026-07-13T13:41:15+00:00"
     },
@@ -1540,8 +1553,9 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 164,
+      "count": 165,
       "job_ids": [
+        "f63bf502c227",
         "373ccf7d3b20",
         "5c9bb219bbb9",
         "c0ef97bcc203",
@@ -1707,7 +1721,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-12T11:29:05+00:00"
+      "last_seen": "2026-08-12T12:29:45+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -1928,13 +1942,14 @@
       "last_seen": "2026-08-06T15:26:05.274918+00:00"
     },
     "Stripe": {
-      "count": 3,
+      "count": 4,
       "job_ids": [
+        "67b6a84148b8",
         "504218801790",
         "b670e6a23ffa",
         "6a8d17f2dcd5"
       ],
-      "last_seen": "2026-07-22T07:01:35+00:00"
+      "last_seen": "2026-07-22T07:01:44+00:00"
     },
     "Sumyfi.com": {
       "count": 1,
@@ -2212,6 +2227,13 @@
       ],
       "last_seen": "2026-08-12T06:18:42.957642+00:00"
     },
+    "Warmup PLC": {
+      "count": 1,
+      "job_ids": [
+        "a83c21d9426d"
+      ],
+      "last_seen": "2026-08-12T13:21:46.868019+00:00"
+    },
     "Washington State University School of Food Science": {
       "count": 1,
       "job_ids": [
@@ -2404,5 +2426,5 @@
       "last_seen": "2026-08-07T00:07:27.688735+00:00"
     }
   },
-  "updated_at": "2026-08-12T11:52:07.572794+00:00"
+  "updated_at": "2026-08-12T13:21:46.868019+00:00"
 }

@@ -1,6 +1,73 @@
 {
   "jobs": [
     {
+      "company": "ATOM Partners",
+      "fetched_at": "2026-08-12T13:21:46.868019+00:00",
+      "id": "36f3e335cfc7",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "other",
+        "crypto",
+        "web3",
+        "bitcoin",
+        "remote",
+        "trader",
+        "finance",
+        "web dev",
+        "defi",
+        "blockchain",
+        "education",
+        "worldwide"
+      ],
+      "title": "Junior Crypto Trader",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-crypto-trader-atom-partners-1136383"
+    },
+    {
+      "company": "City of Kamloops",
+      "fetched_at": "2026-08-12T13:21:46.868019+00:00",
+      "id": "786b8d720dc6",
+      "location": "Kamloops,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "hr",
+        "education",
+        "admin",
+        "non tech"
+      ],
+      "title": "Lifeguard",
+      "url": "https://remoteOK.com/remote-jobs/remote-lifeguard-city-of-kamloops-1136557"
+    },
+    {
+      "company": "Warmup PLC",
+      "fetched_at": "2026-08-12T13:21:46.868019+00:00",
+      "id": "a83c21d9426d",
+      "location": "London Area,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [],
+      "title": "Your Next Role",
+      "url": "https://remoteOK.com/remote-jobs/remote-your-next-role-warmup-plc-1136448"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-12T13:21:46.868019+00:00",
+      "id": "f63bf502c227",
+      "location": "Remote",
+      "posted_at": "2026-08-12T12:29:45+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1hco"
+    },
+    {
       "company": "Universal Wolf",
       "fetched_at": "2026-08-12T11:52:07.572794+00:00",
       "id": "0263d04e5eaf",
@@ -10150,6 +10217,19 @@
       "url": "https://weworkremotely.com/remote-jobs/coinbase-business-operations-senior-associate-institutional"
     },
     {
+      "company": "Stripe",
+      "fetched_at": "2026-08-12T13:21:46.868019+00:00",
+      "id": "67b6a84148b8",
+      "location": "Remote",
+      "posted_at": "2026-07-22T07:01:44+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Full-Stack Programming"
+      ],
+      "title": "Credit Risk Analyst, North American Underwriter",
+      "url": "https://weworkremotely.com/remote-jobs/stripe-credit-risk-analyst-north-american-underwriter"
+    },
+    {
       "company": "Airtable",
       "fetched_at": "2026-08-10T13:21:11.328604+00:00",
       "id": "736b01bb1885",
@@ -10421,20 +10501,7 @@
       ],
       "title": "Senior Ruby on Rails Developer",
       "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-3"
-    },
-    {
-      "company": "Proxify AB",
-      "fetched_at": "2026-08-05T14:21:54.411152+00:00",
-      "id": "342e95eaf1dd",
-      "location": "Remote",
-      "posted_at": "2026-07-13T12:54:38+00:00",
-      "source": "weworkremotely",
-      "tags": [
-        "Back-End Programming"
-      ],
-      "title": "Senior Backend Developer (Python)",
-      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-8"
     }
   ],
-  "updated_at": "2026-08-12T11:52:07.572794+00:00"
+  "updated_at": "2026-08-12T13:21:46.868019+00:00"
 }
