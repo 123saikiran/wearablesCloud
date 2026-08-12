@@ -1,6 +1,35 @@
 {
   "jobs": [
     {
+      "company": "University of Patanjali",
+      "fetched_at": "2026-08-12T10:12:44.697129+00:00",
+      "id": "1e0f2e275322",
+      "location": "Tikamgarh,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "teaching"
+      ],
+      "title": "Non Teaching Staff",
+      "url": "https://remoteOK.com/remote-jobs/remote-non-teaching-staff-university-of-patanjali-1136385"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-12T10:12:44.697129+00:00",
+      "id": "c0ef97bcc203",
+      "location": "Remote",
+      "posted_at": "2026-08-12T09:31:07+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-mmk"
+    },
+    {
       "company": "CoverGo",
       "fetched_at": "2026-08-12T08:22:52.939400+00:00",
       "id": "ccb116c5ee76",
@@ -10001,6 +10030,19 @@
       "url": "https://weworkremotely.com/remote-jobs/airtable-program-manager-professional-services-west"
     },
     {
+      "company": "Coinbase",
+      "fetched_at": "2026-08-12T10:12:44.697129+00:00",
+      "id": "6e85fcef7314",
+      "location": "Remote",
+      "posted_at": "2026-07-22T07:01:44+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Full-Stack Programming"
+      ],
+      "title": "Business Operations Senior Associate, Institutional",
+      "url": "https://weworkremotely.com/remote-jobs/coinbase-business-operations-senior-associate-institutional"
+    },
+    {
       "company": "Airtable",
       "fetched_at": "2026-08-10T13:21:11.328604+00:00",
       "id": "736b01bb1885",
@@ -10287,5 +10329,5 @@
       "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-8"
     }
   ],
-  "updated_at": "2026-08-12T08:22:52.939400+00:00"
+  "updated_at": "2026-08-12T10:12:44.697129+00:00"
 }

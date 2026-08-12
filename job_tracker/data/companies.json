@@ -433,11 +433,12 @@
       "last_seen": "2026-07-22T07:00:51+00:00"
     },
     "Coinbase": {
-      "count": 1,
+      "count": 2,
       "job_ids": [
+        "6e85fcef7314",
         "2030e1c432ca"
       ],
-      "last_seen": "2026-07-22T07:01:32+00:00"
+      "last_seen": "2026-07-22T07:01:44+00:00"
     },
     "Compact Home Lifts": {
       "count": 1,
@@ -1525,8 +1526,9 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 161,
+      "count": 162,
       "job_ids": [
+        "c0ef97bcc203",
         "27afb5ed4c3e",
         "5b97a4fd9ed0",
         "424ba1e80c2a",
@@ -1689,7 +1691,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-12T08:06:49+00:00"
+      "last_seen": "2026-08-12T09:31:07+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -2159,6 +2161,13 @@
       ],
       "last_seen": "2026-08-06T00:04:03.364954+00:00"
     },
+    "University of Patanjali": {
+      "count": 1,
+      "job_ids": [
+        "1e0f2e275322"
+      ],
+      "last_seen": "2026-08-12T10:12:44.697129+00:00"
+    },
     "Utility Supply Corporation": {
       "count": 1,
       "job_ids": [
@@ -2372,5 +2381,5 @@
       "last_seen": "2026-08-07T00:07:27.688735+00:00"
     }
   },
-  "updated_at": "2026-08-12T08:22:52.939400+00:00"
+  "updated_at": "2026-08-12T10:12:44.697129+00:00"
 }
