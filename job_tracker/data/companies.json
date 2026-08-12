@@ -1575,8 +1575,10 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 168,
+      "count": 170,
       "job_ids": [
+        "7b2f3f733fd2",
+        "8ded37010fad",
         "c408e998d57b",
         "b6d2aa7c22d3",
         "63aab68fdc86",
@@ -1746,7 +1748,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-12T16:09:31+00:00"
+      "last_seen": "2026-08-12T18:05:49+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -2054,11 +2056,13 @@
       "last_seen": "2026-08-06T07:43:52.639381+00:00"
     },
     "The Home Depot Canada": {
-      "count": 1,
+      "count": 3,
       "job_ids": [
+        "d745d22e0e55",
+        "ad1ac47d0c54",
         "20531faffaa1"
       ],
-      "last_seen": "2026-08-12T06:18:42.957642+00:00"
+      "last_seen": "2026-08-12T19:08:38.490828+00:00"
     },
     "The McBride Group": {
       "count": 1,
@@ -2458,5 +2462,5 @@
       "last_seen": "2026-08-07T00:07:27.688735+00:00"
     }
   },
-  "updated_at": "2026-08-12T17:01:33.885762+00:00"
+  "updated_at": "2026-08-12T19:08:38.490828+00:00"
 }

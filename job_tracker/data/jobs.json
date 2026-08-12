@@ -1,6 +1,93 @@
 {
   "jobs": [
     {
+      "company": "The Home Depot Canada",
+      "fetched_at": "2026-08-12T19:08:38.490828+00:00",
+      "id": "d745d22e0e55",
+      "location": "Calgary,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "supervisor",
+        "web dev",
+        "travel",
+        "exec",
+        "sales"
+      ],
+      "title": "Merchandising Execution Associate MARLBOROUGH",
+      "url": "https://remoteOK.com/remote-jobs/remote-merchandising-execution-associate-marlborough-the-home-depot-canada-1136504"
+    },
+    {
+      "company": "The Home Depot Canada",
+      "fetched_at": "2026-08-12T19:08:38.490828+00:00",
+      "id": "ad1ac47d0c54",
+      "location": "Brampton,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "wordpress",
+        "vfx",
+        "teaching",
+        "education",
+        "game dev",
+        "full stack",
+        "writer",
+        "transcribing",
+        "dev",
+        "testing",
+        "marketing",
+        "web dev",
+        "speech",
+        "virtual assistant",
+        "video",
+        "serverless",
+        "cloud",
+        "git",
+        "seo",
+        "content writing",
+        "stats",
+        "sales",
+        "golang",
+        "non tech",
+        "digital nomad"
+      ],
+      "title": "Loss Prevention Specialist",
+      "url": "https://remoteOK.com/remote-jobs/remote-loss-prevention-specialist-the-home-depot-canada-1136390"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-12T19:08:38.490828+00:00",
+      "id": "7b2f3f733fd2",
+      "location": "Remote",
+      "posted_at": "2026-08-12T18:05:49+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-17jh"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-12T19:08:38.490828+00:00",
+      "id": "8ded37010fad",
+      "location": "Remote",
+      "posted_at": "2026-08-12T17:10:18+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-76g"
+    },
+    {
       "company": "AI Supermarket",
       "fetched_at": "2026-08-12T17:01:33.885762+00:00",
       "id": "04497129a097",
@@ -10917,5 +11004,5 @@
       "url": "https://weworkremotely.com/remote-jobs/snapscale-wp-dev-remote"
     }
   ],
-  "updated_at": "2026-08-12T17:01:33.885762+00:00"
+  "updated_at": "2026-08-12T19:08:38.490828+00:00"
 }
