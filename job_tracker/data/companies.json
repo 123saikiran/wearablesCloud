@@ -7,6 +7,18 @@
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
+    "AI Supermarket": {
+      "count": 6,
+      "job_ids": [
+        "04497129a097",
+        "e8b41cd055ba",
+        "1a0e07d7ccaa",
+        "4234b1f2ecef",
+        "7a1260b783b3",
+        "b3ff6ce73dc8"
+      ],
+      "last_seen": "2026-08-12T17:01:33.885762+00:00"
+    },
     "ALSEI": {
       "count": 1,
       "job_ids": [
@@ -827,6 +839,13 @@
       ],
       "last_seen": "2026-08-08T21:35:52.348633+00:00"
     },
+    "Goddard Enterprises Ltd.": {
+      "count": 1,
+      "job_ids": [
+        "22923a5cdba7"
+      ],
+      "last_seen": "2026-08-12T17:01:33.885762+00:00"
+    },
     "Grapefruit Health": {
       "count": 1,
       "job_ids": [
@@ -1475,6 +1494,13 @@
       ],
       "last_seen": "2026-08-09T04:21:53.059120+00:00"
     },
+    "ProFlo": {
+      "count": 1,
+      "job_ids": [
+        "76206a2baae5"
+      ],
+      "last_seen": "2026-08-12T17:01:33.885762+00:00"
+    },
     "Procables de MÃ©xico": {
       "count": 1,
       "job_ids": [
@@ -1549,8 +1575,10 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 166,
+      "count": 168,
       "job_ids": [
+        "c408e998d57b",
+        "b6d2aa7c22d3",
         "63aab68fdc86",
         "f63bf502c227",
         "373ccf7d3b20",
@@ -1718,7 +1746,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-12T14:04:30+00:00"
+      "last_seen": "2026-08-12T16:09:31+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -2430,5 +2458,5 @@
       "last_seen": "2026-08-07T00:07:27.688735+00:00"
     }
   },
-  "updated_at": "2026-08-12T15:03:02.733629+00:00"
+  "updated_at": "2026-08-12T17:01:33.885762+00:00"
 }
