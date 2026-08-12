@@ -1,0 +1,15 @@
+# Activate with SPRING_PROFILES_ACTIVE=okta
+# Requires an Okta OIDC app with
+# redirect URI: http://localhost:8080/login/oauth2/code/okta
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          okta:
+            client-id: ${OKTA_CLIENT_ID}
+            client-secret: ${OKTA_CLIENT_SECRET}
+            scope: [ openid, profile, email ]
+        provider:
+          okta:
+            issuer-uri: ${OKTA_ISSUER_URI}

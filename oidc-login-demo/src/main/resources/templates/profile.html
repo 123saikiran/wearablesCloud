@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Signed in — OIDC Login Demo</title>
+    <link rel="stylesheet" th:href="@{/css/style.css}">
+</head>
+<body>
+<div class="page">
+    <header class="hero">
+        <div class="avatar" th:if="${user.picture}">
+            <img th:src="${user.picture}" alt="Profile picture">
+        </div>
+        <h1 th:text="${'Welcome, ' + (user.fullName ?: user.subject) + '!'}">Welcome!</h1>
+        <p th:if="${user.email}" th:text="${user.email}">user@example.com</p>
+    </header>
+
+    <div class="card">
+        <h2>ID token claims</h2>
+        <p class="muted">This is exactly what the identity provider vouched for &mdash; nothing here comes from a
+            local database.</p>
+        <table class="claims">
+            <thead>
+            <tr><th>Claim</th><th>Value</th></tr>
+            </thead>
+            <tbody>
+            <tr th:each="claim : ${user.claims}">
+                <td th:text="${claim.key}">claim</td>
+                <td th:text="${claim.value}">value</td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <div class="card">
+        <h2>Token metadata</h2>
+        <table class="claims">
+            <tbody>
+            <tr><td>Issuer</td><td th:text="${user.issuer}">issuer</td></tr>
+            <tr><td>Issued at</td><td th:text="${user.issuedAt}">issued</td></tr>
+            <tr><td>Expires at</td><td th:text="${user.expiresAt}">expires</td></tr>
+            </tbody>
+        </table>
+    </div>
+
+    <form th:action="@{/logout}" method="post" class="logout-form">
+        <button type="submit" class="provider-btn logout">Sign out</button>
+    </form>
+</div>
+</body>
+</html>
