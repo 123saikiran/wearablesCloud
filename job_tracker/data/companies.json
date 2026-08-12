@@ -446,6 +446,13 @@
       ],
       "last_seen": "2026-08-08T03:41:03.894705+00:00"
     },
+    "Compass Group Canada": {
+      "count": 1,
+      "job_ids": [
+        "8bb426b6dbbf"
+      ],
+      "last_seen": "2026-08-12T06:18:42.957642+00:00"
+    },
     "Compucorp Inc": {
       "count": 1,
       "job_ids": [
@@ -858,6 +865,20 @@
       ],
       "last_seen": "2026-08-11T20:53:11.189185+00:00"
     },
+    "Honeywell Aerospace": {
+      "count": 1,
+      "job_ids": [
+        "ad247e7821cb"
+      ],
+      "last_seen": "2026-08-12T06:18:42.957642+00:00"
+    },
+    "HongSheng North America Inc.": {
+      "count": 1,
+      "job_ids": [
+        "ba1bc8bd87b8"
+      ],
+      "last_seen": "2026-08-12T06:18:42.957642+00:00"
+    },
     "Hot9ja": {
       "count": 2,
       "job_ids": [
@@ -907,6 +928,13 @@
         "7098a2f02532"
       ],
       "last_seen": "2026-08-07T00:07:27.688735+00:00"
+    },
+    "JD Finish Line": {
+      "count": 1,
+      "job_ids": [
+        "38099c0e4ed0"
+      ],
+      "last_seen": "2026-08-12T06:18:42.957642+00:00"
     },
     "Jalandhar Local": {
       "count": 1,
@@ -993,6 +1021,13 @@
       ],
       "last_seen": "2026-08-06T00:04:03.364954+00:00"
     },
+    "LOCAL Public Eatery": {
+      "count": 1,
+      "job_ids": [
+        "522d2e39ad7f"
+      ],
+      "last_seen": "2026-08-12T06:18:42.957642+00:00"
+    },
     "Lemon.io": {
       "count": 1,
       "job_ids": [
@@ -1006,6 +1041,13 @@
         "f2011eb0917d"
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
+    },
+    "Loblaw Companies Limited": {
+      "count": 1,
+      "job_ids": [
+        "7cf41773b5ec"
+      ],
+      "last_seen": "2026-08-12T06:18:42.957642+00:00"
     },
     "London Borough of Merton": {
       "count": 1,
@@ -1391,6 +1433,13 @@
       ],
       "last_seen": "2026-08-09T04:21:53.059120+00:00"
     },
+    "Procables de MÃ©xico": {
+      "count": 1,
+      "job_ids": [
+        "0042b6734fe4"
+      ],
+      "last_seen": "2026-08-12T06:18:42.957642+00:00"
+    },
     "ProductionBeast": {
       "count": 2,
       "job_ids": [
@@ -1469,8 +1518,9 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 158,
+      "count": 159,
       "job_ids": [
+        "424ba1e80c2a",
         "c33f0b9335b9",
         "a0cd3093c440",
         "896233cd355c",
@@ -1630,7 +1680,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-12T03:53:48+00:00"
+      "last_seen": "2026-08-12T05:24:38+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -1936,6 +1986,13 @@
       ],
       "last_seen": "2026-08-06T07:43:52.639381+00:00"
     },
+    "The Home Depot Canada": {
+      "count": 1,
+      "job_ids": [
+        "20531faffaa1"
+      ],
+      "last_seen": "2026-08-12T06:18:42.957642+00:00"
+    },
     "The McBride Group": {
       "count": 1,
       "job_ids": [
@@ -1977,6 +2034,14 @@
         "032c5e327382"
       ],
       "last_seen": "2026-08-08T05:03:35.353503+00:00"
+    },
+    "Tim Hortons QuÃ©bec": {
+      "count": 2,
+      "job_ids": [
+        "b842011e37ba",
+        "0d811bb8b5c6"
+      ],
+      "last_seen": "2026-08-12T06:18:42.957642+00:00"
     },
     "Tito's Handmade Vodka": {
       "count": 1,
@@ -2084,6 +2149,20 @@
         "24c91bfe3b9b"
       ],
       "last_seen": "2026-08-06T00:04:03.364954+00:00"
+    },
+    "Utility Supply Corporation": {
+      "count": 1,
+      "job_ids": [
+        "79950eb02bbe"
+      ],
+      "last_seen": "2026-08-12T06:18:42.957642+00:00"
+    },
+    "Walmart Canada": {
+      "count": 1,
+      "job_ids": [
+        "1ba42380a91f"
+      ],
+      "last_seen": "2026-08-12T06:18:42.957642+00:00"
     },
     "Washington State University School of Food Science": {
       "count": 1,
@@ -2277,5 +2356,5 @@
       "last_seen": "2026-08-07T00:07:27.688735+00:00"
     }
   },
-  "updated_at": "2026-08-12T04:51:53.810932+00:00"
+  "updated_at": "2026-08-12T06:18:42.957642+00:00"
 }
