@@ -1,6 +1,145 @@
 {
   "jobs": [
     {
+      "company": "Stone",
+      "fetched_at": "2026-08-13T17:01:23.634232+00:00",
+      "id": "ffbaf6584beb",
+      "location": "Remoto",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "dev",
+        "mobile",
+        "excel",
+        "engineer",
+        "digital nomad"
+      ],
+      "title": "Software Engineer III Mobile",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-iii-mobile-stone-1136570"
+    },
+    {
+      "company": "Stone",
+      "fetched_at": "2026-08-13T17:01:23.634232+00:00",
+      "id": "625296cb597b",
+      "location": "Remoto",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "dev",
+        "excel",
+        "golang",
+        "engineer",
+        "digital nomad"
+      ],
+      "title": "Software Engineer II Golang",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ii-golang-stone-1136569"
+    },
+    {
+      "company": "Bybit",
+      "fetched_at": "2026-08-13T17:01:23.634232+00:00",
+      "id": "6bb11a3b4b93",
+      "location": "LATAM",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "virtual assistant",
+        "web3",
+        "crypto",
+        "finance",
+        "exec"
+      ],
+      "title": "P2P BD Assistant",
+      "url": "https://remoteOK.com/remote-jobs/remote-p2p-bd-assistant-bybit-1136568"
+    },
+    {
+      "company": "American Bureau of Shipping (ABS)",
+      "fetched_at": "2026-08-13T17:01:23.634232+00:00",
+      "id": "ea12a15427d6",
+      "location": "Port of Spain,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "sales",
+        "engineer",
+        "technical",
+        "ecommerce",
+        "teaching",
+        "admin",
+        "education",
+        "infosec",
+        "design",
+        "hr",
+        "sys admin",
+        "customer support",
+        "testing",
+        "travel",
+        "exec",
+        "ops",
+        "medical",
+        "full time",
+        "digital nomad",
+        "supervisor",
+        "dev",
+        "senior",
+        "junior"
+      ],
+      "title": "Surveyor I",
+      "url": "https://remoteOK.com/remote-jobs/remote-surveyor-i-american-bureau-of-shipping-abs-1136592"
+    },
+    {
+      "company": "Adaptive Teams",
+      "fetched_at": "2026-08-13T17:01:23.634232+00:00",
+      "id": "37140df697ef",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "hr",
+        "sys admin",
+        "education",
+        "customer support",
+        "video",
+        "finance",
+        "legal",
+        "part time",
+        "non tech"
+      ],
+      "title": "Customer Service Representative",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-service-representative-adaptive-teams-1136566"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-13T17:01:23.634232+00:00",
+      "id": "fd879a2dd2f2",
+      "location": "Remote",
+      "posted_at": "2026-08-13T16:41:12+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3928"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-13T17:01:23.634232+00:00",
+      "id": "b98af16c976f",
+      "location": "Remote",
+      "posted_at": "2026-08-13T15:44:50+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-5ho"
+    },
+    {
       "company": "Skanska Costain STRABAG Joint Venture",
       "fetched_at": "2026-08-13T15:03:05.076331+00:00",
       "id": "c06e676d1388",
@@ -11597,5 +11736,5 @@
       "url": "https://weworkremotely.com/remote-jobs/snapscale-wp-dev-remote"
     }
   ],
-  "updated_at": "2026-08-13T15:03:05.076331+00:00"
+  "updated_at": "2026-08-13T17:01:23.634232+00:00"
 }
