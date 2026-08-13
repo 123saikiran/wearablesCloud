@@ -19,6 +19,13 @@
       ],
       "last_seen": "2026-08-12T17:01:33.885762+00:00"
     },
+    "ALEH Writing Services (AWS)": {
+      "count": 1,
+      "job_ids": [
+        "1d01194bb517"
+      ],
+      "last_seen": "2026-08-13T10:13:29.167916+00:00"
+    },
     "ALSEI": {
       "count": 1,
       "job_ids": [
@@ -589,6 +596,13 @@
       ],
       "last_seen": "2026-08-05T16:45:17.080422+00:00"
     },
+    "Cyber Updates 365": {
+      "count": 1,
+      "job_ids": [
+        "e2d15ab06fd1"
+      ],
+      "last_seen": "2026-08-13T08:26:06+00:00"
+    },
     "DAMIANI Group": {
       "count": 1,
       "job_ids": [
@@ -1066,6 +1080,13 @@
         "9141c7b4b59a"
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
+    },
+    "Kanji Sweets": {
+      "count": 1,
+      "job_ids": [
+        "2216dd7c134e"
+      ],
+      "last_seen": "2026-08-13T10:13:29.167916+00:00"
     },
     "Kent Country": {
       "count": 2,
@@ -1610,8 +1631,9 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 181,
+      "count": 182,
       "job_ids": [
+        "05c7c696f7ce",
         "647f649c0fdd",
         "754fb9ae07e7",
         "729dc4059c69",
@@ -1794,7 +1816,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-13T08:10:48+00:00"
+      "last_seen": "2026-08-13T09:32:51+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -2523,5 +2545,5 @@
       "last_seen": "2026-08-07T00:07:27.688735+00:00"
     }
   },
-  "updated_at": "2026-08-13T08:25:22.850642+00:00"
+  "updated_at": "2026-08-13T10:13:29.167916+00:00"
 }

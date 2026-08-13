@@ -1,6 +1,63 @@
 {
   "jobs": [
     {
+      "company": "Kanji Sweets",
+      "fetched_at": "2026-08-13T10:13:29.167916+00:00",
+      "id": "2216dd7c134e",
+      "location": "Jaipur,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "ecommerce",
+        "ops"
+      ],
+      "title": "E commerce",
+      "url": "https://remoteOK.com/remote-jobs/remote-e-commerce-kanji-sweets-1136559"
+    },
+    {
+      "company": "ALEH Writing Services (AWS)",
+      "fetched_at": "2026-08-13T10:13:29.167916+00:00",
+      "id": "1d01194bb517",
+      "location": "Winnipeg,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [],
+      "title": "Seeking a job",
+      "url": "https://remoteOK.com/remote-jobs/remote-seeking-a-job-aleh-writing-services-aws-1136558"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-13T10:13:29.167916+00:00",
+      "id": "05c7c696f7ce",
+      "location": "Remote",
+      "posted_at": "2026-08-13T09:32:51+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1h0o"
+    },
+    {
+      "company": "Cyber Updates 365",
+      "fetched_at": "2026-08-13T10:13:29.167916+00:00",
+      "id": "e2d15ab06fd1",
+      "location": "Remote",
+      "posted_at": "2026-08-13T08:26:06+00:00",
+      "source": "devto",
+      "tags": [
+        "cybersecurity",
+        "remotework",
+        "jobs",
+        "infosec"
+      ],
+      "title": "The $400k Reality of remote cyber security jobs in 2026",
+      "url": "https://dev.to/cyberupdates365/the-400k-reality-of-remote-cyber-security-jobs-in-2026-1k8f"
+    },
+    {
       "company": "Tucker's Farm Corporation",
       "fetched_at": "2026-08-13T08:25:22.850642+00:00",
       "id": "fc2025e07cd2",
@@ -11340,5 +11397,5 @@
       "url": "https://weworkremotely.com/remote-jobs/snapscale-wp-dev-remote"
     }
   ],
-  "updated_at": "2026-08-13T08:25:22.850642+00:00"
+  "updated_at": "2026-08-13T10:13:29.167916+00:00"
 }
