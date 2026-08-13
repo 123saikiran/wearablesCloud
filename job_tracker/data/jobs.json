@@ -1,6 +1,59 @@
 {
   "jobs": [
     {
+      "company": "SLB",
+      "fetched_at": "2026-08-13T11:52:43.272599+00:00",
+      "id": "1c0f685a7b44",
+      "location": "San Fernando,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "customer support",
+        "video",
+        "full time",
+        "non tech",
+        "technical",
+        "testing",
+        "microsoft",
+        "exec",
+        "ops"
+      ],
+      "title": "Operator",
+      "url": "https://remoteOK.com/remote-jobs/remote-operator-slb-1136563"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-13T11:52:43.272599+00:00",
+      "id": "cb11f2554bc7",
+      "location": "Remote",
+      "posted_at": "2026-08-13T11:28:11+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-n7d"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-13T11:52:43.272599+00:00",
+      "id": "c6f35a4d2a69",
+      "location": "Remote",
+      "posted_at": "2026-08-13T10:42:16+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3hgd"
+    },
+    {
       "company": "Kanji Sweets",
       "fetched_at": "2026-08-13T10:13:29.167916+00:00",
       "id": "2216dd7c134e",
@@ -11397,5 +11450,5 @@
       "url": "https://weworkremotely.com/remote-jobs/snapscale-wp-dev-remote"
     }
   ],
-  "updated_at": "2026-08-13T10:13:29.167916+00:00"
+  "updated_at": "2026-08-13T11:52:43.272599+00:00"
 }
