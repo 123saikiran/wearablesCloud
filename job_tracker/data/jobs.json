@@ -1,6 +1,122 @@
 {
   "jobs": [
     {
+      "company": "The Security Centre Limited.",
+      "fetched_at": "2026-08-13T21:52:32.103505+00:00",
+      "id": "6ab0eeeec987",
+      "location": "George Town,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "sales",
+        "engineer",
+        "technical",
+        "ecommerce",
+        "teaching",
+        "admin",
+        "education",
+        "infosec",
+        "design",
+        "hr",
+        "sys admin",
+        "customer support",
+        "testing",
+        "travel",
+        "exec",
+        "ops",
+        "medical",
+        "full time",
+        "digital nomad"
+      ],
+      "title": "Technician",
+      "url": "https://remoteOK.com/remote-jobs/remote-technician-the-security-centre-limited-1136590"
+    },
+    {
+      "company": "WB Melback Corporation",
+      "fetched_at": "2026-08-13T21:52:32.103505+00:00",
+      "id": "6100decc4ca6",
+      "location": "Haileybury,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [],
+      "title": "All Other Future Considerations",
+      "url": "https://remoteOK.com/remote-jobs/remote-all-other-future-considerations-wb-melback-corporation-1136583"
+    },
+    {
+      "company": "Napa Valley Country Club",
+      "fetched_at": "2026-08-13T21:52:32.103505+00:00",
+      "id": "8d3fc71bc58c",
+      "location": "Gorubathan,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "ops",
+        "project manager",
+        "exec",
+        "marketing",
+        "technical",
+        "customer support",
+        "testing",
+        "dev",
+        "digital nomad"
+      ],
+      "title": "APPLY TODAY",
+      "url": "https://remoteOK.com/remote-jobs/remote-apply-today-napa-valley-country-club-1136617"
+    },
+    {
+      "company": "DealerRefresh",
+      "fetched_at": "2026-08-13T21:52:32.103505+00:00",
+      "id": "e020a7f28129",
+      "location": "Paying,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "ops",
+        "project manager",
+        "exec",
+        "marketing",
+        "technical",
+        "customer support",
+        "testing"
+      ],
+      "title": "What are the highest paying jobs the automotive industry",
+      "url": "https://remoteOK.com/remote-jobs/remote-what-are-the-highest-paying-jobs-the-automotive-industry-dealerrefresh-1136615"
+    },
+    {
+      "company": "SandForce",
+      "fetched_at": "2026-08-13T21:52:32.103505+00:00",
+      "id": "dfb8fdb63d39",
+      "location": "Hunterganj,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "ops",
+        "project manager",
+        "exec",
+        "marketing",
+        "technical",
+        "customer support"
+      ],
+      "title": "Hiring Process",
+      "url": "https://remoteOK.com/remote-jobs/remote-hiringprocess-sandforce-1136612"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-13T21:52:32.103505+00:00",
+      "id": "9e9ed94605ad",
+      "location": "Remote",
+      "posted_at": "2026-08-13T21:10:44+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3625"
+    },
+    {
       "company": "ALEH Writing Services (AWS)",
       "fetched_at": "2026-08-13T20:50:30.001444+00:00",
       "id": "d769dae6b1ca",
@@ -11977,5 +12093,5 @@
       "url": "https://weworkremotely.com/remote-jobs/snapscale-wp-dev-remote"
     }
   ],
-  "updated_at": "2026-08-13T20:50:30.001444+00:00"
+  "updated_at": "2026-08-13T21:52:32.103505+00:00"
 }

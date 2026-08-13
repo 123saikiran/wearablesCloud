@@ -674,6 +674,13 @@
       ],
       "last_seen": "2026-08-12T02:26:09+00:00"
     },
+    "DealerRefresh": {
+      "count": 1,
+      "job_ids": [
+        "e020a7f28129"
+      ],
+      "last_seen": "2026-08-13T21:52:32.103505+00:00"
+    },
     "Deliberate Development": {
       "count": 2,
       "job_ids": [
@@ -1358,6 +1365,13 @@
       ],
       "last_seen": "2026-08-07T20:48:29.269297+00:00"
     },
+    "Napa Valley Country Club": {
+      "count": 1,
+      "job_ids": [
+        "8d3fc71bc58c"
+      ],
+      "last_seen": "2026-08-13T21:52:32.103505+00:00"
+    },
     "Nebraska Public Power District": {
       "count": 1,
       "job_ids": [
@@ -1679,8 +1693,9 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 193,
+      "count": 194,
       "job_ids": [
+        "9e9ed94605ad",
         "a42a96a9b476",
         "43351d484f13",
         "b9ad10df796c",
@@ -1875,7 +1890,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-13T20:20:23+00:00"
+      "last_seen": "2026-08-13T21:10:44+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -1998,6 +2013,13 @@
         "b15fc18f5b47"
       ],
       "last_seen": "2026-08-06T10:45:03.991691+00:00"
+    },
+    "SandForce": {
+      "count": 1,
+      "job_ids": [
+        "dfb8fdb63d39"
+      ],
+      "last_seen": "2026-08-13T21:52:32.103505+00:00"
     },
     "Securancy Intelligence": {
       "count": 1,
@@ -2258,6 +2280,13 @@
       ],
       "last_seen": "2026-08-08T15:35:20.088839+00:00"
     },
+    "The Security Centre Limited.": {
+      "count": 1,
+      "job_ids": [
+        "6ab0eeeec987"
+      ],
+      "last_seen": "2026-08-13T21:52:32.103505+00:00"
+    },
     "The Site Office": {
       "count": 1,
       "job_ids": [
@@ -2435,6 +2464,13 @@
         "07375b378b5d"
       ],
       "last_seen": "2026-08-12T08:22:52.939400+00:00"
+    },
+    "WB Melback Corporation": {
+      "count": 1,
+      "job_ids": [
+        "6100decc4ca6"
+      ],
+      "last_seen": "2026-08-13T21:52:32.103505+00:00"
     },
     "Walmart Canada": {
       "count": 1,
@@ -2649,5 +2685,5 @@
       "last_seen": "2026-08-07T00:07:27.688735+00:00"
     }
   },
-  "updated_at": "2026-08-13T20:50:30.001444+00:00"
+  "updated_at": "2026-08-13T21:52:32.103505+00:00"
 }
