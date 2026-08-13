@@ -1,6 +1,43 @@
 {
   "jobs": [
     {
+      "company": "JDE Peet's",
+      "fetched_at": "2026-08-13T06:22:34.793156+00:00",
+      "id": "2b01c63a8ef7",
+      "location": "Banksmeadow,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "teaching",
+        "education",
+        "customer support",
+        "marketing",
+        "exec",
+        "ops",
+        "excel",
+        "golang",
+        "recruiter"
+      ],
+      "title": "Coffee Roaster Campos Coffee",
+      "url": "https://remoteOK.com/remote-jobs/remote-coffee-roaster-campos-coffee-jde-peets-1136571"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-13T06:22:34.793156+00:00",
+      "id": "729dc4059c69",
+      "location": "Remote",
+      "posted_at": "2026-08-13T05:15:34+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-32eh"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-13T04:56:51.017847+00:00",
       "id": "e709903ccb82",
@@ -11237,5 +11274,5 @@
       "url": "https://weworkremotely.com/remote-jobs/snapscale-wp-dev-remote"
     }
   ],
-  "updated_at": "2026-08-13T04:56:51.017847+00:00"
+  "updated_at": "2026-08-13T06:22:34.793156+00:00"
 }
