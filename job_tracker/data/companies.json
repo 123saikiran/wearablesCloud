@@ -71,9 +71,10 @@
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
     "Airtable": {
-      "count": 4,
+      "count": 5,
       "job_ids": [
         "b3f799034d48",
+        "9ff1645f9570",
         "a9678c63ff51",
         "736b01bb1885",
         "5b922f42f670"
@@ -288,6 +289,13 @@
         "90bad7d56905"
       ],
       "last_seen": "2026-08-08T09:43:39.006739+00:00"
+    },
+    "CESCO Limited": {
+      "count": 1,
+      "job_ids": [
+        "107504995db5"
+      ],
+      "last_seen": "2026-08-13T15:03:05.076331+00:00"
     },
     "CGC Recruitment": {
       "count": 1,
@@ -547,8 +555,10 @@
       "last_seen": "2026-08-12T08:22:52.939400+00:00"
     },
     "Crackr": {
-      "count": 16,
+      "count": 18,
       "job_ids": [
+        "102b75da4bec",
+        "58b8e596ec5e",
         "3f42c648f625",
         "3ffefc07eff5",
         "492aa732bdb5",
@@ -566,7 +576,7 @@
         "3295f687e970",
         "a28c68c2d2f5"
       ],
-      "last_seen": "2026-08-12T15:00:29+00:00"
+      "last_seen": "2026-08-13T15:00:30+00:00"
     },
     "Crawler Bros": {
       "count": 1,
@@ -1631,8 +1641,10 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 185,
+      "count": 187,
       "job_ids": [
+        "062c7ac5c064",
+        "41c3bb7b3b61",
         "1516fc7ba537",
         "cb11f2554bc7",
         "c6f35a4d2a69",
@@ -1819,7 +1831,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-13T12:10:38+00:00"
+      "last_seen": "2026-08-13T14:48:08+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -1844,6 +1856,13 @@
         "52757a3d2d6e"
       ],
       "last_seen": "2026-08-07T00:07:27.688735+00:00"
+    },
+    "RecMan.io": {
+      "count": 1,
+      "job_ids": [
+        "5e592848d86b"
+      ],
+      "last_seen": "2026-08-13T15:03:05.076331+00:00"
     },
     "Remora Technologies Limited": {
       "count": 1,
@@ -1999,6 +2018,14 @@
         "82e546645b4f"
       ],
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
+    },
+    "Skanska Costain STRABAG Joint Venture": {
+      "count": 2,
+      "job_ids": [
+        "c06e676d1388",
+        "3c237129e829"
+      ],
+      "last_seen": "2026-08-13T15:03:05.076331+00:00"
     },
     "Skinventory": {
       "count": 5,
@@ -2555,5 +2582,5 @@
       "last_seen": "2026-08-07T00:07:27.688735+00:00"
     }
   },
-  "updated_at": "2026-08-13T13:24:02.082582+00:00"
+  "updated_at": "2026-08-13T15:03:05.076331+00:00"
 }

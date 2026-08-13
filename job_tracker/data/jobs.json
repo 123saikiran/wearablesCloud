@@ -1,6 +1,124 @@
 {
   "jobs": [
     {
+      "company": "Skanska Costain STRABAG Joint Venture",
+      "fetched_at": "2026-08-13T15:03:05.076331+00:00",
+      "id": "c06e676d1388",
+      "location": "London,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec"
+      ],
+      "title": "Tunnel Agent",
+      "url": "https://remoteOK.com/remote-jobs/remote-tunnel-agent-skanska-costain-strabag-joint-venture-1136576"
+    },
+    {
+      "company": "Skanska Costain STRABAG Joint Venture",
+      "fetched_at": "2026-08-13T15:03:05.076331+00:00",
+      "id": "3c237129e829",
+      "location": "London,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec"
+      ],
+      "title": "Sub Agent",
+      "url": "https://remoteOK.com/remote-jobs/remote-sub-agent-skanska-costain-strabag-joint-venture-1136585"
+    },
+    {
+      "company": "RecMan.io",
+      "fetched_at": "2026-08-13T15:03:05.076331+00:00",
+      "id": "5e592848d86b",
+      "location": "Noida,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "testing",
+        "non tech"
+      ],
+      "title": "Test Job Title",
+      "url": "https://remoteOK.com/remote-jobs/remote-test-job-title-recman-io-1136578"
+    },
+    {
+      "company": "CESCO Limited",
+      "fetched_at": "2026-08-13T15:03:05.076331+00:00",
+      "id": "107504995db5",
+      "location": "Montego Bay,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "sales",
+        "engineer"
+      ],
+      "title": "Sales Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-sales-engineer-cesco-limited-1136587"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-08-13T15:03:05.076331+00:00",
+      "id": "102b75da4bec",
+      "location": "Remote",
+      "posted_at": "2026-08-13T15:00:30+00:00",
+      "source": "devto",
+      "tags": [
+        "beginners",
+        "jobs",
+        "career",
+        "programming"
+      ],
+      "title": "Summer 2026 Internships: 8 New Openings This Week (Aug 13)",
+      "url": "https://dev.to/crackr/summer-2026-internships-8-new-openings-this-week-aug-13-4k8"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-08-13T15:03:05.076331+00:00",
+      "id": "58b8e596ec5e",
+      "location": "Remote",
+      "posted_at": "2026-08-13T15:00:26+00:00",
+      "source": "devto",
+      "tags": [
+        "remotework",
+        "jobs",
+        "webdev",
+        "career"
+      ],
+      "title": "Remote SWE Jobs Paying Up to $210k (Aug 13)",
+      "url": "https://dev.to/crackr/remote-swe-jobs-paying-up-to-210k-aug-13-5h1l"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-13T15:03:05.076331+00:00",
+      "id": "062c7ac5c064",
+      "location": "Remote",
+      "posted_at": "2026-08-13T14:48:08+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1fj9"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-13T15:03:05.076331+00:00",
+      "id": "41c3bb7b3b61",
+      "location": "Remote",
+      "posted_at": "2026-08-13T13:45:53+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4gp3"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-13T13:24:02.082582+00:00",
       "id": "1516fc7ba537",
@@ -11167,6 +11285,19 @@
       "url": "https://weworkremotely.com/remote-jobs/airtable-senior-solutions-architect-west-coast"
     },
     {
+      "company": "Airtable",
+      "fetched_at": "2026-08-13T15:03:05.076331+00:00",
+      "id": "9ff1645f9570",
+      "location": "Remote",
+      "posted_at": "2026-07-22T07:02:04+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Full-Stack Programming"
+      ],
+      "title": "Senior Solutions Architect",
+      "url": "https://weworkremotely.com/remote-jobs/airtable-senior-solutions-architect"
+    },
+    {
       "company": "Gusto, Inc.",
       "fetched_at": "2026-08-12T15:03:02.733629+00:00",
       "id": "6117114b69a2",
@@ -11466,5 +11597,5 @@
       "url": "https://weworkremotely.com/remote-jobs/snapscale-wp-dev-remote"
     }
   ],
-  "updated_at": "2026-08-13T13:24:02.082582+00:00"
+  "updated_at": "2026-08-13T15:03:05.076331+00:00"
 }
