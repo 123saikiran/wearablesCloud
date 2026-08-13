@@ -1347,6 +1347,13 @@
       ],
       "last_seen": "2026-08-06T00:04:03.364954+00:00"
     },
+    "Niyukti Systems, Inc": {
+      "count": 1,
+      "job_ids": [
+        "5965277488e9"
+      ],
+      "last_seen": "2026-08-13T08:25:22.850642+00:00"
+    },
     "No Quarter": {
       "count": 3,
       "job_ids": [
@@ -1603,8 +1610,10 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 179,
+      "count": 181,
       "job_ids": [
+        "647f649c0fdd",
+        "754fb9ae07e7",
         "729dc4059c69",
         "e709903ccb82",
         "83af170593fb",
@@ -1785,7 +1794,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-13T05:15:34+00:00"
+      "last_seen": "2026-08-13T08:10:48+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -2194,6 +2203,13 @@
       ],
       "last_seen": "2026-08-07T00:07:27.688735+00:00"
     },
+    "Tucker's Farm Corporation": {
+      "count": 1,
+      "job_ids": [
+        "fc2025e07cd2"
+      ],
+      "last_seen": "2026-08-13T08:25:22.850642+00:00"
+    },
     "Twitan.com": {
       "count": 1,
       "job_ids": [
@@ -2507,5 +2523,5 @@
       "last_seen": "2026-08-07T00:07:27.688735+00:00"
     }
   },
-  "updated_at": "2026-08-13T06:22:34.793156+00:00"
+  "updated_at": "2026-08-13T08:25:22.850642+00:00"
 }
