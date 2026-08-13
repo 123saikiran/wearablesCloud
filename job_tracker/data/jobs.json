@@ -1,6 +1,46 @@
 {
   "jobs": [
     {
+      "company": "Evolve",
+      "fetched_at": "2026-08-13T02:26:16.038372+00:00",
+      "id": "79397a0b4c1e",
+      "location": "Remote - US",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "dev",
+        "design",
+        "embedded",
+        "sys admin",
+        "infosec",
+        "architecture",
+        "testing",
+        "devops",
+        "cloud",
+        "exec",
+        "engineer",
+        "digital nomad"
+      ],
+      "title": "Staff Software Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-evolve-1136447"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-13T02:26:16.038372+00:00",
+      "id": "83af170593fb",
+      "location": "Remote",
+      "posted_at": "2026-08-13T00:47:10+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4jl6"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-12T23:49:02.158746+00:00",
       "id": "c5736f02a028",
@@ -11181,5 +11221,5 @@
       "url": "https://weworkremotely.com/remote-jobs/snapscale-wp-dev-remote"
     }
   ],
-  "updated_at": "2026-08-12T23:49:02.158746+00:00"
+  "updated_at": "2026-08-13T02:26:16.038372+00:00"
 }
