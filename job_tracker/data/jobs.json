@@ -1,6 +1,79 @@
 {
   "jobs": [
     {
+      "company": "IBAC",
+      "fetched_at": "2026-08-13T19:09:06.217584+00:00",
+      "id": "10fa559546db",
+      "location": "Montreal,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [],
+      "title": "Title TBD",
+      "url": "https://remoteOK.com/remote-jobs/remote-title-tbd-ibac-1136572"
+    },
+    {
+      "company": "South Shore Holdings Limited",
+      "fetched_at": "2026-08-13T19:09:06.217584+00:00",
+      "id": "0249b071d770",
+      "location": "Four Ways,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "dev",
+        "digital nomad"
+      ],
+      "title": "Ways of the Qilin",
+      "url": "https://remoteOK.com/remote-jobs/remote-ways-of-the-qilin-south-shore-holdings-limited-1136599"
+    },
+    {
+      "company": "Crawler Bros",
+      "fetched_at": "2026-08-13T19:09:06.217584+00:00",
+      "id": "e43f2b5a8757",
+      "location": "Remote",
+      "posted_at": "2026-08-13T19:07:28+00:00",
+      "source": "devto",
+      "tags": [
+        "jobs",
+        "skills",
+        "marketresearch",
+        "southeastasia"
+      ],
+      "title": "How to Discover Emerging Tech Skills in Southeast Asia",
+      "url": "https://dev.to/crawlerbros/how-to-discover-emerging-tech-skills-in-southeast-asia-18pe"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-13T19:09:06.217584+00:00",
+      "id": "b9ad10df796c",
+      "location": "Remote",
+      "posted_at": "2026-08-13T18:37:17+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-142m"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-13T19:09:06.217584+00:00",
+      "id": "90770ddc634e",
+      "location": "Remote",
+      "posted_at": "2026-08-13T17:41:38+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-19n8"
+    },
+    {
       "company": "Stone",
       "fetched_at": "2026-08-13T17:01:23.634232+00:00",
       "id": "ffbaf6584beb",
@@ -11736,5 +11809,5 @@
       "url": "https://weworkremotely.com/remote-jobs/snapscale-wp-dev-remote"
     }
   ],
-  "updated_at": "2026-08-13T17:01:23.634232+00:00"
+  "updated_at": "2026-08-13T19:09:06.217584+00:00"
 }
