@@ -1,6 +1,68 @@
 {
   "jobs": [
     {
+      "company": "Kempsville Building Materials",
+      "fetched_at": "2026-08-13T22:50:24.422237+00:00",
+      "id": "ec7352596a74",
+      "location": "Fort Wayne,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "web dev",
+        "hr",
+        "sys admin",
+        "marketing",
+        "non tech"
+      ],
+      "title": "Estimator",
+      "url": "https://remoteOK.com/remote-jobs/remote-estimator-kempsville-building-materials-1136623"
+    },
+    {
+      "company": "Sencon",
+      "fetched_at": "2026-08-13T22:50:24.422237+00:00",
+      "id": "823d1d0f7326",
+      "location": "Greater Rockford Area,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "web dev"
+      ],
+      "title": "Sencon . Illinois USA",
+      "url": "https://remoteOK.com/remote-jobs/remote-sencon-illinois-usa-sencon-1136620"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-13T22:50:24.422237+00:00",
+      "id": "8a403fe36bd9",
+      "location": "Remote",
+      "posted_at": "2026-08-13T22:01:55+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-57da"
+    },
+    {
+      "company": "qing",
+      "fetched_at": "2026-08-13T22:50:24.422237+00:00",
+      "id": "94a8f31f006d",
+      "location": "Remote",
+      "posted_at": "2026-08-13T22:00:53+00:00",
+      "source": "devto",
+      "tags": [
+        "python",
+        "webscraping",
+        "jobs",
+        "automation"
+      ],
+      "title": "Build a Job Board Scraper to Find Remote Opportunities",
+      "url": "https://dev.to/qingluan/build-a-job-board-scraper-to-find-remote-opportunities-2ba4"
+    },
+    {
       "company": "The Security Centre Limited.",
       "fetched_at": "2026-08-13T21:52:32.103505+00:00",
       "id": "6ab0eeeec987",
@@ -12093,5 +12155,5 @@
       "url": "https://weworkremotely.com/remote-jobs/snapscale-wp-dev-remote"
     }
   ],
-  "updated_at": "2026-08-13T21:52:32.103505+00:00"
+  "updated_at": "2026-08-13T22:50:24.422237+00:00"
 }
