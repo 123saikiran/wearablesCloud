@@ -1,6 +1,174 @@
 {
   "jobs": [
     {
+      "company": "ALEH Writing Services (AWS)",
+      "fetched_at": "2026-08-13T20:50:30.001444+00:00",
+      "id": "d769dae6b1ca",
+      "location": "Brampton,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "full time"
+      ],
+      "title": "Looking for Job",
+      "url": "https://remoteOK.com/remote-jobs/remote-looking-for-job-aleh-writing-services-aws-1136584"
+    },
+    {
+      "company": "Fairmont Hotels &amp; Resorts",
+      "fetched_at": "2026-08-13T20:50:30.001444+00:00",
+      "id": "40c76a785b99",
+      "location": "Hamilton,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "sales",
+        "engineer",
+        "technical",
+        "ecommerce",
+        "teaching",
+        "admin",
+        "education",
+        "infosec",
+        "design",
+        "hr",
+        "sys admin",
+        "customer support",
+        "testing",
+        "travel",
+        "exec",
+        "ops",
+        "medical",
+        "full time",
+        "digital nomad"
+      ],
+      "title": "Bell Person",
+      "url": "https://remoteOK.com/remote-jobs/remote-bell-person-fairmont-hotels-amp-resorts-1136591"
+    },
+    {
+      "company": "AI Supermarket",
+      "fetched_at": "2026-08-13T20:50:30.001444+00:00",
+      "id": "8df99dc13218",
+      "location": "Research,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "dev",
+        "digital nomad",
+        "medical",
+        "wordpress",
+        "vfx",
+        "teaching",
+        "education",
+        "game dev",
+        "full stack",
+        "writer",
+        "transcribing",
+        "testing",
+        "marketing",
+        "web dev",
+        "speech",
+        "virtual assistant",
+        "video",
+        "serverless",
+        "cloud",
+        "git",
+        "seo",
+        "content writing",
+        "stats",
+        "sales",
+        "golang",
+        "non tech"
+      ],
+      "title": "Jenni AI",
+      "url": "https://remoteOK.com/remote-jobs/remote-jenni-ai-ai-supermarket-1136602"
+    },
+    {
+      "company": "liftek Iraq Basra (Ø´Ø±ÙØ© ØªÙÙÙØ§Øª Ø§ÙØ±ÙØ¹)",
+      "fetched_at": "2026-08-13T20:50:30.001444+00:00",
+      "id": "d3c372ea7de5",
+      "location": "Holder Siding,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "dev",
+        "digital nomad",
+        "medical",
+        "wordpress",
+        "vfx",
+        "teaching",
+        "education",
+        "game dev",
+        "full stack",
+        "writer",
+        "transcribing",
+        "testing",
+        "marketing",
+        "web dev",
+        "speech",
+        "virtual assistant",
+        "video",
+        "serverless",
+        "cloud",
+        "git",
+        "seo",
+        "content writing",
+        "stats",
+        "sales",
+        "golang",
+        "non tech",
+        "mobile"
+      ],
+      "title": "tan tan tan",
+      "url": "https://remoteOK.com/remote-jobs/remote-tan-tan-tan-liftek-iraq-basra-1136603"
+    },
+    {
+      "company": "South Shore Holdings Limited",
+      "fetched_at": "2026-08-13T20:50:30.001444+00:00",
+      "id": "4a1535f683d6",
+      "location": "Gold Coast,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "dev",
+        "digital nomad",
+        "medical"
+      ],
+      "title": "Alchemy Gold",
+      "url": "https://remoteOK.com/remote-jobs/remote-alchemy-gold-south-shore-holdings-limited-1136601"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-13T20:50:30.001444+00:00",
+      "id": "a42a96a9b476",
+      "location": "Remote",
+      "posted_at": "2026-08-13T20:20:23+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-33g5"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-13T20:50:30.001444+00:00",
+      "id": "43351d484f13",
+      "location": "Remote",
+      "posted_at": "2026-08-13T19:41:25+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4jh"
+    },
+    {
       "company": "IBAC",
       "fetched_at": "2026-08-13T19:09:06.217584+00:00",
       "id": "10fa559546db",
@@ -11809,5 +11977,5 @@
       "url": "https://weworkremotely.com/remote-jobs/snapscale-wp-dev-remote"
     }
   ],
-  "updated_at": "2026-08-13T19:09:06.217584+00:00"
+  "updated_at": "2026-08-13T20:50:30.001444+00:00"
 }
