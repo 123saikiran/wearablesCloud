@@ -1,6 +1,89 @@
 {
   "jobs": [
     {
+      "company": "Arbex",
+      "fetched_at": "2026-08-14T19:01:33.822846+00:00",
+      "id": "0f65a4af3bb7",
+      "location": "Tadworth,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec"
+      ],
+      "title": "Carve Out Lead",
+      "url": "https://remoteOK.com/remote-jobs/remote-carve-out-lead-arbex-1136624"
+    },
+    {
+      "company": "The Abaco Club",
+      "fetched_at": "2026-08-14T19:01:33.822846+00:00",
+      "id": "590ae29e45d0",
+      "location": "Marsh Harbour,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "sys admin",
+        "infosec",
+        "education",
+        "technical",
+        "supervisor",
+        "travel",
+        "exec",
+        "virtual assistant",
+        "finance",
+        "senior",
+        "ops",
+        "full time",
+        "customer support",
+        "dev",
+        "digital nomad",
+        "hr",
+        "medical",
+        "recruiter",
+        "marketing",
+        "junior",
+        "golang",
+        "engineer",
+        "legal",
+        "wordpress",
+        "microsoft",
+        "sales"
+      ],
+      "title": "Room Attendant",
+      "url": "https://remoteOK.com/remote-jobs/remote-room-attendant-the-abaco-club-1136695"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-14T19:01:33.822846+00:00",
+      "id": "c7414e0ef9ed",
+      "location": "Remote",
+      "posted_at": "2026-08-14T18:13:08+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-5ddo"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-14T19:01:33.822846+00:00",
+      "id": "e64b1224d348",
+      "location": "Remote",
+      "posted_at": "2026-08-14T17:24:02+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2nj1"
+    },
+    {
       "company": "Aecon Group Inc.",
       "fetched_at": "2026-08-14T17:03:25.396086+00:00",
       "id": "5e321f8e5226",
@@ -12679,5 +12762,5 @@
       "url": "https://weworkremotely.com/remote-jobs/snapscale-wp-dev-remote"
     }
   ],
-  "updated_at": "2026-08-14T17:03:25.396086+00:00"
+  "updated_at": "2026-08-14T19:01:33.822846+00:00"
 }
