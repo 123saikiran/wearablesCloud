@@ -1,6 +1,70 @@
 {
   "jobs": [
     {
+      "company": "NT Health",
+      "fetched_at": "2026-08-14T20:35:49.664653+00:00",
+      "id": "2108aacaa944",
+      "location": "Alice Springs,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "customer support",
+        "exec",
+        "medical"
+      ],
+      "title": "Gardener Handyman Driver",
+      "url": "https://remoteOK.com/remote-jobs/remote-gardener-handyman-driver-nt-health-1136625"
+    },
+    {
+      "company": "Alexander &amp; Bebout, Inc.",
+      "fetched_at": "2026-08-14T20:35:49.664653+00:00",
+      "id": "64e846e68e08",
+      "location": "Van Wert,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "web dev",
+        "hr",
+        "sys admin",
+        "marketing",
+        "non tech"
+      ],
+      "title": "Express Your Interest",
+      "url": "https://remoteOK.com/remote-jobs/remote-express-your-interest-alexander-amp-bebout-inc-1136621"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-14T20:35:49.664653+00:00",
+      "id": "f9c34dba8a3f",
+      "location": "Remote",
+      "posted_at": "2026-08-14T20:01:26+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2e99"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-14T20:35:49.664653+00:00",
+      "id": "3b1c9758a170",
+      "location": "Remote",
+      "posted_at": "2026-08-14T19:15:01+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-15ie"
+    },
+    {
       "company": "Arbex",
       "fetched_at": "2026-08-14T19:01:33.822846+00:00",
       "id": "0f65a4af3bb7",
@@ -12762,5 +12826,5 @@
       "url": "https://weworkremotely.com/remote-jobs/snapscale-wp-dev-remote"
     }
   ],
-  "updated_at": "2026-08-14T19:01:33.822846+00:00"
+  "updated_at": "2026-08-14T20:35:49.664653+00:00"
 }

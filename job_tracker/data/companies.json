@@ -104,6 +104,13 @@
       ],
       "last_seen": "2026-08-06T12:59:49.258060+00:00"
     },
+    "Alexander &amp; Bebout, Inc.": {
+      "count": 1,
+      "job_ids": [
+        "64e846e68e08"
+      ],
+      "last_seen": "2026-08-14T20:35:49.664653+00:00"
+    },
     "Allied Enterprises Baku LTD": {
       "count": 1,
       "job_ids": [
@@ -1417,6 +1424,13 @@
       ],
       "last_seen": "2026-08-07T20:48:29.269297+00:00"
     },
+    "NT Health": {
+      "count": 1,
+      "job_ids": [
+        "2108aacaa944"
+      ],
+      "last_seen": "2026-08-14T20:35:49.664653+00:00"
+    },
     "Napa Valley Country Club": {
       "count": 1,
       "job_ids": [
@@ -1752,8 +1766,10 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 212,
+      "count": 214,
       "job_ids": [
+        "f9c34dba8a3f",
+        "3b1c9758a170",
         "c7414e0ef9ed",
         "e64b1224d348",
         "1533b3853483",
@@ -1967,7 +1983,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-14T18:13:08+00:00"
+      "last_seen": "2026-08-14T20:01:26+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -2806,5 +2822,5 @@
       "last_seen": "2026-08-07T00:07:27.688735+00:00"
     }
   },
-  "updated_at": "2026-08-14T19:01:33.822846+00:00"
+  "updated_at": "2026-08-14T20:35:49.664653+00:00"
 }
