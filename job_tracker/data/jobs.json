@@ -1,6 +1,38 @@
 {
   "jobs": [
     {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-14T14:56:45.427261+00:00",
+      "id": "68fcff780234",
+      "location": "Remote",
+      "posted_at": "2026-08-14T14:37:21+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3pj7"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-14T14:56:45.427261+00:00",
+      "id": "694da605c3c9",
+      "location": "Remote",
+      "posted_at": "2026-08-14T13:39:04+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3p5j"
+    },
+    {
       "company": "The Home Depot Canada",
       "fetched_at": "2026-08-14T13:18:25.150781+00:00",
       "id": "1a0cf4fa1c58",
@@ -12473,5 +12505,5 @@
       "url": "https://weworkremotely.com/remote-jobs/snapscale-wp-dev-remote"
     }
   ],
-  "updated_at": "2026-08-14T13:18:25.150781+00:00"
+  "updated_at": "2026-08-14T14:56:45.427261+00:00"
 }
