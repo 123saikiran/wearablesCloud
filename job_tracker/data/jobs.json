@@ -1,6 +1,89 @@
 {
   "jobs": [
     {
+      "company": "Skanska",
+      "fetched_at": "2026-08-14T15:58:49.768701+00:00",
+      "id": "8074f874930e",
+      "location": "Norwich,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "customer support",
+        "finance",
+        "recruiter",
+        "non tech"
+      ],
+      "title": "Sub Agent",
+      "url": "https://remoteOK.com/remote-jobs/remote-sub-agent-skanska-1136596"
+    },
+    {
+      "company": "Hovis Ltd",
+      "fetched_at": "2026-08-14T15:58:49.768701+00:00",
+      "id": "7c03e5f7f6a8",
+      "location": "Belfast,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "customer support",
+        "finance",
+        "recruiter",
+        "non tech",
+        "scheme",
+        "medical",
+        "engineer"
+      ],
+      "title": "HYGPOOLOP",
+      "url": "https://remoteOK.com/remote-jobs/remote-hygpoolop-hovis-ltd-1136597"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-14T15:58:49.768701+00:00",
+      "id": "62da7a304981",
+      "location": "Remote",
+      "posted_at": "2026-08-14T15:27:23+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3emi"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-08-14T15:58:49.768701+00:00",
+      "id": "eb8d35c1ee7c",
+      "location": "Remote",
+      "posted_at": "2026-08-14T15:01:20+00:00",
+      "source": "devto",
+      "tags": [
+        "beginners",
+        "jobs",
+        "career",
+        "programming"
+      ],
+      "title": "These Companies Want Interns This Summer (Aug 14)",
+      "url": "https://dev.to/crackr/these-companies-want-interns-this-summer-aug-14-eg9"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-08-14T15:58:49.768701+00:00",
+      "id": "1e9a8c85541c",
+      "location": "Remote",
+      "posted_at": "2026-08-14T15:01:17+00:00",
+      "source": "devto",
+      "tags": [
+        "remotework",
+        "jobs",
+        "webdev",
+        "career"
+      ],
+      "title": "8 Remote SWE Jobs You Can Apply to From Anywhere (Aug 14)",
+      "url": "https://dev.to/crackr/8-remote-swe-jobs-you-can-apply-to-from-anywhere-aug-14-21i7"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-14T14:56:45.427261+00:00",
       "id": "68fcff780234",
@@ -12505,5 +12588,5 @@
       "url": "https://weworkremotely.com/remote-jobs/snapscale-wp-dev-remote"
     }
   ],
-  "updated_at": "2026-08-14T14:56:45.427261+00:00"
+  "updated_at": "2026-08-14T15:58:49.768701+00:00"
 }
