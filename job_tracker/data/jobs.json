@@ -1,6 +1,60 @@
 {
   "jobs": [
     {
+      "company": "Resourceful Talent Group",
+      "fetched_at": "2026-08-14T02:24:09.686035+00:00",
+      "id": "9fc95c20aeb6",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "product manager",
+        "exec",
+        "saas",
+        "technical",
+        "dev",
+        "finance",
+        "ops",
+        "engineer",
+        "full time",
+        "digital nomad"
+      ],
+      "title": "Product Manager",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-manager-resourceful-talent-group-1136579"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-14T02:24:09.686035+00:00",
+      "id": "16a41f7aa885",
+      "location": "Remote",
+      "posted_at": "2026-08-14T00:46:36+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-oml"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-14T02:24:09.686035+00:00",
+      "id": "4fc7e9db840d",
+      "location": "Remote",
+      "posted_at": "2026-08-13T23:50:11+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2j53"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-13T23:49:05.028313+00:00",
       "id": "93c6c0affd47",
@@ -12171,5 +12225,5 @@
       "url": "https://weworkremotely.com/remote-jobs/snapscale-wp-dev-remote"
     }
   ],
-  "updated_at": "2026-08-13T23:49:05.028313+00:00"
+  "updated_at": "2026-08-14T02:24:09.686035+00:00"
 }
