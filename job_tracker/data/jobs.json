@@ -1,6 +1,104 @@
 {
   "jobs": [
     {
+      "company": "The Home Depot Canada",
+      "fetched_at": "2026-08-14T13:18:25.150781+00:00",
+      "id": "1a0cf4fa1c58",
+      "location": "Prince George,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "sales",
+        "non tech"
+      ],
+      "title": "Appliances Sales Associate PRINCE GEORGE",
+      "url": "https://remoteOK.com/remote-jobs/remote-appliances-sales-associate-prince-george-the-home-depot-canada-1136679"
+    },
+    {
+      "company": "Rooster Building Group",
+      "fetched_at": "2026-08-14T13:18:25.150781+00:00",
+      "id": "78d1c0377457",
+      "location": "Calgary,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "sales",
+        "non tech",
+        "music",
+        "education",
+        "exec",
+        "marketing",
+        "medical",
+        "customer support",
+        "ads",
+        "ops",
+        "travel",
+        "sys admin"
+      ],
+      "title": "painter",
+      "url": "https://remoteOK.com/remote-jobs/remote-painter-rooster-building-group-1136684"
+    },
+    {
+      "company": "No Frills",
+      "fetched_at": "2026-08-14T13:18:25.150781+00:00",
+      "id": "e1a1caa7e7a8",
+      "location": "Windsor,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "sales",
+        "non tech",
+        "music",
+        "education",
+        "exec",
+        "marketing",
+        "medical",
+        "customer support",
+        "ads",
+        "ops"
+      ],
+      "title": "Meat Clerk Day",
+      "url": "https://remoteOK.com/remote-jobs/remote-meat-clerk-day-no-frills-1136683"
+    },
+    {
+      "company": "Bass Pro Shops",
+      "fetched_at": "2026-08-14T13:18:25.150781+00:00",
+      "id": "667a510dbc23",
+      "location": "Calgary,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "sales",
+        "non tech",
+        "music",
+        "education",
+        "exec",
+        "marketing",
+        "medical",
+        "customer support",
+        "ads",
+        "ops"
+      ],
+      "title": "Overnight Clothing Outfitter",
+      "url": "https://remoteOK.com/remote-jobs/remote-overnight-clothing-outfitter-bass-pro-shops-1136682"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-14T13:18:25.150781+00:00",
+      "id": "1fb9a4e41ce8",
+      "location": "Remote",
+      "posted_at": "2026-08-14T12:05:16+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-a0g"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-14T11:49:18.017551+00:00",
       "id": "6fb73b9acbf5",
@@ -12375,5 +12473,5 @@
       "url": "https://weworkremotely.com/remote-jobs/snapscale-wp-dev-remote"
     }
   ],
-  "updated_at": "2026-08-14T11:49:18.017551+00:00"
+  "updated_at": "2026-08-14T13:18:25.150781+00:00"
 }

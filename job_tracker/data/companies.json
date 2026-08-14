@@ -224,6 +224,13 @@
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
+    "Bass Pro Shops": {
+      "count": 1,
+      "job_ids": [
+        "667a510dbc23"
+      ],
+      "last_seen": "2026-08-14T13:18:25.150781+00:00"
+    },
     "Bay Plumbing &amp; Drainage": {
       "count": 1,
       "job_ids": [
@@ -1451,6 +1458,13 @@
       ],
       "last_seen": "2026-08-13T08:25:22.850642+00:00"
     },
+    "No Frills": {
+      "count": 1,
+      "job_ids": [
+        "e1a1caa7e7a8"
+      ],
+      "last_seen": "2026-08-14T13:18:25.150781+00:00"
+    },
     "No Quarter": {
       "count": 3,
       "job_ids": [
@@ -1707,8 +1721,9 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 205,
+      "count": 206,
       "job_ids": [
+        "1fb9a4e41ce8",
         "6fb73b9acbf5",
         "dbaaa7de9459",
         "4859de974191",
@@ -1915,7 +1930,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-14T11:24:28+00:00"
+      "last_seen": "2026-08-14T12:05:16+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -1989,6 +2004,13 @@
         "9509816a342f"
       ],
       "last_seen": "2026-08-06T15:26:05.274918+00:00"
+    },
+    "Rooster Building Group": {
+      "count": 1,
+      "job_ids": [
+        "78d1c0377457"
+      ],
+      "last_seen": "2026-08-14T13:18:25.150781+00:00"
     },
     "Royal Caribbean International": {
       "count": 1,
@@ -2297,13 +2319,14 @@
       "last_seen": "2026-08-14T08:20:36.299025+00:00"
     },
     "The Home Depot Canada": {
-      "count": 3,
+      "count": 4,
       "job_ids": [
+        "1a0cf4fa1c58",
         "d745d22e0e55",
         "ad1ac47d0c54",
         "20531faffaa1"
       ],
-      "last_seen": "2026-08-12T19:08:38.490828+00:00"
+      "last_seen": "2026-08-14T13:18:25.150781+00:00"
     },
     "The McBride Group": {
       "count": 1,
@@ -2732,5 +2755,5 @@
       "last_seen": "2026-08-07T00:07:27.688735+00:00"
     }
   },
-  "updated_at": "2026-08-14T11:49:18.017551+00:00"
+  "updated_at": "2026-08-14T13:18:25.150781+00:00"
 }
