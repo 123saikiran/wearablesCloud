@@ -774,6 +774,13 @@
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
+    "Energy Crane Service": {
+      "count": 1,
+      "job_ids": [
+        "d20f21024666"
+      ],
+      "last_seen": "2026-08-14T08:20:36.299025+00:00"
+    },
     "Enerzo Tech": {
       "count": 1,
       "job_ids": [
@@ -1700,8 +1707,10 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 200,
+      "count": 202,
       "job_ids": [
+        "a68b4bb27b03",
+        "6476791e3621",
         "3525803776b7",
         "456e15141548",
         "16a41f7aa885",
@@ -1903,7 +1912,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-14T05:13:16+00:00"
+      "last_seen": "2026-08-14T08:04:42+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -2276,6 +2285,13 @@
         "8bb3fd22129b"
       ],
       "last_seen": "2026-08-06T07:43:52.639381+00:00"
+    },
+    "The Green Solutions Group": {
+      "count": 1,
+      "job_ids": [
+        "f74f594d2a9f"
+      ],
+      "last_seen": "2026-08-14T08:20:36.299025+00:00"
     },
     "The Home Depot Canada": {
       "count": 3,
@@ -2713,5 +2729,5 @@
       "last_seen": "2026-08-07T00:07:27.688735+00:00"
     }
   },
-  "updated_at": "2026-08-14T06:18:36.623028+00:00"
+  "updated_at": "2026-08-14T08:20:36.299025+00:00"
 }

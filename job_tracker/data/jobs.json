@@ -1,6 +1,76 @@
 {
   "jobs": [
     {
+      "company": "Energy Crane Service",
+      "fetched_at": "2026-08-14T08:20:36.299025+00:00",
+      "id": "d20f21024666",
+      "location": "Stony Plain,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "infosec",
+        "sys admin",
+        "education",
+        "supervisor",
+        "coordinator",
+        "customer support",
+        "dev",
+        "travel",
+        "exec",
+        "excel",
+        "engineer",
+        "digital nomad"
+      ],
+      "title": "GENERAL",
+      "url": "https://remoteOK.com/remote-jobs/remote-general-energy-crane-service-1136668"
+    },
+    {
+      "company": "The Green Solutions Group",
+      "fetched_at": "2026-08-14T08:20:36.299025+00:00",
+      "id": "f74f594d2a9f",
+      "location": "Regional Municipality of York,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "infosec",
+        "sys admin"
+      ],
+      "title": "JOIN US AND MAKE AN IMPACT ON THE FUTURE",
+      "url": "https://remoteOK.com/remote-jobs/remote-join-us-and-make-an-impact-on-the-future-the-green-solutions-group-1136665"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-14T08:20:36.299025+00:00",
+      "id": "a68b4bb27b03",
+      "location": "Remote",
+      "posted_at": "2026-08-14T08:04:42+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-33g8"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-14T08:20:36.299025+00:00",
+      "id": "6476791e3621",
+      "location": "Remote",
+      "posted_at": "2026-08-14T06:43:23+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3cbo"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-14T06:18:36.623028+00:00",
       "id": "3525803776b7",
@@ -12257,5 +12327,5 @@
       "url": "https://weworkremotely.com/remote-jobs/snapscale-wp-dev-remote"
     }
   ],
-  "updated_at": "2026-08-14T06:18:36.623028+00:00"
+  "updated_at": "2026-08-14T08:20:36.299025+00:00"
 }
