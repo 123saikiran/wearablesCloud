@@ -1,6 +1,97 @@
 {
   "jobs": [
     {
+      "company": "Aecon Group Inc.",
+      "fetched_at": "2026-08-14T17:03:25.396086+00:00",
+      "id": "5e321f8e5226",
+      "location": "Barrie,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "infosec",
+        "sys admin",
+        "education",
+        "supervisor",
+        "coordinator",
+        "customer support",
+        "dev",
+        "travel",
+        "exec",
+        "excel",
+        "engineer",
+        "digital nomad"
+      ],
+      "title": "Locator",
+      "url": "https://remoteOK.com/remote-jobs/remote-locator-aecon-group-inc-1136666"
+    },
+    {
+      "company": "Lemon.io",
+      "fetched_at": "2026-08-14T17:03:25.396086+00:00",
+      "id": "fa1b824656f9",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "dev",
+        "engineer",
+        "full time",
+        "senior",
+        "python",
+        "sql",
+        "aws",
+        "gcp",
+        "apache"
+      ],
+      "title": "Senior Data Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-data-engineer-lemon-io-1136594"
+    },
+    {
+      "company": "German Ship Repair Jamaica Limited",
+      "fetched_at": "2026-08-14T17:03:25.396086+00:00",
+      "id": "00a8422f8d10",
+      "location": "Kingston,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "sys admin",
+        "infosec",
+        "education",
+        "technical",
+        "supervisor",
+        "travel",
+        "exec",
+        "virtual assistant",
+        "finance",
+        "senior",
+        "ops",
+        "full time",
+        "customer support",
+        "dev",
+        "digital nomad",
+        "hr",
+        "medical",
+        "recruiter"
+      ],
+      "title": "MARINE PAINTER &amp; BLASTER",
+      "url": "https://remoteOK.com/remote-jobs/remote-marine-painter-amp-blaster-german-ship-repair-jamaica-limited-1136690"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-14T17:03:25.396086+00:00",
+      "id": "1533b3853483",
+      "location": "Remote",
+      "posted_at": "2026-08-14T16:23:43+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2bci"
+    },
+    {
       "company": "Skanska",
       "fetched_at": "2026-08-14T15:58:49.768701+00:00",
       "id": "8074f874930e",
@@ -12588,5 +12679,5 @@
       "url": "https://weworkremotely.com/remote-jobs/snapscale-wp-dev-remote"
     }
   ],
-  "updated_at": "2026-08-14T15:58:49.768701+00:00"
+  "updated_at": "2026-08-14T17:03:25.396086+00:00"
 }
