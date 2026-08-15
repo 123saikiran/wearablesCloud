@@ -8,8 +8,9 @@
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
     "AI Supermarket": {
-      "count": 7,
+      "count": 8,
       "job_ids": [
+        "eba39b01cf3e",
         "8df99dc13218",
         "04497129a097",
         "e8b41cd055ba",
@@ -18,7 +19,7 @@
         "7a1260b783b3",
         "b3ff6ce73dc8"
       ],
-      "last_seen": "2026-08-13T20:50:30.001444+00:00"
+      "last_seen": "2026-08-15T03:47:03.543366+00:00"
     },
     "ALEH Writing Services (AWS)": {
       "count": 2,
@@ -1766,8 +1767,9 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 224,
+      "count": 225,
       "job_ids": [
+        "3ffa5b1dee73",
         "0c5de56331fd",
         "26d08d62a6c4",
         "fba31905c6d4",
@@ -1993,7 +1995,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-15T02:19:06+00:00"
+      "last_seen": "2026-08-15T03:09:55+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -2832,5 +2834,5 @@
       "last_seen": "2026-08-07T00:07:27.688735+00:00"
     }
   },
-  "updated_at": "2026-08-15T02:56:22.710314+00:00"
+  "updated_at": "2026-08-15T03:47:03.543366+00:00"
 }

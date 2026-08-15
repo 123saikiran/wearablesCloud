@@ -1,6 +1,59 @@
 {
   "jobs": [
     {
+      "company": "AI Supermarket",
+      "fetched_at": "2026-08-15T03:47:03.543366+00:00",
+      "id": "eba39b01cf3e",
+      "location": "Heartâs Content,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "golang",
+        "wordpress",
+        "vfx",
+        "teaching",
+        "education",
+        "game dev",
+        "full stack",
+        "writer",
+        "transcribing",
+        "dev",
+        "testing",
+        "marketing",
+        "web dev",
+        "speech",
+        "virtual assistant",
+        "video",
+        "serverless",
+        "cloud",
+        "git",
+        "seo",
+        "content writing",
+        "stats",
+        "sales",
+        "non tech",
+        "digital nomad"
+      ],
+      "title": "AskYourPDF",
+      "url": "https://remoteOK.com/remote-jobs/remote-askyourpdf-ai-supermarket-1136704"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-15T03:47:03.543366+00:00",
+      "id": "3ffa5b1dee73",
+      "location": "Remote",
+      "posted_at": "2026-08-15T03:09:55+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2a5d"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-15T02:56:22.710314+00:00",
       "id": "0c5de56331fd",
@@ -12986,5 +13039,5 @@
       "url": "https://weworkremotely.com/remote-jobs/snapscale-wp-dev-remote"
     }
   ],
-  "updated_at": "2026-08-15T02:56:22.710314+00:00"
+  "updated_at": "2026-08-15T03:47:03.543366+00:00"
 }
