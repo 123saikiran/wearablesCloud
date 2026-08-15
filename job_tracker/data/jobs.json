@@ -1,6 +1,51 @@
 {
   "jobs": [
     {
+      "company": "Decode-X",
+      "fetched_at": "2026-08-15T23:25:33.412383+00:00",
+      "id": "13fffc455179",
+      "location": "Evansville,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "ops"
+      ],
+      "title": "Why Your First Weeks a New Role Shape Everything That Follows",
+      "url": "https://remoteOK.com/remote-jobs/remote-why-your-first-weeks-a-new-role-shape-everything-that-follows-decode-x-1136792"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-15T23:25:33.412383+00:00",
+      "id": "029db2817f4f",
+      "location": "Remote",
+      "posted_at": "2026-08-15T23:06:32+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2p4g"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-15T23:25:33.412383+00:00",
+      "id": "46088233708d",
+      "location": "Remote",
+      "posted_at": "2026-08-15T22:44:16+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-56o4"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-15T22:27:59.585462+00:00",
       "id": "f3279c2fa50c",
@@ -14759,5 +14804,5 @@
       "url": "https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe"
     }
   ],
-  "updated_at": "2026-08-15T22:27:59.585462+00:00"
+  "updated_at": "2026-08-15T23:25:33.412383+00:00"
 }
