@@ -2,6 +2,38 @@
   "jobs": [
     {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-15T01:35:36.381057+00:00",
+      "id": "26d08d62a6c4",
+      "location": "Remote",
+      "posted_at": "2026-08-15T01:10:39+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2j27"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-15T01:35:36.381057+00:00",
+      "id": "fba31905c6d4",
+      "location": "Remote",
+      "posted_at": "2026-08-14T23:57:09+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3ebd"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-14T23:26:29.126887+00:00",
       "id": "929cbb02bd94",
       "location": "Remote",
@@ -12938,5 +12970,5 @@
       "url": "https://weworkremotely.com/remote-jobs/snapscale-wp-dev-remote"
     }
   ],
-  "updated_at": "2026-08-14T23:26:29.126887+00:00"
+  "updated_at": "2026-08-15T01:35:36.381057+00:00"
 }
