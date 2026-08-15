@@ -1347,6 +1347,13 @@
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
+    "Link Snacks": {
+      "count": 1,
+      "job_ids": [
+        "01cc3c612645"
+      ],
+      "last_seen": "2026-08-15T13:34:38.031324+00:00"
+    },
     "Loblaw Companies Limited": {
       "count": 1,
       "job_ids": [
@@ -1871,8 +1878,9 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 244,
+      "count": 245,
       "job_ids": [
+        "2f5805c7a07b",
         "ba66f45a19d3",
         "f59eb2fcb421",
         "02aed9151ab5",
@@ -2118,7 +2126,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-15T12:16:31+00:00"
+      "last_seen": "2026-08-15T13:05:04+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -2999,5 +3007,5 @@
       "last_seen": "2026-08-15T08:35:33.628741+00:00"
     }
   },
-  "updated_at": "2026-08-15T12:48:33.470831+00:00"
+  "updated_at": "2026-08-15T13:34:38.031324+00:00"
 }

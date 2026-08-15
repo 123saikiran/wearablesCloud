@@ -1,6 +1,36 @@
 {
   "jobs": [
     {
+      "company": "Link Snacks",
+      "fetched_at": "2026-08-15T13:34:38.031324+00:00",
+      "id": "01cc3c612645",
+      "location": "Minneapolis,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "testing",
+        "non tech"
+      ],
+      "title": "Test Job",
+      "url": "https://remoteOK.com/remote-jobs/remote-test-job-link-snacks-1136686"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-15T13:34:38.031324+00:00",
+      "id": "2f5805c7a07b",
+      "location": "Remote",
+      "posted_at": "2026-08-15T13:05:04+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4d8h"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-15T12:48:33.470831+00:00",
       "id": "ba66f45a19d3",
@@ -14202,5 +14232,5 @@
       "url": "https://weworkremotely.com/remote-jobs/snapscale-wp-dev-remote"
     }
   ],
-  "updated_at": "2026-08-15T12:48:33.470831+00:00"
+  "updated_at": "2026-08-15T13:34:38.031324+00:00"
 }
