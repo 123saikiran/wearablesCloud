@@ -1,6 +1,54 @@
 {
   "jobs": [
     {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-15T12:48:33.470831+00:00",
+      "id": "ba66f45a19d3",
+      "location": "Remote",
+      "posted_at": "2026-08-15T12:16:31+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-5hll"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-15T12:48:33.470831+00:00",
+      "id": "f59eb2fcb421",
+      "location": "Remote",
+      "posted_at": "2026-08-15T11:53:34+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1c0l"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-15T12:48:33.470831+00:00",
+      "id": "02aed9151ab5",
+      "location": "Remote",
+      "posted_at": "2026-08-15T11:32:56+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4io5"
+    },
+    {
       "company": "Canadian Armed Forces | Forces armÃ©es canadiennes",
       "fetched_at": "2026-08-15T11:25:06.430766+00:00",
       "id": "e9fe9b1192b3",
@@ -14154,5 +14202,5 @@
       "url": "https://weworkremotely.com/remote-jobs/snapscale-wp-dev-remote"
     }
   ],
-  "updated_at": "2026-08-15T11:25:06.430766+00:00"
+  "updated_at": "2026-08-15T12:48:33.470831+00:00"
 }

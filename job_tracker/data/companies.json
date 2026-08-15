@@ -1871,8 +1871,11 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 241,
+      "count": 244,
       "job_ids": [
+        "ba66f45a19d3",
+        "f59eb2fcb421",
+        "02aed9151ab5",
         "e3a8f56b98cc",
         "d9fc31bc95af",
         "93a2fb1fbc5d",
@@ -2115,7 +2118,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-15T11:05:55+00:00"
+      "last_seen": "2026-08-15T12:16:31+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -2996,5 +2999,5 @@
       "last_seen": "2026-08-15T08:35:33.628741+00:00"
     }
   },
-  "updated_at": "2026-08-15T11:25:06.430766+00:00"
+  "updated_at": "2026-08-15T12:48:33.470831+00:00"
 }
