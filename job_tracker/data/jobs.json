@@ -1,6 +1,82 @@
 {
   "jobs": [
     {
+      "company": "Canadian Armed Forces | Forces armÃ©es canadiennes",
+      "fetched_at": "2026-08-15T11:25:06.430766+00:00",
+      "id": "e9fe9b1192b3",
+      "location": "Moncton,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "teaching",
+        "education",
+        "customer support",
+        "ops",
+        "recruiter",
+        "engineer",
+        "full time",
+        "part time"
+      ],
+      "title": "Infanteer",
+      "url": "https://remoteOK.com/remote-jobs/remote-infanteer-canadian-armed-forces-forces-armees-canadiennes-1136677"
+    },
+    {
+      "company": "Canadian Armed Forces | Forces armÃ©es canadiennes",
+      "fetched_at": "2026-08-15T11:25:06.430766+00:00",
+      "id": "610311170ec4",
+      "location": "Moncton,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "teaching",
+        "education",
+        "customer support",
+        "ops",
+        "recruiter",
+        "engineer",
+        "full time",
+        "part time",
+        "sys admin",
+        "technical",
+        "exec",
+        "golang"
+      ],
+      "title": "Engineer Officer",
+      "url": "https://remoteOK.com/remote-jobs/remote-engineer-officer-canadian-armed-forces-forces-armees-canadiennes-1136678"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-15T11:25:06.430766+00:00",
+      "id": "e3a8f56b98cc",
+      "location": "Remote",
+      "posted_at": "2026-08-15T11:05:55+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3i58"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-15T11:25:06.430766+00:00",
+      "id": "d9fc31bc95af",
+      "location": "Remote",
+      "posted_at": "2026-08-15T10:45:03+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2h6e"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-15T10:27:54.375170+00:00",
       "id": "93a2fb1fbc5d",
@@ -14078,5 +14154,5 @@
       "url": "https://weworkremotely.com/remote-jobs/snapscale-wp-dev-remote"
     }
   ],
-  "updated_at": "2026-08-15T10:27:54.375170+00:00"
+  "updated_at": "2026-08-15T11:25:06.430766+00:00"
 }

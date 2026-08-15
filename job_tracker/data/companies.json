@@ -426,6 +426,14 @@
       ],
       "last_seen": "2026-08-06T15:26:05.274918+00:00"
     },
+    "Canadian Armed Forces | Forces armÃ©es canadiennes": {
+      "count": 2,
+      "job_ids": [
+        "e9fe9b1192b3",
+        "610311170ec4"
+      ],
+      "last_seen": "2026-08-15T11:25:06.430766+00:00"
+    },
     "Canadian Base Operators Inc.": {
       "count": 1,
       "job_ids": [
@@ -1863,8 +1871,10 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 239,
+      "count": 241,
       "job_ids": [
+        "e3a8f56b98cc",
+        "d9fc31bc95af",
         "93a2fb1fbc5d",
         "bfe3c1f24994",
         "c32e02d8de8c",
@@ -2105,7 +2115,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-15T10:17:52+00:00"
+      "last_seen": "2026-08-15T11:05:55+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -2986,5 +2996,5 @@
       "last_seen": "2026-08-15T08:35:33.628741+00:00"
     }
   },
-  "updated_at": "2026-08-15T10:27:54.375170+00:00"
+  "updated_at": "2026-08-15T11:25:06.430766+00:00"
 }
