@@ -204,6 +204,13 @@
       ],
       "last_seen": "2026-08-06T10:45:03.991691+00:00"
     },
+    "BAE Systems Australia": {
+      "count": 1,
+      "job_ids": [
+        "2b2c61ec59de"
+      ],
+      "last_seen": "2026-08-15T04:37:09.928589+00:00"
+    },
     "BAT Pros": {
       "count": 1,
       "job_ids": [
@@ -549,6 +556,13 @@
       ],
       "last_seen": "2026-07-22T07:01:44+00:00"
     },
+    "Coles Liquor": {
+      "count": 1,
+      "job_ids": [
+        "0c453545227a"
+      ],
+      "last_seen": "2026-08-15T04:37:09.928589+00:00"
+    },
     "Compact Home Lifts": {
       "count": 1,
       "job_ids": [
@@ -682,6 +696,13 @@
         "2023099651fc"
       ],
       "last_seen": "2026-08-06T10:45:03.991691+00:00"
+    },
+    "Dan Murphy's": {
+      "count": 1,
+      "job_ids": [
+        "643c587d36e5"
+      ],
+      "last_seen": "2026-08-15T04:37:09.928589+00:00"
     },
     "Dana Solutions LLC": {
       "count": 1,
@@ -1327,11 +1348,13 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "Macpac Ltd.": {
-      "count": 1,
+      "count": 3,
       "job_ids": [
+        "ae81ce769dcf",
+        "2dfe2a5d7f0c",
         "01fc6de61bba"
       ],
-      "last_seen": "2026-08-11T23:49:14.583630+00:00"
+      "last_seen": "2026-08-15T04:37:09.928589+00:00"
     },
     "Managing AI": {
       "count": 1,
@@ -1657,12 +1680,13 @@
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
     "Platypus Shoes": {
-      "count": 2,
+      "count": 3,
       "job_ids": [
+        "c72cc1ace1b7",
         "3bced3f0354d",
         "a35a420882fd"
       ],
-      "last_seen": "2026-08-11T23:49:14.583630+00:00"
+      "last_seen": "2026-08-15T04:37:09.928589+00:00"
     },
     "PlayToMax": {
       "count": 2,
@@ -1767,8 +1791,10 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 225,
+      "count": 227,
       "job_ids": [
+        "cb0e0fb45aac",
+        "dc305100c1f4",
         "3ffa5b1dee73",
         "0c5de56331fd",
         "26d08d62a6c4",
@@ -1995,7 +2021,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-15T03:09:55+00:00"
+      "last_seen": "2026-08-15T04:16:21+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -2259,6 +2285,13 @@
       ],
       "last_seen": "2026-08-13T20:50:30.001444+00:00"
     },
+    "Specsavers": {
+      "count": 1,
+      "job_ids": [
+        "5ff727231911"
+      ],
+      "last_seen": "2026-08-15T04:37:09.928589+00:00"
+    },
     "Spore N Sprouts": {
       "count": 1,
       "job_ids": [
@@ -2297,6 +2330,13 @@
         "6a8d17f2dcd5"
       ],
       "last_seen": "2026-07-22T07:01:44+00:00"
+    },
+    "SubwayÂ® Australia": {
+      "count": 1,
+      "job_ids": [
+        "6d8a7d9f67c1"
+      ],
+      "last_seen": "2026-08-15T04:37:09.928589+00:00"
     },
     "Sumyfi.com": {
       "count": 1,
@@ -2613,6 +2653,13 @@
       ],
       "last_seen": "2026-08-12T08:22:52.939400+00:00"
     },
+    "W Hotels": {
+      "count": 1,
+      "job_ids": [
+        "08f858a75e02"
+      ],
+      "last_seen": "2026-08-15T04:37:09.928589+00:00"
+    },
     "WB Melback Corporation": {
       "count": 1,
       "job_ids": [
@@ -2834,5 +2881,5 @@
       "last_seen": "2026-08-07T00:07:27.688735+00:00"
     }
   },
-  "updated_at": "2026-08-15T03:47:03.543366+00:00"
+  "updated_at": "2026-08-15T04:37:09.928589+00:00"
 }
