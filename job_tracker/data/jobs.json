@@ -1,6 +1,70 @@
 {
   "jobs": [
     {
+      "company": "UDANINN",
+      "fetched_at": "2026-08-15T14:28:53.885536+00:00",
+      "id": "2408d9392439",
+      "location": "Remote",
+      "posted_at": "2026-08-15T14:27:49+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "api",
+        "python",
+        "jobs"
+      ],
+      "title": "You can tell which ATS a company uses by looking at its careers URL",
+      "url": "https://dev.to/udaninn/you-can-tell-which-ats-a-company-uses-by-looking-at-its-careers-url-3i5g"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-15T14:28:53.885536+00:00",
+      "id": "54d920969a49",
+      "location": "Remote",
+      "posted_at": "2026-08-15T14:27:40+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-a49"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-15T14:28:53.885536+00:00",
+      "id": "96558d6a7258",
+      "location": "Remote",
+      "posted_at": "2026-08-15T13:59:15+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-i47"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-15T14:28:53.885536+00:00",
+      "id": "143f92f5d0c8",
+      "location": "Remote",
+      "posted_at": "2026-08-15T13:42:10+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-472b"
+    },
+    {
       "company": "Link Snacks",
       "fetched_at": "2026-08-15T13:34:38.031324+00:00",
       "id": "01cc3c612645",
@@ -14232,5 +14296,5 @@
       "url": "https://weworkremotely.com/remote-jobs/snapscale-wp-dev-remote"
     }
   ],
-  "updated_at": "2026-08-15T13:34:38.031324+00:00"
+  "updated_at": "2026-08-15T14:28:53.885536+00:00"
 }
