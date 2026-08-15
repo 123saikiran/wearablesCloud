@@ -1,6 +1,119 @@
 {
   "jobs": [
     {
+      "company": "MultiplyMii",
+      "fetched_at": "2026-08-15T16:31:05.669567+00:00",
+      "id": "743ecd197f3b",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "analyst",
+        "amazon",
+        "salesforce",
+        "technical",
+        "recruiter",
+        "customer support",
+        "marketing",
+        "speech",
+        "exec",
+        "content writing",
+        "excel",
+        "sales",
+        "ecommerce",
+        "full time"
+      ],
+      "title": "Brand Protection & Marketplace Compliance Analyst",
+      "url": "https://remoteOK.com/remote-jobs/remote-brand-protection-marketplace-compliance-analyst-multiplymii-1136687"
+    },
+    {
+      "company": "Wolt",
+      "fetched_at": "2026-08-15T16:31:05.669567+00:00",
+      "id": "94979e4ba7ba",
+      "location": "Marsa,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "testing",
+        "education",
+        "customer support",
+        "finance",
+        "c",
+        "scheme",
+        "exec",
+        "medical",
+        "marketing",
+        "full time",
+        "design",
+        "infosec",
+        "music",
+        "digital nomad",
+        "technical",
+        "engineer",
+        "teaching",
+        "math",
+        "recruiter",
+        "sys admin",
+        "golang",
+        "microsoft",
+        "excel",
+        "sales",
+        "travel",
+        "ops",
+        "virtual assistant"
+      ],
+      "title": "Store Manager",
+      "url": "https://remoteOK.com/remote-jobs/remote-store-manager-wolt-1136747"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-15T16:31:05.669567+00:00",
+      "id": "a4a62cb45b11",
+      "location": "Remote",
+      "posted_at": "2026-08-15T16:13:15+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2i81"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-15T16:31:05.669567+00:00",
+      "id": "e0c552dbd1a9",
+      "location": "Remote",
+      "posted_at": "2026-08-15T15:53:58+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1lfp"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-15T16:31:05.669567+00:00",
+      "id": "095dc24f989d",
+      "location": "Remote",
+      "posted_at": "2026-08-15T15:33:40+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3llg"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-15T15:26:16.490024+00:00",
       "id": "83dbe3d4b1a1",
@@ -14360,5 +14473,5 @@
       "url": "https://weworkremotely.com/remote-jobs/snapscale-wp-dev-remote"
     }
   ],
-  "updated_at": "2026-08-15T15:26:16.490024+00:00"
+  "updated_at": "2026-08-15T16:31:05.669567+00:00"
 }
