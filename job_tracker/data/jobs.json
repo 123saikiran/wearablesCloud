@@ -1,6 +1,70 @@
 {
   "jobs": [
     {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-15T15:26:16.490024+00:00",
+      "id": "83dbe3d4b1a1",
+      "location": "Remote",
+      "posted_at": "2026-08-15T15:16:06+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4n4h"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-08-15T15:26:16.490024+00:00",
+      "id": "c2adf696694d",
+      "location": "Remote",
+      "posted_at": "2026-08-15T15:00:30+00:00",
+      "source": "devto",
+      "tags": [
+        "beginners",
+        "jobs",
+        "career",
+        "programming"
+      ],
+      "title": "Where to Find Tech Internships This Summer (Aug 15)",
+      "url": "https://dev.to/crackr/where-to-find-tech-internships-this-summer-aug-15-5fj6"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-08-15T15:26:16.490024+00:00",
+      "id": "084b56d4487a",
+      "location": "Remote",
+      "posted_at": "2026-08-15T15:00:26+00:00",
+      "source": "devto",
+      "tags": [
+        "remotework",
+        "jobs",
+        "webdev",
+        "career"
+      ],
+      "title": "Senior Remote SWE Roles Hiring Now - 1 Pay $150k+ (Aug 15)",
+      "url": "https://dev.to/crackr/senior-remote-swe-roles-hiring-now-1-pay-150k-aug-15-2p3g"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-15T15:26:16.490024+00:00",
+      "id": "5768044ed658",
+      "location": "Remote",
+      "posted_at": "2026-08-15T14:49:13+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2o50"
+    },
+    {
       "company": "UDANINN",
       "fetched_at": "2026-08-15T14:28:53.885536+00:00",
       "id": "2408d9392439",
@@ -14296,5 +14360,5 @@
       "url": "https://weworkremotely.com/remote-jobs/snapscale-wp-dev-remote"
     }
   ],
-  "updated_at": "2026-08-15T14:28:53.885536+00:00"
+  "updated_at": "2026-08-15T15:26:16.490024+00:00"
 }
