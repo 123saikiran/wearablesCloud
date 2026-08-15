@@ -2,6 +2,54 @@
   "jobs": [
     {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-15T21:26:07.412112+00:00",
+      "id": "85bbd8aca3f0",
+      "location": "Remote",
+      "posted_at": "2026-08-15T21:17:34+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4af9"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-15T21:26:07.412112+00:00",
+      "id": "2eb67f55b584",
+      "location": "Remote",
+      "posted_at": "2026-08-15T20:56:11+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-9ph"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-15T21:26:07.412112+00:00",
+      "id": "8e390514f355",
+      "location": "Remote",
+      "posted_at": "2026-08-15T20:36:17+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-53gm"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-15T20:28:03.247383+00:00",
       "id": "6dd0fed66aa0",
       "location": "Remote",
@@ -14341,6 +14389,58 @@
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2kff"
     },
     {
+      "company": "Stripe",
+      "fetched_at": "2026-08-15T21:26:07.412112+00:00",
+      "id": "f50a2173e090",
+      "location": "Remote",
+      "posted_at": "2026-07-22T07:02:54+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Full-Stack Programming"
+      ],
+      "title": "GTM Operations Process Architect",
+      "url": "https://weworkremotely.com/remote-jobs/stripe-gtm-operations-process-architect"
+    },
+    {
+      "company": "Stripe",
+      "fetched_at": "2026-08-15T21:26:07.412112+00:00",
+      "id": "f5fdc311142a",
+      "location": "Remote",
+      "posted_at": "2026-07-22T07:02:37+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Full-Stack Programming"
+      ],
+      "title": "Fullstack Engineer, Privy",
+      "url": "https://weworkremotely.com/remote-jobs/stripe-fullstack-engineer-privy"
+    },
+    {
+      "company": "Coinbase",
+      "fetched_at": "2026-08-15T21:26:07.412112+00:00",
+      "id": "6bed7d8fb758",
+      "location": "Remote",
+      "posted_at": "2026-07-22T07:02:28+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Full-Stack Programming"
+      ],
+      "title": "GFCO Program Manager",
+      "url": "https://weworkremotely.com/remote-jobs/coinbase-gfco-program-manager"
+    },
+    {
+      "company": "Coinbase",
+      "fetched_at": "2026-08-15T21:26:07.412112+00:00",
+      "id": "2b3d3ae94177",
+      "location": "Remote",
+      "posted_at": "2026-07-22T07:02:20+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Full-Stack Programming"
+      ],
+      "title": "Creative Director",
+      "url": "https://weworkremotely.com/remote-jobs/coinbase-creative-director"
+    },
+    {
       "company": "Airtable",
       "fetched_at": "2026-08-12T15:03:02.733629+00:00",
       "id": "b3f799034d48",
@@ -14625,59 +14725,7 @@
       ],
       "title": "️ Location Services Engineer | Maps Platform (Remote in Europe)",
       "url": "https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe"
-    },
-    {
-      "company": "Steady Vision",
-      "fetched_at": "2026-08-05T14:21:54.411152+00:00",
-      "id": "b400480f624d",
-      "location": "Remote",
-      "posted_at": "2026-07-16T21:08:09+00:00",
-      "source": "weworkremotely",
-      "tags": [
-        "Front-End Programming"
-      ],
-      "title": "Web Designer",
-      "url": "https://weworkremotely.com/remote-jobs/steady-vision-web-designer"
-    },
-    {
-      "company": "SilverTech",
-      "fetched_at": "2026-08-05T14:21:54.411152+00:00",
-      "id": "9fbc648101ea",
-      "location": "Remote",
-      "posted_at": "2026-07-16T21:08:09+00:00",
-      "source": "weworkremotely",
-      "tags": [
-        "Front-End Programming"
-      ],
-      "title": "Account Director",
-      "url": "https://weworkremotely.com/remote-jobs/silvertech-account-director"
-    },
-    {
-      "company": "Work and Study Travel",
-      "fetched_at": "2026-08-05T14:21:54.411152+00:00",
-      "id": "92f72df4cd98",
-      "location": "Remote",
-      "posted_at": "2026-07-16T21:08:09+00:00",
-      "source": "weworkremotely",
-      "tags": [
-        "Front-End Programming"
-      ],
-      "title": "Website Builder / WordPress Specialist",
-      "url": "https://weworkremotely.com/remote-jobs/work-and-study-travel-website-builder-wordpress-specialist"
-    },
-    {
-      "company": "Snapscale",
-      "fetched_at": "2026-08-05T14:21:54.411152+00:00",
-      "id": "40aedc5c33fa",
-      "location": "Remote",
-      "posted_at": "2026-07-16T21:08:09+00:00",
-      "source": "weworkremotely",
-      "tags": [
-        "Front-End Programming"
-      ],
-      "title": "WP dev (remote)",
-      "url": "https://weworkremotely.com/remote-jobs/snapscale-wp-dev-remote"
     }
   ],
-  "updated_at": "2026-08-15T20:28:03.247383+00:00"
+  "updated_at": "2026-08-15T21:26:07.412112+00:00"
 }

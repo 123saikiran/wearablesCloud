@@ -1,6 +1,58 @@
 {
-  "archived_before": "2026-08-15T20:28:03.247383+00:00",
+  "archived_before": "2026-08-15T21:26:07.412112+00:00",
   "jobs": [
+    {
+      "company": "Steady Vision",
+      "fetched_at": "2026-08-05T14:21:54.411152+00:00",
+      "id": "b400480f624d",
+      "location": "Remote",
+      "posted_at": "2026-07-16T21:08:09+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Front-End Programming"
+      ],
+      "title": "Web Designer",
+      "url": "https://weworkremotely.com/remote-jobs/steady-vision-web-designer"
+    },
+    {
+      "company": "SilverTech",
+      "fetched_at": "2026-08-05T14:21:54.411152+00:00",
+      "id": "9fbc648101ea",
+      "location": "Remote",
+      "posted_at": "2026-07-16T21:08:09+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Front-End Programming"
+      ],
+      "title": "Account Director",
+      "url": "https://weworkremotely.com/remote-jobs/silvertech-account-director"
+    },
+    {
+      "company": "Work and Study Travel",
+      "fetched_at": "2026-08-05T14:21:54.411152+00:00",
+      "id": "92f72df4cd98",
+      "location": "Remote",
+      "posted_at": "2026-07-16T21:08:09+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Front-End Programming"
+      ],
+      "title": "Website Builder / WordPress Specialist",
+      "url": "https://weworkremotely.com/remote-jobs/work-and-study-travel-website-builder-wordpress-specialist"
+    },
+    {
+      "company": "Snapscale",
+      "fetched_at": "2026-08-05T14:21:54.411152+00:00",
+      "id": "40aedc5c33fa",
+      "location": "Remote",
+      "posted_at": "2026-07-16T21:08:09+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Front-End Programming"
+      ],
+      "title": "WP dev (remote)",
+      "url": "https://weworkremotely.com/remote-jobs/snapscale-wp-dev-remote"
+    },
     {
       "company": "Proxify AB",
       "fetched_at": "2026-08-05T14:21:54.411152+00:00",
@@ -120,7 +172,7 @@
     },
     {
       "company": "Proxify AB",
-      "fetched_at": "2026-08-15T20:28:03.247383+00:00",
+      "fetched_at": "2026-08-15T21:26:07.412112+00:00",
       "id": "cea9a1876e9f",
       "location": "Remote",
       "posted_at": "2026-06-17T17:33:39+00:00",

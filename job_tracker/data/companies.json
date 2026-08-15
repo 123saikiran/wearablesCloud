@@ -578,14 +578,16 @@
       "last_seen": "2026-07-22T07:00:51+00:00"
     },
     "Coinbase": {
-      "count": 4,
+      "count": 6,
       "job_ids": [
+        "6bed7d8fb758",
+        "2b3d3ae94177",
         "0ff20317bdc0",
         "6e85fcef7314",
         "ee3df6041d5b",
         "2030e1c432ca"
       ],
-      "last_seen": "2026-07-22T07:02:04+00:00"
+      "last_seen": "2026-07-22T07:02:28+00:00"
     },
     "Coles Liquor": {
       "count": 1,
@@ -1894,8 +1896,11 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 263,
+      "count": 266,
       "job_ids": [
+        "85bbd8aca3f0",
+        "2eb67f55b584",
+        "8e390514f355",
         "6dd0fed66aa0",
         "c65eeb77c188",
         "37c9e3a27212",
@@ -2160,7 +2165,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-15T20:08:00+00:00"
+      "last_seen": "2026-08-15T21:17:34+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -2340,13 +2345,6 @@
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
-    "SilverTech": {
-      "count": 1,
-      "job_ids": [
-        "9fbc648101ea"
-      ],
-      "last_seen": "2026-07-16T21:08:09+00:00"
-    },
     "Simmons Civil": {
       "count": 1,
       "job_ids": [
@@ -2402,13 +2400,6 @@
       ],
       "last_seen": "2026-08-09T09:46:00.050168+00:00"
     },
-    "Snapscale": {
-      "count": 1,
-      "job_ids": [
-        "40aedc5c33fa"
-      ],
-      "last_seen": "2026-07-16T21:08:09+00:00"
-    },
     "Sophie's Flats Inc.": {
       "count": 1,
       "job_ids": [
@@ -2438,13 +2429,6 @@
       ],
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
-    "Steady Vision": {
-      "count": 1,
-      "job_ids": [
-        "b400480f624d"
-      ],
-      "last_seen": "2026-07-16T21:08:09+00:00"
-    },
     "Stone": {
       "count": 2,
       "job_ids": [
@@ -2461,14 +2445,16 @@
       "last_seen": "2026-08-06T15:26:05.274918+00:00"
     },
     "Stripe": {
-      "count": 4,
+      "count": 6,
       "job_ids": [
+        "f50a2173e090",
+        "f5fdc311142a",
         "67b6a84148b8",
         "504218801790",
         "b670e6a23ffa",
         "6a8d17f2dcd5"
       ],
-      "last_seen": "2026-07-22T07:01:44+00:00"
+      "last_seen": "2026-07-22T07:02:54+00:00"
     },
     "SubwayÂ® Australia": {
       "count": 1,
@@ -2893,13 +2879,6 @@
       ],
       "last_seen": "2026-08-15T16:31:05.669567+00:00"
     },
-    "Work and Study Travel": {
-      "count": 1,
-      "job_ids": [
-        "92f72df4cd98"
-      ],
-      "last_seen": "2026-07-16T21:08:09+00:00"
-    },
     "World Data League": {
       "count": 2,
       "job_ids": [
@@ -3055,5 +3034,5 @@
       "last_seen": "2026-08-15T08:35:33.628741+00:00"
     }
   },
-  "updated_at": "2026-08-15T20:28:03.247383+00:00"
+  "updated_at": "2026-08-15T21:26:07.412112+00:00"
 }
