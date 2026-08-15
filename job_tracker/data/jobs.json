@@ -1,6 +1,51 @@
 {
   "jobs": [
     {
+      "company": "Black Talon Security",
+      "fetched_at": "2026-08-15T05:30:19.795769+00:00",
+      "id": "9517e6bd7c65",
+      "location": "Swift Current,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "infosec"
+      ],
+      "title": "Current Openings",
+      "url": "https://remoteOK.com/remote-jobs/remote-current-openings-black-talon-security-1136664"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-15T05:30:19.795769+00:00",
+      "id": "706129849d24",
+      "location": "Remote",
+      "posted_at": "2026-08-15T05:16:21+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2f1i"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-15T05:30:19.795769+00:00",
+      "id": "79bf5ccd14a7",
+      "location": "Remote",
+      "posted_at": "2026-08-15T04:53:48+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2ia3"
+    },
+    {
       "company": "W Hotels",
       "fetched_at": "2026-08-15T04:37:09.928589+00:00",
       "id": "08f858a75e02",
@@ -13399,5 +13444,5 @@
       "url": "https://weworkremotely.com/remote-jobs/snapscale-wp-dev-remote"
     }
   ],
-  "updated_at": "2026-08-15T04:37:09.928589+00:00"
+  "updated_at": "2026-08-15T05:30:19.795769+00:00"
 }
