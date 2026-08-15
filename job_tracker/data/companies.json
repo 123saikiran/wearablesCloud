@@ -73,12 +73,13 @@
       "last_seen": "2026-08-07T11:52:08.369963+00:00"
     },
     "Aditya Birla Group": {
-      "count": 2,
+      "count": 3,
       "job_ids": [
+        "38f7bca81db0",
         "2165c3d0794a",
         "73ca69dc48a8"
       ],
-      "last_seen": "2026-08-05T14:21:54.411152+00:00"
+      "last_seen": "2026-08-15T08:35:33.628741+00:00"
     },
     "Aecon Group Inc.": {
       "count": 1,
@@ -312,12 +313,26 @@
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
+    "Bjak": {
+      "count": 1,
+      "job_ids": [
+        "68763914ed52"
+      ],
+      "last_seen": "2026-08-15T08:35:33.628741+00:00"
+    },
     "Black Talon Security": {
       "count": 1,
       "job_ids": [
         "9517e6bd7c65"
       ],
       "last_seen": "2026-08-15T05:30:19.795769+00:00"
+    },
+    "Booz Allen Hamilton": {
+      "count": 1,
+      "job_ids": [
+        "d9c0abe1bb33"
+      ],
+      "last_seen": "2026-08-15T08:35:33.628741+00:00"
     },
     "BrandSafway": {
       "count": 1,
@@ -1119,6 +1134,13 @@
       ],
       "last_seen": "2026-08-13T19:09:06.217584+00:00"
     },
+    "IDFC FIRST Bank": {
+      "count": 1,
+      "job_ids": [
+        "7dcd18dab10f"
+      ],
+      "last_seen": "2026-08-15T08:35:33.628741+00:00"
+    },
     "INNERGY": {
       "count": 1,
       "job_ids": [
@@ -1146,6 +1168,13 @@
         "17773335ba1c"
       ],
       "last_seen": "2026-08-06T00:04:03.364954+00:00"
+    },
+    "InTechNative": {
+      "count": 1,
+      "job_ids": [
+        "c68e8d5865f3"
+      ],
+      "last_seen": "2026-08-15T08:35:33.628741+00:00"
     },
     "J&amp;D Quality Smash Repairs": {
       "count": 1,
@@ -1252,6 +1281,13 @@
         "ef141062fdf9"
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
+    },
+    "Knowledge Wave India": {
+      "count": 1,
+      "job_ids": [
+        "c8fa5ed7e5d2"
+      ],
+      "last_seen": "2026-08-15T08:35:33.628741+00:00"
     },
     "Kore 360": {
       "count": 1,
@@ -1827,8 +1863,10 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 232,
+      "count": 234,
       "job_ids": [
+        "2ea5654b8e17",
+        "8cf80730b4dd",
         "98ec2d10919e",
         "b53e3733d0a0",
         "801c1a35da1e",
@@ -2062,7 +2100,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-15T07:04:33+00:00"
+      "last_seen": "2026-08-15T07:59:30+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -2774,6 +2812,13 @@
       ],
       "last_seen": "2026-08-06T00:04:03.364954+00:00"
     },
+    "Wipro": {
+      "count": 1,
+      "job_ids": [
+        "cdbbd9250425"
+      ],
+      "last_seen": "2026-08-15T08:35:33.628741+00:00"
+    },
     "Work and Study Travel": {
       "count": 1,
       "job_ids": [
@@ -2927,7 +2972,14 @@
         "99c396352a63"
       ],
       "last_seen": "2026-08-07T00:07:27.688735+00:00"
+    },
+    "ç¾äº": {
+      "count": 1,
+      "job_ids": [
+        "8a507e0020ea"
+      ],
+      "last_seen": "2026-08-15T08:35:33.628741+00:00"
     }
   },
-  "updated_at": "2026-08-15T07:35:32.274939+00:00"
+  "updated_at": "2026-08-15T08:35:33.628741+00:00"
 }
