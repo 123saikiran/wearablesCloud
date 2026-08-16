@@ -1880,6 +1880,13 @@
       ],
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
+    "Power FM Bega Bay": {
+      "count": 1,
+      "job_ids": [
+        "b685a20941e3"
+      ],
+      "last_seen": "2026-08-16T21:25:19.192945+00:00"
+    },
     "Precision Safe Sidewalks": {
       "count": 1,
       "job_ids": [
@@ -1969,8 +1976,11 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 310,
+      "count": 313,
       "job_ids": [
+        "962850f8d260",
+        "9b57a994f7ba",
+        "d1fe37956f5a",
         "4e6f7fb2f9ee",
         "c51a0f402442",
         "5ba5de305e00",
@@ -2282,7 +2292,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-16T19:51:20+00:00"
+      "last_seen": "2026-08-16T21:14:13+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -3194,5 +3204,5 @@
       "last_seen": "2026-08-15T08:35:33.628741+00:00"
     }
   },
-  "updated_at": "2026-08-16T20:29:12.732823+00:00"
+  "updated_at": "2026-08-16T21:25:19.192945+00:00"
 }

@@ -1,6 +1,72 @@
 {
   "jobs": [
     {
+      "company": "Power FM Bega Bay",
+      "fetched_at": "2026-08-16T21:25:19.192945+00:00",
+      "id": "b685a20941e3",
+      "location": "Batemans Bay,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec",
+        "sys admin",
+        "education",
+        "consulting",
+        "customer support",
+        "medical"
+      ],
+      "title": "Labourer Plant Operators",
+      "url": "https://remoteOK.com/remote-jobs/remote-labourer-plant-operators-power-fm-bega-bay-1136835"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-16T21:25:19.192945+00:00",
+      "id": "962850f8d260",
+      "location": "Remote",
+      "posted_at": "2026-08-16T21:14:13+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-335n"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-16T21:25:19.192945+00:00",
+      "id": "9b57a994f7ba",
+      "location": "Remote",
+      "posted_at": "2026-08-16T20:55:07+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4jfo"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-16T21:25:19.192945+00:00",
+      "id": "d1fe37956f5a",
+      "location": "Remote",
+      "posted_at": "2026-08-16T20:35:50+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-42p7"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-16T20:29:12.732823+00:00",
       "id": "4e6f7fb2f9ee",
@@ -15816,5 +15882,5 @@
       "url": "https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe"
     }
   ],
-  "updated_at": "2026-08-16T20:29:12.732823+00:00"
+  "updated_at": "2026-08-16T21:25:19.192945+00:00"
 }
