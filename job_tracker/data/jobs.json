@@ -1,6 +1,63 @@
 {
   "jobs": [
     {
+      "company": "Menzies Aviation",
+      "fetched_at": "2026-08-16T16:31:58.010218+00:00",
+      "id": "9c727d9ab937",
+      "location": "Hounslow,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec",
+        "education",
+        "customer support",
+        "controller",
+        "accounting",
+        "finance",
+        "microsoft",
+        "ops",
+        "excel",
+        "medical",
+        "recruiter",
+        "infosec",
+        "testing"
+      ],
+      "title": "Cabin Cleaning Agent",
+      "url": "https://remoteOK.com/remote-jobs/remote-cabin-cleaning-agent-menzies-aviation-1136812"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-16T16:31:58.010218+00:00",
+      "id": "ced34123dfb2",
+      "location": "Remote",
+      "posted_at": "2026-08-16T16:08:08+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2kf8"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-16T16:31:58.010218+00:00",
+      "id": "5ba535dad596",
+      "location": "Remote",
+      "posted_at": "2026-08-16T15:42:57+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2mlp"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-16T15:26:50.761079+00:00",
       "id": "85d91152a7bf",
@@ -15602,5 +15659,5 @@
       "url": "https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe"
     }
   ],
-  "updated_at": "2026-08-16T15:26:50.761079+00:00"
+  "updated_at": "2026-08-16T16:31:58.010218+00:00"
 }
