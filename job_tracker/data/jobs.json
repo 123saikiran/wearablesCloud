@@ -2,6 +2,86 @@
   "jobs": [
     {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-16T15:26:50.761079+00:00",
+      "id": "85d91152a7bf",
+      "location": "Remote",
+      "posted_at": "2026-08-16T15:18:45+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-59eg"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-08-16T15:26:50.761079+00:00",
+      "id": "392ebec07a79",
+      "location": "Remote",
+      "posted_at": "2026-08-16T15:01:29+00:00",
+      "source": "devto",
+      "tags": [
+        "beginners",
+        "jobs",
+        "career",
+        "programming"
+      ],
+      "title": "Summer 2026 Internships: 8 New Openings This Week (Aug 16)",
+      "url": "https://dev.to/crackr/summer-2026-internships-8-new-openings-this-week-aug-16-52nb"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-08-16T15:26:50.761079+00:00",
+      "id": "422027e26c07",
+      "location": "Remote",
+      "posted_at": "2026-08-16T15:01:25+00:00",
+      "source": "devto",
+      "tags": [
+        "remotework",
+        "jobs",
+        "webdev",
+        "career"
+      ],
+      "title": "Remote SWE Jobs Paying Up to $200k (Aug 16)",
+      "url": "https://dev.to/crackr/remote-swe-jobs-paying-up-to-200k-aug-16-44e"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-16T15:26:50.761079+00:00",
+      "id": "24c9e1d95985",
+      "location": "Remote",
+      "posted_at": "2026-08-16T14:56:38+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2711"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-16T15:26:50.761079+00:00",
+      "id": "b0db064eb50a",
+      "location": "Remote",
+      "posted_at": "2026-08-16T14:36:59+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4nna"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-16T14:28:15.858037+00:00",
       "id": "3ecc4190b31e",
       "location": "Remote",
@@ -15522,5 +15602,5 @@
       "url": "https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe"
     }
   ],
-  "updated_at": "2026-08-16T14:28:15.858037+00:00"
+  "updated_at": "2026-08-16T15:26:50.761079+00:00"
 }
