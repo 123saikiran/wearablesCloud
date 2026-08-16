@@ -1,6 +1,38 @@
 {
   "jobs": [
     {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-16T10:28:41.528685+00:00",
+      "id": "d748c42c8c22",
+      "location": "Remote",
+      "posted_at": "2026-08-16T10:09:31+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-57ea"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-16T10:28:41.528685+00:00",
+      "id": "91e346bd1fcc",
+      "location": "Remote",
+      "posted_at": "2026-08-16T09:43:48+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-5765"
+    },
+    {
       "company": "The HEINEKEN Company",
       "fetched_at": "2026-08-16T09:32:15.576980+00:00",
       "id": "ddc49a9f6772",
@@ -15200,5 +15232,5 @@
       "url": "https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe"
     }
   ],
-  "updated_at": "2026-08-16T09:32:15.576980+00:00"
+  "updated_at": "2026-08-16T10:28:41.528685+00:00"
 }
