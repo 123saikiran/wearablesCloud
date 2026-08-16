@@ -1,6 +1,54 @@
 {
   "jobs": [
     {
+      "company": "Dev Connect",
+      "fetched_at": "2026-08-16T08:35:16.219981+00:00",
+      "id": "5566072630a2",
+      "location": "Remote",
+      "posted_at": "2026-08-16T08:15:02+00:00",
+      "source": "devto",
+      "tags": [
+        "career",
+        "hiring",
+        "jobs",
+        "discuss"
+      ],
+      "title": "Put the salary in the job post. All of it.",
+      "url": "https://dev.to/devconnect/put-the-salary-in-the-job-post-all-of-it-fmi"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-16T08:35:16.219981+00:00",
+      "id": "d706564ccdfb",
+      "location": "Remote",
+      "posted_at": "2026-08-16T08:12:44+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-349"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-16T08:35:16.219981+00:00",
+      "id": "8ae32e806d93",
+      "location": "Remote",
+      "posted_at": "2026-08-16T07:43:45+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1b49"
+    },
+    {
       "company": "Shopper1st",
       "fetched_at": "2026-08-16T07:35:47.481875+00:00",
       "id": "2204ab1c7543",
@@ -15071,5 +15119,5 @@
       "url": "https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe"
     }
   ],
-  "updated_at": "2026-08-16T07:35:47.481875+00:00"
+  "updated_at": "2026-08-16T08:35:16.219981+00:00"
 }
