@@ -1,6 +1,127 @@
 {
   "jobs": [
     {
+      "company": "Tiger Calcium Services Inc.",
+      "fetched_at": "2026-08-16T01:43:03.348171+00:00",
+      "id": "937aa74e4516",
+      "location": "Slave Lake,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "music",
+        "education",
+        "exec",
+        "marketing",
+        "sales",
+        "medical",
+        "testing"
+      ],
+      "title": "Sandblaster",
+      "url": "https://remoteOK.com/remote-jobs/remote-sandblaster-tiger-calcium-services-inc-1136800"
+    },
+    {
+      "company": "Mobiux Labs UK Limited ( Formerly Vida Technologies Ltd)",
+      "fetched_at": "2026-08-16T01:43:03.348171+00:00",
+      "id": "6a8c544dee15",
+      "location": "Wideopen,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "infosec",
+        "customer support",
+        "javascript"
+      ],
+      "title": "Current openings",
+      "url": "https://remoteOK.com/remote-jobs/remote-current-openings-mobiux-labs-uk-limited-formerly-vida-technologies-ltd-1136793"
+    },
+    {
+      "company": "Ace IT Careers",
+      "fetched_at": "2026-08-16T01:43:03.348171+00:00",
+      "id": "bd3e619ebf5e",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "testing",
+        "dev",
+        "analyst",
+        "quality assurance",
+        "digital nomad"
+      ],
+      "title": "QA Tester Entry Level",
+      "url": "https://remoteOK.com/remote-jobs/remote-qa-tester-entry-level-ace-it-careers-1136701"
+    },
+    {
+      "company": "Ridolfi Shirtmakers Inc.",
+      "fetched_at": "2026-08-16T01:43:03.348171+00:00",
+      "id": "30f2b50406b2",
+      "location": "North York,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "music",
+        "education",
+        "exec",
+        "marketing",
+        "sales",
+        "medical",
+        "testing",
+        "travel",
+        "finance",
+        "sys admin"
+      ],
+      "title": "operator sewing machine",
+      "url": "https://remoteOK.com/remote-jobs/remote-operator-sewing-machine-ridolfi-shirtmakers-inc-1136802"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-16T01:43:03.348171+00:00",
+      "id": "b5dbb11e52de",
+      "location": "Remote",
+      "posted_at": "2026-08-16T00:43:28+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4fp"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-16T01:43:03.348171+00:00",
+      "id": "905a06f10f21",
+      "location": "Remote",
+      "posted_at": "2026-08-15T23:54:01+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4e0p"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-16T01:43:03.348171+00:00",
+      "id": "9cd816de7850",
+      "location": "Remote",
+      "posted_at": "2026-08-15T23:33:07+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-17l"
+    },
+    {
       "company": "Decode-X",
       "fetched_at": "2026-08-15T23:25:33.412383+00:00",
       "id": "13fffc455179",
@@ -14804,5 +14925,5 @@
       "url": "https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe"
     }
   ],
-  "updated_at": "2026-08-15T23:25:33.412383+00:00"
+  "updated_at": "2026-08-16T01:43:03.348171+00:00"
 }

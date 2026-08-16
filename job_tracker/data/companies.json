@@ -58,6 +58,13 @@
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
+    "Ace IT Careers": {
+      "count": 1,
+      "job_ids": [
+        "bd3e619ebf5e"
+      ],
+      "last_seen": "2026-08-16T01:43:03.348171+00:00"
+    },
     "Adaptive Teams": {
       "count": 1,
       "job_ids": [
@@ -1511,6 +1518,13 @@
       ],
       "last_seen": "2026-08-09T07:04:28.535746+00:00"
     },
+    "Mobiux Labs UK Limited ( Formerly Vida Technologies Ltd)": {
+      "count": 1,
+      "job_ids": [
+        "6a8c544dee15"
+      ],
+      "last_seen": "2026-08-16T01:43:03.348171+00:00"
+    },
     "Modi's Boutique": {
       "count": 1,
       "job_ids": [
@@ -1903,8 +1917,11 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 270,
+      "count": 273,
       "job_ids": [
+        "b5dbb11e52de",
+        "905a06f10f21",
+        "9cd816de7850",
         "029db2817f4f",
         "46088233708d",
         "f3279c2fa50c",
@@ -2176,7 +2193,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-15T23:06:32+00:00"
+      "last_seen": "2026-08-16T00:43:28+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -2243,6 +2260,13 @@
         "7bd0c0caacea"
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
+    },
+    "Ridolfi Shirtmakers Inc.": {
+      "count": 1,
+      "job_ids": [
+        "30f2b50406b2"
+      ],
+      "last_seen": "2026-08-16T01:43:03.348171+00:00"
     },
     "Robert Half": {
       "count": 1,
@@ -2631,6 +2655,13 @@
         "032c5e327382"
       ],
       "last_seen": "2026-08-08T05:03:35.353503+00:00"
+    },
+    "Tiger Calcium Services Inc.": {
+      "count": 1,
+      "job_ids": [
+        "937aa74e4516"
+      ],
+      "last_seen": "2026-08-16T01:43:03.348171+00:00"
     },
     "Tim Hortons QuÃ©bec": {
       "count": 2,
@@ -3045,5 +3076,5 @@
       "last_seen": "2026-08-15T08:35:33.628741+00:00"
     }
   },
-  "updated_at": "2026-08-15T23:25:33.412383+00:00"
+  "updated_at": "2026-08-16T01:43:03.348171+00:00"
 }
