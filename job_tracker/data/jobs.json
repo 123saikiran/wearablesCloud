@@ -1,6 +1,69 @@
 {
   "jobs": [
     {
+      "company": "Train Rex",
+      "fetched_at": "2026-08-16T11:25:01.038232+00:00",
+      "id": "7e144887753c",
+      "location": "Call,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "sys admin",
+        "exec",
+        "medical"
+      ],
+      "title": "404",
+      "url": "https://remoteOK.com/remote-jobs/remote-404-train-rex-1136816"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-16T11:25:01.038232+00:00",
+      "id": "7a61c4dee89d",
+      "location": "Remote",
+      "posted_at": "2026-08-16T11:17:04+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-42p0"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-16T11:25:01.038232+00:00",
+      "id": "7d6d6ba16c51",
+      "location": "Remote",
+      "posted_at": "2026-08-16T10:56:05+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3h9j"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-16T11:25:01.038232+00:00",
+      "id": "b099b16772b1",
+      "location": "Remote",
+      "posted_at": "2026-08-16T10:37:44+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3f8n"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-16T10:28:41.528685+00:00",
       "id": "d748c42c8c22",
@@ -15232,5 +15295,5 @@
       "url": "https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe"
     }
   ],
-  "updated_at": "2026-08-16T10:28:41.528685+00:00"
+  "updated_at": "2026-08-16T11:25:01.038232+00:00"
 }
