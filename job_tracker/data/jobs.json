@@ -1,6 +1,40 @@
 {
   "jobs": [
     {
+      "company": "Shopper1st",
+      "fetched_at": "2026-08-16T07:35:47.481875+00:00",
+      "id": "2204ab1c7543",
+      "location": "Nirsa,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "testing",
+        "medical",
+        "non tech",
+        "product manager",
+        "exec",
+        "content writing"
+      ],
+      "title": "Product Manager",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-manager-shopper1st-1136807"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-16T07:35:47.481875+00:00",
+      "id": "c29523984412",
+      "location": "Remote",
+      "posted_at": "2026-08-16T07:07:08+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-305"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-16T06:49:08.861656+00:00",
       "id": "6b2bd890fd31",
@@ -15037,5 +15071,5 @@
       "url": "https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe"
     }
   ],
-  "updated_at": "2026-08-16T06:49:08.861656+00:00"
+  "updated_at": "2026-08-16T07:35:47.481875+00:00"
 }
