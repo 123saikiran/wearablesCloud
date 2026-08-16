@@ -1,6 +1,153 @@
 {
   "jobs": [
     {
+      "company": "Chico's FAS, Inc.",
+      "fetched_at": "2026-08-16T13:35:33.762911+00:00",
+      "id": "7b1bbd1fb50e",
+      "location": "Ponce,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "ecommerce",
+        "exec",
+        "marketing",
+        "finance",
+        "senior",
+        "ops",
+        "sales",
+        "design",
+        "customer support",
+        "dev",
+        "payroll",
+        "medical",
+        "digital nomad"
+      ],
+      "title": "Store Manager White House Black Market",
+      "url": "https://remoteOK.com/remote-jobs/remote-store-manager-white-house-black-market-chicos-fas-inc-1136826"
+    },
+    {
+      "company": "Savegnago Supermercados",
+      "fetched_at": "2026-08-16T13:35:33.762911+00:00",
+      "id": "5c0db7699943",
+      "location": "RibeirÃ£o Preto,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "ecommerce"
+      ],
+      "title": "Porteiro RibeirÃ£o Preto",
+      "url": "https://remoteOK.com/remote-jobs/remote-porteiro-ribeirao-preto-savegnago-supermercados-1136821"
+    },
+    {
+      "company": "Grupo Raymundo da Fonte",
+      "fetched_at": "2026-08-16T13:35:33.762911+00:00",
+      "id": "e843bd7867b6",
+      "location": "BelÃ©m,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "ecommerce",
+        "exec",
+        "marketing",
+        "finance",
+        "senior",
+        "ops",
+        "sales",
+        "design",
+        "customer support",
+        "dev",
+        "payroll",
+        "medical",
+        "digital nomad"
+      ],
+      "title": "Repositor BelÃ©m PA",
+      "url": "https://remoteOK.com/remote-jobs/remote-repositor-belem-pa-grupo-raymundo-da-fonte-1136830"
+    },
+    {
+      "company": "Localiza&amp;Co",
+      "fetched_at": "2026-08-16T13:35:33.762911+00:00",
+      "id": "ae34e16b435c",
+      "location": "JaboatÃ£o dos Guararapes,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "ecommerce"
+      ],
+      "title": "HIGIENIZADOR DE CARROS JABOTÃO DOS GUARARAPES PE",
+      "url": "https://remoteOK.com/remote-jobs/remote-higienizador-de-carros-jabotao-dos-guararapes-pe-localizaampco-1136823"
+    },
+    {
+      "company": "CMA CGM",
+      "fetched_at": "2026-08-16T13:35:33.762911+00:00",
+      "id": "ee14f9f19d0a",
+      "location": "Paramaribo,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "ecommerce",
+        "exec",
+        "marketing",
+        "finance",
+        "senior",
+        "ops",
+        "sales"
+      ],
+      "title": "General Manager Suriname",
+      "url": "https://remoteOK.com/remote-jobs/remote-general-manager-suriname-cma-cgm-1136825"
+    },
+    {
+      "company": "Glow &amp; Grow",
+      "fetched_at": "2026-08-16T13:35:33.762911+00:00",
+      "id": "a5e3df4e9aef",
+      "location": "Los Cabos,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "ecommerce",
+        "exec",
+        "marketing",
+        "finance",
+        "senior",
+        "ops",
+        "sales",
+        "design",
+        "customer support",
+        "dev",
+        "payroll",
+        "medical",
+        "digital nomad"
+      ],
+      "title": "Promo merchandiser",
+      "url": "https://remoteOK.com/remote-jobs/remote-promo-merchandiser-glow-amp-grow-1136829"
+    },
+    {
+      "company": "Procables de MÃ©xico",
+      "fetched_at": "2026-08-16T13:35:33.762911+00:00",
+      "id": "b208d7e96da4",
+      "location": "Los Cabos,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [],
+      "title": "Cotizador",
+      "url": "https://remoteOK.com/remote-jobs/remote-cotizador-procables-de-mexico-1136819"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-16T13:35:33.762911+00:00",
+      "id": "d654e9582dea",
+      "location": "Remote",
+      "posted_at": "2026-08-16T13:17:20+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3k0b"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-16T12:50:12.725101+00:00",
       "id": "eb5dbe5c423a",
@@ -15343,5 +15490,5 @@
       "url": "https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe"
     }
   ],
-  "updated_at": "2026-08-16T12:50:12.725101+00:00"
+  "updated_at": "2026-08-16T13:35:33.762911+00:00"
 }
