@@ -1,6 +1,54 @@
 {
   "jobs": [
     {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-16T12:50:12.725101+00:00",
+      "id": "eb5dbe5c423a",
+      "location": "Remote",
+      "posted_at": "2026-08-16T12:35:14+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2dmi"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-16T12:50:12.725101+00:00",
+      "id": "38995e0bdab8",
+      "location": "Remote",
+      "posted_at": "2026-08-16T11:56:40+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2e7g"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-16T12:50:12.725101+00:00",
+      "id": "576cbb8e5859",
+      "location": "Remote",
+      "posted_at": "2026-08-16T11:41:21+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-5aoe"
+    },
+    {
       "company": "Train Rex",
       "fetched_at": "2026-08-16T11:25:01.038232+00:00",
       "id": "7e144887753c",
@@ -15295,5 +15343,5 @@
       "url": "https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe"
     }
   ],
-  "updated_at": "2026-08-16T11:25:01.038232+00:00"
+  "updated_at": "2026-08-16T12:50:12.725101+00:00"
 }
