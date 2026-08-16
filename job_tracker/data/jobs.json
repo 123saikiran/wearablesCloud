@@ -1,6 +1,54 @@
 {
   "jobs": [
     {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-16T17:24:14.594571+00:00",
+      "id": "a447adf6752b",
+      "location": "Remote",
+      "posted_at": "2026-08-16T17:22:54+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4ald"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-16T17:24:14.594571+00:00",
+      "id": "afe5b54e1b05",
+      "location": "Remote",
+      "posted_at": "2026-08-16T16:58:49+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2oe0"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-16T17:24:14.594571+00:00",
+      "id": "40e066590d82",
+      "location": "Remote",
+      "posted_at": "2026-08-16T16:39:44+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-5le"
+    },
+    {
       "company": "Menzies Aviation",
       "fetched_at": "2026-08-16T16:31:58.010218+00:00",
       "id": "9c727d9ab937",
@@ -15659,5 +15707,5 @@
       "url": "https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe"
     }
   ],
-  "updated_at": "2026-08-16T16:31:58.010218+00:00"
+  "updated_at": "2026-08-16T17:24:14.594571+00:00"
 }
