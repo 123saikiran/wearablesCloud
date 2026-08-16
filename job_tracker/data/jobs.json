@@ -2,6 +2,38 @@
   "jobs": [
     {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-16T18:36:05.919533+00:00",
+      "id": "541e52fc2106",
+      "location": "Remote",
+      "posted_at": "2026-08-16T18:21:34+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3pdm"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-16T18:36:05.919533+00:00",
+      "id": "b5f94ee20a4b",
+      "location": "Remote",
+      "posted_at": "2026-08-16T17:41:07+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-19ha"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-16T17:24:14.594571+00:00",
       "id": "a447adf6752b",
       "location": "Remote",
@@ -15370,6 +15402,19 @@
     },
     {
       "company": "Stripe",
+      "fetched_at": "2026-08-16T18:36:05.919533+00:00",
+      "id": "c6a820527e6a",
+      "location": "Remote",
+      "posted_at": "2026-07-22T07:03:14+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Full-Stack Programming"
+      ],
+      "title": "Head of Self-Serve Paid Media",
+      "url": "https://weworkremotely.com/remote-jobs/stripe-head-of-self-serve-paid-media"
+    },
+    {
+      "company": "Stripe",
       "fetched_at": "2026-08-15T21:26:07.412112+00:00",
       "id": "f50a2173e090",
       "location": "Remote",
@@ -15707,5 +15752,5 @@
       "url": "https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe"
     }
   ],
-  "updated_at": "2026-08-16T17:24:14.594571+00:00"
+  "updated_at": "2026-08-16T18:36:05.919533+00:00"
 }
