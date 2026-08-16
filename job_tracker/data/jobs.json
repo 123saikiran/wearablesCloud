@@ -1,6 +1,87 @@
 {
   "jobs": [
     {
+      "company": "The HEINEKEN Company",
+      "fetched_at": "2026-08-16T09:32:15.576980+00:00",
+      "id": "ddc49a9f6772",
+      "location": "Kingston,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "sys admin",
+        "infosec",
+        "music",
+        "teaching",
+        "education",
+        "game dev",
+        "legal",
+        "architecture",
+        "designer",
+        "technical",
+        "writer",
+        "supervisor",
+        "coordinator",
+        "customer support",
+        "dev",
+        "exec",
+        "web dev",
+        "controller",
+        "analyst",
+        "travel",
+        "speech",
+        "accounting",
+        "payroll",
+        "virtual assistant",
+        "adult",
+        "finance",
+        "video",
+        "math",
+        "admin",
+        "mobile",
+        "webmaster",
+        "ops",
+        "marketing",
+        "sales",
+        "medical",
+        "engineer",
+        "digital nomad"
+      ],
+      "title": "Maintenance Planner",
+      "url": "https://remoteOK.com/remote-jobs/remote-maintenance-planner-the-heineken-company-1136810"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-16T09:32:15.576980+00:00",
+      "id": "8da642140346",
+      "location": "Remote",
+      "posted_at": "2026-08-16T09:14:07+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-ipl"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-16T09:32:15.576980+00:00",
+      "id": "1f435c7813c5",
+      "location": "Remote",
+      "posted_at": "2026-08-16T08:47:03+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3pb2"
+    },
+    {
       "company": "Dev Connect",
       "fetched_at": "2026-08-16T08:35:16.219981+00:00",
       "id": "5566072630a2",
@@ -15119,5 +15200,5 @@
       "url": "https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe"
     }
   ],
-  "updated_at": "2026-08-16T08:35:16.219981+00:00"
+  "updated_at": "2026-08-16T09:32:15.576980+00:00"
 }
