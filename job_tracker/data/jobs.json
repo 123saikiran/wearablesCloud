@@ -1,6 +1,54 @@
 {
   "jobs": [
     {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-16T22:26:51.195943+00:00",
+      "id": "a12233c1ee60",
+      "location": "Remote",
+      "posted_at": "2026-08-16T22:09:31+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-53fd"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-16T22:26:51.195943+00:00",
+      "id": "053a6119ea73",
+      "location": "Remote",
+      "posted_at": "2026-08-16T21:53:15+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3bkh"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-16T22:26:51.195943+00:00",
+      "id": "b7d9532362a7",
+      "location": "Remote",
+      "posted_at": "2026-08-16T21:35:26+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-5649"
+    },
+    {
       "company": "Power FM Bega Bay",
       "fetched_at": "2026-08-16T21:25:19.192945+00:00",
       "id": "b685a20941e3",
@@ -15882,5 +15930,5 @@
       "url": "https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe"
     }
   ],
-  "updated_at": "2026-08-16T21:25:19.192945+00:00"
+  "updated_at": "2026-08-16T22:26:51.195943+00:00"
 }
