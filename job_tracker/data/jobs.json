@@ -1,6 +1,54 @@
 {
   "jobs": [
     {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-17T16:33:48.056789+00:00",
+      "id": "1ae1d8859ce6",
+      "location": "Remote",
+      "posted_at": "2026-08-17T16:31:18+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4f3"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-17T16:33:48.056789+00:00",
+      "id": "c718f5d11045",
+      "location": "Remote",
+      "posted_at": "2026-08-17T15:58:34+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-152c"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-17T16:33:48.056789+00:00",
+      "id": "d840ede95089",
+      "location": "Remote",
+      "posted_at": "2026-08-17T15:40:24+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2hfl"
+    },
+    {
       "company": "Flurix.AI",
       "fetched_at": "2026-08-17T15:30:25.819767+00:00",
       "id": "7353f1d164ed",
@@ -16667,5 +16715,5 @@
       "url": "https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe"
     }
   ],
-  "updated_at": "2026-08-17T15:30:25.819767+00:00"
+  "updated_at": "2026-08-17T16:33:48.056789+00:00"
 }
