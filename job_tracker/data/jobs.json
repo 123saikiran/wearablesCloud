@@ -1,6 +1,144 @@
 {
   "jobs": [
     {
+      "company": "Flurix.AI",
+      "fetched_at": "2026-08-17T15:30:25.819767+00:00",
+      "id": "7353f1d164ed",
+      "location": "Para,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [],
+      "title": "Nexus",
+      "url": "https://remoteOK.com/remote-jobs/remote-nexus-flurix-ai-1136845"
+    },
+    {
+      "company": "HuntingCube",
+      "fetched_at": "2026-08-17T15:30:25.819767+00:00",
+      "id": "328c787181e6",
+      "location": "Itanagar,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "testing",
+        "golang",
+        "non tech",
+        "technical",
+        "exec"
+      ],
+      "title": "Lead Zendesk",
+      "url": "https://remoteOK.com/remote-jobs/remote-lead-zendesk-huntingcube-1136852"
+    },
+    {
+      "company": "SLB",
+      "fetched_at": "2026-08-17T15:30:25.819767+00:00",
+      "id": "8df5a4907383",
+      "location": "Dehradun,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "testing",
+        "golang",
+        "non tech",
+        "technical",
+        "exec",
+        "design",
+        "digital nomad",
+        "education",
+        "supervisor",
+        "customer support",
+        "ops",
+        "senior",
+        "junior",
+        "analyst",
+        "dev"
+      ],
+      "title": "Real Time Drilling Ops Centre Analyst",
+      "url": "https://remoteOK.com/remote-jobs/remote-real-time-drilling-ops-centre-analyst-slb-1136857"
+    },
+    {
+      "company": "Wipro",
+      "fetched_at": "2026-08-17T15:30:25.819767+00:00",
+      "id": "08728895c75a",
+      "location": "Bengaluru,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "testing",
+        "golang",
+        "non tech",
+        "technical",
+        "exec",
+        "design",
+        "digital nomad"
+      ],
+      "title": "PARTNER TECH &amp; IMPL L1",
+      "url": "https://remoteOK.com/remote-jobs/remote-partner-tech-amp-impl-l1-wipro-1136853"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-17T15:30:25.819767+00:00",
+      "id": "956157307187",
+      "location": "Remote",
+      "posted_at": "2026-08-17T15:12:36+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-536a"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-08-17T15:30:25.819767+00:00",
+      "id": "2fa8b76e0616",
+      "location": "Remote",
+      "posted_at": "2026-08-17T15:01:27+00:00",
+      "source": "devto",
+      "tags": [
+        "beginners",
+        "jobs",
+        "career",
+        "programming"
+      ],
+      "title": "These Companies Want Interns This Summer (Aug 17)",
+      "url": "https://dev.to/crackr/these-companies-want-interns-this-summer-aug-17-e3k"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-08-17T15:30:25.819767+00:00",
+      "id": "b2a63b7a76c6",
+      "location": "Remote",
+      "posted_at": "2026-08-17T15:01:24+00:00",
+      "source": "devto",
+      "tags": [
+        "remotework",
+        "jobs",
+        "webdev",
+        "career"
+      ],
+      "title": "8 Remote SWE Jobs You Can Apply to From Anywhere (Aug 17)",
+      "url": "https://dev.to/crackr/8-remote-swe-jobs-you-can-apply-to-from-anywhere-aug-17-1ndg"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-17T15:30:25.819767+00:00",
+      "id": "22060d79eebe",
+      "location": "Remote",
+      "posted_at": "2026-08-17T14:50:39+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2062"
+    },
+    {
       "company": "Costa Coffee Ireland",
       "fetched_at": "2026-08-17T14:33:32.883150+00:00",
       "id": "4630277865b3",
@@ -16529,5 +16667,5 @@
       "url": "https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe"
     }
   ],
-  "updated_at": "2026-08-17T14:33:32.883150+00:00"
+  "updated_at": "2026-08-17T15:30:25.819767+00:00"
 }
