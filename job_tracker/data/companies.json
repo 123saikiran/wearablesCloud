@@ -659,6 +659,13 @@
       ],
       "last_seen": "2026-08-09T18:49:48.996072+00:00"
     },
+    "Costa Coffee Ireland": {
+      "count": 1,
+      "job_ids": [
+        "4630277865b3"
+      ],
+      "last_seen": "2026-08-17T14:33:32.883150+00:00"
+    },
     "Cotton On Group": {
       "count": 1,
       "job_ids": [
@@ -2018,8 +2025,10 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 338,
+      "count": 340,
       "job_ids": [
+        "cee0318975d4",
+        "48f92ee2df20",
         "f6ce4ec9d970",
         "b62bb0735d21",
         "bf5d21418c2d",
@@ -2359,7 +2368,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-17T13:13:09+00:00"
+      "last_seen": "2026-08-17T14:17:15+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -2915,6 +2924,13 @@
       ],
       "last_seen": "2026-08-13T08:25:22.850642+00:00"
     },
+    "TwinTopics": {
+      "count": 1,
+      "job_ids": [
+        "3a7de75fc9a4"
+      ],
+      "last_seen": "2026-08-17T14:33:32.883150+00:00"
+    },
     "Twitan.com": {
       "count": 1,
       "job_ids": [
@@ -3279,5 +3295,5 @@
       "last_seen": "2026-08-15T08:35:33.628741+00:00"
     }
   },
-  "updated_at": "2026-08-17T13:42:45.411529+00:00"
+  "updated_at": "2026-08-17T14:33:32.883150+00:00"
 }
