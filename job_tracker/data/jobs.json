@@ -1,6 +1,67 @@
 {
   "jobs": [
     {
+      "company": "Numeris",
+      "fetched_at": "2026-08-17T08:50:22.186118+00:00",
+      "id": "b0a3c5036753",
+      "location": "North York, Ontario",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "virtual assistant",
+        "hr",
+        "sys admin",
+        "education",
+        "game dev",
+        "customer support",
+        "marketing",
+        "travel",
+        "finance",
+        "c",
+        "exec",
+        "content writing",
+        "senior",
+        "ops",
+        "excel",
+        "legal",
+        "medical"
+      ],
+      "title": "Executive Assistant",
+      "url": "https://remoteOK.com/remote-jobs/remote-executive-assistant-numeris-1136808"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-17T08:50:22.186118+00:00",
+      "id": "bbacdde5cac7",
+      "location": "Remote",
+      "posted_at": "2026-08-17T08:01:59+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3e46"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-17T08:50:22.186118+00:00",
+      "id": "1e032cb4f40a",
+      "location": "Remote",
+      "posted_at": "2026-08-17T07:14:10+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-130o"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-17T07:05:37.783325+00:00",
       "id": "05bbd68e8164",
@@ -16276,5 +16337,5 @@
       "url": "https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe"
     }
   ],
-  "updated_at": "2026-08-17T07:05:37.783325+00:00"
+  "updated_at": "2026-08-17T08:50:22.186118+00:00"
 }
