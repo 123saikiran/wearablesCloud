@@ -742,6 +742,13 @@
       ],
       "last_seen": "2026-08-07T00:07:27.688735+00:00"
     },
+    "Crystalia Glass LLC": {
+      "count": 1,
+      "job_ids": [
+        "861f5311a11c"
+      ],
+      "last_seen": "2026-08-17T23:27:57.257558+00:00"
+    },
     "Curcle": {
       "count": 1,
       "job_ids": [
@@ -992,11 +999,12 @@
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
     "FedEx": {
-      "count": 1,
+      "count": 2,
       "job_ids": [
+        "13dc25d22019",
         "5096d5a6d34a"
       ],
-      "last_seen": "2026-08-08T02:00:05.499155+00:00"
+      "last_seen": "2026-08-17T23:27:57.257558+00:00"
     },
     "FindTutors": {
       "count": 1,
@@ -1046,6 +1054,13 @@
         "1497fd8d4592"
       ],
       "last_seen": "2026-08-17T01:40:17.655985+00:00"
+    },
+    "FroxJob | Executive Jobs in Nepal": {
+      "count": 1,
+      "job_ids": [
+        "7c3c0104a8ac"
+      ],
+      "last_seen": "2026-08-17T23:27:57.257558+00:00"
     },
     "GROW10X": {
       "count": 2,
@@ -1142,6 +1157,13 @@
       ],
       "last_seen": "2026-08-06T04:17:53.869792+00:00"
     },
+    "HK Express": {
+      "count": 1,
+      "job_ids": [
+        "1b41da06df0e"
+      ],
+      "last_seen": "2026-08-17T23:27:57.257558+00:00"
+    },
     "HapScale": {
       "count": 1,
       "job_ids": [
@@ -1184,6 +1206,13 @@
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
+    "Hilton": {
+      "count": 1,
+      "job_ids": [
+        "dc192fb761f0"
+      ],
+      "last_seen": "2026-08-17T23:27:57.257558+00:00"
+    },
     "Homeland Surveillance": {
       "count": 1,
       "job_ids": [
@@ -1211,6 +1240,13 @@
         "ba1bc8bd87b8"
       ],
       "last_seen": "2026-08-12T06:18:42.957642+00:00"
+    },
+    "Hongkong Express": {
+      "count": 1,
+      "job_ids": [
+        "7ebfac183ce4"
+      ],
+      "last_seen": "2026-08-17T23:27:57.257558+00:00"
     },
     "Hot9ja": {
       "count": 2,
@@ -1503,6 +1539,13 @@
       ],
       "last_seen": "2026-08-15T06:47:41.398945+00:00"
     },
+    "MDPI": {
+      "count": 1,
+      "job_ids": [
+        "2f392f659947"
+      ],
+      "last_seen": "2026-08-17T23:27:57.257558+00:00"
+    },
     "MEF Ltd": {
       "count": 1,
       "job_ids": [
@@ -1576,6 +1619,13 @@
         "e7ed1d558ae4"
       ],
       "last_seen": "2026-07-21T14:57:31+00:00"
+    },
+    "Marina Bay Sands": {
+      "count": 1,
+      "job_ids": [
+        "54e51abe5f9b"
+      ],
+      "last_seen": "2026-08-17T23:27:57.257558+00:00"
     },
     "Markelic LLC": {
       "count": 1,
@@ -2048,8 +2098,11 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 356,
+      "count": 359,
       "job_ids": [
+        "626746defdf7",
+        "c86d5fef9d8f",
+        "d3729f6377bf",
         "4a84eed1e8da",
         "82409c0af556",
         "b98d28fb8266",
@@ -2407,7 +2460,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-17T22:00:00+00:00"
+      "last_seen": "2026-08-17T23:20:35+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -3336,5 +3389,5 @@
       "last_seen": "2026-08-15T08:35:33.628741+00:00"
     }
   },
-  "updated_at": "2026-08-17T22:29:45.029286+00:00"
+  "updated_at": "2026-08-17T23:27:57.257558+00:00"
 }
