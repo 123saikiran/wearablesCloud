@@ -1,6 +1,72 @@
 {
   "jobs": [
     {
+      "company": "Market of Choice",
+      "fetched_at": "2026-08-17T20:32:31.450965+00:00",
+      "id": "d933ef53c64f",
+      "location": "West Linn,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "dev",
+        "digital nomad",
+        "infosec",
+        "customer support",
+        "finance",
+        "cloud",
+        "ops",
+        "medical",
+        "recruiter",
+        "engineer",
+        "education",
+        "testing",
+        "exec",
+        "speech",
+        "golang",
+        "c",
+        "payroll",
+        "legal",
+        "technical",
+        "stats",
+        "sys admin",
+        "marketing"
+      ],
+      "title": "Any Open Position",
+      "url": "https://remoteOK.com/remote-jobs/remote-any-open-position-market-of-choice-1136872"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-17T20:32:31.450965+00:00",
+      "id": "76dacbf820f2",
+      "location": "Remote",
+      "posted_at": "2026-08-17T20:11:15+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2c9m"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-17T20:32:31.450965+00:00",
+      "id": "2f84028c5514",
+      "location": "Remote",
+      "posted_at": "2026-08-17T19:48:26+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-26i8"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-17T19:32:34.676889+00:00",
       "id": "99965dbeb993",
@@ -16795,5 +16861,5 @@
       "url": "https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe"
     }
   ],
-  "updated_at": "2026-08-17T19:32:34.676889+00:00"
+  "updated_at": "2026-08-17T20:32:31.450965+00:00"
 }
