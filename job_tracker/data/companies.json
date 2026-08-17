@@ -813,6 +813,13 @@
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
+    "Delinea": {
+      "count": 1,
+      "job_ids": [
+        "ec0ec3dc6073"
+      ],
+      "last_seen": "2026-08-17T01:40:17.655985+00:00"
+    },
     "Dev Connect": {
       "count": 1,
       "job_ids": [
@@ -1009,6 +1016,13 @@
         "b80d09d4076f"
       ],
       "last_seen": "2026-08-06T10:45:03.991691+00:00"
+    },
+    "FreedomPay": {
+      "count": 1,
+      "job_ids": [
+        "1497fd8d4592"
+      ],
+      "last_seen": "2026-08-17T01:40:17.655985+00:00"
     },
     "GROW10X": {
       "count": 2,
@@ -1849,12 +1863,26 @@
       ],
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
+    "Physical Superintelligence": {
+      "count": 1,
+      "job_ids": [
+        "bcb3180a69c9"
+      ],
+      "last_seen": "2026-08-17T01:40:17.655985+00:00"
+    },
     "PinPoint Middleware Test Company": {
       "count": 1,
       "job_ids": [
         "c77d0c58319d"
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
+    },
+    "Pivotal Health": {
+      "count": 1,
+      "job_ids": [
+        "1dc87e4d1898"
+      ],
+      "last_seen": "2026-08-17T01:40:17.655985+00:00"
     },
     "Platypus Shoes": {
       "count": 3,
@@ -1976,8 +2004,11 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 319,
+      "count": 322,
       "job_ids": [
+        "86ddc4058b98",
+        "ae860083a160",
+        "e459aba0129b",
         "67549408ea4b",
         "4317b00993e5",
         "304aa22b4912",
@@ -2298,7 +2329,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-16T23:12:51+00:00"
+      "last_seen": "2026-08-17T00:37:01+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -3210,5 +3241,5 @@
       "last_seen": "2026-08-15T08:35:33.628741+00:00"
     }
   },
-  "updated_at": "2026-08-16T23:25:27.499239+00:00"
+  "updated_at": "2026-08-17T01:40:17.655985+00:00"
 }

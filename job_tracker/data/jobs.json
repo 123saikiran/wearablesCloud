@@ -1,6 +1,164 @@
 {
   "jobs": [
     {
+      "company": "Physical Superintelligence",
+      "fetched_at": "2026-08-17T01:40:17.655985+00:00",
+      "id": "bcb3180a69c9",
+      "location": "Boston",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "design",
+        "infosec",
+        "technical",
+        "dev",
+        "testing",
+        "cloud",
+        "exec",
+        "engineer",
+        "digital nomad"
+      ],
+      "title": "Member of Technical Staff Engineering",
+      "url": "https://remoteOK.com/remote-jobs/remote-member-of-technical-staff-engineering-physical-superintelligence-1136798"
+    },
+    {
+      "company": "FreedomPay",
+      "fetched_at": "2026-08-17T01:40:17.655985+00:00",
+      "id": "1497fd8d4592",
+      "location": "Select USA Remote Locations",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "saas",
+        "infosec",
+        "game dev",
+        "consulting",
+        "marketing",
+        "travel",
+        "speech",
+        "exec",
+        "finance",
+        "education",
+        "api",
+        "mobile",
+        "senior",
+        "ops",
+        "stats",
+        "sales",
+        "medical",
+        "full time"
+      ],
+      "title": "Strategic Account Executive Lodging",
+      "url": "https://remoteOK.com/remote-jobs/remote-strategic-account-executive-lodging-freedompay-1136797"
+    },
+    {
+      "company": "Delinea",
+      "fetched_at": "2026-08-17T01:40:17.655985+00:00",
+      "id": "ec0ec3dc6073",
+      "location": "Redwood City",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "dev",
+        "design",
+        "saas",
+        "sys admin",
+        "infosec",
+        "vfx",
+        "technical",
+        "web dev",
+        "exec",
+        "devops",
+        "education",
+        "finance",
+        "cloud",
+        "api",
+        "admin",
+        "ops",
+        "golang",
+        "medical",
+        "engineer",
+        "backend",
+        "digital nomad"
+      ],
+      "title": "Staff Software Development Engineer SDM",
+      "url": "https://remoteOK.com/remote-jobs/remote-staff-software-development-engineer-sdm-delinea-1136796"
+    },
+    {
+      "company": "Pivotal Health",
+      "fetched_at": "2026-08-17T01:40:17.655985+00:00",
+      "id": "1dc87e4d1898",
+      "location": "New York City",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "dev",
+        "front end",
+        "python",
+        "customer support",
+        "design",
+        "admin",
+        "exec",
+        "senior",
+        "ops",
+        "sys admin",
+        "medical",
+        "engineer",
+        "backend",
+        "digital nomad"
+      ],
+      "title": "Senior Software Engineer Case Execution",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-case-execution-pivotal-health-1136795"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-17T01:40:17.655985+00:00",
+      "id": "86ddc4058b98",
+      "location": "Remote",
+      "posted_at": "2026-08-17T00:37:01+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-5of"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-17T01:40:17.655985+00:00",
+      "id": "ae860083a160",
+      "location": "Remote",
+      "posted_at": "2026-08-16T23:53:34+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-39mh"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-17T01:40:17.655985+00:00",
+      "id": "e459aba0129b",
+      "location": "Remote",
+      "posted_at": "2026-08-16T23:34:32+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2jh6"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-16T23:25:27.499239+00:00",
       "id": "67549408ea4b",
@@ -15978,5 +16136,5 @@
       "url": "https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe"
     }
   ],
-  "updated_at": "2026-08-16T23:25:27.499239+00:00"
+  "updated_at": "2026-08-17T01:40:17.655985+00:00"
 }
