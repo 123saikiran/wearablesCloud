@@ -2,6 +2,54 @@
   "jobs": [
     {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-18T20:30:06.379115+00:00",
+      "id": "94d58bae221f",
+      "location": "Remote",
+      "posted_at": "2026-08-18T20:15:41+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-5ep7"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-18T20:30:06.379115+00:00",
+      "id": "c9fc1c9e1a98",
+      "location": "Remote",
+      "posted_at": "2026-08-18T19:54:58+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1fk2"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-18T20:30:06.379115+00:00",
+      "id": "b19959553dc1",
+      "location": "Remote",
+      "posted_at": "2026-08-18T19:38:17+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-129c"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-18T19:31:28.539746+00:00",
       "id": "0d511aebaef6",
       "location": "Remote",
@@ -18265,5 +18313,5 @@
       "url": "https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe"
     }
   ],
-  "updated_at": "2026-08-18T19:31:28.539746+00:00"
+  "updated_at": "2026-08-18T20:30:06.379115+00:00"
 }
