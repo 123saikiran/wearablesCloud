@@ -1,6 +1,123 @@
 {
   "jobs": [
     {
+      "company": "Adani Airport Holdings Ltd",
+      "fetched_at": "2026-08-18T17:32:31.941169+00:00",
+      "id": "973cc390d98f",
+      "location": "Mangaluru,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "infosec",
+        "education",
+        "customer support",
+        "marketing",
+        "exec",
+        "finance",
+        "ops",
+        "medical",
+        "engineer"
+      ],
+      "title": "Fire Fighter",
+      "url": "https://remoteOK.com/remote-jobs/remote-fire-fighter-adani-airport-holdings-ltd-1136926"
+    },
+    {
+      "company": "Department of Education and Training",
+      "fetched_at": "2026-08-18T17:32:31.941169+00:00",
+      "id": "18271d77ddd3",
+      "location": "Katherine,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "recruiter",
+        "ops",
+        "non tech",
+        "customer support",
+        "marketing",
+        "finance",
+        "medical",
+        "engineer",
+        "education",
+        "infosec",
+        "exec"
+      ],
+      "title": "Maintenance and Grounds Officer",
+      "url": "https://remoteOK.com/remote-jobs/remote-maintenance-and-grounds-officer-department-of-education-and-training-1136946"
+    },
+    {
+      "company": "Baldwin Blueprint",
+      "fetched_at": "2026-08-18T17:32:31.941169+00:00",
+      "id": "d285dbbfe299",
+      "location": "Min Min,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "sys admin",
+        "exec",
+        "customer support",
+        "dev",
+        "ops",
+        "digital nomad",
+        "marketing",
+        "sales",
+        "testing",
+        "finance",
+        "content writing"
+      ],
+      "title": "What should I ask them when they say 'Do you have any questions for us",
+      "url": "https://remoteOK.com/remote-jobs/remote-what-should-i-ask-them-when-they-say-do-you-have-any-questions-for-us-baldwin-blueprint-1136933"
+    },
+    {
+      "company": "Baldwin Blueprint",
+      "fetched_at": "2026-08-18T17:32:31.941169+00:00",
+      "id": "94d933b6d28a",
+      "location": "Min Min,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "sys admin",
+        "exec",
+        "customer support",
+        "dev",
+        "ops",
+        "digital nomad"
+      ],
+      "title": "What does 'fast paced environment' actually mean for my day day",
+      "url": "https://remoteOK.com/remote-jobs/remote-what-does-fast-paced-environment-actually-mean-for-my-day-day-baldwin-blueprint-1136931"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-18T17:32:31.941169+00:00",
+      "id": "41d79932cf88",
+      "location": "Remote",
+      "posted_at": "2026-08-18T17:20:14+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3pk3"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-18T17:32:31.941169+00:00",
+      "id": "dd1bc3d245a0",
+      "location": "Remote",
+      "posted_at": "2026-08-18T16:54:49+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-51ei"
+    },
+    {
       "company": "Legal Services NYC",
       "fetched_at": "2026-08-18T16:37:17.008222+00:00",
       "id": "3212e83df92c",
@@ -18085,5 +18202,5 @@
       "url": "https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe"
     }
   ],
-  "updated_at": "2026-08-18T16:37:17.008222+00:00"
+  "updated_at": "2026-08-18T17:32:31.941169+00:00"
 }

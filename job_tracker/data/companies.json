@@ -72,6 +72,13 @@
       ],
       "last_seen": "2026-08-16T01:43:03.348171+00:00"
     },
+    "Adani Airport Holdings Ltd": {
+      "count": 1,
+      "job_ids": [
+        "973cc390d98f"
+      ],
+      "last_seen": "2026-08-18T17:32:31.941169+00:00"
+    },
     "Adaptive Teams": {
       "count": 1,
       "job_ids": [
@@ -260,6 +267,14 @@
         "2e843b402962"
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
+    },
+    "Baldwin Blueprint": {
+      "count": 2,
+      "job_ids": [
+        "d285dbbfe299",
+        "94d933b6d28a"
+      ],
+      "last_seen": "2026-08-18T17:32:31.941169+00:00"
     },
     "Bapcor Retail": {
       "count": 1,
@@ -865,6 +880,13 @@
         "ec0ec3dc6073"
       ],
       "last_seen": "2026-08-17T01:40:17.655985+00:00"
+    },
+    "Department of Education and Training": {
+      "count": 1,
+      "job_ids": [
+        "18271d77ddd3"
+      ],
+      "last_seen": "2026-08-18T17:32:31.941169+00:00"
     },
     "Dev Connect": {
       "count": 1,
@@ -2150,8 +2172,10 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 384,
+      "count": 386,
       "job_ids": [
+        "41d79932cf88",
+        "dd1bc3d245a0",
         "a19e7fd7fb1b",
         "99ae844582be",
         "445d6310c642",
@@ -2537,7 +2561,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-18T16:14:30+00:00"
+      "last_seen": "2026-08-18T17:20:14+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -3501,5 +3525,5 @@
       "last_seen": "2026-08-15T08:35:33.628741+00:00"
     }
   },
-  "updated_at": "2026-08-18T16:37:17.008222+00:00"
+  "updated_at": "2026-08-18T17:32:31.941169+00:00"
 }
