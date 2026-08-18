@@ -1,6 +1,35 @@
 {
   "jobs": [
     {
+      "company": "Schwing Stetter India",
+      "fetched_at": "2026-08-18T13:48:36.729400+00:00",
+      "id": "253e7637d5f2",
+      "location": "Dehradun,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "engineer"
+      ],
+      "title": "Field Services Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-field-services-engineer-schwing-stetter-india-1136862"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-18T13:48:36.729400+00:00",
+      "id": "e4bff7673b1a",
+      "location": "Remote",
+      "posted_at": "2026-08-18T13:05:57+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-244n"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-18T12:56:12.887507+00:00",
       "id": "1fcd366bb012",
@@ -17843,5 +17872,5 @@
       "url": "https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe"
     }
   ],
-  "updated_at": "2026-08-18T12:56:12.887507+00:00"
+  "updated_at": "2026-08-18T13:48:36.729400+00:00"
 }

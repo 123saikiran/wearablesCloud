@@ -2133,8 +2133,9 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 378,
+      "count": 379,
       "job_ids": [
+        "e4bff7673b1a",
         "1fcd366bb012",
         "d69128fba087",
         "5c9d771adade",
@@ -2514,7 +2515,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-18T11:41:32+00:00"
+      "last_seen": "2026-08-18T13:05:57+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -2687,6 +2688,13 @@
         "5c0db7699943"
       ],
       "last_seen": "2026-08-16T13:35:33.762911+00:00"
+    },
+    "Schwing Stetter India": {
+      "count": 1,
+      "job_ids": [
+        "253e7637d5f2"
+      ],
+      "last_seen": "2026-08-18T13:48:36.729400+00:00"
     },
     "Securancy Intelligence": {
       "count": 1,
@@ -3457,5 +3465,5 @@
       "last_seen": "2026-08-15T08:35:33.628741+00:00"
     }
   },
-  "updated_at": "2026-08-18T12:56:12.887507+00:00"
+  "updated_at": "2026-08-18T13:48:36.729400+00:00"
 }
