@@ -1,6 +1,69 @@
 {
   "jobs": [
     {
+      "company": "Hovis Ltd",
+      "fetched_at": "2026-08-18T15:36:57.458513+00:00",
+      "id": "cea117650fb5",
+      "location": "Belfast,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "scheme",
+        "medical",
+        "engineer"
+      ],
+      "title": "FLM",
+      "url": "https://remoteOK.com/remote-jobs/remote-flm-hovis-ltd-1136925"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-18T15:36:57.458513+00:00",
+      "id": "445d6310c642",
+      "location": "Remote",
+      "posted_at": "2026-08-18T15:01:30+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-5fg1"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-08-18T15:36:57.458513+00:00",
+      "id": "efdf77cf37d1",
+      "location": "Remote",
+      "posted_at": "2026-08-18T15:00:29+00:00",
+      "source": "devto",
+      "tags": [
+        "beginners",
+        "jobs",
+        "career",
+        "programming"
+      ],
+      "title": "Where to Find Tech Internships This Summer (Aug 18)",
+      "url": "https://dev.to/crackr/where-to-find-tech-internships-this-summer-aug-18-33d2"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-08-18T15:36:57.458513+00:00",
+      "id": "19c5d53970c7",
+      "location": "Remote",
+      "posted_at": "2026-08-18T15:00:26+00:00",
+      "source": "devto",
+      "tags": [
+        "remotework",
+        "jobs",
+        "webdev",
+        "career"
+      ],
+      "title": "Senior Remote SWE Roles Hiring Now - 4 Pay $150k+ (Aug 18)",
+      "url": "https://dev.to/crackr/senior-remote-swe-roles-hiring-now-4-pay-150k-aug-18-3oh6"
+    },
+    {
       "company": "Bouygues BÃ¢timent International",
       "fetched_at": "2026-08-18T14:38:46.014115+00:00",
       "id": "f472b65d5b20",
@@ -17939,5 +18002,5 @@
       "url": "https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe"
     }
   ],
-  "updated_at": "2026-08-18T14:38:46.014115+00:00"
+  "updated_at": "2026-08-18T15:36:57.458513+00:00"
 }
