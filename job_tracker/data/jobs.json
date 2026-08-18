@@ -1,6 +1,87 @@
 {
   "jobs": [
     {
+      "company": "Sanya Pharma Pvt Ltd",
+      "fetched_at": "2026-08-18T11:30:22.939049+00:00",
+      "id": "c899c1ae8530",
+      "location": "Patna,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "customer support",
+        "finance",
+        "exec",
+        "senior",
+        "legal",
+        "technical",
+        "marketing",
+        "excel",
+        "sales",
+        "engineer",
+        "recruiter",
+        "full time",
+        "sys admin",
+        "infosec",
+        "education",
+        "dev",
+        "digital nomad",
+        "hr",
+        "microsoft",
+        "ops",
+        "supervisor",
+        "medical",
+        "architecture",
+        "design",
+        "virtual assistant",
+        "speech",
+        "content writing",
+        "travel",
+        "accounting",
+        "payroll",
+        "scheme",
+        "junior",
+        "designer",
+        "video",
+        "photoshop",
+        "illustrator",
+        "c"
+      ],
+      "title": "Billing Executive",
+      "url": "https://remoteOK.com/remote-jobs/remote-billing-executive-sanya-pharma-pvt-ltd-1136899"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-18T11:30:22.939049+00:00",
+      "id": "d69128fba087",
+      "location": "Remote",
+      "posted_at": "2026-08-18T11:12:55+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3ane"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-18T11:30:22.939049+00:00",
+      "id": "5c9d771adade",
+      "location": "Remote",
+      "posted_at": "2026-08-18T10:52:23+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-425h"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-18T10:34:24.457317+00:00",
       "id": "89bd83361daa",
@@ -17746,5 +17827,5 @@
       "url": "https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe"
     }
   ],
-  "updated_at": "2026-08-18T10:34:24.457317+00:00"
+  "updated_at": "2026-08-18T11:30:22.939049+00:00"
 }

@@ -2133,8 +2133,10 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 375,
+      "count": 377,
       "job_ids": [
+        "d69128fba087",
+        "5c9d771adade",
         "89bd83361daa",
         "c1e2b2b9d6a4",
         "2564bf3fa930",
@@ -2511,7 +2513,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-18T10:21:27+00:00"
+      "last_seen": "2026-08-18T11:12:55+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -2670,6 +2672,13 @@
         "dfb8fdb63d39"
       ],
       "last_seen": "2026-08-13T21:52:32.103505+00:00"
+    },
+    "Sanya Pharma Pvt Ltd": {
+      "count": 1,
+      "job_ids": [
+        "c899c1ae8530"
+      ],
+      "last_seen": "2026-08-18T11:30:22.939049+00:00"
     },
     "Savegnago Supermercados": {
       "count": 1,
@@ -3447,5 +3456,5 @@
       "last_seen": "2026-08-15T08:35:33.628741+00:00"
     }
   },
-  "updated_at": "2026-08-18T10:34:24.457317+00:00"
+  "updated_at": "2026-08-18T11:30:22.939049+00:00"
 }
