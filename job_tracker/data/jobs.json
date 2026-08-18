@@ -1,6 +1,89 @@
 {
   "jobs": [
     {
+      "company": "Legal Services NYC",
+      "fetched_at": "2026-08-18T16:37:17.008222+00:00",
+      "id": "3212e83df92c",
+      "location": "LSNYC Central Office",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "infosec",
+        "education",
+        "dev",
+        "marketing",
+        "exec",
+        "legal",
+        "medical",
+        "digital nomad"
+      ],
+      "title": "Hotline Paralegal",
+      "url": "https://remoteOK.com/remote-jobs/remote-hotline-paralegal-legal-services-nyc-1136861"
+    },
+    {
+      "company": "Vomela",
+      "fetched_at": "2026-08-18T16:37:17.008222+00:00",
+      "id": "5653881f4e3a",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "design",
+        "sys admin",
+        "education",
+        "technical",
+        "dev",
+        "speech",
+        "devops",
+        "cloud",
+        "git",
+        "microsoft",
+        "exec",
+        "senior",
+        "ops",
+        "stats",
+        "sales",
+        "medical",
+        "engineer",
+        "apache",
+        "digital nomad"
+      ],
+      "title": "Principal Data Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-principal-data-engineer-vomela-1136860"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-18T16:37:17.008222+00:00",
+      "id": "a19e7fd7fb1b",
+      "location": "Remote",
+      "posted_at": "2026-08-18T16:14:30+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4493"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-18T16:37:17.008222+00:00",
+      "id": "99ae844582be",
+      "location": "Remote",
+      "posted_at": "2026-08-18T15:44:40+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-373m"
+    },
+    {
       "company": "Hovis Ltd",
       "fetched_at": "2026-08-18T15:36:57.458513+00:00",
       "id": "cea117650fb5",
@@ -18002,5 +18085,5 @@
       "url": "https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe"
     }
   ],
-  "updated_at": "2026-08-18T15:36:57.458513+00:00"
+  "updated_at": "2026-08-18T16:37:17.008222+00:00"
 }
