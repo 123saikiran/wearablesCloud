@@ -1,6 +1,38 @@
 {
   "jobs": [
     {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-18T09:38:51.825522+00:00",
+      "id": "2564bf3fa930",
+      "location": "Remote",
+      "posted_at": "2026-08-18T09:18:30+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2bgd"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-18T09:38:51.825522+00:00",
+      "id": "0f60d630aa8d",
+      "location": "Remote",
+      "posted_at": "2026-08-18T08:51:34+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4fok"
+    },
+    {
       "company": "Precision Medicine Group",
       "fetched_at": "2026-08-18T08:43:02.010155+00:00",
       "id": "8c81a51aee36",
@@ -17682,5 +17714,5 @@
       "url": "https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe"
     }
   ],
-  "updated_at": "2026-08-18T08:43:02.010155+00:00"
+  "updated_at": "2026-08-18T09:38:51.825522+00:00"
 }
