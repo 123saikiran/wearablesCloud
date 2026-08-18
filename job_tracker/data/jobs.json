@@ -1,6 +1,53 @@
 {
   "jobs": [
     {
+      "company": "First Quantum Minerals",
+      "fetched_at": "2026-08-18T18:46:10.843077+00:00",
+      "id": "1cbe6ff831b2",
+      "location": "Perth,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "recruiter",
+        "ops",
+        "non tech"
+      ],
+      "title": "Expression of Interest with First Quantum",
+      "url": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-with-first-quantum-first-quantum-minerals-1136944"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-18T18:46:10.843077+00:00",
+      "id": "eb029da1a7d6",
+      "location": "Remote",
+      "posted_at": "2026-08-18T18:16:18+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-178e"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-18T18:46:10.843077+00:00",
+      "id": "c5cbe2cb794d",
+      "location": "Remote",
+      "posted_at": "2026-08-18T17:50:14+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-53l5"
+    },
+    {
       "company": "Adani Airport Holdings Ltd",
       "fetched_at": "2026-08-18T17:32:31.941169+00:00",
       "id": "973cc390d98f",
@@ -18202,5 +18249,5 @@
       "url": "https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe"
     }
   ],
-  "updated_at": "2026-08-18T17:32:31.941169+00:00"
+  "updated_at": "2026-08-18T18:46:10.843077+00:00"
 }
