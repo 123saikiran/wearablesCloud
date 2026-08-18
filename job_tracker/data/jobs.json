@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-18T19:31:28.539746+00:00",
+      "id": "0d511aebaef6",
+      "location": "Remote",
+      "posted_at": "2026-08-18T19:04:44+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4c8j"
+    },
+    {
       "company": "First Quantum Minerals",
       "fetched_at": "2026-08-18T18:46:10.843077+00:00",
       "id": "1cbe6ff831b2",
@@ -18249,5 +18265,5 @@
       "url": "https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe"
     }
   ],
-  "updated_at": "2026-08-18T18:46:10.843077+00:00"
+  "updated_at": "2026-08-18T19:31:28.539746+00:00"
 }
