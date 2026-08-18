@@ -1,6 +1,80 @@
 {
   "jobs": [
     {
+      "company": "Saisons Brother Holding",
+      "fetched_at": "2026-08-18T07:42:49.830663+00:00",
+      "id": "49d8d7ce8bf6",
+      "location": "Phnom Penh,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "customer support",
+        "finance",
+        "exec",
+        "senior",
+        "legal",
+        "technical",
+        "marketing",
+        "excel",
+        "sales",
+        "engineer",
+        "recruiter",
+        "full time",
+        "sys admin",
+        "infosec",
+        "education",
+        "dev",
+        "digital nomad",
+        "hr",
+        "microsoft",
+        "ops",
+        "supervisor",
+        "medical",
+        "architecture",
+        "design",
+        "virtual assistant",
+        "speech",
+        "content writing",
+        "travel",
+        "accounting",
+        "payroll"
+      ],
+      "title": "Compensation Benefits Manager",
+      "url": "https://remoteOK.com/remote-jobs/remote-compensation-benefits-manager-saisons-brother-holding-1136895"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-18T07:42:49.830663+00:00",
+      "id": "8cf42bef4a5a",
+      "location": "Remote",
+      "posted_at": "2026-08-18T07:28:49+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2hp5"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-18T07:42:49.830663+00:00",
+      "id": "81b3b154a052",
+      "location": "Remote",
+      "posted_at": "2026-08-18T06:53:22+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-ij0"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-18T06:52:49.368397+00:00",
       "id": "f593760fad54",
@@ -17503,5 +17577,5 @@
       "url": "https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe"
     }
   ],
-  "updated_at": "2026-08-18T06:52:49.368397+00:00"
+  "updated_at": "2026-08-18T07:42:49.830663+00:00"
 }
