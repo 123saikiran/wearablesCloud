@@ -355,6 +355,13 @@
       ],
       "last_seen": "2026-08-15T08:35:33.628741+00:00"
     },
+    "Bouygues BÃ¢timent International": {
+      "count": 1,
+      "job_ids": [
+        "f472b65d5b20"
+      ],
+      "last_seen": "2026-08-18T14:38:46.014115+00:00"
+    },
     "BrandSafway": {
       "count": 1,
       "job_ids": [
@@ -2133,8 +2140,10 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 379,
+      "count": 381,
       "job_ids": [
+        "eba07bce23c8",
+        "8b1decf4bd19",
         "e4bff7673b1a",
         "1fcd366bb012",
         "d69128fba087",
@@ -2515,7 +2524,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-18T13:05:57+00:00"
+      "last_seen": "2026-08-18T14:27:03+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -3435,6 +3444,13 @@
       ],
       "last_seen": "2026-08-17T02:00:53+00:00"
     },
+    "rbglod": {
+      "count": 1,
+      "job_ids": [
+        "fc836378349a"
+      ],
+      "last_seen": "2026-08-18T13:58:00+00:00"
+    },
     "tClara": {
       "count": 1,
       "job_ids": [
@@ -3465,5 +3481,5 @@
       "last_seen": "2026-08-15T08:35:33.628741+00:00"
     }
   },
-  "updated_at": "2026-08-18T13:48:36.729400+00:00"
+  "updated_at": "2026-08-18T14:38:46.014115+00:00"
 }

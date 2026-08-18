@@ -1,6 +1,73 @@
 {
   "jobs": [
     {
+      "company": "Bouygues BÃ¢timent International",
+      "fetched_at": "2026-08-18T14:38:46.014115+00:00",
+      "id": "f472b65d5b20",
+      "location": "George Town,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "design",
+        "education",
+        "dev",
+        "exec",
+        "ops",
+        "engineer",
+        "digital nomad"
+      ],
+      "title": "Planner Cayman Islands",
+      "url": "https://remoteOK.com/remote-jobs/remote-planner-cayman-islands-bouygues-batiment-international-1136863"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-18T14:38:46.014115+00:00",
+      "id": "eba07bce23c8",
+      "location": "Remote",
+      "posted_at": "2026-08-18T14:27:03+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-24e3"
+    },
+    {
+      "company": "rbglod",
+      "fetched_at": "2026-08-18T14:38:46.014115+00:00",
+      "id": "fc836378349a",
+      "location": "Remote",
+      "posted_at": "2026-08-18T13:58:00+00:00",
+      "source": "devto",
+      "tags": [
+        "rails",
+        "ruby",
+        "jobs",
+        "sidekiq"
+      ],
+      "title": "Keeping background workers' data always up to date",
+      "url": "https://dev.to/rbglod/keeping-background-workers-data-always-up-to-date-1f1n"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-18T14:38:46.014115+00:00",
+      "id": "8b1decf4bd19",
+      "location": "Remote",
+      "posted_at": "2026-08-18T13:55:25+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-313h"
+    },
+    {
       "company": "Schwing Stetter India",
       "fetched_at": "2026-08-18T13:48:36.729400+00:00",
       "id": "253e7637d5f2",
@@ -17872,5 +17939,5 @@
       "url": "https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe"
     }
   ],
-  "updated_at": "2026-08-18T13:48:36.729400+00:00"
+  "updated_at": "2026-08-18T14:38:46.014115+00:00"
 }
