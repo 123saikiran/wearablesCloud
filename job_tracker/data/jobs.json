@@ -1,6 +1,51 @@
 {
   "jobs": [
     {
+      "company": "EFL Ltd",
+      "fetched_at": "2026-08-18T01:36:06.692487+00:00",
+      "id": "72f057161347",
+      "location": "Cambridge,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "english teacher"
+      ],
+      "title": "BRICKLAYER",
+      "url": "https://remoteOK.com/remote-jobs/remote-bricklayer-efl-ltd-1136924"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-18T01:36:06.692487+00:00",
+      "id": "2212f53be2e0",
+      "location": "Remote",
+      "posted_at": "2026-08-18T00:24:34+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-33j4"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-18T01:36:06.692487+00:00",
+      "id": "19a1c6a5f8ef",
+      "location": "Remote",
+      "posted_at": "2026-08-17T23:43:08+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2ip6"
+    },
+    {
       "company": "FroxJob | Executive Jobs in Nepal",
       "fetched_at": "2026-08-17T23:27:57.257558+00:00",
       "id": "7c3c0104a8ac",
@@ -17346,5 +17391,5 @@
       "url": "https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe"
     }
   ],
-  "updated_at": "2026-08-17T23:27:57.257558+00:00"
+  "updated_at": "2026-08-18T01:36:06.692487+00:00"
 }
