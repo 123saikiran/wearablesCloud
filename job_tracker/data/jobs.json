@@ -1,6 +1,38 @@
 {
   "jobs": [
     {
+      "company": "David Stark",
+      "fetched_at": "2026-08-19T03:03:04.532967+00:00",
+      "id": "33e3eefd0526",
+      "location": "Remote",
+      "posted_at": "2026-08-19T02:27:05+00:00",
+      "source": "devto",
+      "tags": [
+        "python",
+        "django",
+        "datascience",
+        "jobs"
+      ],
+      "title": "David Stark: Top High-Paying Roles",
+      "url": "https://dev.to/devpulse/david-stark-top-high-paying-roles-107h"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-19T03:03:04.532967+00:00",
+      "id": "2bd8c0a03026",
+      "location": "Remote",
+      "posted_at": "2026-08-19T02:09:06+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-m7n"
+    },
+    {
       "company": "Plumbers Co-op",
       "fetched_at": "2026-08-19T01:37:44.374572+00:00",
       "id": "350c7e93f1cb",
@@ -18531,5 +18563,5 @@
       "url": "https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe"
     }
   ],
-  "updated_at": "2026-08-19T01:37:44.374572+00:00"
+  "updated_at": "2026-08-19T03:03:04.532967+00:00"
 }
