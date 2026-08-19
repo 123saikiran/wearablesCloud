@@ -36,6 +36,13 @@
       ],
       "last_seen": "2026-08-08T07:02:08.776203+00:00"
     },
+    "AMX Superstores": {
+      "count": 1,
+      "job_ids": [
+        "fde87a2c64de"
+      ],
+      "last_seen": "2026-08-19T10:34:02.673479+00:00"
+    },
     "AO Garcia Agency": {
       "count": 1,
       "job_ids": [
@@ -197,6 +204,13 @@
         "869bb59fea79"
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
+    },
+    "Antojitos Mexicanos La Jefa": {
+      "count": 1,
+      "job_ids": [
+        "26a21a88a4a8"
+      ],
+      "last_seen": "2026-08-19T10:34:02.673479+00:00"
     },
     "Apex Local": {
       "count": 1,
@@ -710,11 +724,13 @@
       "last_seen": "2026-08-17T14:33:32.883150+00:00"
     },
     "Cotton On Group": {
-      "count": 1,
+      "count": 3,
       "job_ids": [
+        "16afb929dbe1",
+        "cd2262d9de03",
         "6c151569c9ac"
       ],
-      "last_seen": "2026-08-11T23:49:14.583630+00:00"
+      "last_seen": "2026-08-19T10:34:02.673479+00:00"
     },
     "CovalTech": {
       "count": 2,
@@ -1917,6 +1933,13 @@
       ],
       "last_seen": "2026-08-08T07:02:08.776203+00:00"
     },
+    "OTR": {
+      "count": 1,
+      "job_ids": [
+        "2e1a8b8bf3ff"
+      ],
+      "last_seen": "2026-08-19T10:34:02.673479+00:00"
+    },
     "Ocean Hotels Group BARBADOS": {
       "count": 1,
       "job_ids": [
@@ -2092,11 +2115,12 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "Power FM Bega Bay": {
-      "count": 1,
+      "count": 2,
       "job_ids": [
+        "a397a740f9b6",
         "b685a20941e3"
       ],
-      "last_seen": "2026-08-16T21:25:19.192945+00:00"
+      "last_seen": "2026-08-19T10:34:02.673479+00:00"
     },
     "Precision Medicine Group": {
       "count": 1,
@@ -2194,8 +2218,10 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 413,
+      "count": 415,
       "job_ids": [
+        "5932f80650aa",
+        "d5dc126673e3",
         "cf2e02154a7c",
         "1dbc418af0e0",
         "b4a17a38684e",
@@ -2610,7 +2636,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-19T09:05:01+00:00"
+      "last_seen": "2026-08-19T10:14:23+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -2628,6 +2654,13 @@
         "57f55e4477c8"
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
+    },
+    "Rebel Sport": {
+      "count": 1,
+      "job_ids": [
+        "537e36061661"
+      ],
+      "last_seen": "2026-08-19T10:34:02.673479+00:00"
     },
     "Reboot with AI": {
       "count": 1,
@@ -2797,6 +2830,13 @@
         "5d4301b50355"
       ],
       "last_seen": "2026-08-05T20:35:14.106337+00:00"
+    },
+    "Seed Heritage": {
+      "count": 1,
+      "job_ids": [
+        "709d6ee7289d"
+      ],
+      "last_seen": "2026-08-19T10:34:02.673479+00:00"
     },
     "Sencon": {
       "count": 1,
@@ -3582,5 +3622,5 @@
       "last_seen": "2026-08-15T08:35:33.628741+00:00"
     }
   },
-  "updated_at": "2026-08-19T09:39:15.477741+00:00"
+  "updated_at": "2026-08-19T10:34:02.673479+00:00"
 }
