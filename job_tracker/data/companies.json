@@ -695,6 +695,13 @@
       ],
       "last_seen": "2026-08-15T04:37:09.928589+00:00"
     },
+    "Collate": {
+      "count": 1,
+      "job_ids": [
+        "6ab9f03fdad5"
+      ],
+      "last_seen": "2026-08-19T20:34:44.481854+00:00"
+    },
     "Compact Home Lifts": {
       "count": 1,
       "job_ids": [
@@ -2256,8 +2263,10 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 431,
+      "count": 433,
       "job_ids": [
+        "247e34072a2d",
+        "4180c000450d",
         "e0e9641a41a2",
         "bcdafb7cb0f6",
         "c3f69b753ddf",
@@ -2690,7 +2699,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-19T19:18:40+00:00"
+      "last_seen": "2026-08-19T20:10:41+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -3684,5 +3693,5 @@
       "last_seen": "2026-08-15T08:35:33.628741+00:00"
     }
   },
-  "updated_at": "2026-08-19T19:30:42.546624+00:00"
+  "updated_at": "2026-08-19T20:34:44.481854+00:00"
 }
