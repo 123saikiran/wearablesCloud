@@ -2,6 +2,38 @@
   "jobs": [
     {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-19T06:53:17.363659+00:00",
+      "id": "6b0cdb98111e",
+      "location": "Remote",
+      "posted_at": "2026-08-19T06:19:28+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-hae"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-19T06:53:17.363659+00:00",
+      "id": "09e6ed11c8bf",
+      "location": "Remote",
+      "posted_at": "2026-08-19T05:44:36+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3iaa"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-19T05:35:48.565121+00:00",
       "id": "0c644097e9fd",
       "location": "Remote",
@@ -18627,5 +18659,5 @@
       "url": "https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe"
     }
   ],
-  "updated_at": "2026-08-19T05:35:48.565121+00:00"
+  "updated_at": "2026-08-19T06:53:17.363659+00:00"
 }
