@@ -2218,8 +2218,10 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 415,
+      "count": 417,
       "job_ids": [
+        "c1ef39716c3d",
+        "37723be110a6",
         "5932f80650aa",
         "d5dc126673e3",
         "cf2e02154a7c",
@@ -2636,7 +2638,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-19T10:14:23+00:00"
+      "last_seen": "2026-08-19T11:12:09+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -2675,6 +2677,13 @@
         "5e592848d86b"
       ],
       "last_seen": "2026-08-13T15:03:05.076331+00:00"
+    },
+    "Reliance Industries Limited": {
+      "count": 1,
+      "job_ids": [
+        "61ee4514e887"
+      ],
+      "last_seen": "2026-08-19T11:30:26.095570+00:00"
     },
     "Remora Technologies Limited": {
       "count": 1,
@@ -3622,5 +3631,5 @@
       "last_seen": "2026-08-15T08:35:33.628741+00:00"
     }
   },
-  "updated_at": "2026-08-19T10:34:02.673479+00:00"
+  "updated_at": "2026-08-19T11:30:26.095570+00:00"
 }

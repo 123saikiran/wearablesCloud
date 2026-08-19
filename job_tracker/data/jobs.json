@@ -1,6 +1,52 @@
 {
   "jobs": [
     {
+      "company": "Reliance Industries Limited",
+      "fetched_at": "2026-08-19T11:30:26.095570+00:00",
+      "id": "61ee4514e887",
+      "location": "Jamnagar,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "non tech"
+      ],
+      "title": "Team Member Special Assignment",
+      "url": "https://remoteOK.com/remote-jobs/remote-team-member-special-assignment-reliance-industries-limited-1136966"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-19T11:30:26.095570+00:00",
+      "id": "c1ef39716c3d",
+      "location": "Remote",
+      "posted_at": "2026-08-19T11:12:09+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4mhj"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-19T11:30:26.095570+00:00",
+      "id": "37723be110a6",
+      "location": "Remote",
+      "posted_at": "2026-08-19T10:47:43+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-29h4"
+    },
+    {
       "company": "OTR",
       "fetched_at": "2026-08-19T10:34:02.673479+00:00",
       "id": "2e1a8b8bf3ff",
@@ -19003,5 +19049,5 @@
       "url": "https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe"
     }
   ],
-  "updated_at": "2026-08-19T10:34:02.673479+00:00"
+  "updated_at": "2026-08-19T11:30:26.095570+00:00"
 }
