@@ -1,6 +1,112 @@
 {
   "jobs": [
     {
+      "company": "Plumbers Co-op",
+      "fetched_at": "2026-08-19T01:37:44.374572+00:00",
+      "id": "350c7e93f1cb",
+      "location": "Sydney,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "sys admin",
+        "exec",
+        "customer support",
+        "dev",
+        "ops",
+        "digital nomad",
+        "marketing",
+        "sales"
+      ],
+      "title": "Various",
+      "url": "https://remoteOK.com/remote-jobs/remote-various-plumbers-co-op-1136932"
+    },
+    {
+      "company": "The iNUA Hotel Collection",
+      "fetched_at": "2026-08-19T01:37:44.374572+00:00",
+      "id": "6fa2b759c4d8",
+      "location": "Cork,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "testing",
+        "non tech"
+      ],
+      "title": "Test",
+      "url": "https://remoteOK.com/remote-jobs/remote-test-the-inua-hotel-collection-1136953"
+    },
+    {
+      "company": "Walmart Canada",
+      "fetched_at": "2026-08-19T01:37:44.374572+00:00",
+      "id": "c2a00a92258d",
+      "location": "Thunder Bay,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "sys admin",
+        "customer support",
+        "recruiter",
+        "non tech",
+        "designer",
+        "education",
+        "assembly",
+        "exec",
+        "medical",
+        "marketing",
+        "ops",
+        "sales"
+      ],
+      "title": "General Merchandise Department Manager",
+      "url": "https://remoteOK.com/remote-jobs/remote-general-merchandise-department-manager-walmart-canada-1136940"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-19T01:37:44.374572+00:00",
+      "id": "b4d1b701c772",
+      "location": "Remote",
+      "posted_at": "2026-08-19T00:51:24+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-44be"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-19T01:37:44.374572+00:00",
+      "id": "95fd3d065bbc",
+      "location": "Remote",
+      "posted_at": "2026-08-18T23:54:56+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-bdo"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-19T01:37:44.374572+00:00",
+      "id": "8dece00ad978",
+      "location": "Remote",
+      "posted_at": "2026-08-18T23:33:51+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4jj3"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-18T23:27:01.839104+00:00",
       "id": "e834aba32445",
@@ -18425,5 +18531,5 @@
       "url": "https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe"
     }
   ],
-  "updated_at": "2026-08-18T23:27:01.839104+00:00"
+  "updated_at": "2026-08-19T01:37:44.374572+00:00"
 }
