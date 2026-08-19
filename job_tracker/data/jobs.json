@@ -1,6 +1,57 @@
 {
   "jobs": [
     {
+      "company": "City of Covington, Georgia",
+      "fetched_at": "2026-08-19T22:29:45.159852+00:00",
+      "id": "83b7889cc99e",
+      "location": "Ambattur,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "hr",
+        "recruiter",
+        "non tech",
+        "education",
+        "exec",
+        "marketing",
+        "legal"
+      ],
+      "title": "Planner &amp; Zoning Specialist",
+      "url": "https://remoteOK.com/remote-jobs/remote-planner-amp-zoning-specialist-city-of-covington-georgia-1136959"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-19T22:29:45.159852+00:00",
+      "id": "134a46d96981",
+      "location": "Remote",
+      "posted_at": "2026-08-19T22:00:50+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-59j9"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-19T22:29:45.159852+00:00",
+      "id": "3d9203d8c006",
+      "location": "Remote",
+      "posted_at": "2026-08-19T21:41:35+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2bk0"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-19T21:30:14.892809+00:00",
       "id": "5931e1fe302e",
@@ -19547,5 +19598,5 @@
       "url": "https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe"
     }
   ],
-  "updated_at": "2026-08-19T21:30:14.892809+00:00"
+  "updated_at": "2026-08-19T22:29:45.159852+00:00"
 }

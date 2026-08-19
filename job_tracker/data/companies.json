@@ -604,6 +604,13 @@
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
+    "City of Covington, Georgia": {
+      "count": 1,
+      "job_ids": [
+        "83b7889cc99e"
+      ],
+      "last_seen": "2026-08-19T22:29:45.159852+00:00"
+    },
     "City of Kamloops": {
       "count": 1,
       "job_ids": [
@@ -2263,8 +2270,10 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 435,
+      "count": 437,
       "job_ids": [
+        "134a46d96981",
+        "3d9203d8c006",
         "5931e1fe302e",
         "d46d6b4dead0",
         "247e34072a2d",
@@ -2701,7 +2710,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-19T21:13:02+00:00"
+      "last_seen": "2026-08-19T22:00:50+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -3695,5 +3704,5 @@
       "last_seen": "2026-08-15T08:35:33.628741+00:00"
     }
   },
-  "updated_at": "2026-08-19T21:30:14.892809+00:00"
+  "updated_at": "2026-08-19T22:29:45.159852+00:00"
 }
