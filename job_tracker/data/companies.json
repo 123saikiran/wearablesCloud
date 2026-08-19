@@ -327,6 +327,13 @@
       ],
       "last_seen": "2026-08-09T09:46:00.050168+00:00"
     },
+    "Benchling": {
+      "count": 1,
+      "job_ids": [
+        "bf385fe953c8"
+      ],
+      "last_seen": "2026-08-19T08:43:51.970336+00:00"
+    },
     "Berry Avionics": {
       "count": 1,
       "job_ids": [
@@ -2187,8 +2194,10 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 410,
+      "count": 412,
       "job_ids": [
+        "1dbc418af0e0",
+        "b4a17a38684e",
         "9f1adbd7a588",
         "6b0cdb98111e",
         "09e6ed11c8bf",
@@ -2600,7 +2609,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-19T07:13:09+00:00"
+      "last_seen": "2026-08-19T08:28:09+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -3572,5 +3581,5 @@
       "last_seen": "2026-08-15T08:35:33.628741+00:00"
     }
   },
-  "updated_at": "2026-08-19T07:43:07.130483+00:00"
+  "updated_at": "2026-08-19T08:43:51.970336+00:00"
 }

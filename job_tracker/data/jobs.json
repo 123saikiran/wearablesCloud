@@ -1,6 +1,59 @@
 {
   "jobs": [
     {
+      "company": "Benchling",
+      "fetched_at": "2026-08-19T08:43:51.970336+00:00",
+      "id": "bf385fe953c8",
+      "location": "Boston",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec",
+        "design",
+        "technical",
+        "marketing",
+        "sales",
+        "biotech",
+        "medical",
+        "education",
+        "digital nomad"
+      ],
+      "title": "Solutions Delivery Manager",
+      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-19T08:43:51.970336+00:00",
+      "id": "1dbc418af0e0",
+      "location": "Remote",
+      "posted_at": "2026-08-19T08:28:09+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-22ld"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-19T08:43:51.970336+00:00",
+      "id": "b4a17a38684e",
+      "location": "Remote",
+      "posted_at": "2026-08-19T07:54:51+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-g5i"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-19T07:43:07.130483+00:00",
       "id": "9f1adbd7a588",
@@ -18675,5 +18728,5 @@
       "url": "https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe"
     }
   ],
-  "updated_at": "2026-08-19T07:43:07.130483+00:00"
+  "updated_at": "2026-08-19T08:43:51.970336+00:00"
 }
