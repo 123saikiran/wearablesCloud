@@ -1,6 +1,53 @@
 {
   "jobs": [
     {
+      "company": "The Home Depot Canada",
+      "fetched_at": "2026-08-19T19:30:42.546624+00:00",
+      "id": "3aae7076661b",
+      "location": "Toronto,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "dev",
+        "marketing",
+        "digital nomad"
+      ],
+      "title": "Email Developer",
+      "url": "https://remoteOK.com/remote-jobs/remote-email-developer-the-home-depot-canada-1136967"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-19T19:30:42.546624+00:00",
+      "id": "e0e9641a41a2",
+      "location": "Remote",
+      "posted_at": "2026-08-19T19:18:40+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2igl"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-19T19:30:42.546624+00:00",
+      "id": "bcdafb7cb0f6",
+      "location": "Remote",
+      "posted_at": "2026-08-19T18:53:55+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4e"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-19T18:42:02.164956+00:00",
       "id": "c3f69b753ddf",
@@ -19421,5 +19468,5 @@
       "url": "https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe"
     }
   ],
-  "updated_at": "2026-08-19T18:42:02.164956+00:00"
+  "updated_at": "2026-08-19T19:30:42.546624+00:00"
 }
