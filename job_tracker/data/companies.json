@@ -148,6 +148,13 @@
       ],
       "last_seen": "2026-08-06T12:59:49.258060+00:00"
     },
+    "Alaka`ina Foundation Family of Companies": {
+      "count": 1,
+      "job_ids": [
+        "a24f289cad48"
+      ],
+      "last_seen": "2026-08-19T23:27:51.521944+00:00"
+    },
     "Alexander &amp; Bebout, Inc.": {
       "count": 1,
       "job_ids": [
@@ -1162,11 +1169,12 @@
       "last_seen": "2026-08-06T07:43:52.639381+00:00"
     },
     "Four Seasons": {
-      "count": 1,
+      "count": 2,
       "job_ids": [
+        "d6c50b705aa2",
         "310529c8c42e"
       ],
-      "last_seen": "2026-08-08T17:35:56.345269+00:00"
+      "last_seen": "2026-08-19T23:27:51.521944+00:00"
     },
     "Fox Group of Companies": {
       "count": 1,
@@ -2270,8 +2278,11 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 437,
+      "count": 440,
       "job_ids": [
+        "696238ef9729",
+        "a46c67b4c12c",
+        "ee219ae0dba2",
         "134a46d96981",
         "3d9203d8c006",
         "5931e1fe302e",
@@ -2710,7 +2721,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-19T22:00:50+00:00"
+      "last_seen": "2026-08-19T23:24:38+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -3704,5 +3715,5 @@
       "last_seen": "2026-08-15T08:35:33.628741+00:00"
     }
   },
-  "updated_at": "2026-08-19T22:29:45.159852+00:00"
+  "updated_at": "2026-08-19T23:27:51.521944+00:00"
 }

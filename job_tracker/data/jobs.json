@@ -1,6 +1,90 @@
 {
   "jobs": [
     {
+      "company": "Alaka`ina Foundation Family of Companies",
+      "fetched_at": "2026-08-19T23:27:51.521944+00:00",
+      "id": "a24f289cad48",
+      "location": "South Andros,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "infosec",
+        "supervisor",
+        "legal",
+        "sys admin",
+        "education",
+        "customer support",
+        "testing",
+        "microsoft",
+        "ops"
+      ],
+      "title": "Unexploded Ordnance Tech II",
+      "url": "https://remoteOK.com/remote-jobs/remote-unexploded-ordnance-tech-ii-alakaina-foundation-family-of-companies-1136955"
+    },
+    {
+      "company": "Four Seasons",
+      "fetched_at": "2026-08-19T23:27:51.521944+00:00",
+      "id": "d6c50b705aa2",
+      "location": "Nassau,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "infosec",
+        "supervisor",
+        "legal"
+      ],
+      "title": "Security Guard",
+      "url": "https://remoteOK.com/remote-jobs/remote-security-guard-four-seasons-1136954"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-19T23:27:51.521944+00:00",
+      "id": "696238ef9729",
+      "location": "Remote",
+      "posted_at": "2026-08-19T23:24:38+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-13ha"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-19T23:27:51.521944+00:00",
+      "id": "a46c67b4c12c",
+      "location": "Remote",
+      "posted_at": "2026-08-19T22:58:21+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2k1o"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-19T23:27:51.521944+00:00",
+      "id": "ee219ae0dba2",
+      "location": "Remote",
+      "posted_at": "2026-08-19T22:38:26+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4m87"
+    },
+    {
       "company": "City of Covington, Georgia",
       "fetched_at": "2026-08-19T22:29:45.159852+00:00",
       "id": "83b7889cc99e",
@@ -19598,5 +19682,5 @@
       "url": "https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe"
     }
   ],
-  "updated_at": "2026-08-19T22:29:45.159852+00:00"
+  "updated_at": "2026-08-19T23:27:51.521944+00:00"
 }
