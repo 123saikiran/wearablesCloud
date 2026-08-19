@@ -1,6 +1,54 @@
 {
   "jobs": [
     {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-19T04:41:58.286979+00:00",
+      "id": "7003b87477fc",
+      "location": "Remote",
+      "posted_at": "2026-08-19T04:35:12+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2ge1"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-19T04:41:58.286979+00:00",
+      "id": "8fb2fce10a5b",
+      "location": "Remote",
+      "posted_at": "2026-08-19T03:56:47+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2g3o"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-19T04:41:58.286979+00:00",
+      "id": "307b09e9b503",
+      "location": "Remote",
+      "posted_at": "2026-08-19T03:09:19+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4h0h"
+    },
+    {
       "company": "David Stark",
       "fetched_at": "2026-08-19T03:03:04.532967+00:00",
       "id": "33e3eefd0526",
@@ -18563,5 +18611,5 @@
       "url": "https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe"
     }
   ],
-  "updated_at": "2026-08-19T03:03:04.532967+00:00"
+  "updated_at": "2026-08-19T04:41:58.286979+00:00"
 }
