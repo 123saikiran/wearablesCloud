@@ -1,6 +1,114 @@
 {
   "jobs": [
     {
+      "company": "ALPHA BPO CORP",
+      "fetched_at": "2026-08-19T16:36:57.825359+00:00",
+      "id": "fe3b215c7ecc",
+      "location": "Managua,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "supervisor",
+        "dev",
+        "marketing",
+        "exec",
+        "virtual assistant",
+        "finance",
+        "education",
+        "math",
+        "ops",
+        "sales",
+        "medical",
+        "digital nomad",
+        "customer support",
+        "accounting"
+      ],
+      "title": "Accounts Receivable Clerk",
+      "url": "https://remoteOK.com/remote-jobs/remote-accounts-receivable-clerk-alpha-bpo-corp-1136979"
+    },
+    {
+      "company": "Engine",
+      "fetched_at": "2026-08-19T16:36:57.825359+00:00",
+      "id": "602eafac0909",
+      "location": "Remote - US",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "customer support",
+        "marketing",
+        "travel",
+        "finance",
+        "exec",
+        "ops",
+        "sales"
+      ],
+      "title": "Marketing Operations Specialist",
+      "url": "https://remoteOK.com/remote-jobs/remote-marketing-operations-specialist-engine-1136950"
+    },
+    {
+      "company": "Chaos",
+      "fetched_at": "2026-08-19T16:36:57.825359+00:00",
+      "id": "4190ce763efc",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "design",
+        "saas",
+        "vfx",
+        "customer support",
+        "dev",
+        "marketing",
+        "exec",
+        "education",
+        "content writing",
+        "senior",
+        "sales",
+        "golang",
+        "ecommerce",
+        "digital nomad"
+      ],
+      "title": "Team Lead Education",
+      "url": "https://remoteOK.com/remote-jobs/remote-team-lead-education-chaos-1136949"
+    },
+    {
+      "company": "Dreem Health",
+      "fetched_at": "2026-08-19T16:36:57.825359+00:00",
+      "id": "8ff5ff432a8f",
+      "location": "United States",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "design",
+        "customer support",
+        "testing",
+        "exec",
+        "ops",
+        "marketing",
+        "sales",
+        "medical",
+        "digital nomad"
+      ],
+      "title": "Digital Workplace & Automation Specialist",
+      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-19T16:36:57.825359+00:00",
+      "id": "d87be6508067",
+      "location": "Remote",
+      "posted_at": "2026-08-19T16:01:34+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1j99"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-19T15:36:29.046572+00:00",
       "id": "cc39cabdc31d",
@@ -19217,5 +19325,5 @@
       "url": "https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe"
     }
   ],
-  "updated_at": "2026-08-19T15:36:29.046572+00:00"
+  "updated_at": "2026-08-19T16:36:57.825359+00:00"
 }
