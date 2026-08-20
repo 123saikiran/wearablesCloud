@@ -2,6 +2,54 @@
   "jobs": [
     {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-20T15:38:47.997747+00:00",
+      "id": "6187cd5655e0",
+      "location": "Remote",
+      "posted_at": "2026-08-20T15:01:27+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4040"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-08-20T15:38:47.997747+00:00",
+      "id": "ba9c8d0416f1",
+      "location": "Remote",
+      "posted_at": "2026-08-20T15:01:23+00:00",
+      "source": "devto",
+      "tags": [
+        "beginners",
+        "jobs",
+        "career",
+        "programming"
+      ],
+      "title": "These Companies Want Interns This Summer (Aug 20)",
+      "url": "https://dev.to/crackr/these-companies-want-interns-this-summer-aug-20-5281"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-08-20T15:38:47.997747+00:00",
+      "id": "e47ef5df736b",
+      "location": "Remote",
+      "posted_at": "2026-08-20T15:01:20+00:00",
+      "source": "devto",
+      "tags": [
+        "remotework",
+        "jobs",
+        "webdev",
+        "career"
+      ],
+      "title": "8 Remote SWE Jobs You Can Apply to From Anywhere (Aug 20)",
+      "url": "https://dev.to/crackr/8-remote-swe-jobs-you-can-apply-to-from-anywhere-aug-20-14cc"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-20T14:41:26.917229+00:00",
       "id": "922478c79c79",
       "location": "Remote",
@@ -20021,6 +20069,19 @@
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2kff"
     },
     {
+      "company": "Twilio",
+      "fetched_at": "2026-08-20T15:38:47.997747+00:00",
+      "id": "27b63cdf9a9c",
+      "location": "Remote",
+      "posted_at": "2026-07-22T07:03:46+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Full-Stack Programming"
+      ],
+      "title": "Machine Learning Engineer",
+      "url": "https://weworkremotely.com/remote-jobs/twilio-machine-learning-engineer"
+    },
+    {
       "company": "Stripe",
       "fetched_at": "2026-08-16T18:36:05.919533+00:00",
       "id": "c6a820527e6a",
@@ -20370,20 +20431,7 @@
       ],
       "title": "Country Director, India",
       "url": "https://weworkremotely.com/remote-jobs/cloudflare-country-director-india"
-    },
-    {
-      "company": "MapTiler",
-      "fetched_at": "2026-08-05T14:21:54.411152+00:00",
-      "id": "e7ed1d558ae4",
-      "location": "Remote",
-      "posted_at": "2026-07-21T14:57:31+00:00",
-      "source": "weworkremotely",
-      "tags": [
-        "Back-End Programming"
-      ],
-      "title": "️ Location Services Engineer | Maps Platform (Remote in Europe)",
-      "url": "https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe"
     }
   ],
-  "updated_at": "2026-08-20T14:41:26.917229+00:00"
+  "updated_at": "2026-08-20T15:38:47.997747+00:00"
 }
