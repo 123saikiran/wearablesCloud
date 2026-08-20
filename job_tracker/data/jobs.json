@@ -1,6 +1,78 @@
 {
   "jobs": [
     {
+      "company": "JACK &amp; JONES",
+      "fetched_at": "2026-08-20T07:46:36.319596+00:00",
+      "id": "3d1553c8e6b9",
+      "location": "Aberdeen,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "supervisor",
+        "exec",
+        "virtual assistant",
+        "ops",
+        "senior",
+        "golang",
+        "medical",
+        "engineer",
+        "design",
+        "sys admin",
+        "infosec",
+        "python",
+        "technical",
+        "customer support",
+        "testing",
+        "finance",
+        "math",
+        "admin",
+        "microsoft",
+        "digital nomad",
+        "marketing",
+        "scheme",
+        "mobile",
+        "sales",
+        "recruiter",
+        "junior"
+      ],
+      "title": "Store Manager",
+      "url": "https://remoteOK.com/remote-jobs/remote-store-manager-jack-amp-jones-1137006"
+    },
+    {
+      "company": "The Chedi LuÅ¡tica Bay",
+      "fetched_at": "2026-08-20T07:46:36.319596+00:00",
+      "id": "fd452b7b9387",
+      "location": "Tivat,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "supervisor",
+        "exec",
+        "virtual assistant",
+        "ops"
+      ],
+      "title": "Bellboy",
+      "url": "https://remoteOK.com/remote-jobs/remote-bellboy-the-chedi-lustica-bay-1137002"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-20T07:46:36.319596+00:00",
+      "id": "b34bc19f6730",
+      "location": "Remote",
+      "posted_at": "2026-08-20T07:14:15+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2h3l"
+    },
+    {
       "company": "Bupa Australia",
       "fetched_at": "2026-08-20T06:54:34.138504+00:00",
       "id": "949204ed7fb2",
@@ -19695,6 +19767,19 @@
       "url": "https://weworkremotely.com/remote-jobs/stripe-head-of-self-serve-paid-media"
     },
     {
+      "company": "Coinbase",
+      "fetched_at": "2026-08-20T07:46:36.319596+00:00",
+      "id": "084a01f1bb7b",
+      "location": "Remote",
+      "posted_at": "2026-07-22T07:03:14+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Full-Stack Programming"
+      ],
+      "title": "Head of Finance, Canada",
+      "url": "https://weworkremotely.com/remote-jobs/coinbase-head-of-finance-canada"
+    },
+    {
       "company": "Stripe",
       "fetched_at": "2026-08-15T21:26:07.412112+00:00",
       "id": "f50a2173e090",
@@ -20033,5 +20118,5 @@
       "url": "https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe"
     }
   ],
-  "updated_at": "2026-08-20T06:54:34.138504+00:00"
+  "updated_at": "2026-08-20T07:46:36.319596+00:00"
 }

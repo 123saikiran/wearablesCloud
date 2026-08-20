@@ -712,8 +712,9 @@
       "last_seen": "2026-07-22T07:00:51+00:00"
     },
     "Coinbase": {
-      "count": 6,
+      "count": 7,
       "job_ids": [
+        "084a01f1bb7b",
         "6bed7d8fb758",
         "2b3d3ae94177",
         "0ff20317bdc0",
@@ -721,7 +722,7 @@
         "ee3df6041d5b",
         "2030e1c432ca"
       ],
-      "last_seen": "2026-07-22T07:02:28+00:00"
+      "last_seen": "2026-07-22T07:03:14+00:00"
     },
     "Coles Liquor": {
       "count": 1,
@@ -1520,6 +1521,13 @@
         "7098a2f02532"
       ],
       "last_seen": "2026-08-07T00:07:27.688735+00:00"
+    },
+    "JACK &amp; JONES": {
+      "count": 1,
+      "job_ids": [
+        "3d1553c8e6b9"
+      ],
+      "last_seen": "2026-08-20T07:46:36.319596+00:00"
     },
     "JD Finish Line": {
       "count": 1,
@@ -2322,8 +2330,9 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 449,
+      "count": 450,
       "job_ids": [
+        "b34bc19f6730",
         "800b17576552",
         "d6baf56804ff",
         "80ecec623e57",
@@ -2774,7 +2783,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-20T06:20:11+00:00"
+      "last_seen": "2026-08-20T07:14:15+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -3242,6 +3251,13 @@
         "590ae29e45d0"
       ],
       "last_seen": "2026-08-14T19:01:33.822846+00:00"
+    },
+    "The Chedi LuÅ¡tica Bay": {
+      "count": 1,
+      "job_ids": [
+        "fd452b7b9387"
+      ],
+      "last_seen": "2026-08-20T07:46:36.319596+00:00"
     },
     "The Green Solutions Group": {
       "count": 1,
@@ -3789,5 +3805,5 @@
       "last_seen": "2026-08-15T08:35:33.628741+00:00"
     }
   },
-  "updated_at": "2026-08-20T06:54:34.138504+00:00"
+  "updated_at": "2026-08-20T07:46:36.319596+00:00"
 }
