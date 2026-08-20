@@ -1,6 +1,48 @@
 {
   "jobs": [
     {
+      "company": "FedEx",
+      "fetched_at": "2026-08-20T18:48:18.296593+00:00",
+      "id": "1b14a3294a8c",
+      "location": "St Thomas,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "dev",
+        "quality assurance",
+        "education",
+        "ops",
+        "sales",
+        "digital nomad",
+        "recruiter",
+        "supervisor",
+        "customer support",
+        "marketing",
+        "exec",
+        "medical",
+        "testing",
+        "math"
+      ],
+      "title": "CI001 Courier",
+      "url": "https://remoteOK.com/remote-jobs/remote-ci001-courier-fedex-1137019"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-20T18:48:18.296593+00:00",
+      "id": "fb24ecd3369b",
+      "location": "Remote",
+      "posted_at": "2026-08-20T18:00:16+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-bgn"
+    },
+    {
       "company": "Flow Control Commune",
       "fetched_at": "2026-08-20T17:35:23.715517+00:00",
       "id": "700486487f7e",
@@ -20525,5 +20567,5 @@
       "url": "https://weworkremotely.com/remote-jobs/cloudflare-country-director-india"
     }
   ],
-  "updated_at": "2026-08-20T17:35:23.715517+00:00"
+  "updated_at": "2026-08-20T18:48:18.296593+00:00"
 }
