@@ -449,6 +449,13 @@
       ],
       "last_seen": "2026-08-06T10:45:03.991691+00:00"
     },
+    "Bupa Australia": {
+      "count": 1,
+      "job_ids": [
+        "949204ed7fb2"
+      ],
+      "last_seen": "2026-08-20T06:54:34.138504+00:00"
+    },
     "Bybit": {
       "count": 1,
       "job_ids": [
@@ -1500,6 +1507,13 @@
       ],
       "last_seen": "2026-08-15T08:35:33.628741+00:00"
     },
+    "Ismail Hossain": {
+      "count": 1,
+      "job_ids": [
+        "c3fa1c408ec3"
+      ],
+      "last_seen": "2026-08-20T06:07:56+00:00"
+    },
     "J&amp;D Quality Smash Repairs": {
       "count": 1,
       "job_ids": [
@@ -2308,8 +2322,10 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 447,
+      "count": 449,
       "job_ids": [
+        "800b17576552",
+        "d6baf56804ff",
         "80ecec623e57",
         "69ff4c745aa2",
         "d4ed8bf5d4e2",
@@ -2758,7 +2774,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-20T05:00:52+00:00"
+      "last_seen": "2026-08-20T06:20:11+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -3773,5 +3789,5 @@
       "last_seen": "2026-08-15T08:35:33.628741+00:00"
     }
   },
-  "updated_at": "2026-08-20T05:35:48.175873+00:00"
+  "updated_at": "2026-08-20T06:54:34.138504+00:00"
 }

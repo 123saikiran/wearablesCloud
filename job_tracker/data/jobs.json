@@ -1,6 +1,74 @@
 {
   "jobs": [
     {
+      "company": "Bupa Australia",
+      "fetched_at": "2026-08-20T06:54:34.138504+00:00",
+      "id": "949204ed7fb2",
+      "location": "Balwyn North,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "customer support",
+        "dev",
+        "finance",
+        "admin",
+        "exec",
+        "ops",
+        "medical",
+        "digital nomad"
+      ],
+      "title": "General Practitioner North Balwyn",
+      "url": "https://remoteOK.com/remote-jobs/remote-general-practitioner-north-balwyn-bupa-australia-1136968"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-20T06:54:34.138504+00:00",
+      "id": "800b17576552",
+      "location": "Remote",
+      "posted_at": "2026-08-20T06:20:11+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-53jd"
+    },
+    {
+      "company": "Ismail Hossain",
+      "fetched_at": "2026-08-20T06:54:34.138504+00:00",
+      "id": "c3fa1c408ec3",
+      "location": "Remote",
+      "posted_at": "2026-08-20T06:07:56+00:00",
+      "source": "devto",
+      "tags": [
+        "student",
+        "career",
+        "jobs",
+        "portfolio"
+      ],
+      "title": "Student Portfolio Builder: How to Get a Free Student Portfolio Website Live in Minutes published: false tags: career",
+      "url": "https://dev.to/ismail_hossain/student-portfolio-builder-how-to-get-a-free-student-portfolio-website-live-in-minutes-published-39je"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-20T06:54:34.138504+00:00",
+      "id": "d6baf56804ff",
+      "location": "Remote",
+      "posted_at": "2026-08-20T05:45:02+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4ack"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-20T05:35:48.175873+00:00",
       "id": "80ecec623e57",
@@ -19965,5 +20033,5 @@
       "url": "https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe"
     }
   ],
-  "updated_at": "2026-08-20T05:35:48.175873+00:00"
+  "updated_at": "2026-08-20T06:54:34.138504+00:00"
 }
