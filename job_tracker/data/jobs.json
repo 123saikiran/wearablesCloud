@@ -1,6 +1,62 @@
 {
   "jobs": [
     {
+      "company": "Sunbelt Rentals, Inc.",
+      "fetched_at": "2026-08-20T20:34:41.483545+00:00",
+      "id": "2dc70fd05a7e",
+      "location": "Freeport Ridge Estate,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "dev",
+        "quality assurance",
+        "education",
+        "ops",
+        "sales",
+        "digital nomad",
+        "recruiter",
+        "supervisor",
+        "customer support",
+        "marketing",
+        "exec",
+        "medical"
+      ],
+      "title": "Technician 1",
+      "url": "https://remoteOK.com/remote-jobs/remote-technician-1-sunbelt-rentals-inc-1137018"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-20T20:34:41.483545+00:00",
+      "id": "38ce5857c3a3",
+      "location": "Remote",
+      "posted_at": "2026-08-20T20:13:40+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-485d"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-20T20:34:41.483545+00:00",
+      "id": "3c3ba4baf373",
+      "location": "Remote",
+      "posted_at": "2026-08-20T19:52:24+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-337i"
+    },
+    {
       "company": "Bass Pro Shops",
       "fetched_at": "2026-08-20T19:35:48.340200+00:00",
       "id": "ec0c59120e55",
@@ -20628,5 +20684,5 @@
       "url": "https://weworkremotely.com/remote-jobs/cloudflare-country-director-india"
     }
   ],
-  "updated_at": "2026-08-20T19:35:48.340200+00:00"
+  "updated_at": "2026-08-20T20:34:41.483545+00:00"
 }
