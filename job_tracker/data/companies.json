@@ -1732,11 +1732,12 @@
       "last_seen": "2026-08-15T13:34:38.031324+00:00"
     },
     "Loblaw Companies Limited": {
-      "count": 1,
+      "count": 2,
       "job_ids": [
+        "6021781e68f2",
         "7cf41773b5ec"
       ],
-      "last_seen": "2026-08-12T06:18:42.957642+00:00"
+      "last_seen": "2026-08-20T21:33:15.543128+00:00"
     },
     "Localiza&amp;Co": {
       "count": 1,
@@ -2056,6 +2057,13 @@
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
+    "Norwich City Council": {
+      "count": 1,
+      "job_ids": [
+        "b82221db09db"
+      ],
+      "last_seen": "2026-08-20T21:33:15.543128+00:00"
+    },
     "Numeris": {
       "count": 1,
       "job_ids": [
@@ -2355,8 +2363,10 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 469,
+      "count": 471,
       "job_ids": [
+        "050dbcfa80e0",
+        "43ab73deb56b",
         "38ce5857c3a3",
         "3c3ba4baf373",
         "50615201edee",
@@ -2827,7 +2837,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-20T20:13:40+00:00"
+      "last_seen": "2026-08-20T21:14:43+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -3700,6 +3710,13 @@
       ],
       "last_seen": "2026-08-15T16:31:05.669567+00:00"
     },
+    "Wood": {
+      "count": 1,
+      "job_ids": [
+        "f74e2c56dd02"
+      ],
+      "last_seen": "2026-08-20T21:33:15.543128+00:00"
+    },
     "World Data League": {
       "count": 2,
       "job_ids": [
@@ -3877,5 +3894,5 @@
       "last_seen": "2026-08-15T08:35:33.628741+00:00"
     }
   },
-  "updated_at": "2026-08-20T20:34:41.483545+00:00"
+  "updated_at": "2026-08-20T21:33:15.543128+00:00"
 }
