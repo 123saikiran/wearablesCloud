@@ -1292,6 +1292,13 @@
       ],
       "last_seen": "2026-08-12T17:01:33.885762+00:00"
     },
+    "Grand Hyatt": {
+      "count": 1,
+      "job_ids": [
+        "dcab5a5a0dfb"
+      ],
+      "last_seen": "2026-08-20T09:40:09.994410+00:00"
+    },
     "Grapefruit Health": {
       "count": 1,
       "job_ids": [
@@ -2330,8 +2337,9 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 452,
+      "count": 453,
       "job_ids": [
+        "ef4fc0a3a1ae",
         "5d5fc3818ae1",
         "c12eb8fda768",
         "b34bc19f6730",
@@ -2785,7 +2793,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-20T08:40:13+00:00"
+      "last_seen": "2026-08-20T09:16:39+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -3807,5 +3815,5 @@
       "last_seen": "2026-08-15T08:35:33.628741+00:00"
     }
   },
-  "updated_at": "2026-08-20T08:46:27.998877+00:00"
+  "updated_at": "2026-08-20T09:40:09.994410+00:00"
 }
