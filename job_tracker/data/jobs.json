@@ -1,6 +1,66 @@
 {
   "jobs": [
     {
+      "company": "Flow Control Commune",
+      "fetched_at": "2026-08-20T17:35:23.715517+00:00",
+      "id": "700486487f7e",
+      "location": "Chennai,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "sys admin",
+        "customer support",
+        "exec",
+        "ops",
+        "marketing",
+        "microsoft",
+        "senior",
+        "technical",
+        "accounting",
+        "dev",
+        "finance",
+        "full time",
+        "digital nomad",
+        "assembly"
+      ],
+      "title": "Assembly Technician",
+      "url": "https://remoteOK.com/remote-jobs/remote-assembly-technician-flow-control-commune-1136994"
+    },
+    {
+      "company": "CRNCY Group",
+      "fetched_at": "2026-08-20T17:35:23.715517+00:00",
+      "id": "d2af4bf10c52",
+      "location": "Bridgetown,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "dev",
+        "quality assurance",
+        "education",
+        "ops",
+        "sales",
+        "digital nomad"
+      ],
+      "title": "Collections Agent",
+      "url": "https://remoteOK.com/remote-jobs/remote-collections-agent-crncy-group-1137017"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-20T17:35:23.715517+00:00",
+      "id": "202e804bd586",
+      "location": "Remote",
+      "posted_at": "2026-08-20T17:32:17+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2831"
+    },
+    {
       "company": "Zahar Baranenko",
       "fetched_at": "2026-08-20T16:40:10.406171+00:00",
       "id": "3cd5ad63f58e",
@@ -20465,5 +20525,5 @@
       "url": "https://weworkremotely.com/remote-jobs/cloudflare-country-director-india"
     }
   ],
-  "updated_at": "2026-08-20T16:40:10.406171+00:00"
+  "updated_at": "2026-08-20T17:35:23.715517+00:00"
 }
