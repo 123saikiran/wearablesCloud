@@ -1,6 +1,67 @@
 {
   "jobs": [
     {
+      "company": "Bass Pro Shops",
+      "fetched_at": "2026-08-20T19:35:48.340200+00:00",
+      "id": "ec0c59120e55",
+      "location": "Saskatoon,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "customer support",
+        "non tech",
+        "marketing",
+        "dev",
+        "exec",
+        "medical",
+        "recruiter",
+        "full time",
+        "digital nomad",
+        "saas",
+        "testing",
+        "finance",
+        "sales",
+        "supervisor",
+        "ads",
+        "ops"
+      ],
+      "title": "Overnight Task Team FT",
+      "url": "https://remoteOK.com/remote-jobs/remote-overnight-task-team-ft-bass-pro-shops-1137000"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-20T19:35:48.340200+00:00",
+      "id": "50615201edee",
+      "location": "Remote",
+      "posted_at": "2026-08-20T19:21:02+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-157l"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-20T19:35:48.340200+00:00",
+      "id": "d46a70ff5f53",
+      "location": "Remote",
+      "posted_at": "2026-08-20T18:51:47+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2gab"
+    },
+    {
       "company": "FedEx",
       "fetched_at": "2026-08-20T18:48:18.296593+00:00",
       "id": "1b14a3294a8c",
@@ -20567,5 +20628,5 @@
       "url": "https://weworkremotely.com/remote-jobs/cloudflare-country-director-india"
     }
   ],
-  "updated_at": "2026-08-20T18:48:18.296593+00:00"
+  "updated_at": "2026-08-20T19:35:48.340200+00:00"
 }
