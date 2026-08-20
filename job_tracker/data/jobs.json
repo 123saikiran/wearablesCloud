@@ -1,6 +1,38 @@
 {
   "jobs": [
     {
+      "company": "Zahar Baranenko",
+      "fetched_at": "2026-08-20T16:40:10.406171+00:00",
+      "id": "3cd5ad63f58e",
+      "location": "Remote",
+      "posted_at": "2026-08-20T15:56:55+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "api",
+        "automation",
+        "jobs"
+      ],
+      "title": "How to pull every open job from Greenhouse, Lever, Ashby and SmartRecruiters with public APIs (and monitor changes)",
+      "url": "https://dev.to/primeflowio/how-to-pull-every-open-job-from-greenhouse-lever-ashby-and-smartrecruiters-with-public-apis-and-55l5"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-20T16:40:10.406171+00:00",
+      "id": "42a14060ec19",
+      "location": "Remote",
+      "posted_at": "2026-08-20T15:47:13+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2ahc"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-20T15:38:47.997747+00:00",
       "id": "6187cd5655e0",
@@ -20433,5 +20465,5 @@
       "url": "https://weworkremotely.com/remote-jobs/cloudflare-country-director-india"
     }
   ],
-  "updated_at": "2026-08-20T15:38:47.997747+00:00"
+  "updated_at": "2026-08-20T16:40:10.406171+00:00"
 }
