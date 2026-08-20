@@ -1,6 +1,63 @@
 {
   "jobs": [
     {
+      "company": "Srikara Hospitals",
+      "fetched_at": "2026-08-20T11:32:00.145759+00:00",
+      "id": "703a8b470142",
+      "location": "Nellore,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "sys admin",
+        "customer support",
+        "exec",
+        "ops",
+        "marketing",
+        "microsoft",
+        "senior",
+        "technical",
+        "accounting",
+        "dev",
+        "finance",
+        "full time",
+        "digital nomad"
+      ],
+      "title": "General Physician",
+      "url": "https://remoteOK.com/remote-jobs/remote-general-physician-srikara-hospitals-1136993"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-20T11:32:00.145759+00:00",
+      "id": "6a4ad543d8c8",
+      "location": "Remote",
+      "posted_at": "2026-08-20T11:28:35+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-13oe"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-20T11:32:00.145759+00:00",
+      "id": "4eaa3f145f8b",
+      "location": "Remote",
+      "posted_at": "2026-08-20T10:58:09+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-16p6"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-20T10:36:24.912398+00:00",
       "id": "40834a549a93",
@@ -20231,5 +20288,5 @@
       "url": "https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe"
     }
   ],
-  "updated_at": "2026-08-20T10:36:24.912398+00:00"
+  "updated_at": "2026-08-20T11:32:00.145759+00:00"
 }
