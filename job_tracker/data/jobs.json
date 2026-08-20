@@ -1,6 +1,38 @@
 {
   "jobs": [
     {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-20T22:33:04.724498+00:00",
+      "id": "744f180cdc8b",
+      "location": "Remote",
+      "posted_at": "2026-08-20T22:12:18+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2lam"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-20T22:33:04.724498+00:00",
+      "id": "b287ae2f9a9c",
+      "location": "Remote",
+      "posted_at": "2026-08-20T21:50:08+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2dlj"
+    },
+    {
       "company": "Wood",
       "fetched_at": "2026-08-20T21:33:15.543128+00:00",
       "id": "f74e2c56dd02",
@@ -20783,5 +20815,5 @@
       "url": "https://weworkremotely.com/remote-jobs/cloudflare-country-director-india"
     }
   ],
-  "updated_at": "2026-08-20T21:33:15.543128+00:00"
+  "updated_at": "2026-08-20T22:33:04.724498+00:00"
 }
