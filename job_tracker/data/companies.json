@@ -384,6 +384,13 @@
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
+    "Bhushan International": {
+      "count": 1,
+      "job_ids": [
+        "a7422a4a0b1c"
+      ],
+      "last_seen": "2026-08-20T01:37:00.985309+00:00"
+    },
     "Bjak": {
       "count": 1,
       "job_ids": [
@@ -1133,12 +1140,13 @@
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
     "FedEx": {
-      "count": 2,
+      "count": 3,
       "job_ids": [
+        "439b0ecb4e8e",
         "13dc25d22019",
         "5096d5a6d34a"
       ],
-      "last_seen": "2026-08-17T23:27:57.257558+00:00"
+      "last_seen": "2026-08-20T01:37:00.985309+00:00"
     },
     "FindTutors": {
       "count": 1,
@@ -1196,6 +1204,14 @@
         "1497fd8d4592"
       ],
       "last_seen": "2026-08-17T01:40:17.655985+00:00"
+    },
+    "Fronix Services": {
+      "count": 2,
+      "job_ids": [
+        "64dcd3ed27f5",
+        "a0f741c3ce2f"
+      ],
+      "last_seen": "2026-08-20T01:37:00.985309+00:00"
     },
     "FroxJob | Executive Jobs in Nepal": {
       "count": 1,
@@ -2278,8 +2294,10 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 440,
+      "count": 442,
       "job_ids": [
+        "e351f032c418",
+        "03126927cd26",
         "696238ef9729",
         "a46c67b4c12c",
         "ee219ae0dba2",
@@ -2721,7 +2739,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-19T23:24:38+00:00"
+      "last_seen": "2026-08-20T00:24:48+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -3715,5 +3733,5 @@
       "last_seen": "2026-08-15T08:35:33.628741+00:00"
     }
   },
-  "updated_at": "2026-08-19T23:27:51.521944+00:00"
+  "updated_at": "2026-08-20T01:37:00.985309+00:00"
 }

@@ -1,6 +1,126 @@
 {
   "jobs": [
     {
+      "company": "FedEx",
+      "fetched_at": "2026-08-20T01:37:00.985309+00:00",
+      "id": "439b0ecb4e8e",
+      "location": "Ù Ø³ÙØ·,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "sys admin",
+        "customer support",
+        "exec",
+        "ops",
+        "marketing",
+        "microsoft",
+        "senior"
+      ],
+      "title": "Customer Care Representative Associate Omani Nationals only",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-care-representative-associate-omani-nationals-only-fedex-1136989"
+    },
+    {
+      "company": "Bhushan International",
+      "fetched_at": "2026-08-20T01:37:00.985309+00:00",
+      "id": "a7422a4a0b1c",
+      "location": "Patna,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "sys admin",
+        "customer support",
+        "exec",
+        "ops",
+        "marketing",
+        "microsoft",
+        "senior",
+        "technical",
+        "accounting",
+        "dev",
+        "finance",
+        "full time",
+        "digital nomad",
+        "assembly",
+        "travel",
+        "sales",
+        "medical",
+        "engineer"
+      ],
+      "title": "Field Sales Executive",
+      "url": "https://remoteOK.com/remote-jobs/remote-field-sales-executive-bhushan-international-1136995"
+    },
+    {
+      "company": "Fronix Services",
+      "fetched_at": "2026-08-20T01:37:00.985309+00:00",
+      "id": "64dcd3ed27f5",
+      "location": "Thiruvananthapuram,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "sys admin",
+        "customer support",
+        "exec",
+        "ops",
+        "marketing",
+        "microsoft",
+        "senior",
+        "technical"
+      ],
+      "title": "Ground Staff Required Thiruvananthapuram Airport",
+      "url": "https://remoteOK.com/remote-jobs/remote-ground-staff-required-thiruvananthapuram-airport-fronix-services-1136991"
+    },
+    {
+      "company": "Fronix Services",
+      "fetched_at": "2026-08-20T01:37:00.985309+00:00",
+      "id": "a0f741c3ce2f",
+      "location": "Kochi,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "sys admin",
+        "customer support",
+        "exec",
+        "ops",
+        "marketing",
+        "microsoft",
+        "senior"
+      ],
+      "title": "Airport Ground Staff Freshers Kochi",
+      "url": "https://remoteOK.com/remote-jobs/remote-airport-ground-staff-freshers-kochi-fronix-services-1136990"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-20T01:37:00.985309+00:00",
+      "id": "e351f032c418",
+      "location": "Remote",
+      "posted_at": "2026-08-20T00:24:48+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-45j8"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-20T01:37:00.985309+00:00",
+      "id": "03126927cd26",
+      "location": "Remote",
+      "posted_at": "2026-08-19T23:44:28+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-332m"
+    },
+    {
       "company": "Alaka`ina Foundation Family of Companies",
       "fetched_at": "2026-08-19T23:27:51.521944+00:00",
       "id": "a24f289cad48",
@@ -19682,5 +19802,5 @@
       "url": "https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe"
     }
   ],
-  "updated_at": "2026-08-19T23:27:51.521944+00:00"
+  "updated_at": "2026-08-20T01:37:00.985309+00:00"
 }
