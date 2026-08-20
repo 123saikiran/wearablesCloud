@@ -1,6 +1,91 @@
 {
   "jobs": [
     {
+      "company": "Alcotech Group",
+      "fetched_at": "2026-08-20T04:42:02.913982+00:00",
+      "id": "d9c6c27c57be",
+      "location": "Hamilton city,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "testing",
+        "travel",
+        "non tech"
+      ],
+      "title": "Specimen Collector",
+      "url": "https://remoteOK.com/remote-jobs/remote-specimen-collector-alcotech-group-1136964"
+    },
+    {
+      "company": "vbs associates",
+      "fetched_at": "2026-08-20T04:42:02.913982+00:00",
+      "id": "fcfc1ea818ef",
+      "location": "Greater Surat Area,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [],
+      "title": "Cell production",
+      "url": "https://remoteOK.com/remote-jobs/remote-cell-production-vbs-associates-1136965"
+    },
+    {
+      "company": "Verlo",
+      "fetched_at": "2026-08-20T04:42:02.913982+00:00",
+      "id": "6bb5f86adaf2",
+      "location": "Greater St. John's Metropolitan Area,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "customer support",
+        "non tech",
+        "marketing",
+        "dev",
+        "exec",
+        "medical",
+        "recruiter",
+        "full time",
+        "digital nomad",
+        "saas",
+        "testing",
+        "finance",
+        "sales"
+      ],
+      "title": "Sales Development Representative",
+      "url": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-verlo-1136998"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-20T04:42:02.913982+00:00",
+      "id": "69ff4c745aa2",
+      "location": "Remote",
+      "posted_at": "2026-08-20T04:22:28+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-29ag"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-20T04:42:02.913982+00:00",
+      "id": "d4ed8bf5d4e2",
+      "location": "Remote",
+      "posted_at": "2026-08-20T03:42:32+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-249e"
+    },
+    {
       "company": "Midjourney",
       "fetched_at": "2026-08-20T03:02:12.639310+00:00",
       "id": "a84bd8864c3a",
@@ -19864,5 +19949,5 @@
       "url": "https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe"
     }
   ],
-  "updated_at": "2026-08-20T03:02:12.639310+00:00"
+  "updated_at": "2026-08-20T04:42:02.913982+00:00"
 }
