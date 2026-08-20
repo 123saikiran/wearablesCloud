@@ -1844,6 +1844,13 @@
       ],
       "last_seen": "2026-08-09T07:04:28.535746+00:00"
     },
+    "Midjourney": {
+      "count": 1,
+      "job_ids": [
+        "a84bd8864c3a"
+      ],
+      "last_seen": "2026-08-20T03:02:12.639310+00:00"
+    },
     "Mobiux Labs UK Limited ( Formerly Vida Technologies Ltd)": {
       "count": 1,
       "job_ids": [
@@ -2294,8 +2301,10 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 442,
+      "count": 444,
       "job_ids": [
+        "9d6969f708da",
+        "ef4dc6331fcd",
         "e351f032c418",
         "03126927cd26",
         "696238ef9729",
@@ -2739,7 +2748,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-20T00:24:48+00:00"
+      "last_seen": "2026-08-20T02:55:57+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -3165,6 +3174,13 @@
         "cb79b165d6bb"
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
+    },
+    "TWI Foods Inc.": {
+      "count": 1,
+      "job_ids": [
+        "509283e75f24"
+      ],
+      "last_seen": "2026-08-20T03:02:12.639310+00:00"
     },
     "Tatweer-lb": {
       "count": 1,
@@ -3733,5 +3749,5 @@
       "last_seen": "2026-08-15T08:35:33.628741+00:00"
     }
   },
-  "updated_at": "2026-08-20T01:37:00.985309+00:00"
+  "updated_at": "2026-08-20T03:02:12.639310+00:00"
 }
