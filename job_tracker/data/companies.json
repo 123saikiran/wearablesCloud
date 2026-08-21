@@ -1049,6 +1049,13 @@
       ],
       "last_seen": "2026-08-18T01:36:06.692487+00:00"
     },
+    "EXL": {
+      "count": 1,
+      "job_ids": [
+        "7a72c2a7af71"
+      ],
+      "last_seen": "2026-08-21T21:29:34.346500+00:00"
+    },
     "EZSpace Ventures": {
       "count": 1,
       "job_ids": [
@@ -1229,12 +1236,13 @@
       "last_seen": "2026-08-17T01:40:17.655985+00:00"
     },
     "Fronix Services": {
-      "count": 2,
+      "count": 3,
       "job_ids": [
+        "769b88edaf77",
         "64dcd3ed27f5",
         "a0f741c3ce2f"
       ],
-      "last_seen": "2026-08-20T01:37:00.985309+00:00"
+      "last_seen": "2026-08-21T21:29:34.346500+00:00"
     },
     "FroxJob | Executive Jobs in Nepal": {
       "count": 1,
@@ -2393,8 +2401,10 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 506,
+      "count": 508,
       "job_ids": [
+        "12a993699cec",
+        "10aaddd987ff",
         "48c2a715c5c1",
         "11f8b9599582",
         "fd6074e450d6",
@@ -2902,7 +2912,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-21T20:14:23+00:00"
+      "last_seen": "2026-08-21T21:10:45+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -3145,6 +3155,13 @@
         "2204ab1c7543"
       ],
       "last_seen": "2026-08-16T07:35:47.481875+00:00"
+    },
+    "Shoppers Drug Mart": {
+      "count": 1,
+      "job_ids": [
+        "a523d421c7d5"
+      ],
+      "last_seen": "2026-08-21T21:29:34.346500+00:00"
     },
     "Signal": {
       "count": 1,
@@ -3994,5 +4011,5 @@
       "last_seen": "2026-08-15T08:35:33.628741+00:00"
     }
   },
-  "updated_at": "2026-08-21T20:31:18.987161+00:00"
+  "updated_at": "2026-08-21T21:29:34.346500+00:00"
 }

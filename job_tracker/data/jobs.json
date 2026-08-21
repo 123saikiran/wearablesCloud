@@ -1,6 +1,93 @@
 {
   "jobs": [
     {
+      "company": "Shoppers Drug Mart",
+      "fetched_at": "2026-08-21T21:29:34.346500+00:00",
+      "id": "a523d421c7d5",
+      "location": "Kingston,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "sales",
+        "non tech",
+        "customer support",
+        "microsoft",
+        "ops",
+        "excel",
+        "recruiter",
+        "full time",
+        "dev",
+        "exec",
+        "medical",
+        "digital nomad"
+      ],
+      "title": "Beauty merchandiser",
+      "url": "https://remoteOK.com/remote-jobs/remote-beauty-merchandiser-shoppers-drug-mart-1137055"
+    },
+    {
+      "company": "EXL",
+      "fetched_at": "2026-08-21T21:29:34.346500+00:00",
+      "id": "7a72c2a7af71",
+      "location": "Pune Division,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "technical",
+        "exec",
+        "engineer",
+        "senior"
+      ],
+      "title": "Senior Executive",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-executive-exl-1137057"
+    },
+    {
+      "company": "Fronix Services",
+      "fetched_at": "2026-08-21T21:29:34.346500+00:00",
+      "id": "769b88edaf77",
+      "location": "Kochi,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "technical",
+        "exec",
+        "engineer"
+      ],
+      "title": "Hiring For Air Ticketing Ground Staff",
+      "url": "https://remoteOK.com/remote-jobs/remote-hiring-for-air-ticketing-ground-staff-fronix-services-1137056"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-21T21:29:34.346500+00:00",
+      "id": "12a993699cec",
+      "location": "Remote",
+      "posted_at": "2026-08-21T21:10:45+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-5e0c"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-21T21:29:34.346500+00:00",
+      "id": "10aaddd987ff",
+      "location": "Remote",
+      "posted_at": "2026-08-21T20:42:54+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1h25"
+    },
+    {
       "company": "NT Health",
       "fetched_at": "2026-08-21T20:31:18.987161+00:00",
       "id": "7ff79bb94057",
@@ -21538,5 +21625,5 @@
       "url": "https://weworkremotely.com/remote-jobs/stripe-privacy-operations-program-manager"
     }
   ],
-  "updated_at": "2026-08-21T20:31:18.987161+00:00"
+  "updated_at": "2026-08-21T21:29:34.346500+00:00"
 }
