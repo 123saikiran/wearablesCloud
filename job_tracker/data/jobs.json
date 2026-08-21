@@ -1,6 +1,49 @@
 {
   "jobs": [
     {
+      "company": "PAT",
+      "fetched_at": "2026-08-21T09:42:04.704737+00:00",
+      "id": "124ebfde4b3e",
+      "location": "Sorocaba,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [],
+      "title": "Vaga de Motorista Entregador em Sorocaba",
+      "url": "https://remoteOK.com/remote-jobs/remote-vaga-de-motorista-entregador-em-sorocaba-pat-1137046"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-21T09:42:04.704737+00:00",
+      "id": "656862d16c34",
+      "location": "Remote",
+      "posted_at": "2026-08-21T09:32:10+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-j2b"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-21T09:42:04.704737+00:00",
+      "id": "8a2d1a5001b8",
+      "location": "Remote",
+      "posted_at": "2026-08-21T08:55:50+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-g42"
+    },
+    {
       "company": "SpaceX",
       "fetched_at": "2026-08-21T08:48:04.718663+00:00",
       "id": "c833445b1fd5",
@@ -21067,5 +21110,5 @@
       "url": "https://weworkremotely.com/remote-jobs/stripe-privacy-operations-program-manager"
     }
   ],
-  "updated_at": "2026-08-21T08:48:04.718663+00:00"
+  "updated_at": "2026-08-21T09:42:04.704737+00:00"
 }
