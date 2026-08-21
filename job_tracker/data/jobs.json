@@ -1,6 +1,39 @@
 {
   "jobs": [
     {
+      "company": "Natural Spirits Nepal",
+      "fetched_at": "2026-08-21T05:37:30.139314+00:00",
+      "id": "7d488568589b",
+      "location": "Galchhi Rural Municipality,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "accounting",
+        "infosec",
+        "customer support",
+        "finance",
+        "exec"
+      ],
+      "title": "Account Officer",
+      "url": "https://remoteOK.com/remote-jobs/remote-account-officer-natural-spirits-nepal-1137028"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-21T05:37:30.139314+00:00",
+      "id": "c5b10794443d",
+      "location": "Remote",
+      "posted_at": "2026-08-21T05:01:03+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3flp"
+    },
+    {
       "company": "Vistara Group",
       "fetched_at": "2026-08-21T04:44:27.314487+00:00",
       "id": "5d89c40ccb76",
@@ -20985,5 +21018,5 @@
       "url": "https://weworkremotely.com/remote-jobs/cloudflare-principal-partner-solutions-engineer-saarc-based-in-bangalore"
     }
   ],
-  "updated_at": "2026-08-21T04:44:27.314487+00:00"
+  "updated_at": "2026-08-21T05:37:30.139314+00:00"
 }

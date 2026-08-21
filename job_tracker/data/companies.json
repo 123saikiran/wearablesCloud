@@ -1989,6 +1989,13 @@
       ],
       "last_seen": "2026-08-13T21:52:32.103505+00:00"
     },
+    "Natural Spirits Nepal": {
+      "count": 1,
+      "job_ids": [
+        "7d488568589b"
+      ],
+      "last_seen": "2026-08-21T05:37:30.139314+00:00"
+    },
     "Nebraska Public Power District": {
       "count": 1,
       "job_ids": [
@@ -2376,8 +2383,9 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 481,
+      "count": 482,
       "job_ids": [
+        "c5b10794443d",
         "6c6d80d1b862",
         "33009d96087f",
         "b257a3a372d5",
@@ -2860,7 +2868,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-21T04:21:41+00:00"
+      "last_seen": "2026-08-21T05:01:03+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -3924,5 +3932,5 @@
       "last_seen": "2026-08-15T08:35:33.628741+00:00"
     }
   },
-  "updated_at": "2026-08-21T04:44:27.314487+00:00"
+  "updated_at": "2026-08-21T05:37:30.139314+00:00"
 }
