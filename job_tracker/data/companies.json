@@ -562,6 +562,13 @@
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
+    "Canopy Growth Corporation": {
+      "count": 1,
+      "job_ids": [
+        "b3cdde66b8e1"
+      ],
+      "last_seen": "2026-08-21T01:42:05.333462+00:00"
+    },
     "Capgemini": {
       "count": 1,
       "job_ids": [
@@ -1368,6 +1375,13 @@
         "120e3357b2c9"
       ],
       "last_seen": "2026-08-06T07:43:52.639381+00:00"
+    },
+    "Harbor": {
+      "count": 1,
+      "job_ids": [
+        "5f67eddcfa26"
+      ],
+      "last_seen": "2026-08-21T01:42:05.333462+00:00"
     },
     "Harris Farm Markets": {
       "count": 1,
@@ -2363,8 +2377,11 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 475,
+      "count": 478,
       "job_ids": [
+        "359cab67ae49",
+        "6c4c51cd3085",
+        "48f7878842bf",
         "4d054d2d5668",
         "14ac22cd8a93",
         "744f180cdc8b",
@@ -2841,7 +2858,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-20T23:12:49+00:00"
+      "last_seen": "2026-08-21T01:41:18+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -3898,5 +3915,5 @@
       "last_seen": "2026-08-15T08:35:33.628741+00:00"
     }
   },
-  "updated_at": "2026-08-20T23:30:55.098626+00:00"
+  "updated_at": "2026-08-21T01:42:05.333462+00:00"
 }
