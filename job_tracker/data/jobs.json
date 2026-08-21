@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-21T03:08:36.444384+00:00",
+      "id": "b257a3a372d5",
+      "location": "Remote",
+      "posted_at": "2026-08-21T02:49:35+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4l4l"
+    },
+    {
       "company": "Canopy Growth Corporation",
       "fetched_at": "2026-08-21T01:42:05.333462+00:00",
       "id": "b3cdde66b8e1",
@@ -20935,5 +20951,5 @@
       "url": "https://weworkremotely.com/remote-jobs/cloudflare-country-director-india"
     }
   ],
-  "updated_at": "2026-08-21T01:42:05.333462+00:00"
+  "updated_at": "2026-08-21T03:08:36.444384+00:00"
 }
