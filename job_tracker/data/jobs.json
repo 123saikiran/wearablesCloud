@@ -1,6 +1,33 @@
 {
   "jobs": [
     {
+      "company": "Presenza Psicologia",
+      "fetched_at": "2026-08-21T10:40:27.753811+00:00",
+      "id": "bb427b399fa2",
+      "location": "FlorianÃ³polis,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [],
+      "title": "Roupeiro",
+      "url": "https://remoteOK.com/remote-jobs/remote-roupeiro-presenza-psicologia-1137030"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-21T10:40:27.753811+00:00",
+      "id": "96744e1e1c41",
+      "location": "Remote",
+      "posted_at": "2026-08-21T10:05:32+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-46k7"
+    },
+    {
       "company": "PAT",
       "fetched_at": "2026-08-21T09:42:04.704737+00:00",
       "id": "124ebfde4b3e",
@@ -21110,5 +21137,5 @@
       "url": "https://weworkremotely.com/remote-jobs/stripe-privacy-operations-program-manager"
     }
   ],
-  "updated_at": "2026-08-21T09:42:04.704737+00:00"
+  "updated_at": "2026-08-21T10:40:27.753811+00:00"
 }
