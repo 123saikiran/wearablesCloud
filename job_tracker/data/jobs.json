@@ -1,6 +1,36 @@
 {
   "jobs": [
     {
+      "company": "Manhattan Grand Hotel",
+      "fetched_at": "2026-08-21T14:40:52.533563+00:00",
+      "id": "bbc80836b621",
+      "location": "MalÃ©,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "accounting",
+        "infosec"
+      ],
+      "title": "Loss Prevention Officer",
+      "url": "https://remoteOK.com/remote-jobs/remote-loss-prevention-officer-manhattan-grand-hotel-1137027"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-21T14:40:52.533563+00:00",
+      "id": "24cc8e020564",
+      "location": "Remote",
+      "posted_at": "2026-08-21T14:04:53+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3n21"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-21T13:52:07.779653+00:00",
       "id": "1389293d9d4f",
@@ -21266,5 +21296,5 @@
       "url": "https://weworkremotely.com/remote-jobs/stripe-privacy-operations-program-manager"
     }
   ],
-  "updated_at": "2026-08-21T13:52:07.779653+00:00"
+  "updated_at": "2026-08-21T14:40:52.533563+00:00"
 }
