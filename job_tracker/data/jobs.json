@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-21T07:49:25.591040+00:00",
+      "id": "2e649d406efa",
+      "location": "Remote",
+      "posted_at": "2026-08-21T07:15:19+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2435"
+    },
+    {
       "company": "Radisson Hotel Group",
       "fetched_at": "2026-08-21T06:55:27.883833+00:00",
       "id": "db23cdd4bb3f",
@@ -20715,356 +20731,291 @@
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2kff"
     },
     {
+      "company": "Coinbase",
+      "fetched_at": "2026-08-21T07:49:25.591040+00:00",
+      "id": "72a24dae6b66",
+      "location": "Remote",
+      "posted_at": "2026-07-23T07:03:54+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Back-End Programming"
+      ],
+      "title": "Senior Software Engineer, Backend - Platform (Core AI Automation)",
+      "url": "https://weworkremotely.com/remote-jobs/coinbase-senior-software-engineer-backend-platform-core-ai-automation"
+    },
+    {
       "company": "Twilio",
-      "fetched_at": "2026-08-20T15:38:47.997747+00:00",
-      "id": "27b63cdf9a9c",
+      "fetched_at": "2026-08-21T07:49:25.591040+00:00",
+      "id": "b9becd4d7a70",
       "location": "Remote",
-      "posted_at": "2026-07-22T07:03:46+00:00",
+      "posted_at": "2026-07-23T07:03:38+00:00",
       "source": "weworkremotely",
       "tags": [
         "Full-Stack Programming"
       ],
-      "title": "Machine Learning Engineer",
-      "url": "https://weworkremotely.com/remote-jobs/twilio-machine-learning-engineer"
+      "title": "Senior Engineering Manager V&V Media",
+      "url": "https://weworkremotely.com/remote-jobs/twilio-senior-engineering-manager-v-v-media-1"
+    },
+    {
+      "company": "Twilio",
+      "fetched_at": "2026-08-21T07:49:25.591040+00:00",
+      "id": "abb266cd1839",
+      "location": "Remote",
+      "posted_at": "2026-07-23T07:03:34+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Full-Stack Programming"
+      ],
+      "title": "Senior Engineering Manager V&V Media",
+      "url": "https://weworkremotely.com/remote-jobs/twilio-senior-engineering-manager-v-v-media"
     },
     {
       "company": "Coinbase",
-      "fetched_at": "2026-08-21T04:44:27.314487+00:00",
-      "id": "96f09f0fd515",
+      "fetched_at": "2026-08-21T07:49:25.591040+00:00",
+      "id": "cf5133a98a0f",
       "location": "Remote",
-      "posted_at": "2026-07-22T07:03:46+00:00",
-      "source": "weworkremotely",
-      "tags": [
-        "Full-Stack Programming"
-      ],
-      "title": "HR Business Partner",
-      "url": "https://weworkremotely.com/remote-jobs/coinbase-hr-business-partner"
-    },
-    {
-      "company": "Stripe",
-      "fetched_at": "2026-08-16T18:36:05.919533+00:00",
-      "id": "c6a820527e6a",
-      "location": "Remote",
-      "posted_at": "2026-07-22T07:03:14+00:00",
-      "source": "weworkremotely",
-      "tags": [
-        "Full-Stack Programming"
-      ],
-      "title": "Head of Self-Serve Paid Media",
-      "url": "https://weworkremotely.com/remote-jobs/stripe-head-of-self-serve-paid-media"
-    },
-    {
-      "company": "Coinbase",
-      "fetched_at": "2026-08-20T07:46:36.319596+00:00",
-      "id": "084a01f1bb7b",
-      "location": "Remote",
-      "posted_at": "2026-07-22T07:03:14+00:00",
-      "source": "weworkremotely",
-      "tags": [
-        "Full-Stack Programming"
-      ],
-      "title": "Head of Finance, Canada",
-      "url": "https://weworkremotely.com/remote-jobs/coinbase-head-of-finance-canada"
-    },
-    {
-      "company": "Stripe",
-      "fetched_at": "2026-08-15T21:26:07.412112+00:00",
-      "id": "f50a2173e090",
-      "location": "Remote",
-      "posted_at": "2026-07-22T07:02:54+00:00",
-      "source": "weworkremotely",
-      "tags": [
-        "Full-Stack Programming"
-      ],
-      "title": "GTM Operations Process Architect",
-      "url": "https://weworkremotely.com/remote-jobs/stripe-gtm-operations-process-architect"
-    },
-    {
-      "company": "Stripe",
-      "fetched_at": "2026-08-15T21:26:07.412112+00:00",
-      "id": "f5fdc311142a",
-      "location": "Remote",
-      "posted_at": "2026-07-22T07:02:37+00:00",
-      "source": "weworkremotely",
-      "tags": [
-        "Full-Stack Programming"
-      ],
-      "title": "Fullstack Engineer, Privy",
-      "url": "https://weworkremotely.com/remote-jobs/stripe-fullstack-engineer-privy"
-    },
-    {
-      "company": "Coinbase",
-      "fetched_at": "2026-08-15T21:26:07.412112+00:00",
-      "id": "6bed7d8fb758",
-      "location": "Remote",
-      "posted_at": "2026-07-22T07:02:28+00:00",
-      "source": "weworkremotely",
-      "tags": [
-        "Full-Stack Programming"
-      ],
-      "title": "GFCO Program Manager",
-      "url": "https://weworkremotely.com/remote-jobs/coinbase-gfco-program-manager"
-    },
-    {
-      "company": "Coinbase",
-      "fetched_at": "2026-08-15T21:26:07.412112+00:00",
-      "id": "2b3d3ae94177",
-      "location": "Remote",
-      "posted_at": "2026-07-22T07:02:20+00:00",
-      "source": "weworkremotely",
-      "tags": [
-        "Full-Stack Programming"
-      ],
-      "title": "Creative Director",
-      "url": "https://weworkremotely.com/remote-jobs/coinbase-creative-director"
-    },
-    {
-      "company": "Airtable",
-      "fetched_at": "2026-08-12T15:03:02.733629+00:00",
-      "id": "b3f799034d48",
-      "location": "Remote",
-      "posted_at": "2026-07-22T07:02:04+00:00",
-      "source": "weworkremotely",
-      "tags": [
-        "Full-Stack Programming"
-      ],
-      "title": "Senior Solutions Architect- West Coast",
-      "url": "https://weworkremotely.com/remote-jobs/airtable-senior-solutions-architect-west-coast"
-    },
-    {
-      "company": "Airtable",
-      "fetched_at": "2026-08-13T15:03:05.076331+00:00",
-      "id": "9ff1645f9570",
-      "location": "Remote",
-      "posted_at": "2026-07-22T07:02:04+00:00",
-      "source": "weworkremotely",
-      "tags": [
-        "Full-Stack Programming"
-      ],
-      "title": "Senior Solutions Architect",
-      "url": "https://weworkremotely.com/remote-jobs/airtable-senior-solutions-architect"
-    },
-    {
-      "company": "Coinbase",
-      "fetched_at": "2026-08-15T07:35:32.274939+00:00",
-      "id": "0ff20317bdc0",
-      "location": "Remote",
-      "posted_at": "2026-07-22T07:02:04+00:00",
-      "source": "weworkremotely",
-      "tags": [
-        "Full-Stack Programming"
-      ],
-      "title": "Counsel, Commercial",
-      "url": "https://weworkremotely.com/remote-jobs/coinbase-counsel-commercial"
-    },
-    {
-      "company": "Gusto, Inc.",
-      "fetched_at": "2026-08-12T15:03:02.733629+00:00",
-      "id": "6117114b69a2",
-      "location": "Remote",
-      "posted_at": "2026-07-22T07:01:49+00:00",
-      "source": "weworkremotely",
-      "tags": [
-        "Full-Stack Programming"
-      ],
-      "title": "Staff Software Engineer, AI Developer Tools",
-      "url": "https://weworkremotely.com/remote-jobs/gusto-inc-staff-software-engineer-ai-developer-tools"
-    },
-    {
-      "company": "Airtable",
-      "fetched_at": "2026-08-11T07:19:52.857221+00:00",
-      "id": "a9678c63ff51",
-      "location": "Remote",
-      "posted_at": "2026-07-22T07:01:44+00:00",
-      "source": "weworkremotely",
-      "tags": [
-        "Full-Stack Programming"
-      ],
-      "title": "Program Manager, Professional Services - West",
-      "url": "https://weworkremotely.com/remote-jobs/airtable-program-manager-professional-services-west"
-    },
-    {
-      "company": "Coinbase",
-      "fetched_at": "2026-08-12T10:12:44.697129+00:00",
-      "id": "6e85fcef7314",
-      "location": "Remote",
-      "posted_at": "2026-07-22T07:01:44+00:00",
-      "source": "weworkremotely",
-      "tags": [
-        "Full-Stack Programming"
-      ],
-      "title": "Business Operations Senior Associate, Institutional",
-      "url": "https://weworkremotely.com/remote-jobs/coinbase-business-operations-senior-associate-institutional"
-    },
-    {
-      "company": "Stripe",
-      "fetched_at": "2026-08-12T13:21:46.868019+00:00",
-      "id": "67b6a84148b8",
-      "location": "Remote",
-      "posted_at": "2026-07-22T07:01:44+00:00",
-      "source": "weworkremotely",
-      "tags": [
-        "Full-Stack Programming"
-      ],
-      "title": "Credit Risk Analyst, North American Underwriter",
-      "url": "https://weworkremotely.com/remote-jobs/stripe-credit-risk-analyst-north-american-underwriter"
-    },
-    {
-      "company": "Coinbase",
-      "fetched_at": "2026-08-12T15:03:02.733629+00:00",
-      "id": "ee3df6041d5b",
-      "location": "Remote",
-      "posted_at": "2026-07-22T07:01:44+00:00",
-      "source": "weworkremotely",
-      "tags": [
-        "Full-Stack Programming"
-      ],
-      "title": "Communications Manager, Policy & Public Affairs",
-      "url": "https://weworkremotely.com/remote-jobs/coinbase-communications-manager-policy-public-affairs"
-    },
-    {
-      "company": "Dropbox",
-      "fetched_at": "2026-08-12T15:03:02.733629+00:00",
-      "id": "ed857d14e935",
-      "location": "Remote",
-      "posted_at": "2026-07-22T07:01:44+00:00",
-      "source": "weworkremotely",
-      "tags": [
-        "Full-Stack Programming"
-      ],
-      "title": "Head of Field and Partner Marketing",
-      "url": "https://weworkremotely.com/remote-jobs/dropbox-head-of-field-and-partner-marketing"
-    },
-    {
-      "company": "Airtable",
-      "fetched_at": "2026-08-10T13:21:11.328604+00:00",
-      "id": "736b01bb1885",
-      "location": "Remote",
-      "posted_at": "2026-07-22T07:01:35+00:00",
-      "source": "weworkremotely",
-      "tags": [
-        "Full-Stack Programming"
-      ],
-      "title": "Program Manager, Professional Services - East",
-      "url": "https://weworkremotely.com/remote-jobs/airtable-program-manager-professional-services-east"
-    },
-    {
-      "company": "Stripe",
-      "fetched_at": "2026-08-10T19:08:22.056625+00:00",
-      "id": "504218801790",
-      "location": "Remote",
-      "posted_at": "2026-07-22T07:01:35+00:00",
-      "source": "weworkremotely",
-      "tags": [
-        "Full-Stack Programming"
-      ],
-      "title": "Credit Risk Analyst Commercial Underwriter, West Coast",
-      "url": "https://weworkremotely.com/remote-jobs/stripe-credit-risk-analyst-commercial-underwriter-west-coast"
-    },
-    {
-      "company": "Dropbox",
-      "fetched_at": "2026-08-06T12:59:49.258060+00:00",
-      "id": "34721677bc39",
-      "location": "Remote",
-      "posted_at": "2026-07-22T07:01:32+00:00",
+      "posted_at": "2026-07-23T07:03:20+00:00",
       "source": "weworkremotely",
       "tags": [
         "Front-End Programming"
       ],
-      "title": "Director, Product Design",
-      "url": "https://weworkremotely.com/remote-jobs/dropbox-director-product-design"
+      "title": "Senior Software Engineer",
+      "url": "https://weworkremotely.com/remote-jobs/coinbase-senior-software-engineer"
+    },
+    {
+      "company": "Twilio",
+      "fetched_at": "2026-08-21T07:49:25.591040+00:00",
+      "id": "5262b28b3ee2",
+      "location": "Remote",
+      "posted_at": "2026-07-23T07:03:19+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Full-Stack Programming"
+      ],
+      "title": "Senior Engineering Manager, Voice and Video",
+      "url": "https://weworkremotely.com/remote-jobs/twilio-senior-engineering-manager-voice-and-video"
     },
     {
       "company": "Coinbase",
-      "fetched_at": "2026-08-06T12:59:49.258060+00:00",
-      "id": "2030e1c432ca",
+      "fetched_at": "2026-08-21T07:49:25.591040+00:00",
+      "id": "509b29493d77",
       "location": "Remote",
-      "posted_at": "2026-07-22T07:01:32+00:00",
+      "posted_at": "2026-07-23T07:02:57+00:00",
       "source": "weworkremotely",
       "tags": [
         "Full-Stack Programming"
       ],
-      "title": "Analytics Engineer, GFCO Analytics",
-      "url": "https://weworkremotely.com/remote-jobs/coinbase-analytics-engineer-gfco-analytics"
+      "title": "Senior Payroll Specialist",
+      "url": "https://weworkremotely.com/remote-jobs/coinbase-senior-payroll-specialist"
     },
     {
-      "company": "Gusto, Inc.",
-      "fetched_at": "2026-08-07T16:03:21.858790+00:00",
-      "id": "e69fa491ba7b",
+      "company": "Coinbase",
+      "fetched_at": "2026-08-21T07:49:25.591040+00:00",
+      "id": "0f19f4b53c53",
       "location": "Remote",
-      "posted_at": "2026-07-22T07:01:32+00:00",
+      "posted_at": "2026-07-23T07:02:52+00:00",
       "source": "weworkremotely",
       "tags": [
         "Full-Stack Programming"
       ],
-      "title": "Retirement Implementation Specialist",
-      "url": "https://weworkremotely.com/remote-jobs/gusto-inc-retirement-implementation-specialist"
+      "title": "Senior Manager, Internal Audit IT",
+      "url": "https://weworkremotely.com/remote-jobs/coinbase-senior-manager-internal-audit-it"
     },
     {
-      "company": "Airtable",
-      "fetched_at": "2026-08-08T16:39:56.602392+00:00",
-      "id": "5b922f42f670",
+      "company": "Coinbase",
+      "fetched_at": "2026-08-21T07:49:25.591040+00:00",
+      "id": "c6ade85eda0f",
       "location": "Remote",
-      "posted_at": "2026-07-22T07:01:32+00:00",
+      "posted_at": "2026-07-23T07:02:37+00:00",
       "source": "weworkremotely",
       "tags": [
         "Full-Stack Programming"
       ],
-      "title": "Manager, Sales Strategy & Planning",
-      "url": "https://weworkremotely.com/remote-jobs/airtable-manager-sales-strategy-planning"
+      "title": "Senior Manager, Clearing Operations",
+      "url": "https://weworkremotely.com/remote-jobs/coinbase-senior-manager-clearing-operations"
     },
     {
-      "company": "Gusto, Inc.",
-      "fetched_at": "2026-08-05T18:26:00.883405+00:00",
-      "id": "f3016438116d",
+      "company": "Coinbase",
+      "fetched_at": "2026-08-21T07:49:25.591040+00:00",
+      "id": "3a4ff1c7017e",
       "location": "Remote",
-      "posted_at": "2026-07-22T07:01:14+00:00",
+      "posted_at": "2026-07-23T07:02:37+00:00",
       "source": "weworkremotely",
       "tags": [
         "Full-Stack Programming"
       ],
-      "title": "Enterprise Application AI Architect",
-      "url": "https://weworkremotely.com/remote-jobs/gusto-inc-enterprise-application-ai-architect"
+      "title": "Senior Machine Learning Engineer, CX Intelligence",
+      "url": "https://weworkremotely.com/remote-jobs/coinbase-senior-machine-learning-engineer-cx-intelligence"
+    },
+    {
+      "company": "Coinbase",
+      "fetched_at": "2026-08-21T07:49:25.591040+00:00",
+      "id": "c1c5b8453589",
+      "location": "Remote",
+      "posted_at": "2026-07-23T07:02:37+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Full-Stack Programming"
+      ],
+      "title": "Senior Machine Learning Engineer",
+      "url": "https://weworkremotely.com/remote-jobs/coinbase-senior-machine-learning-engineer"
+    },
+    {
+      "company": "Twilio",
+      "fetched_at": "2026-08-21T07:49:25.591040+00:00",
+      "id": "cba004de0a1c",
+      "location": "Remote",
+      "posted_at": "2026-07-23T07:02:22+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Full-Stack Programming"
+      ],
+      "title": "Project Manager 3",
+      "url": "https://weworkremotely.com/remote-jobs/twilio-project-manager-3"
     },
     {
       "company": "Stripe",
-      "fetched_at": "2026-08-05T18:26:00.883405+00:00",
-      "id": "b670e6a23ffa",
+      "fetched_at": "2026-08-21T07:49:25.591040+00:00",
+      "id": "2b818dc4b0bc",
       "location": "Remote",
-      "posted_at": "2026-07-22T07:01:13+00:00",
-      "source": "weworkremotely",
-      "tags": [
-        "Back-End Programming"
-      ],
-      "title": "Backend Engineer, Core Technology",
-      "url": "https://weworkremotely.com/remote-jobs/stripe-backend-engineer-core-technology"
-    },
-    {
-      "company": "Stripe",
-      "fetched_at": "2026-08-05T14:21:54.411152+00:00",
-      "id": "6a8d17f2dcd5",
-      "location": "Remote",
-      "posted_at": "2026-07-22T07:01:06+00:00",
-      "source": "weworkremotely",
-      "tags": [
-        "Back-End Programming"
-      ],
-      "title": "Backend Engineer, AI Security",
-      "url": "https://weworkremotely.com/remote-jobs/stripe-backend-engineer-ai-security"
-    },
-    {
-      "company": "Cloudflare",
-      "fetched_at": "2026-08-05T14:21:54.411152+00:00",
-      "id": "2a748fa1a98e",
-      "location": "Remote",
-      "posted_at": "2026-07-22T07:00:51+00:00",
+      "posted_at": "2026-07-23T07:02:10+00:00",
       "source": "weworkremotely",
       "tags": [
         "Full-Stack Programming"
       ],
-      "title": "Principal Partner Solutions Engineer, SAARC (Based in Bangalore)",
-      "url": "https://weworkremotely.com/remote-jobs/cloudflare-principal-partner-solutions-engineer-saarc-based-in-bangalore"
+      "title": "Risk Strategist - Screening (Financial Crimes)",
+      "url": "https://weworkremotely.com/remote-jobs/stripe-risk-strategist-screening-financial-crimes"
+    },
+    {
+      "company": "Twilio",
+      "fetched_at": "2026-08-21T07:49:25.591040+00:00",
+      "id": "9278907b287e",
+      "location": "Remote",
+      "posted_at": "2026-07-23T07:02:10+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Full-Stack Programming"
+      ],
+      "title": "Principal Software Engineer",
+      "url": "https://weworkremotely.com/remote-jobs/twilio-principal-software-engineer"
+    },
+    {
+      "company": "Coinbase",
+      "fetched_at": "2026-08-21T07:49:25.591040+00:00",
+      "id": "59f892e4f529",
+      "location": "Remote",
+      "posted_at": "2026-07-23T07:02:10+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Full-Stack Programming"
+      ],
+      "title": "Senior Finance & Strategy Analyst, Consumer",
+      "url": "https://weworkremotely.com/remote-jobs/coinbase-senior-finance-strategy-analyst-consumer"
+    },
+    {
+      "company": "Coinbase",
+      "fetched_at": "2026-08-21T07:49:25.591040+00:00",
+      "id": "364cb29a9192",
+      "location": "Remote",
+      "posted_at": "2026-07-23T07:02:10+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Full-Stack Programming"
+      ],
+      "title": "Senior Data Scientist, CX Analytics",
+      "url": "https://weworkremotely.com/remote-jobs/coinbase-senior-data-scientist-cx-analytics"
+    },
+    {
+      "company": "Coinbase",
+      "fetched_at": "2026-08-21T07:49:25.591040+00:00",
+      "id": "d858a3469476",
+      "location": "Remote",
+      "posted_at": "2026-07-23T07:01:42+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Full-Stack Programming"
+      ],
+      "title": "Senior Analytics Engineer (Platform - Financial Analytics)",
+      "url": "https://weworkremotely.com/remote-jobs/coinbase-senior-analytics-engineer-platform-financial-analytics"
+    },
+    {
+      "company": "Coinbase",
+      "fetched_at": "2026-08-21T07:49:25.591040+00:00",
+      "id": "a41fea5f1725",
+      "location": "Remote",
+      "posted_at": "2026-07-23T07:01:36+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Full-Stack Programming"
+      ],
+      "title": "Senior Analyst, Compliance Technology",
+      "url": "https://weworkremotely.com/remote-jobs/coinbase-senior-analyst-compliance-technology"
+    },
+    {
+      "company": "Coinbase",
+      "fetched_at": "2026-08-21T07:49:25.591040+00:00",
+      "id": "36aa771df5d1",
+      "location": "Remote",
+      "posted_at": "2026-07-23T07:01:26+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Full-Stack Programming"
+      ],
+      "title": "Regional Threat Assessment Manager",
+      "url": "https://weworkremotely.com/remote-jobs/coinbase-regional-threat-assessment-manager-2"
+    },
+    {
+      "company": "Coinbase",
+      "fetched_at": "2026-08-21T07:49:25.591040+00:00",
+      "id": "154147aec013",
+      "location": "Remote",
+      "posted_at": "2026-07-23T07:01:15+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Full-Stack Programming"
+      ],
+      "title": "Regional Threat Assessment Manager",
+      "url": "https://weworkremotely.com/remote-jobs/coinbase-regional-threat-assessment-manager-1"
+    },
+    {
+      "company": "Coinbase",
+      "fetched_at": "2026-08-21T07:49:25.591040+00:00",
+      "id": "1e0cb4a88c42",
+      "location": "Remote",
+      "posted_at": "2026-07-23T07:01:13+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Full-Stack Programming"
+      ],
+      "title": "Regional Threat Assessment Manager",
+      "url": "https://weworkremotely.com/remote-jobs/coinbase-regional-threat-assessment-manager"
+    },
+    {
+      "company": "Twilio",
+      "fetched_at": "2026-08-21T07:49:25.591040+00:00",
+      "id": "6ddbe503b369",
+      "location": "Remote",
+      "posted_at": "2026-07-23T07:01:07+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Full-Stack Programming"
+      ],
+      "title": "Principal Engineer (L5)",
+      "url": "https://weworkremotely.com/remote-jobs/twilio-principal-engineer-l5"
+    },
+    {
+      "company": "Stripe",
+      "fetched_at": "2026-08-21T07:49:25.591040+00:00",
+      "id": "002755b42456",
+      "location": "Remote",
+      "posted_at": "2026-07-23T07:00:55+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Full-Stack Programming"
+      ],
+      "title": "Privacy Operations Program Manager",
+      "url": "https://weworkremotely.com/remote-jobs/stripe-privacy-operations-program-manager"
     }
   ],
-  "updated_at": "2026-08-21T06:55:27.883833+00:00"
+  "updated_at": "2026-08-21T07:49:25.591040+00:00"
 }
