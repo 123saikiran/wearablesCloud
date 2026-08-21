@@ -1,6 +1,54 @@
 {
   "jobs": [
     {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-21T22:30:31.776530+00:00",
+      "id": "0a0c587edb01",
+      "location": "Remote",
+      "posted_at": "2026-08-21T22:24:31+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4c36"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-21T22:30:31.776530+00:00",
+      "id": "f5dd193c473d",
+      "location": "Remote",
+      "posted_at": "2026-08-21T21:57:28+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-55jn"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-21T22:30:31.776530+00:00",
+      "id": "f955707a7ea3",
+      "location": "Remote",
+      "posted_at": "2026-08-21T21:36:54+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-26pp"
+    },
+    {
       "company": "Shoppers Drug Mart",
       "fetched_at": "2026-08-21T21:29:34.346500+00:00",
       "id": "a523d421c7d5",
@@ -21625,5 +21673,5 @@
       "url": "https://weworkremotely.com/remote-jobs/stripe-privacy-operations-program-manager"
     }
   ],
-  "updated_at": "2026-08-21T21:29:34.346500+00:00"
+  "updated_at": "2026-08-21T22:30:31.776530+00:00"
 }
