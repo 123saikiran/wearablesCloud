@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-21T13:52:07.779653+00:00",
+      "id": "1389293d9d4f",
+      "location": "Remote",
+      "posted_at": "2026-08-21T13:24:03+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-497e"
+    },
+    {
       "company": "H&amp;M",
       "fetched_at": "2026-08-21T12:58:27.281285+00:00",
       "id": "92773dc2e335",
@@ -20964,6 +20980,19 @@
       "url": "https://weworkremotely.com/remote-jobs/coinbase-senior-software-engineer-backend-platform-core-ai-automation"
     },
     {
+      "company": "Coinbase",
+      "fetched_at": "2026-08-21T13:52:07.779653+00:00",
+      "id": "974c2ea9c7f2",
+      "location": "Remote",
+      "posted_at": "2026-07-23T07:03:54+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Back-End Programming"
+      ],
+      "title": "Senior Software Engineer, Backend (Consumer - Risk)",
+      "url": "https://weworkremotely.com/remote-jobs/coinbase-senior-software-engineer-backend-consumer-risk"
+    },
+    {
       "company": "Twilio",
       "fetched_at": "2026-08-21T07:49:25.591040+00:00",
       "id": "b9becd4d7a70",
@@ -21237,5 +21266,5 @@
       "url": "https://weworkremotely.com/remote-jobs/stripe-privacy-operations-program-manager"
     }
   ],
-  "updated_at": "2026-08-21T12:58:27.281285+00:00"
+  "updated_at": "2026-08-21T13:52:07.779653+00:00"
 }
