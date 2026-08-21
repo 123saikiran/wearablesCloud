@@ -1,6 +1,54 @@
 {
   "jobs": [
     {
+      "company": "Radisson Hotel Group",
+      "fetched_at": "2026-08-21T06:55:27.883833+00:00",
+      "id": "db23cdd4bb3f",
+      "location": "Guwahati,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "customer support",
+        "marketing",
+        "exec",
+        "golang"
+      ],
+      "title": "Front Office Executive",
+      "url": "https://remoteOK.com/remote-jobs/remote-front-office-executive-radisson-hotel-group-1137008"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-21T06:55:27.883833+00:00",
+      "id": "e410400ce0d1",
+      "location": "Remote",
+      "posted_at": "2026-08-21T06:20:54+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2ne6"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-21T06:55:27.883833+00:00",
+      "id": "ae356979b87c",
+      "location": "Remote",
+      "posted_at": "2026-08-21T05:46:28+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-11j4"
+    },
+    {
       "company": "Natural Spirits Nepal",
       "fetched_at": "2026-08-21T05:37:30.139314+00:00",
       "id": "7d488568589b",
@@ -21018,5 +21066,5 @@
       "url": "https://weworkremotely.com/remote-jobs/cloudflare-principal-partner-solutions-engineer-saarc-based-in-bangalore"
     }
   ],
-  "updated_at": "2026-08-21T05:37:30.139314+00:00"
+  "updated_at": "2026-08-21T06:55:27.883833+00:00"
 }
