@@ -2,6 +2,22 @@
   "jobs": [
     {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-21T17:34:09.106482+00:00",
+      "id": "636187a087ba",
+      "location": "Remote",
+      "posted_at": "2026-08-21T17:00:24+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2i90"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-21T16:40:27.400894+00:00",
       "id": "8f74f926dd2c",
       "location": "Remote",
@@ -21392,5 +21408,5 @@
       "url": "https://weworkremotely.com/remote-jobs/stripe-privacy-operations-program-manager"
     }
   ],
-  "updated_at": "2026-08-21T16:40:27.400894+00:00"
+  "updated_at": "2026-08-21T17:34:09.106482+00:00"
 }
