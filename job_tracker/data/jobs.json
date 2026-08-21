@@ -1,6 +1,53 @@
 {
   "jobs": [
     {
+      "company": "Vistara Group",
+      "fetched_at": "2026-08-21T04:44:27.314487+00:00",
+      "id": "5d89c40ccb76",
+      "location": "Ahmedabad,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "design",
+        "marketing",
+        "digital nomad"
+      ],
+      "title": "Across all departments",
+      "url": "https://remoteOK.com/remote-jobs/remote-across-all-departments-vistara-group-1137023"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-21T04:44:27.314487+00:00",
+      "id": "6c6d80d1b862",
+      "location": "Remote",
+      "posted_at": "2026-08-21T04:21:41+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1nhb"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-21T04:44:27.314487+00:00",
+      "id": "33009d96087f",
+      "location": "Remote",
+      "posted_at": "2026-08-21T03:38:25+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-5fp6"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-21T03:08:36.444384+00:00",
       "id": "b257a3a372d5",
@@ -20600,6 +20647,19 @@
       "url": "https://weworkremotely.com/remote-jobs/twilio-machine-learning-engineer"
     },
     {
+      "company": "Coinbase",
+      "fetched_at": "2026-08-21T04:44:27.314487+00:00",
+      "id": "96f09f0fd515",
+      "location": "Remote",
+      "posted_at": "2026-07-22T07:03:46+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Full-Stack Programming"
+      ],
+      "title": "HR Business Partner",
+      "url": "https://weworkremotely.com/remote-jobs/coinbase-hr-business-partner"
+    },
+    {
       "company": "Stripe",
       "fetched_at": "2026-08-16T18:36:05.919533+00:00",
       "id": "c6a820527e6a",
@@ -20923,33 +20983,7 @@
       ],
       "title": "Principal Partner Solutions Engineer, SAARC (Based in Bangalore)",
       "url": "https://weworkremotely.com/remote-jobs/cloudflare-principal-partner-solutions-engineer-saarc-based-in-bangalore"
-    },
-    {
-      "company": "Gusto, Inc.",
-      "fetched_at": "2026-08-05T14:21:54.411152+00:00",
-      "id": "6b13784e3c60",
-      "location": "Remote",
-      "posted_at": "2026-07-22T04:02:50+00:00",
-      "source": "weworkremotely",
-      "tags": [
-        "Full-Stack Programming"
-      ],
-      "title": "Business Money Engineering",
-      "url": "https://weworkremotely.com/remote-jobs/gusto-inc-business-money-engineering"
-    },
-    {
-      "company": "Cloudflare",
-      "fetched_at": "2026-08-05T14:21:54.411152+00:00",
-      "id": "a2a73b51fa3e",
-      "location": "Remote",
-      "posted_at": "2026-07-22T04:02:19+00:00",
-      "source": "weworkremotely",
-      "tags": [
-        "Full-Stack Programming"
-      ],
-      "title": "Country Director, India",
-      "url": "https://weworkremotely.com/remote-jobs/cloudflare-country-director-india"
     }
   ],
-  "updated_at": "2026-08-21T03:08:36.444384+00:00"
+  "updated_at": "2026-08-21T04:44:27.314487+00:00"
 }

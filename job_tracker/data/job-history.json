@@ -1,6 +1,32 @@
 {
-  "archived_before": "2026-08-20T15:38:47.997747+00:00",
+  "archived_before": "2026-08-21T04:44:27.314487+00:00",
   "jobs": [
+    {
+      "company": "Gusto, Inc.",
+      "fetched_at": "2026-08-05T14:21:54.411152+00:00",
+      "id": "6b13784e3c60",
+      "location": "Remote",
+      "posted_at": "2026-07-22T04:02:50+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Full-Stack Programming"
+      ],
+      "title": "Business Money Engineering",
+      "url": "https://weworkremotely.com/remote-jobs/gusto-inc-business-money-engineering"
+    },
+    {
+      "company": "Cloudflare",
+      "fetched_at": "2026-08-05T14:21:54.411152+00:00",
+      "id": "a2a73b51fa3e",
+      "location": "Remote",
+      "posted_at": "2026-07-22T04:02:19+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Full-Stack Programming"
+      ],
+      "title": "Country Director, India",
+      "url": "https://weworkremotely.com/remote-jobs/cloudflare-country-director-india"
+    },
     {
       "company": "MapTiler",
       "fetched_at": "2026-08-05T14:21:54.411152+00:00",
