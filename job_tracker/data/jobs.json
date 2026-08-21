@@ -1,6 +1,70 @@
 {
   "jobs": [
     {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-21T15:38:41.002495+00:00",
+      "id": "9831a1196870",
+      "location": "Remote",
+      "posted_at": "2026-08-21T15:19:34+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-40nd"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-08-21T15:38:41.002495+00:00",
+      "id": "7e2c0d4028e1",
+      "location": "Remote",
+      "posted_at": "2026-08-21T15:00:29+00:00",
+      "source": "devto",
+      "tags": [
+        "beginners",
+        "jobs",
+        "career",
+        "programming"
+      ],
+      "title": "Where to Find Tech Internships This Summer (Aug 21)",
+      "url": "https://dev.to/crackr/where-to-find-tech-internships-this-summer-aug-21-130i"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-08-21T15:38:41.002495+00:00",
+      "id": "1144618624fe",
+      "location": "Remote",
+      "posted_at": "2026-08-21T15:00:26+00:00",
+      "source": "devto",
+      "tags": [
+        "remotework",
+        "jobs",
+        "webdev",
+        "career"
+      ],
+      "title": "Senior Remote SWE Roles Hiring Now - 3 Pay $150k+ (Aug 21)",
+      "url": "https://dev.to/crackr/senior-remote-swe-roles-hiring-now-3-pay-150k-aug-21-4mfn"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-21T15:38:41.002495+00:00",
+      "id": "f6e986fdf5df",
+      "location": "Remote",
+      "posted_at": "2026-08-21T14:52:00+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-41mb"
+    },
+    {
       "company": "Manhattan Grand Hotel",
       "fetched_at": "2026-08-21T14:40:52.533563+00:00",
       "id": "bbc80836b621",
@@ -21296,5 +21360,5 @@
       "url": "https://weworkremotely.com/remote-jobs/stripe-privacy-operations-program-manager"
     }
   ],
-  "updated_at": "2026-08-21T14:40:52.533563+00:00"
+  "updated_at": "2026-08-21T15:38:41.002495+00:00"
 }
