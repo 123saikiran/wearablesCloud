@@ -1,6 +1,38 @@
 {
   "jobs": [
     {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-22T04:38:24.005610+00:00",
+      "id": "171582308d68",
+      "location": "Remote",
+      "posted_at": "2026-08-22T04:31:49+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2o3f"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-22T04:38:24.005610+00:00",
+      "id": "ae9c0f11cb73",
+      "location": "Remote",
+      "posted_at": "2026-08-22T03:57:06+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-50ep"
+    },
+    {
       "company": "Kent Removals &amp; Storage",
       "fetched_at": "2026-08-22T03:50:37.359388+00:00",
       "id": "eae2fdd6a2d7",
@@ -21908,5 +21940,5 @@
       "url": "https://weworkremotely.com/remote-jobs/stripe-privacy-operations-program-manager"
     }
   ],
-  "updated_at": "2026-08-22T03:50:37.359388+00:00"
+  "updated_at": "2026-08-22T04:38:24.005610+00:00"
 }
