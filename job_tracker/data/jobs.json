@@ -1,6 +1,54 @@
 {
   "jobs": [
     {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-22T23:26:05.923602+00:00",
+      "id": "593a7fa439fd",
+      "location": "Remote",
+      "posted_at": "2026-08-22T23:16:21+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2ded"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-22T23:26:05.923602+00:00",
+      "id": "178cfdf26d03",
+      "location": "Remote",
+      "posted_at": "2026-08-22T22:55:50+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-357"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-22T23:26:05.923602+00:00",
+      "id": "17df3a040ede",
+      "location": "Remote",
+      "posted_at": "2026-08-22T22:36:37+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3gm3"
+    },
+    {
       "company": "Smartsheet",
       "fetched_at": "2026-08-22T22:27:23.989880+00:00",
       "id": "c9e6ab943d7d",
@@ -22798,5 +22846,5 @@
       "url": "https://weworkremotely.com/remote-jobs/coinbase-senior-software-engineer-data-layer"
     }
   ],
-  "updated_at": "2026-08-22T22:27:23.989880+00:00"
+  "updated_at": "2026-08-22T23:26:05.923602+00:00"
 }
