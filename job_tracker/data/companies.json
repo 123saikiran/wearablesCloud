@@ -7,6 +7,13 @@
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
+    "AHU Technologies": {
+      "count": 1,
+      "job_ids": [
+        "aea1d510dd75"
+      ],
+      "last_seen": "2026-07-23T13:29:27+00:00"
+    },
     "AI Supermarket": {
       "count": 8,
       "job_ids": [
@@ -446,6 +453,13 @@
       ],
       "last_seen": "2026-08-20T06:54:34.138504+00:00"
     },
+    "Business Web Solutions": {
+      "count": 1,
+      "job_ids": [
+        "fc74ca128355"
+      ],
+      "last_seen": "2026-07-23T13:29:27+00:00"
+    },
     "Bybit": {
       "count": 1,
       "job_ids": [
@@ -708,25 +722,13 @@
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
     "Coinbase": {
-      "count": 15,
+      "count": 3,
       "job_ids": [
-        "72a24dae6b66",
-        "974c2ea9c7f2",
-        "cf5133a98a0f",
-        "509b29493d77",
-        "0f19f4b53c53",
-        "c6ade85eda0f",
-        "3a4ff1c7017e",
-        "c1c5b8453589",
-        "59f892e4f529",
-        "364cb29a9192",
-        "d858a3469476",
-        "a41fea5f1725",
-        "36aa771df5d1",
-        "154147aec013",
-        "1e0cb4a88c42"
+        "ad8819b3b5a4",
+        "7fa72d5a6010",
+        "4ae4958677cf"
       ],
-      "last_seen": "2026-07-23T07:03:54+00:00"
+      "last_seen": "2026-07-24T07:01:02+00:00"
     },
     "Coles Liquor": {
       "count": 1,
@@ -1302,6 +1304,14 @@
       ],
       "last_seen": "2026-08-08T21:35:52.348633+00:00"
     },
+    "GitLab": {
+      "count": 2,
+      "job_ids": [
+        "9af61cc4cb61",
+        "dce42265381a"
+      ],
+      "last_seen": "2026-07-24T07:01:02+00:00"
+    },
     "Glow &amp; Grow": {
       "count": 1,
       "job_ids": [
@@ -1421,6 +1431,13 @@
       ],
       "last_seen": "2026-08-18T08:43:02.010155+00:00"
     },
+    "Hightouch": {
+      "count": 1,
+      "job_ids": [
+        "360bd664ddb8"
+      ],
+      "last_seen": "2026-07-24T07:01:12+00:00"
+    },
     "Hilton": {
       "count": 2,
       "job_ids": [
@@ -1493,6 +1510,13 @@
         "328c787181e6"
       ],
       "last_seen": "2026-08-17T15:30:25.819767+00:00"
+    },
+    "Hygraph": {
+      "count": 1,
+      "job_ids": [
+        "869f9810c8a4"
+      ],
+      "last_seen": "2026-07-31T11:59:36+00:00"
     },
     "IBAC": {
       "count": 1,
@@ -1591,6 +1615,20 @@
         "6e914d507034"
       ],
       "last_seen": "2026-08-08T02:00:05.499155+00:00"
+    },
+    "JetBrains": {
+      "count": 1,
+      "job_ids": [
+        "fa3d3c457fe2"
+      ],
+      "last_seen": "2026-07-24T07:01:22+00:00"
+    },
+    "Jobgether": {
+      "count": 1,
+      "job_ids": [
+        "1b33e0a1fda5"
+      ],
+      "last_seen": "2026-07-23T13:29:40+00:00"
     },
     "Jobot": {
       "count": 1,
@@ -1712,6 +1750,13 @@
       ],
       "last_seen": "2026-08-20T12:59:01.663712+00:00"
     },
+    "LaunchDarkly": {
+      "count": 1,
+      "job_ids": [
+        "f8976dc0b0fb"
+      ],
+      "last_seen": "2026-07-24T07:01:12+00:00"
+    },
     "Lazure Hotel &amp; Marina": {
       "count": 1,
       "job_ids": [
@@ -1727,10 +1772,11 @@
       "last_seen": "2026-08-18T16:37:17.008222+00:00"
     },
     "Lemon.io": {
-      "count": 2,
+      "count": 3,
       "job_ids": [
         "fa1b824656f9",
-        "3d0cac674819"
+        "3d0cac674819",
+        "17c1ffcf4b49"
       ],
       "last_seen": "2026-08-14T17:03:25.396086+00:00"
     },
@@ -1893,6 +1939,20 @@
         "d933ef53c64f"
       ],
       "last_seen": "2026-08-17T20:32:31.450965+00:00"
+    },
+    "Maven Clinic": {
+      "count": 1,
+      "job_ids": [
+        "a952c6ee1513"
+      ],
+      "last_seen": "2026-07-30T07:31:03+00:00"
+    },
+    "McNab": {
+      "count": 1,
+      "job_ids": [
+        "16ec32e5d07f"
+      ],
+      "last_seen": "2026-08-22T07:36:08.012367+00:00"
     },
     "Meme Calls": {
       "count": 2,
@@ -2138,6 +2198,13 @@
         "9996478af97b"
       ],
       "last_seen": "2026-08-07T00:07:27.688735+00:00"
+    },
+    "OnTheGoSystems": {
+      "count": 1,
+      "job_ids": [
+        "c7182f85ed56"
+      ],
+      "last_seen": "2026-07-27T14:16:33+00:00"
     },
     "One Way": {
       "count": 1,
@@ -2410,8 +2477,10 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 523,
+      "count": 525,
       "job_ids": [
+        "e574930352f9",
+        "81209e519715",
         "3e249167b704",
         "8066f8321932",
         "631b7bac13a9",
@@ -2936,7 +3005,14 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-22T05:59:53+00:00"
+      "last_seen": "2026-08-22T07:20:38+00:00"
+    },
+    "REDspace": {
+      "count": 1,
+      "job_ids": [
+        "19b65f3fbe41"
+      ],
+      "last_seen": "2026-07-23T13:29:27+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -2982,6 +3058,13 @@
         "5e592848d86b"
       ],
       "last_seen": "2026-08-13T15:03:05.076331+00:00"
+    },
+    "Reddit": {
+      "count": 1,
+      "job_ids": [
+        "37a8e040e38d"
+      ],
+      "last_seen": "2026-07-24T05:21:03+00:00"
     },
     "Reliance Industries Limited": {
       "count": 1,
@@ -3314,14 +3397,6 @@
       ],
       "last_seen": "2026-08-06T15:26:05.274918+00:00"
     },
-    "Stripe": {
-      "count": 2,
-      "job_ids": [
-        "2b818dc4b0bc",
-        "002755b42456"
-      ],
-      "last_seen": "2026-07-23T07:02:10+00:00"
-    },
     "SubwayÂ® Australia": {
       "count": 1,
       "job_ids": [
@@ -3349,6 +3424,13 @@
         "ad6bb9a89d9e"
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
+    },
+    "SuperPlane": {
+      "count": 1,
+      "job_ids": [
+        "bb890454ff9b"
+      ],
+      "last_seen": "2026-07-31T13:30:28+00:00"
     },
     "Supply Coffee": {
       "count": 1,
@@ -3609,16 +3691,12 @@
       "last_seen": "2026-08-13T08:25:22.850642+00:00"
     },
     "Twilio": {
-      "count": 6,
+      "count": 2,
       "job_ids": [
-        "b9becd4d7a70",
-        "abb266cd1839",
-        "5262b28b3ee2",
-        "cba004de0a1c",
-        "9278907b287e",
-        "6ddbe503b369"
+        "d6da729576e9",
+        "64fc2e2b72ad"
       ],
-      "last_seen": "2026-07-23T07:03:38+00:00"
+      "last_seen": "2026-07-24T07:00:51+00:00"
     },
     "TwinTopics": {
       "count": 1,
@@ -3812,6 +3890,13 @@
       ],
       "last_seen": "2026-08-08T20:36:40.655468+00:00"
     },
+    "WeVote": {
+      "count": 1,
+      "job_ids": [
+        "57bc885e078c"
+      ],
+      "last_seen": "2026-07-23T13:29:40+00:00"
+    },
     "Wesaas": {
       "count": 1,
       "job_ids": [
@@ -3909,6 +3994,13 @@
       ],
       "last_seen": "2026-08-06T00:04:03.364954+00:00"
     },
+    "Yoko Co": {
+      "count": 1,
+      "job_ids": [
+        "e74874079e3a"
+      ],
+      "last_seen": "2026-07-24T14:03:46+00:00"
+    },
     "Zahar Baranenko": {
       "count": 1,
       "job_ids": [
@@ -3944,6 +4036,13 @@
         "918ca2d42ed5"
       ],
       "last_seen": "2026-08-06T10:45:03.991691+00:00"
+    },
+    "cFive Solutions": {
+      "count": 1,
+      "job_ids": [
+        "e7eefff7511c"
+      ],
+      "last_seen": "2026-07-23T13:29:27+00:00"
     },
     "ciitÃ©lÃ©com - Alerte des Populations": {
       "count": 1,
@@ -4050,5 +4149,5 @@
       "last_seen": "2026-08-15T08:35:33.628741+00:00"
     }
   },
-  "updated_at": "2026-08-22T06:49:11.885131+00:00"
+  "updated_at": "2026-08-22T07:36:08.012367+00:00"
 }
