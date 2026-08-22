@@ -1,6 +1,38 @@
 {
   "jobs": [
     {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-22T10:28:56.458514+00:00",
+      "id": "943161451120",
+      "location": "Remote",
+      "posted_at": "2026-08-22T10:09:18+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-5gin"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-22T10:28:56.458514+00:00",
+      "id": "34fa0d526583",
+      "location": "Remote",
+      "posted_at": "2026-08-22T09:43:57+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-37e7"
+    },
+    {
       "company": "Cable Bahamas Ltd.",
       "fetched_at": "2026-08-22T09:32:14.378012+00:00",
       "id": "ee8cdfccd67f",
@@ -22145,5 +22177,5 @@
       "url": "https://weworkremotely.com/remote-jobs/ahu-technologies-industrial-painter"
     }
   ],
-  "updated_at": "2026-08-22T09:32:14.378012+00:00"
+  "updated_at": "2026-08-22T10:28:56.458514+00:00"
 }
