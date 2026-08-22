@@ -1,6 +1,86 @@
 {
   "jobs": [
     {
+      "company": "Cotton On Group",
+      "fetched_at": "2026-08-22T02:59:12.232479+00:00",
+      "id": "d86dfdb3f62f",
+      "location": "Parramatta,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "virtual assistant",
+        "customer support",
+        "marketing",
+        "travel",
+        "speech",
+        "finance",
+        "medical",
+        "recruiter",
+        "non tech"
+      ],
+      "title": "Stock Assistant Supre Parramatta",
+      "url": "https://remoteOK.com/remote-jobs/remote-stock-assistant-supre-parramatta-cotton-on-group-1137039"
+    },
+    {
+      "company": "Retail FX",
+      "fetched_at": "2026-08-22T02:59:12.232479+00:00",
+      "id": "b2f1ebf48dc5",
+      "location": "Bunbury,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "virtual assistant",
+        "customer support",
+        "marketing",
+        "travel",
+        "speech",
+        "finance",
+        "medical",
+        "recruiter",
+        "non tech",
+        "exec",
+        "infosec",
+        "education",
+        "ops",
+        "sales",
+        "golang"
+      ],
+      "title": "Store Manager Bunbury",
+      "url": "https://remoteOK.com/remote-jobs/remote-store-manager-bunbury-retail-fx-1137042"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-22T02:59:12.232479+00:00",
+      "id": "1c9e9336b7cc",
+      "location": "Remote",
+      "posted_at": "2026-08-22T02:20:45+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3f9f"
+    },
+    {
+      "company": "qing",
+      "fetched_at": "2026-08-22T02:59:12.232479+00:00",
+      "id": "0a77fb733b0f",
+      "location": "Remote",
+      "posted_at": "2026-08-22T02:00:55+00:00",
+      "source": "devto",
+      "tags": [
+        "jobs",
+        "money",
+        "startup",
+        "webdev"
+      ],
+      "title": "How to Build a Developer Job Board That Earns Money",
+      "url": "https://dev.to/qingluan/how-to-build-a-developer-job-board-that-earns-money-1l90"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-22T01:35:11.272497+00:00",
       "id": "d4357cbcb343",
@@ -21753,5 +21833,5 @@
       "url": "https://weworkremotely.com/remote-jobs/stripe-privacy-operations-program-manager"
     }
   ],
-  "updated_at": "2026-08-22T01:35:11.272497+00:00"
+  "updated_at": "2026-08-22T02:59:12.232479+00:00"
 }
