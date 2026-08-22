@@ -1,6 +1,141 @@
 {
   "jobs": [
     {
+      "company": "Linsco Ltd",
+      "fetched_at": "2026-08-22T15:26:53.854716+00:00",
+      "id": "16a99d26b809",
+      "location": "Dronfield,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "design",
+        "dev",
+        "travel",
+        "finance",
+        "scheme",
+        "microsoft",
+        "exec",
+        "excel",
+        "full time",
+        "digital nomad"
+      ],
+      "title": "Estimator",
+      "url": "https://remoteOK.com/remote-jobs/remote-estimator-linsco-ltd-1137060"
+    },
+    {
+      "company": "Dart",
+      "fetched_at": "2026-08-22T15:26:53.854716+00:00",
+      "id": "c71c2c8d8439",
+      "location": "George Town,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "design",
+        "sys admin",
+        "education",
+        "customer support",
+        "testing",
+        "travel",
+        "node",
+        "microsoft",
+        "exec",
+        "ops",
+        "medical",
+        "engineer",
+        "digital nomad",
+        "c sharp",
+        "technical",
+        "marketing",
+        "quality assurance",
+        "javascript",
+        "c",
+        "css",
+        "html"
+      ],
+      "title": "Project Systems Specialist",
+      "url": "https://remoteOK.com/remote-jobs/remote-project-systems-specialist-dart-1137069"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-22T15:26:53.854716+00:00",
+      "id": "06dbf8344cf7",
+      "location": "Remote",
+      "posted_at": "2026-08-22T15:15:38+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-bkd"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-08-22T15:26:53.854716+00:00",
+      "id": "4cb10b77baae",
+      "location": "Remote",
+      "posted_at": "2026-08-22T15:01:38+00:00",
+      "source": "devto",
+      "tags": [
+        "beginners",
+        "jobs",
+        "career",
+        "programming"
+      ],
+      "title": "Summer 2026 Internships: 8 New Openings This Week (Aug 22)",
+      "url": "https://dev.to/crackr/summer-2026-internships-8-new-openings-this-week-aug-22-59lj"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-08-22T15:26:53.854716+00:00",
+      "id": "9ebbf9b13358",
+      "location": "Remote",
+      "posted_at": "2026-08-22T15:01:34+00:00",
+      "source": "devto",
+      "tags": [
+        "remotework",
+        "jobs",
+        "webdev",
+        "career"
+      ],
+      "title": "Remote SWE Jobs Paying Up to $220k (Aug 22)",
+      "url": "https://dev.to/crackr/remote-swe-jobs-paying-up-to-220k-aug-22-3fj4"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-22T15:26:53.854716+00:00",
+      "id": "017b19601e34",
+      "location": "Remote",
+      "posted_at": "2026-08-22T14:55:38+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-38cj"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-22T15:26:53.854716+00:00",
+      "id": "0c2d23ada0ba",
+      "location": "Remote",
+      "posted_at": "2026-08-22T14:36:07+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-jd5"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-22T14:26:49.502880+00:00",
       "id": "e9ad8f88bfc4",
@@ -22335,5 +22470,5 @@
       "url": "https://weworkremotely.com/remote-jobs/coinbase-senior-software-engineer-data-layer"
     }
   ],
-  "updated_at": "2026-08-22T14:26:49.502880+00:00"
+  "updated_at": "2026-08-22T15:26:53.854716+00:00"
 }
