@@ -1,6 +1,54 @@
 {
   "jobs": [
     {
+      "company": "Department of Justice and Community Safety, Victoria",
+      "fetched_at": "2026-08-22T08:36:14.784317+00:00",
+      "id": "bc88b7beeb34",
+      "location": "Geelong,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "customer support",
+        "exec",
+        "recruiter",
+        "full time"
+      ],
+      "title": "Justice Officer Grounds and Services",
+      "url": "https://remoteOK.com/remote-jobs/remote-justice-officer-grounds-and-services-department-of-justice-and-community-safety-victoria-1137067"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-22T08:36:14.784317+00:00",
+      "id": "4b80568cf77b",
+      "location": "Remote",
+      "posted_at": "2026-08-22T08:13:23+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-p82"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-22T08:36:14.784317+00:00",
+      "id": "3b3ea865dbeb",
+      "location": "Remote",
+      "posted_at": "2026-08-22T07:51:51+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2nbj"
+    },
+    {
       "company": "McNab",
       "fetched_at": "2026-08-22T07:36:08.012367+00:00",
       "id": "16ec32e5d07f",
@@ -22040,5 +22088,5 @@
       "url": "https://weworkremotely.com/remote-jobs/ahu-technologies-industrial-painter"
     }
   ],
-  "updated_at": "2026-08-22T07:36:08.012367+00:00"
+  "updated_at": "2026-08-22T08:36:14.784317+00:00"
 }
