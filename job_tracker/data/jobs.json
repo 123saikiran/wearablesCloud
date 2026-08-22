@@ -1,6 +1,77 @@
 {
   "jobs": [
     {
+      "company": "Smartsheet",
+      "fetched_at": "2026-08-22T22:27:23.989880+00:00",
+      "id": "c9e6ab943d7d",
+      "location": "San JosÃ©, San JosÃ©, San JosÃ©, Costa Rica",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec",
+        "virtual assistant",
+        "education",
+        "customer support",
+        "dev",
+        "ops",
+        "sales",
+        "recruiter",
+        "digital nomad",
+        "saas",
+        "salesforce",
+        "sys admin",
+        "analyst",
+        "cloud",
+        "excel",
+        "golang"
+      ],
+      "title": "Data Steward",
+      "url": "https://remoteOK.com/remote-jobs/remote-data-steward-smartsheet-1137080"
+    },
+    {
+      "company": "Rio Sul Supermercados",
+      "fetched_at": "2026-08-22T22:27:23.989880+00:00",
+      "id": "ab11440e3495",
+      "location": "Rio de Janeiro e RegiÃ£o,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [],
+      "title": "Motorista",
+      "url": "https://remoteOK.com/remote-jobs/remote-motorista-rio-sul-supermercados-1137078"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-22T22:27:23.989880+00:00",
+      "id": "cc337faa30a3",
+      "location": "Remote",
+      "posted_at": "2026-08-22T22:04:32+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3p6d"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-22T22:27:23.989880+00:00",
+      "id": "80ce11262193",
+      "location": "Remote",
+      "posted_at": "2026-08-22T21:42:50+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-47e3"
+    },
+    {
       "company": "Shoppers Drug Mart",
       "fetched_at": "2026-08-22T21:27:03.976758+00:00",
       "id": "b7ec237534b0",
@@ -22727,5 +22798,5 @@
       "url": "https://weworkremotely.com/remote-jobs/coinbase-senior-software-engineer-data-layer"
     }
   ],
-  "updated_at": "2026-08-22T21:27:03.976758+00:00"
+  "updated_at": "2026-08-22T22:27:23.989880+00:00"
 }

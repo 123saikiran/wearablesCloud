@@ -2523,8 +2523,10 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 558,
+      "count": 560,
       "job_ids": [
+        "cc337faa30a3",
+        "80ce11262193",
         "35a382839cfb",
         "cb313603dafb",
         "b311d483e8ae",
@@ -3084,7 +3086,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-22T21:20:10+00:00"
+      "last_seen": "2026-08-22T22:04:32+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -3193,6 +3195,13 @@
         "30f2b50406b2"
       ],
       "last_seen": "2026-08-16T01:43:03.348171+00:00"
+    },
+    "Rio Sul Supermercados": {
+      "count": 1,
+      "job_ids": [
+        "ab11440e3495"
+      ],
+      "last_seen": "2026-08-22T22:27:23.989880+00:00"
     },
     "Robert Half": {
       "count": 1,
@@ -3411,6 +3420,13 @@
         "3c745ab8bcea"
       ],
       "last_seen": "2026-08-09T09:46:00.050168+00:00"
+    },
+    "Smartsheet": {
+      "count": 1,
+      "job_ids": [
+        "c9e6ab943d7d"
+      ],
+      "last_seen": "2026-08-22T22:27:23.989880+00:00"
     },
     "Sophie's Flats Inc.": {
       "count": 1,
@@ -4208,5 +4224,5 @@
       "last_seen": "2026-08-15T08:35:33.628741+00:00"
     }
   },
-  "updated_at": "2026-08-22T21:27:03.976758+00:00"
+  "updated_at": "2026-08-22T22:27:23.989880+00:00"
 }
