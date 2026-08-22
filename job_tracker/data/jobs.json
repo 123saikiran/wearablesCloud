@@ -1,6 +1,68 @@
 {
   "jobs": [
     {
+      "company": "MyAarohan",
+      "fetched_at": "2026-08-22T11:25:33.170462+00:00",
+      "id": "4dab66a2ffad",
+      "location": "QuÃ©bec,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "marketing",
+        "non tech"
+      ],
+      "title": "Uday",
+      "url": "https://remoteOK.com/remote-jobs/remote-uday-myaarohan-1137048"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-22T11:25:33.170462+00:00",
+      "id": "37792521451a",
+      "location": "Remote",
+      "posted_at": "2026-08-22T11:19:48+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1nh1"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-22T11:25:33.170462+00:00",
+      "id": "5fee4a72de0b",
+      "location": "Remote",
+      "posted_at": "2026-08-22T10:57:05+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1eh7"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-22T11:25:33.170462+00:00",
+      "id": "45edcf3b6491",
+      "location": "Remote",
+      "posted_at": "2026-08-22T10:38:03+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-538m"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-22T10:28:56.458514+00:00",
       "id": "943161451120",
@@ -22177,5 +22239,5 @@
       "url": "https://weworkremotely.com/remote-jobs/ahu-technologies-industrial-painter"
     }
   ],
-  "updated_at": "2026-08-22T10:28:56.458514+00:00"
+  "updated_at": "2026-08-22T11:25:33.170462+00:00"
 }
