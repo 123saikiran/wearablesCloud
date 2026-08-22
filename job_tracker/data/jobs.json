@@ -1,6 +1,81 @@
 {
   "jobs": [
     {
+      "company": "Kent Removals &amp; Storage",
+      "fetched_at": "2026-08-22T03:50:37.359388+00:00",
+      "id": "eae2fdd6a2d7",
+      "location": "Albury,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "customer support",
+        "non tech",
+        "education",
+        "golang",
+        "medical",
+        "full time"
+      ],
+      "title": "Removalist Offsider",
+      "url": "https://remoteOK.com/remote-jobs/remote-removalist-offsider-kent-removals-amp-storage-1137059"
+    },
+    {
+      "company": "OTR",
+      "fetched_at": "2026-08-22T03:50:37.359388+00:00",
+      "id": "3d70ac7edb9b",
+      "location": "Alice Springs,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "virtual assistant",
+        "customer support",
+        "marketing",
+        "travel",
+        "speech",
+        "finance",
+        "medical",
+        "recruiter",
+        "non tech",
+        "exec",
+        "infosec",
+        "education",
+        "ops",
+        "sales",
+        "golang"
+      ],
+      "title": "Reddy Express Alice Springs Mt Gillen Customer Service Representative",
+      "url": "https://remoteOK.com/remote-jobs/remote-reddy-express-alice-springs-mt-gillen-customer-service-representative-otr-1137043"
+    },
+    {
+      "company": "UzEats",
+      "fetched_at": "2026-08-22T03:50:37.359388+00:00",
+      "id": "7ccf4ccd73b0",
+      "location": "Reach,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "customer support",
+        "non tech"
+      ],
+      "title": "Open positions",
+      "url": "https://remoteOK.com/remote-jobs/remote-open-positions-uzeats-1137037"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-22T03:50:37.359388+00:00",
+      "id": "28d0532cc472",
+      "location": "Remote",
+      "posted_at": "2026-08-22T03:12:52+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-28c9"
+    },
+    {
       "company": "Cotton On Group",
       "fetched_at": "2026-08-22T02:59:12.232479+00:00",
       "id": "d86dfdb3f62f",
@@ -21833,5 +21908,5 @@
       "url": "https://weworkremotely.com/remote-jobs/stripe-privacy-operations-program-manager"
     }
   ],
-  "updated_at": "2026-08-22T02:59:12.232479+00:00"
+  "updated_at": "2026-08-22T03:50:37.359388+00:00"
 }

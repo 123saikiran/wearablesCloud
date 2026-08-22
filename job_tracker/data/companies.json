@@ -1656,6 +1656,13 @@
       ],
       "last_seen": "2026-08-06T04:17:53.869792+00:00"
     },
+    "Kent Removals &amp; Storage": {
+      "count": 1,
+      "job_ids": [
+        "eae2fdd6a2d7"
+      ],
+      "last_seen": "2026-08-22T03:50:37.359388+00:00"
+    },
     "Kleverio": {
       "count": 1,
       "job_ids": [
@@ -2104,11 +2111,12 @@
       "last_seen": "2026-08-08T07:02:08.776203+00:00"
     },
     "OTR": {
-      "count": 1,
+      "count": 2,
       "job_ids": [
+        "3d70ac7edb9b",
         "2e1a8b8bf3ff"
       ],
-      "last_seen": "2026-08-19T10:34:02.673479+00:00"
+      "last_seen": "2026-08-22T03:50:37.359388+00:00"
     },
     "Ocean Hotels Group BARBADOS": {
       "count": 1,
@@ -2402,8 +2410,9 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 517,
+      "count": 518,
       "job_ids": [
+        "28d0532cc472",
         "1c9e9336b7cc",
         "d4357cbcb343",
         "a8c55d0eb2cb",
@@ -2922,7 +2931,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-22T02:20:45+00:00"
+      "last_seen": "2026-08-22T03:12:52+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -3720,6 +3729,13 @@
       ],
       "last_seen": "2026-08-12T06:18:42.957642+00:00"
     },
+    "UzEats": {
+      "count": 1,
+      "job_ids": [
+        "7ccf4ccd73b0"
+      ],
+      "last_seen": "2026-08-22T03:50:37.359388+00:00"
+    },
     "Valley Bank Women in Business": {
       "count": 1,
       "job_ids": [
@@ -4029,5 +4045,5 @@
       "last_seen": "2026-08-15T08:35:33.628741+00:00"
     }
   },
-  "updated_at": "2026-08-22T02:59:12.232479+00:00"
+  "updated_at": "2026-08-22T03:50:37.359388+00:00"
 }
