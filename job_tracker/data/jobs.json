@@ -1,6 +1,71 @@
 {
   "jobs": [
     {
+      "company": "Shoppers Drug Mart",
+      "fetched_at": "2026-08-22T21:27:03.976758+00:00",
+      "id": "b7ec237534b0",
+      "location": "Kitchener,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec",
+        "customer support",
+        "dev",
+        "medical",
+        "digital nomad"
+      ],
+      "title": "Post Office Manager",
+      "url": "https://remoteOK.com/remote-jobs/remote-post-office-manager-shoppers-drug-mart-1137063"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-22T21:27:03.976758+00:00",
+      "id": "35a382839cfb",
+      "location": "Remote",
+      "posted_at": "2026-08-22T21:20:10+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-5226"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-22T21:27:03.976758+00:00",
+      "id": "cb313603dafb",
+      "location": "Remote",
+      "posted_at": "2026-08-22T20:57:01+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2453"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-22T21:27:03.976758+00:00",
+      "id": "b311d483e8ae",
+      "location": "Remote",
+      "posted_at": "2026-08-22T20:37:40+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-8kf"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-22T20:28:55.931674+00:00",
       "id": "1bc7856704f3",
@@ -22662,5 +22727,5 @@
       "url": "https://weworkremotely.com/remote-jobs/coinbase-senior-software-engineer-data-layer"
     }
   ],
-  "updated_at": "2026-08-22T20:28:55.931674+00:00"
+  "updated_at": "2026-08-22T21:27:03.976758+00:00"
 }
