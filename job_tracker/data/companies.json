@@ -7,13 +7,6 @@
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
-    "AHU Technologies": {
-      "count": 1,
-      "job_ids": [
-        "aea1d510dd75"
-      ],
-      "last_seen": "2026-07-23T13:29:27+00:00"
-    },
     "AI Supermarket": {
       "count": 8,
       "job_ids": [
@@ -264,6 +257,13 @@
       ],
       "last_seen": "2026-08-06T10:45:03.991691+00:00"
     },
+    "Azumo": {
+      "count": 1,
+      "job_ids": [
+        "907156b24be7"
+      ],
+      "last_seen": "2026-08-04T22:12:17+00:00"
+    },
     "BAE Systems Australia": {
       "count": 1,
       "job_ids": [
@@ -452,13 +452,6 @@
         "949204ed7fb2"
       ],
       "last_seen": "2026-08-20T06:54:34.138504+00:00"
-    },
-    "Business Web Solutions": {
-      "count": 1,
-      "job_ids": [
-        "fc74ca128355"
-      ],
-      "last_seen": "2026-07-23T13:29:27+00:00"
     },
     "Bybit": {
       "count": 1,
@@ -719,6 +712,14 @@
         "b2620f4e59ff"
       ],
       "last_seen": "2026-08-06T00:04:03.364954+00:00"
+    },
+    "ClickHouse": {
+      "count": 2,
+      "job_ids": [
+        "843df3c5e5bb",
+        "0a3b29fde5f1"
+      ],
+      "last_seen": "2026-08-01T07:30:47+00:00"
     },
     "Cllimber": {
       "count": 2,
@@ -1045,6 +1046,14 @@
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
+    "Doximity": {
+      "count": 2,
+      "job_ids": [
+        "7a3c64b4f85e",
+        "dc57b998d6c3"
+      ],
+      "last_seen": "2026-08-02T07:31:05+00:00"
+    },
     "Dreem Health": {
       "count": 1,
       "job_ids": [
@@ -1156,6 +1165,13 @@
         "972ee94fda83"
       ],
       "last_seen": "2026-08-06T10:45:03.991691+00:00"
+    },
+    "Faire": {
+      "count": 1,
+      "job_ids": [
+        "af6f11706e4c"
+      ],
+      "last_seen": "2026-08-03T07:30:43+00:00"
     },
     "Fairmont Hotels &amp; Resorts": {
       "count": 1,
@@ -1636,13 +1652,6 @@
         "fa3d3c457fe2"
       ],
       "last_seen": "2026-07-24T07:01:22+00:00"
-    },
-    "Jobgether": {
-      "count": 1,
-      "job_ids": [
-        "1b33e0a1fda5"
-      ],
-      "last_seen": "2026-07-23T13:29:40+00:00"
     },
     "Jobot": {
       "count": 1,
@@ -2498,8 +2507,9 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 537,
+      "count": 538,
       "job_ids": [
+        "681eb6651e73",
         "cb0f5fc931e6",
         "1b6e79a84855",
         "18bf1321e024",
@@ -3038,14 +3048,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-22T12:40:02+00:00"
-    },
-    "REDspace": {
-      "count": 1,
-      "job_ids": [
-        "19b65f3fbe41"
-      ],
-      "last_seen": "2026-07-23T13:29:27+00:00"
+      "last_seen": "2026-08-22T13:24:16+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -3923,13 +3926,6 @@
       ],
       "last_seen": "2026-08-08T20:36:40.655468+00:00"
     },
-    "WeVote": {
-      "count": 1,
-      "job_ids": [
-        "57bc885e078c"
-      ],
-      "last_seen": "2026-07-23T13:29:40+00:00"
-    },
     "Wesaas": {
       "count": 1,
       "job_ids": [
@@ -4070,13 +4066,6 @@
       ],
       "last_seen": "2026-08-06T10:45:03.991691+00:00"
     },
-    "cFive Solutions": {
-      "count": 1,
-      "job_ids": [
-        "e7eefff7511c"
-      ],
-      "last_seen": "2026-07-23T13:29:27+00:00"
-    },
     "ciitÃ©lÃ©com - Alerte des Populations": {
       "count": 1,
       "job_ids": [
@@ -4182,5 +4171,5 @@
       "last_seen": "2026-08-15T08:35:33.628741+00:00"
     }
   },
-  "updated_at": "2026-08-22T12:49:59.589912+00:00"
+  "updated_at": "2026-08-22T13:35:50.225641+00:00"
 }
