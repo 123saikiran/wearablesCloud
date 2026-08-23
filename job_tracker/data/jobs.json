@@ -1,6 +1,136 @@
 {
   "jobs": [
     {
+      "company": "InPost Group",
+      "fetched_at": "2026-08-23T01:45:02.038858+00:00",
+      "id": "667e24a34578",
+      "location": "Indore,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [],
+      "title": "Parcel Delivery Drivers",
+      "url": "https://remoteOK.com/remote-jobs/remote-parcel-delivery-drivers-inpost-group-1137066"
+    },
+    {
+      "company": "Kruger NearShore LLC - Rekluti",
+      "fetched_at": "2026-08-23T01:45:02.038858+00:00",
+      "id": "e74fef823751",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "full stack",
+        "front end",
+        "python",
+        "dev",
+        "testing",
+        "web dev",
+        "quality assurance",
+        "devops",
+        "c",
+        "cloud",
+        "nosql",
+        "git",
+        "flutter",
+        "angular",
+        "mobile",
+        "golang",
+        "backend",
+        "digital nomad"
+      ],
+      "title": "DESARROLLADOR FULL STACK",
+      "url": "https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062"
+    },
+    {
+      "company": "RainFocus",
+      "fetched_at": "2026-08-23T01:45:02.038858+00:00",
+      "id": "cbf056ed26a5",
+      "location": "Orem, UT",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "analyst",
+        "design",
+        "saas",
+        "infosec",
+        "education",
+        "technical",
+        "dev",
+        "cloud",
+        "exec",
+        "senior",
+        "ops",
+        "marketing",
+        "engineer",
+        "digital nomad"
+      ],
+      "title": "Senior Governance Risk and Compliance Analyst",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-governance-risk-and-compliance-analyst-rainfocus-1137061"
+    },
+    {
+      "company": "East Coast Concepts",
+      "fetched_at": "2026-08-23T01:45:02.038858+00:00",
+      "id": "11fd1f667365",
+      "location": "Newcastle Upon Tyne,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "finance",
+        "medical",
+        "non tech"
+      ],
+      "title": "CDP",
+      "url": "https://remoteOK.com/remote-jobs/remote-cdp-east-coast-concepts-1137065"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-23T01:45:02.038858+00:00",
+      "id": "816bdc8e84df",
+      "location": "Remote",
+      "posted_at": "2026-08-23T01:17:50+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4p27"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-23T01:45:02.038858+00:00",
+      "id": "982344e8686b",
+      "location": "Remote",
+      "posted_at": "2026-08-22T23:57:17+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-23bm"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-23T01:45:02.038858+00:00",
+      "id": "9d132f642dce",
+      "location": "Remote",
+      "posted_at": "2026-08-22T23:41:37+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-32m2"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-22T23:26:05.923602+00:00",
       "id": "593a7fa439fd",
@@ -22846,5 +22976,5 @@
       "url": "https://weworkremotely.com/remote-jobs/coinbase-senior-software-engineer-data-layer"
     }
   ],
-  "updated_at": "2026-08-22T23:26:05.923602+00:00"
+  "updated_at": "2026-08-23T01:45:02.038858+00:00"
 }
