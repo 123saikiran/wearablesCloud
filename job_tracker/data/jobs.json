@@ -1,6 +1,70 @@
 {
   "jobs": [
     {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-23T12:50:48.873919+00:00",
+      "id": "459716503c45",
+      "location": "Remote",
+      "posted_at": "2026-08-23T12:40:35+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-498b"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-23T12:50:48.873919+00:00",
+      "id": "c900869a6a9d",
+      "location": "Remote",
+      "posted_at": "2026-08-23T11:57:48+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-m3"
+    },
+    {
+      "company": "Shamyl Bin Mansoor",
+      "fetched_at": "2026-08-23T12:50:48.873919+00:00",
+      "id": "71effc2997c0",
+      "location": "Remote",
+      "posted_at": "2026-08-23T11:48:12+00:00",
+      "source": "devto",
+      "tags": [
+        "opensource",
+        "go",
+        "jobs",
+        "architecture"
+      ],
+      "title": "freehire: An Open-Source Job Search Engine That Crawls Directly From Company Career Pages",
+      "url": "https://dev.to/shamylbm/freehire-an-open-source-job-search-engine-that-crawls-directly-from-company-career-pages-4eah"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-23T12:50:48.873919+00:00",
+      "id": "53da500bd4cc",
+      "location": "Remote",
+      "posted_at": "2026-08-23T11:42:08+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-21d7"
+    },
+    {
       "company": "Newfoundland Chocolate Company",
       "fetched_at": "2026-08-23T11:26:00.668699+00:00",
       "id": "ceb36810e331",
@@ -23269,5 +23333,5 @@
       "url": "https://weworkremotely.com/remote-jobs/yoko-co-front-end-wordpress-developer"
     }
   ],
-  "updated_at": "2026-08-23T11:26:00.668699+00:00"
+  "updated_at": "2026-08-23T12:50:48.873919+00:00"
 }
