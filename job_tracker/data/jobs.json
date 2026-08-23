@@ -1,6 +1,106 @@
 {
   "jobs": [
     {
+      "company": "Platypus Shoes",
+      "fetched_at": "2026-08-23T15:27:56.114546+00:00",
+      "id": "0441b06eff1c",
+      "location": "Hillcrest,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec",
+        "education",
+        "customer support",
+        "marketing",
+        "virtual assistant",
+        "ops",
+        "sales",
+        "medical"
+      ],
+      "title": "Platypus Store Manager Grand Plaza",
+      "url": "https://remoteOK.com/remote-jobs/remote-platypus-store-manager-grand-plaza-platypus-shoes-1137085"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-23T15:27:56.114546+00:00",
+      "id": "de0b30e60d66",
+      "location": "Remote",
+      "posted_at": "2026-08-23T15:23:09+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-382m"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-08-23T15:27:56.114546+00:00",
+      "id": "40f3e561f237",
+      "location": "Remote",
+      "posted_at": "2026-08-23T15:00:42+00:00",
+      "source": "devto",
+      "tags": [
+        "beginners",
+        "jobs",
+        "career",
+        "programming"
+      ],
+      "title": "These Companies Want Interns This Summer (Aug 23)",
+      "url": "https://dev.to/crackr/these-companies-want-interns-this-summer-aug-23-eoj"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-08-23T15:27:56.114546+00:00",
+      "id": "9e95aeca9d22",
+      "location": "Remote",
+      "posted_at": "2026-08-23T15:00:39+00:00",
+      "source": "devto",
+      "tags": [
+        "remotework",
+        "jobs",
+        "webdev",
+        "career"
+      ],
+      "title": "8 Remote SWE Jobs You Can Apply to From Anywhere (Aug 23)",
+      "url": "https://dev.to/crackr/8-remote-swe-jobs-you-can-apply-to-from-anywhere-aug-23-39ma"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-23T15:27:56.114546+00:00",
+      "id": "2b9aaab94fb2",
+      "location": "Remote",
+      "posted_at": "2026-08-23T14:57:43+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-56ok"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-23T15:27:56.114546+00:00",
+      "id": "b31eef8ea28d",
+      "location": "Remote",
+      "posted_at": "2026-08-23T14:37:38+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1oc0"
+    },
+    {
       "company": "Saasuji",
       "fetched_at": "2026-08-23T14:28:54.249601+00:00",
       "id": "fcaebbecd493",
@@ -23398,5 +23498,5 @@
       "url": "https://weworkremotely.com/remote-jobs/onthegosystems-ai-native-software-developer"
     }
   ],
-  "updated_at": "2026-08-23T14:28:54.249601+00:00"
+  "updated_at": "2026-08-23T15:27:56.114546+00:00"
 }
