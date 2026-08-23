@@ -2,6 +2,38 @@
   "jobs": [
     {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-23T04:42:45.530238+00:00",
+      "id": "83f38930fa92",
+      "location": "Remote",
+      "posted_at": "2026-08-23T04:20:37+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-od3"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-23T04:42:45.530238+00:00",
+      "id": "bf101ee9c046",
+      "location": "Remote",
+      "posted_at": "2026-08-23T03:35:20+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-heb"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-23T03:07:57.083570+00:00",
       "id": "9e56e3567494",
       "location": "Remote",
@@ -22992,5 +23024,5 @@
       "url": "https://weworkremotely.com/remote-jobs/coinbase-senior-software-engineer-data-layer"
     }
   ],
-  "updated_at": "2026-08-23T03:07:57.083570+00:00"
+  "updated_at": "2026-08-23T04:42:45.530238+00:00"
 }
