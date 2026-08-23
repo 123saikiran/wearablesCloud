@@ -2,6 +2,54 @@
   "jobs": [
     {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-23T22:28:02.679841+00:00",
+      "id": "a2606aaa78fe",
+      "location": "Remote",
+      "posted_at": "2026-08-23T22:20:56+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4m6d"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-23T22:28:02.679841+00:00",
+      "id": "c7e43f7ed103",
+      "location": "Remote",
+      "posted_at": "2026-08-23T21:57:12+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-jlk"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-23T22:28:02.679841+00:00",
+      "id": "3870b3821815",
+      "location": "Remote",
+      "posted_at": "2026-08-23T21:41:58+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3d6c"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-23T21:27:04.223505+00:00",
       "id": "8b0eb9255774",
       "location": "Remote",
@@ -23783,5 +23831,5 @@
       "url": "https://weworkremotely.com/remote-jobs/onthegosystems-ai-native-software-developer"
     }
   ],
-  "updated_at": "2026-08-23T21:27:04.223505+00:00"
+  "updated_at": "2026-08-23T22:28:02.679841+00:00"
 }
