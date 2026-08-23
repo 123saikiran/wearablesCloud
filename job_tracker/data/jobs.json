@@ -2,6 +2,38 @@
   "jobs": [
     {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-23T08:36:56.859667+00:00",
+      "id": "76cfb86ed408",
+      "location": "Remote",
+      "posted_at": "2026-08-23T08:18:48+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-k3f"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-23T08:36:56.859667+00:00",
+      "id": "0b9403e6042b",
+      "location": "Remote",
+      "posted_at": "2026-08-23T07:53:57+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1ggk"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-23T07:38:10.571114+00:00",
       "id": "16591098a0ca",
       "location": "Remote",
@@ -23078,5 +23110,5 @@
       "url": "https://weworkremotely.com/remote-jobs/yoko-co-front-end-wordpress-developer"
     }
   ],
-  "updated_at": "2026-08-23T07:38:10.571114+00:00"
+  "updated_at": "2026-08-23T08:36:56.859667+00:00"
 }
