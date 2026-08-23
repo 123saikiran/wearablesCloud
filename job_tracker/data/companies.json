@@ -2151,6 +2151,13 @@
       ],
       "last_seen": "2026-08-07T11:52:08.369963+00:00"
     },
+    "Newfoundland Chocolate Company": {
+      "count": 1,
+      "job_ids": [
+        "ceb36810e331"
+      ],
+      "last_seen": "2026-08-23T11:26:00.668699+00:00"
+    },
     "Nexerada": {
       "count": 1,
       "job_ids": [
@@ -2531,8 +2538,11 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 580,
+      "count": 583,
       "job_ids": [
+        "d609e556bc47",
+        "a5aafa258547",
+        "122c75103143",
         "ddfbdc17a1d5",
         "45e475eb8c09",
         "0dfbca662881",
@@ -3114,7 +3124,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-23T10:09:58+00:00"
+      "last_seen": "2026-08-23T11:19:42+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -4272,5 +4282,5 @@
       "last_seen": "2026-08-15T08:35:33.628741+00:00"
     }
   },
-  "updated_at": "2026-08-23T10:29:39.964442+00:00"
+  "updated_at": "2026-08-23T11:26:00.668699+00:00"
 }
