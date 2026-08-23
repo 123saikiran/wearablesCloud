@@ -2,6 +2,38 @@
   "jobs": [
     {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-23T05:34:03.265101+00:00",
+      "id": "8ef31a552aec",
+      "location": "Remote",
+      "posted_at": "2026-08-23T05:32:28+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3iej"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-23T05:34:03.265101+00:00",
+      "id": "38d9216c5b81",
+      "location": "Remote",
+      "posted_at": "2026-08-23T04:58:43+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2obn"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-23T04:42:45.530238+00:00",
       "id": "83f38930fa92",
       "location": "Remote",
@@ -22674,6 +22706,32 @@
       "url": "https://weworkremotely.com/remote-jobs/azumo-data-engineer-databricks-aws-gaming-liveops-latin-america"
     },
     {
+      "company": "Azumo",
+      "fetched_at": "2026-08-23T05:34:03.265101+00:00",
+      "id": "e80b3bd29f2e",
+      "location": "Remote",
+      "posted_at": "2026-08-04T22:12:17+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Full-Stack Programming"
+      ],
+      "title": "Java Engineer - Latin America",
+      "url": "https://weworkremotely.com/remote-jobs/azumo-java-engineer-latin-america"
+    },
+    {
+      "company": "LMG Staffing Solutions",
+      "fetched_at": "2026-08-23T05:34:03.265101+00:00",
+      "id": "72e15ca2729e",
+      "location": "Remote",
+      "posted_at": "2026-08-04T22:12:17+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Full-Stack Programming"
+      ],
+      "title": "AI-Assisted Software Engineer, Web Applications",
+      "url": "https://weworkremotely.com/remote-jobs/lmg-staffing-solutions-ai-assisted-software-engineer-web-applications"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-05T14:21:54.411152+00:00",
       "id": "fe0ba051e52e",
@@ -22996,33 +23054,7 @@
       ],
       "title": "Senior Software Engineer, Fraud",
       "url": "https://weworkremotely.com/remote-jobs/twilio-senior-software-engineer-fraud"
-    },
-    {
-      "company": "Reddit",
-      "fetched_at": "2026-08-22T07:36:08.012367+00:00",
-      "id": "37a8e040e38d",
-      "location": "Remote",
-      "posted_at": "2026-07-24T05:21:03+00:00",
-      "source": "weworkremotely",
-      "tags": [
-        "Full-Stack Programming"
-      ],
-      "title": "Ads Conversion Modeling, Machine Learning Engineering Manager",
-      "url": "https://weworkremotely.com/remote-jobs/reddit-ads-conversion-modeling-machine-learning-engineering-manager"
-    },
-    {
-      "company": "Coinbase",
-      "fetched_at": "2026-08-22T07:36:08.012367+00:00",
-      "id": "4ae4958677cf",
-      "location": "Remote",
-      "posted_at": "2026-07-24T05:20:50+00:00",
-      "source": "weworkremotely",
-      "tags": [
-        "Back-End Programming"
-      ],
-      "title": "Senior Software Engineer, Data Layer",
-      "url": "https://weworkremotely.com/remote-jobs/coinbase-senior-software-engineer-data-layer"
     }
   ],
-  "updated_at": "2026-08-23T04:42:45.530238+00:00"
+  "updated_at": "2026-08-23T05:34:03.265101+00:00"
 }
