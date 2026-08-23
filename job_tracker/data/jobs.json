@@ -2,6 +2,22 @@
   "jobs": [
     {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-23T06:50:32.045957+00:00",
+      "id": "fa6f408f26e3",
+      "location": "Remote",
+      "posted_at": "2026-08-23T05:59:38+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4fpn"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-23T05:34:03.265101+00:00",
       "id": "8ef31a552aec",
       "location": "Remote",
@@ -23056,5 +23072,5 @@
       "url": "https://weworkremotely.com/remote-jobs/twilio-senior-software-engineer-fraud"
     }
   ],
-  "updated_at": "2026-08-23T05:34:03.265101+00:00"
+  "updated_at": "2026-08-23T06:50:32.045957+00:00"
 }
