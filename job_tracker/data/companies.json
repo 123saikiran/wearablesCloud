@@ -2290,6 +2290,13 @@
       ],
       "last_seen": "2026-08-06T07:43:52.639381+00:00"
     },
+    "Orca Bio": {
+      "count": 1,
+      "job_ids": [
+        "1701cf6919ff"
+      ],
+      "last_seen": "2026-08-23T16:32:07.967758+00:00"
+    },
     "Order From Chaos, Today!": {
       "count": 1,
       "job_ids": [
@@ -2548,8 +2555,10 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 592,
+      "count": 594,
       "job_ids": [
+        "58917dd569c7",
+        "b3732fadc7d4",
         "de0b30e60d66",
         "2b9aaab94fb2",
         "b31eef8ea28d",
@@ -3143,7 +3152,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-23T15:23:09+00:00"
+      "last_seen": "2026-08-23T16:08:32+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -3273,6 +3282,13 @@
         "78d1c0377457"
       ],
       "last_seen": "2026-08-14T13:18:25.150781+00:00"
+    },
+    "Rowan": {
+      "count": 1,
+      "job_ids": [
+        "d3d49e5b6de8"
+      ],
+      "last_seen": "2026-08-23T16:32:07.967758+00:00"
     },
     "Royal Caribbean International": {
       "count": 1,
@@ -4308,5 +4324,5 @@
       "last_seen": "2026-08-15T08:35:33.628741+00:00"
     }
   },
-  "updated_at": "2026-08-23T15:27:56.114546+00:00"
+  "updated_at": "2026-08-23T16:32:07.967758+00:00"
 }

@@ -1,6 +1,83 @@
 {
   "jobs": [
     {
+      "company": "Rowan",
+      "fetched_at": "2026-08-23T16:32:07.967758+00:00",
+      "id": "d3d49e5b6de8",
+      "location": "Chicago, IL",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "customer support",
+        "dev",
+        "exec",
+        "math",
+        "node",
+        "ops",
+        "sales",
+        "medical",
+        "digital nomad"
+      ],
+      "title": "Retail Store Associate",
+      "url": "https://remoteOK.com/remote-jobs/remote-retail-store-associate-rowan-1137073"
+    },
+    {
+      "company": "Orca Bio",
+      "fetched_at": "2026-08-23T16:32:07.967758+00:00",
+      "id": "1701cf6919ff",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "hr",
+        "sys admin",
+        "customer support",
+        "marketing",
+        "education",
+        "exec",
+        "senior",
+        "medical",
+        "engineer",
+        "recruiter",
+        "full time"
+      ],
+      "title": "Senior Specialist Global QMS",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-specialist-global-qms-orca-bio-1137072"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-23T16:32:07.967758+00:00",
+      "id": "58917dd569c7",
+      "location": "Remote",
+      "posted_at": "2026-08-23T16:08:32+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3dcm"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-23T16:32:07.967758+00:00",
+      "id": "b3732fadc7d4",
+      "location": "Remote",
+      "posted_at": "2026-08-23T15:43:51+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3ln"
+    },
+    {
       "company": "Platypus Shoes",
       "fetched_at": "2026-08-23T15:27:56.114546+00:00",
       "id": "0441b06eff1c",
@@ -23498,5 +23575,5 @@
       "url": "https://weworkremotely.com/remote-jobs/onthegosystems-ai-native-software-developer"
     }
   ],
-  "updated_at": "2026-08-23T15:27:56.114546+00:00"
+  "updated_at": "2026-08-23T16:32:07.967758+00:00"
 }
