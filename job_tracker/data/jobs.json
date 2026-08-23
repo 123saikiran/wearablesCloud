@@ -1,6 +1,70 @@
 {
   "jobs": [
     {
+      "company": "Lupin Ltd",
+      "fetched_at": "2026-08-23T10:29:39.964442+00:00",
+      "id": "f8b9d83082b6",
+      "location": "Greater Nagpur Area,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "non tech"
+      ],
+      "title": "Officer",
+      "url": "https://remoteOK.com/remote-jobs/remote-officer-lupin-ltd-1137074"
+    },
+    {
+      "company": "Tesco",
+      "fetched_at": "2026-08-23T10:29:39.964442+00:00",
+      "id": "6f3153c75a61",
+      "location": "Newry,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec",
+        "customer support",
+        "testing",
+        "finance",
+        "sales",
+        "recruiter"
+      ],
+      "title": "Team Manager Newry Extra",
+      "url": "https://remoteOK.com/remote-jobs/remote-team-manager-newry-extra-tesco-1137077"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-23T10:29:39.964442+00:00",
+      "id": "ddfbdc17a1d5",
+      "location": "Remote",
+      "posted_at": "2026-08-23T10:09:58+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4dec"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-23T10:29:39.964442+00:00",
+      "id": "45e475eb8c09",
+      "location": "Remote",
+      "posted_at": "2026-08-23T09:49:20+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-193j"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-23T09:32:47.484260+00:00",
       "id": "0dfbca662881",
@@ -23142,5 +23206,5 @@
       "url": "https://weworkremotely.com/remote-jobs/yoko-co-front-end-wordpress-developer"
     }
   ],
-  "updated_at": "2026-08-23T09:32:47.484260+00:00"
+  "updated_at": "2026-08-23T10:29:39.964442+00:00"
 }
