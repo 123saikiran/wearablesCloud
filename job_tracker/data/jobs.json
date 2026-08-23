@@ -1,6 +1,55 @@
 {
   "jobs": [
     {
+      "company": "Saasuji",
+      "fetched_at": "2026-08-23T14:28:54.249601+00:00",
+      "id": "fcaebbecd493",
+      "location": "Ahmedabad,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "non tech",
+        "design",
+        "marketing",
+        "digital nomad"
+      ],
+      "title": "Across all departments",
+      "url": "https://remoteOK.com/remote-jobs/remote-across-all-departments-saasuji-1137075"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-23T14:28:54.249601+00:00",
+      "id": "a9edea487c6e",
+      "location": "Remote",
+      "posted_at": "2026-08-23T14:10:28+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-39ff"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-23T14:28:54.249601+00:00",
+      "id": "75785b267691",
+      "location": "Remote",
+      "posted_at": "2026-08-23T13:51:17+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4pp7"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-23T13:35:50.109777+00:00",
       "id": "82cc89e752e4",
@@ -16502,6 +16551,32 @@
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-224o"
     },
     {
+      "company": "Lattice",
+      "fetched_at": "2026-08-23T14:28:54.249601+00:00",
+      "id": "ddd229674d75",
+      "location": "Remote",
+      "posted_at": "2026-08-08T07:30:54+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Full-Stack Programming"
+      ],
+      "title": "Engineering Manager, AI",
+      "url": "https://weworkremotely.com/remote-jobs/lattice-engineering-manager-ai-1"
+    },
+    {
+      "company": "Lattice",
+      "fetched_at": "2026-08-23T14:28:54.249601+00:00",
+      "id": "ba341935a89a",
+      "location": "Remote",
+      "posted_at": "2026-08-08T07:30:46+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Full-Stack Programming"
+      ],
+      "title": "Engineering Manager, AI",
+      "url": "https://weworkremotely.com/remote-jobs/lattice-engineering-manager-ai"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-08T08:49:43.834584+00:00",
       "id": "16ae93a67aca",
@@ -23321,33 +23396,7 @@
       ],
       "title": "AI-Native Software Developer",
       "url": "https://weworkremotely.com/remote-jobs/onthegosystems-ai-native-software-developer"
-    },
-    {
-      "company": "Lemon.io",
-      "fetched_at": "2026-08-22T07:36:08.012367+00:00",
-      "id": "17c1ffcf4b49",
-      "location": "Remote",
-      "posted_at": "2026-07-24T14:27:38+00:00",
-      "source": "weworkremotely",
-      "tags": [
-        "Full-Stack Programming"
-      ],
-      "title": "Senior Vue Developer",
-      "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-vue-developer"
-    },
-    {
-      "company": "Yoko Co",
-      "fetched_at": "2026-08-22T07:36:08.012367+00:00",
-      "id": "e74874079e3a",
-      "location": "Remote",
-      "posted_at": "2026-07-24T14:03:46+00:00",
-      "source": "weworkremotely",
-      "tags": [
-        "Front-End Programming"
-      ],
-      "title": "Front-End WordPress Developer",
-      "url": "https://weworkremotely.com/remote-jobs/yoko-co-front-end-wordpress-developer"
     }
   ],
-  "updated_at": "2026-08-23T13:35:50.109777+00:00"
+  "updated_at": "2026-08-23T14:28:54.249601+00:00"
 }

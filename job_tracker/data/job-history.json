@@ -1,6 +1,32 @@
 {
-  "archived_before": "2026-08-23T13:35:50.109777+00:00",
+  "archived_before": "2026-08-23T14:28:54.249601+00:00",
   "jobs": [
+    {
+      "company": "Lemon.io",
+      "fetched_at": "2026-08-22T07:36:08.012367+00:00",
+      "id": "17c1ffcf4b49",
+      "location": "Remote",
+      "posted_at": "2026-07-24T14:27:38+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Full-Stack Programming"
+      ],
+      "title": "Senior Vue Developer",
+      "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-vue-developer"
+    },
+    {
+      "company": "Yoko Co",
+      "fetched_at": "2026-08-22T07:36:08.012367+00:00",
+      "id": "e74874079e3a",
+      "location": "Remote",
+      "posted_at": "2026-07-24T14:03:46+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Front-End Programming"
+      ],
+      "title": "Front-End WordPress Developer",
+      "url": "https://weworkremotely.com/remote-jobs/yoko-co-front-end-wordpress-developer"
+    },
     {
       "company": "JetBrains",
       "fetched_at": "2026-08-22T07:36:08.012367+00:00",
@@ -1147,7 +1173,7 @@
     },
     {
       "company": "Reveleer",
-      "fetched_at": "2026-08-23T13:35:50.109777+00:00",
+      "fetched_at": "2026-08-23T14:28:54.249601+00:00",
       "id": "b5b8317ed2f0",
       "location": "Remote",
       "posted_at": "2026-04-02T20:46:00+00:00",
@@ -1173,7 +1199,7 @@
     },
     {
       "company": "A.Team",
-      "fetched_at": "2026-08-23T13:35:50.109777+00:00",
+      "fetched_at": "2026-08-23T14:28:54.249601+00:00",
       "id": "b243a1e43315",
       "location": "Remote",
       "posted_at": "2024-06-16T18:08:52+00:00",
@@ -1186,7 +1212,7 @@
     },
     {
       "company": "A.Team",
-      "fetched_at": "2026-08-23T13:35:50.109777+00:00",
+      "fetched_at": "2026-08-23T14:28:54.249601+00:00",
       "id": "d32c3de17ad1",
       "location": "Remote",
       "posted_at": "2024-06-16T17:30:51+00:00",
@@ -1199,7 +1225,7 @@
     },
     {
       "company": "Storetasker",
-      "fetched_at": "2026-08-23T13:35:50.109777+00:00",
+      "fetched_at": "2026-08-23T14:28:54.249601+00:00",
       "id": "dcf49a65be4d",
       "location": "Remote",
       "posted_at": "2024-05-13T03:14:30+00:00",
