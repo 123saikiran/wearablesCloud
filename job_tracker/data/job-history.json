@@ -1,6 +1,123 @@
 {
-  "archived_before": "2026-08-23T06:50:32.045957+00:00",
+  "archived_before": "2026-08-23T07:38:10.571114+00:00",
   "jobs": [
+    {
+      "company": "JetBrains",
+      "fetched_at": "2026-08-22T07:36:08.012367+00:00",
+      "id": "fa3d3c457fe2",
+      "location": "Remote",
+      "posted_at": "2026-07-24T07:01:22+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Back-End Programming"
+      ],
+      "title": "Backend Customer Success Engineer (Kotlin Ecosystem)",
+      "url": "https://weworkremotely.com/remote-jobs/jetbrains-backend-customer-success-engineer-kotlin-ecosystem"
+    },
+    {
+      "company": "LaunchDarkly",
+      "fetched_at": "2026-08-22T07:36:08.012367+00:00",
+      "id": "f8976dc0b0fb",
+      "location": "Remote",
+      "posted_at": "2026-07-24T07:01:12+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Back-End Programming"
+      ],
+      "title": "Backend Engineer, Flag Delivery",
+      "url": "https://weworkremotely.com/remote-jobs/launchdarkly-backend-engineer-flag-delivery"
+    },
+    {
+      "company": "Hightouch",
+      "fetched_at": "2026-08-22T07:36:08.012367+00:00",
+      "id": "360bd664ddb8",
+      "location": "Remote",
+      "posted_at": "2026-07-24T07:01:12+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Full-Stack Programming"
+      ],
+      "title": "AI Strategy Consultant",
+      "url": "https://weworkremotely.com/remote-jobs/hightouch-ai-strategy-consultant"
+    },
+    {
+      "company": "Coinbase",
+      "fetched_at": "2026-08-22T07:36:08.012367+00:00",
+      "id": "ad8819b3b5a4",
+      "location": "Remote",
+      "posted_at": "2026-07-24T07:01:02+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Back-End Programming"
+      ],
+      "title": "Senior Staff Software Engineer, Legal Automation",
+      "url": "https://weworkremotely.com/remote-jobs/coinbase-senior-staff-software-engineer-legal-automation"
+    },
+    {
+      "company": "GitLab",
+      "fetched_at": "2026-08-22T07:36:08.012367+00:00",
+      "id": "9af61cc4cb61",
+      "location": "Remote",
+      "posted_at": "2026-07-24T07:01:02+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Full-Stack Programming"
+      ],
+      "title": "AI Transformation Owner, CRO",
+      "url": "https://weworkremotely.com/remote-jobs/gitlab-ai-transformation-owner-cro"
+    },
+    {
+      "company": "Coinbase",
+      "fetched_at": "2026-08-22T07:36:08.012367+00:00",
+      "id": "7fa72d5a6010",
+      "location": "Remote",
+      "posted_at": "2026-07-24T07:00:51+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Back-End Programming"
+      ],
+      "title": "Senior Staff Software Engineer, Finance Automation",
+      "url": "https://weworkremotely.com/remote-jobs/coinbase-senior-staff-software-engineer-finance-automation"
+    },
+    {
+      "company": "Twilio",
+      "fetched_at": "2026-08-22T07:36:08.012367+00:00",
+      "id": "d6da729576e9",
+      "location": "Remote",
+      "posted_at": "2026-07-24T07:00:51+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Full-Stack Programming"
+      ],
+      "title": "Senior Software Engineer, Identity",
+      "url": "https://weworkremotely.com/remote-jobs/twilio-senior-software-engineer-identity"
+    },
+    {
+      "company": "GitLab",
+      "fetched_at": "2026-08-22T07:36:08.012367+00:00",
+      "id": "dce42265381a",
+      "location": "Remote",
+      "posted_at": "2026-07-24T07:00:48+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Full-Stack Programming"
+      ],
+      "title": "AI Engineer",
+      "url": "https://weworkremotely.com/remote-jobs/gitlab-ai-engineer"
+    },
+    {
+      "company": "Twilio",
+      "fetched_at": "2026-08-22T07:36:08.012367+00:00",
+      "id": "64fc2e2b72ad",
+      "location": "Remote",
+      "posted_at": "2026-07-24T07:00:48+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Full-Stack Programming"
+      ],
+      "title": "Senior Software Engineer, Fraud",
+      "url": "https://weworkremotely.com/remote-jobs/twilio-senior-software-engineer-fraud"
+    },
     {
       "company": "Reddit",
       "fetched_at": "2026-08-22T07:36:08.012367+00:00",
@@ -1030,7 +1147,7 @@
     },
     {
       "company": "Reveleer",
-      "fetched_at": "2026-08-23T06:50:32.045957+00:00",
+      "fetched_at": "2026-08-23T07:38:10.571114+00:00",
       "id": "b5b8317ed2f0",
       "location": "Remote",
       "posted_at": "2026-04-02T20:46:00+00:00",
@@ -1056,7 +1173,7 @@
     },
     {
       "company": "A.Team",
-      "fetched_at": "2026-08-05T16:45:17.080422+00:00",
+      "fetched_at": "2026-08-23T07:38:10.571114+00:00",
       "id": "b243a1e43315",
       "location": "Remote",
       "posted_at": "2024-06-16T18:08:52+00:00",
@@ -1069,7 +1186,7 @@
     },
     {
       "company": "A.Team",
-      "fetched_at": "2026-08-05T16:45:17.080422+00:00",
+      "fetched_at": "2026-08-23T07:38:10.571114+00:00",
       "id": "d32c3de17ad1",
       "location": "Remote",
       "posted_at": "2024-06-16T17:30:51+00:00",
@@ -1082,7 +1199,7 @@
     },
     {
       "company": "Storetasker",
-      "fetched_at": "2026-08-23T06:50:32.045957+00:00",
+      "fetched_at": "2026-08-23T07:38:10.571114+00:00",
       "id": "dcf49a65be4d",
       "location": "Remote",
       "posted_at": "2024-05-13T03:14:30+00:00",

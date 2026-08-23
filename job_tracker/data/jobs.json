@@ -2,6 +2,38 @@
   "jobs": [
     {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-23T07:38:10.571114+00:00",
+      "id": "16591098a0ca",
+      "location": "Remote",
+      "posted_at": "2026-08-23T07:22:33+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2men"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-23T07:38:10.571114+00:00",
+      "id": "204b2eaf534e",
+      "location": "Remote",
+      "posted_at": "2026-08-23T06:51:21+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4mf"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-23T06:50:32.045957+00:00",
       "id": "fa6f408f26e3",
       "location": "Remote",
@@ -16708,6 +16740,19 @@
       "url": "https://remoteOK.com/remote-jobs/remote-chief-engineer-svitzer-1136275"
     },
     {
+      "company": "Toptal",
+      "fetched_at": "2026-08-23T07:38:10.571114+00:00",
+      "id": "00007d68e918",
+      "location": "Remote",
+      "posted_at": "2026-08-07T15:54:26+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Full-Stack Programming"
+      ],
+      "title": "Stibo Sr. Architect/Platform Owner for Global Fortune 500",
+      "url": "https://weworkremotely.com/remote-jobs/toptal-stibo-sr-architect-platform-owner-for-global-fortune-500"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-07T16:03:21.858790+00:00",
       "id": "46d50f19bb26",
@@ -22613,6 +22658,19 @@
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3ogh"
     },
     {
+      "company": "Lemon.io",
+      "fetched_at": "2026-08-23T07:38:10.571114+00:00",
+      "id": "612d8b9c09a8",
+      "location": "Remote",
+      "posted_at": "2026-08-05T08:23:41+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Back-End Programming"
+      ],
+      "title": "Senior AI Engineer",
+      "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-ai-engineer-4"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-05T14:21:54.411152+00:00",
       "id": "033779b9bf8e",
@@ -22627,6 +22685,19 @@
       ],
       "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-53a4"
+    },
+    {
+      "company": "Yooli",
+      "fetched_at": "2026-08-23T07:38:10.571114+00:00",
+      "id": "24473417278f",
+      "location": "Remote",
+      "posted_at": "2026-08-05T05:52:46+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Full-Stack Programming"
+      ],
+      "title": "FULL TIME: Software Engineer Position - React and Rest",
+      "url": "https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1"
     },
     {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
@@ -22709,6 +22780,32 @@
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1mlo"
     },
     {
+      "company": "thehivecareers.co",
+      "fetched_at": "2026-08-23T07:38:10.571114+00:00",
+      "id": "fa2775d785f6",
+      "location": "Remote",
+      "posted_at": "2026-08-04T22:13:00+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Front-End Programming"
+      ],
+      "title": "Web Developer (Remote)",
+      "url": "https://weworkremotely.com/remote-jobs/thehivecareers-co-web-developer-remote-1"
+    },
+    {
+      "company": "Charles Technology Africa",
+      "fetched_at": "2026-08-23T07:38:10.571114+00:00",
+      "id": "4916391005c6",
+      "location": "Remote",
+      "posted_at": "2026-08-04T22:13:00+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Front-End Programming"
+      ],
+      "title": "Web Developer",
+      "url": "https://weworkremotely.com/remote-jobs/charles-technology-africa-web-developer"
+    },
+    {
       "company": "Azumo",
       "fetched_at": "2026-08-22T13:35:50.225641+00:00",
       "id": "907156b24be7",
@@ -22746,6 +22843,32 @@
       ],
       "title": "AI-Assisted Software Engineer, Web Applications",
       "url": "https://weworkremotely.com/remote-jobs/lmg-staffing-solutions-ai-assisted-software-engineer-web-applications"
+    },
+    {
+      "company": "Azumo",
+      "fetched_at": "2026-08-23T07:38:10.571114+00:00",
+      "id": "f2a0ba164fe8",
+      "location": "Remote",
+      "posted_at": "2026-08-04T22:12:17+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Full-Stack Programming"
+      ],
+      "title": "Technical Leader - Latin America",
+      "url": "https://weworkremotely.com/remote-jobs/azumo-technical-leader-latin-america"
+    },
+    {
+      "company": "Azumo",
+      "fetched_at": "2026-08-23T07:38:10.571114+00:00",
+      "id": "ae3060ef8e66",
+      "location": "Remote",
+      "posted_at": "2026-08-04T22:12:17+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Full-Stack Programming"
+      ],
+      "title": "Data Engineer - Latin America",
+      "url": "https://weworkremotely.com/remote-jobs/azumo-data-engineer-latin-america"
     },
     {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
@@ -22953,124 +23076,7 @@
       ],
       "title": "Front-End WordPress Developer",
       "url": "https://weworkremotely.com/remote-jobs/yoko-co-front-end-wordpress-developer"
-    },
-    {
-      "company": "JetBrains",
-      "fetched_at": "2026-08-22T07:36:08.012367+00:00",
-      "id": "fa3d3c457fe2",
-      "location": "Remote",
-      "posted_at": "2026-07-24T07:01:22+00:00",
-      "source": "weworkremotely",
-      "tags": [
-        "Back-End Programming"
-      ],
-      "title": "Backend Customer Success Engineer (Kotlin Ecosystem)",
-      "url": "https://weworkremotely.com/remote-jobs/jetbrains-backend-customer-success-engineer-kotlin-ecosystem"
-    },
-    {
-      "company": "LaunchDarkly",
-      "fetched_at": "2026-08-22T07:36:08.012367+00:00",
-      "id": "f8976dc0b0fb",
-      "location": "Remote",
-      "posted_at": "2026-07-24T07:01:12+00:00",
-      "source": "weworkremotely",
-      "tags": [
-        "Back-End Programming"
-      ],
-      "title": "Backend Engineer, Flag Delivery",
-      "url": "https://weworkremotely.com/remote-jobs/launchdarkly-backend-engineer-flag-delivery"
-    },
-    {
-      "company": "Hightouch",
-      "fetched_at": "2026-08-22T07:36:08.012367+00:00",
-      "id": "360bd664ddb8",
-      "location": "Remote",
-      "posted_at": "2026-07-24T07:01:12+00:00",
-      "source": "weworkremotely",
-      "tags": [
-        "Full-Stack Programming"
-      ],
-      "title": "AI Strategy Consultant",
-      "url": "https://weworkremotely.com/remote-jobs/hightouch-ai-strategy-consultant"
-    },
-    {
-      "company": "Coinbase",
-      "fetched_at": "2026-08-22T07:36:08.012367+00:00",
-      "id": "ad8819b3b5a4",
-      "location": "Remote",
-      "posted_at": "2026-07-24T07:01:02+00:00",
-      "source": "weworkremotely",
-      "tags": [
-        "Back-End Programming"
-      ],
-      "title": "Senior Staff Software Engineer, Legal Automation",
-      "url": "https://weworkremotely.com/remote-jobs/coinbase-senior-staff-software-engineer-legal-automation"
-    },
-    {
-      "company": "GitLab",
-      "fetched_at": "2026-08-22T07:36:08.012367+00:00",
-      "id": "9af61cc4cb61",
-      "location": "Remote",
-      "posted_at": "2026-07-24T07:01:02+00:00",
-      "source": "weworkremotely",
-      "tags": [
-        "Full-Stack Programming"
-      ],
-      "title": "AI Transformation Owner, CRO",
-      "url": "https://weworkremotely.com/remote-jobs/gitlab-ai-transformation-owner-cro"
-    },
-    {
-      "company": "Coinbase",
-      "fetched_at": "2026-08-22T07:36:08.012367+00:00",
-      "id": "7fa72d5a6010",
-      "location": "Remote",
-      "posted_at": "2026-07-24T07:00:51+00:00",
-      "source": "weworkremotely",
-      "tags": [
-        "Back-End Programming"
-      ],
-      "title": "Senior Staff Software Engineer, Finance Automation",
-      "url": "https://weworkremotely.com/remote-jobs/coinbase-senior-staff-software-engineer-finance-automation"
-    },
-    {
-      "company": "Twilio",
-      "fetched_at": "2026-08-22T07:36:08.012367+00:00",
-      "id": "d6da729576e9",
-      "location": "Remote",
-      "posted_at": "2026-07-24T07:00:51+00:00",
-      "source": "weworkremotely",
-      "tags": [
-        "Full-Stack Programming"
-      ],
-      "title": "Senior Software Engineer, Identity",
-      "url": "https://weworkremotely.com/remote-jobs/twilio-senior-software-engineer-identity"
-    },
-    {
-      "company": "GitLab",
-      "fetched_at": "2026-08-22T07:36:08.012367+00:00",
-      "id": "dce42265381a",
-      "location": "Remote",
-      "posted_at": "2026-07-24T07:00:48+00:00",
-      "source": "weworkremotely",
-      "tags": [
-        "Full-Stack Programming"
-      ],
-      "title": "AI Engineer",
-      "url": "https://weworkremotely.com/remote-jobs/gitlab-ai-engineer"
-    },
-    {
-      "company": "Twilio",
-      "fetched_at": "2026-08-22T07:36:08.012367+00:00",
-      "id": "64fc2e2b72ad",
-      "location": "Remote",
-      "posted_at": "2026-07-24T07:00:48+00:00",
-      "source": "weworkremotely",
-      "tags": [
-        "Full-Stack Programming"
-      ],
-      "title": "Senior Software Engineer, Fraud",
-      "url": "https://weworkremotely.com/remote-jobs/twilio-senior-software-engineer-fraud"
     }
   ],
-  "updated_at": "2026-08-23T06:50:32.045957+00:00"
+  "updated_at": "2026-08-23T07:38:10.571114+00:00"
 }
