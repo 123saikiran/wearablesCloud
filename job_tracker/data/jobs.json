@@ -1,6 +1,54 @@
 {
   "jobs": [
     {
+      "company": "Territory Generation",
+      "fetched_at": "2026-08-24T20:36:43.969634+00:00",
+      "id": "58bb8296da08",
+      "location": "Alice Springs,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "technical",
+        "exec",
+        "ops"
+      ],
+      "title": "Electrical Tradesperson",
+      "url": "https://remoteOK.com/remote-jobs/remote-electrical-tradesperson-territory-generation-1137092"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-24T20:36:43.969634+00:00",
+      "id": "4deef16e24cf",
+      "location": "Remote",
+      "posted_at": "2026-08-24T20:02:52+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-28aj"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-24T20:36:43.969634+00:00",
+      "id": "2ec34684e46c",
+      "location": "Remote",
+      "posted_at": "2026-08-24T19:42:12+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-bi"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-24T19:34:02.172841+00:00",
       "id": "3066ee2327cf",
@@ -24381,5 +24429,5 @@
       "url": "https://weworkremotely.com/remote-jobs/onthegosystems-ai-native-software-developer"
     }
   ],
-  "updated_at": "2026-08-24T19:34:02.172841+00:00"
+  "updated_at": "2026-08-24T20:36:43.969634+00:00"
 }
