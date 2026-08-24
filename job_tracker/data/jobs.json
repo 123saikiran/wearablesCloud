@@ -1,6 +1,37 @@
 {
   "jobs": [
     {
+      "company": "Saasuji",
+      "fetched_at": "2026-08-24T14:48:31.731441+00:00",
+      "id": "c83ba57c1505",
+      "location": "Newcastle Upon Tyne,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "finance",
+        "medical",
+        "non tech"
+      ],
+      "title": "CDP",
+      "url": "https://remoteOK.com/remote-jobs/remote-cdp-saasuji-1137091"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-24T14:48:31.731441+00:00",
+      "id": "7f8fc0e44466",
+      "location": "Remote",
+      "posted_at": "2026-08-24T14:11:28+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4o4o"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-24T13:00:29.555321+00:00",
       "id": "6b57ca6f3dbc",
@@ -24206,5 +24237,5 @@
       "url": "https://weworkremotely.com/remote-jobs/onthegosystems-ai-native-software-developer"
     }
   ],
-  "updated_at": "2026-08-24T13:00:29.555321+00:00"
+  "updated_at": "2026-08-24T14:48:31.731441+00:00"
 }
