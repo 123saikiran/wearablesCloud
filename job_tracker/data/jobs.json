@@ -1,6 +1,36 @@
 {
   "jobs": [
     {
+      "company": "Subway",
+      "fetched_at": "2026-08-24T09:54:20.780225+00:00",
+      "id": "99805f4ae447",
+      "location": "Grand Falls-Windsor,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "non tech"
+      ],
+      "title": "Sandwich artist",
+      "url": "https://remoteOK.com/remote-jobs/remote-sandwich-artist-subway-1137086"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-24T09:54:20.780225+00:00",
+      "id": "07e296402233",
+      "location": "Remote",
+      "posted_at": "2026-08-24T09:11:41+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-324j"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-24T08:54:55.693262+00:00",
       "id": "02e5511b0427",
@@ -24080,5 +24110,5 @@
       "url": "https://weworkremotely.com/remote-jobs/onthegosystems-ai-native-software-developer"
     }
   ],
-  "updated_at": "2026-08-24T08:54:55.693262+00:00"
+  "updated_at": "2026-08-24T09:54:20.780225+00:00"
 }
