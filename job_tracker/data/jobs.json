@@ -1,6 +1,38 @@
 {
   "jobs": [
     {
+      "company": "Shamyl Bin Mansoor",
+      "fetched_at": "2026-08-24T10:41:48.668519+00:00",
+      "id": "dbde16a78917",
+      "location": "Remote",
+      "posted_at": "2026-08-24T10:25:59+00:00",
+      "source": "devto",
+      "tags": [
+        "webdev",
+        "opensource",
+        "go",
+        "jobs"
+      ],
+      "title": "Hunting Ghost Jobs: How an Open-Source Job Aggregator Detects Fake Postings at Scale",
+      "url": "https://dev.to/shamylbm/hunting-ghost-jobs-how-an-open-source-job-aggregator-detects-fake-postings-at-scale-2g00"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-24T10:41:48.668519+00:00",
+      "id": "a4953942be94",
+      "location": "Remote",
+      "posted_at": "2026-08-24T10:03:29+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4oge"
+    },
+    {
       "company": "Subway",
       "fetched_at": "2026-08-24T09:54:20.780225+00:00",
       "id": "99805f4ae447",
@@ -24110,5 +24142,5 @@
       "url": "https://weworkremotely.com/remote-jobs/onthegosystems-ai-native-software-developer"
     }
   ],
-  "updated_at": "2026-08-24T09:54:20.780225+00:00"
+  "updated_at": "2026-08-24T10:41:48.668519+00:00"
 }
