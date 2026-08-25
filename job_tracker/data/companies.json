@@ -1068,6 +1068,13 @@
       ],
       "last_seen": "2026-08-02T07:31:05+00:00"
     },
+    "Dr. Martens Australia / New Zealand": {
+      "count": 1,
+      "job_ids": [
+        "fb43c4eaad93"
+      ],
+      "last_seen": "2026-08-25T06:57:05.577445+00:00"
+    },
     "Dreem Health": {
       "count": 1,
       "job_ids": [
@@ -2571,8 +2578,10 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 653,
+      "count": 655,
       "job_ids": [
+        "51fb98bd09db",
+        "dfa7d4efcf27",
         "97baefeb14b2",
         "7b19d56f3f8a",
         "4b380f5eb3c1",
@@ -3227,7 +3236,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-25T05:20:14+00:00"
+      "last_seen": "2026-08-25T06:30:50+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -4423,5 +4432,5 @@
       "last_seen": "2026-08-15T08:35:33.628741+00:00"
     }
   },
-  "updated_at": "2026-08-25T05:36:23.436637+00:00"
+  "updated_at": "2026-08-25T06:57:05.577445+00:00"
 }

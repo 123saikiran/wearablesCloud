@@ -1,6 +1,57 @@
 {
   "jobs": [
     {
+      "company": "Dr. Martens Australia / New Zealand",
+      "fetched_at": "2026-08-25T06:57:05.577445+00:00",
+      "id": "fb43c4eaad93",
+      "location": "Canberra,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "virtual assistant",
+        "education",
+        "customer support",
+        "exec",
+        "ops",
+        "sales",
+        "medical"
+      ],
+      "title": "AUS Dr Martens Sales Assistant Expression of Interest",
+      "url": "https://remoteOK.com/remote-jobs/remote-aus-dr-martens-sales-assistant-expression-of-interest-dr-martens-australia-new-zealand-1137113"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-25T06:57:05.577445+00:00",
+      "id": "51fb98bd09db",
+      "location": "Remote",
+      "posted_at": "2026-08-25T06:30:50+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3nkl"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-25T06:57:05.577445+00:00",
+      "id": "dfa7d4efcf27",
+      "location": "Remote",
+      "posted_at": "2026-08-25T05:54:15+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4cf"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-25T05:36:23.436637+00:00",
       "id": "97baefeb14b2",
@@ -24695,5 +24746,5 @@
       "url": "https://weworkremotely.com/remote-jobs/onthegosystems-ai-native-software-developer"
     }
   ],
-  "updated_at": "2026-08-25T05:36:23.436637+00:00"
+  "updated_at": "2026-08-25T06:57:05.577445+00:00"
 }
