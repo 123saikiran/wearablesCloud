@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-25T09:41:00.550133+00:00",
+      "id": "26b5c51d99ac",
+      "location": "Remote",
+      "posted_at": "2026-08-25T09:05:37+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2p8g"
+    },
+    {
       "company": "Krannich Solar Australia",
       "fetched_at": "2026-08-25T08:50:12.807127+00:00",
       "id": "a64fd254b3bf",
@@ -24847,5 +24863,5 @@
       "url": "https://weworkremotely.com/remote-jobs/onthegosystems-ai-native-software-developer"
     }
   ],
-  "updated_at": "2026-08-25T08:50:12.807127+00:00"
+  "updated_at": "2026-08-25T09:41:00.550133+00:00"
 }
