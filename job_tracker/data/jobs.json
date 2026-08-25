@@ -1,6 +1,42 @@
 {
   "jobs": [
     {
+      "company": "Continental Events",
+      "fetched_at": "2026-08-25T14:53:44.103510+00:00",
+      "id": "2e119ac33047",
+      "location": "Chittoor,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "technical",
+        "education",
+        "supervisor",
+        "exec",
+        "ops",
+        "medical",
+        "full time",
+        "part time"
+      ],
+      "title": "Utility",
+      "url": "https://remoteOK.com/remote-jobs/remote-utility-continental-events-1137119"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-25T14:53:44.103510+00:00",
+      "id": "7c3f81bd8e70",
+      "location": "Remote",
+      "posted_at": "2026-08-25T14:25:32+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-36lf"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-25T13:56:13.470645+00:00",
       "id": "558f091a67ff",
@@ -24993,5 +25029,5 @@
       "url": "https://weworkremotely.com/remote-jobs/onthegosystems-ai-native-software-developer"
     }
   ],
-  "updated_at": "2026-08-25T13:56:13.470645+00:00"
+  "updated_at": "2026-08-25T14:53:44.103510+00:00"
 }
