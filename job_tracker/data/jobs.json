@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-25T03:04:13.640896+00:00",
+      "id": "6ba8d015f557",
+      "location": "Remote",
+      "posted_at": "2026-08-25T02:10:00+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-51be"
+    },
+    {
       "company": "The Abaco Club",
       "fetched_at": "2026-08-25T01:37:29.972471+00:00",
       "id": "b834e6cbcfc8",
@@ -24599,5 +24615,5 @@
       "url": "https://weworkremotely.com/remote-jobs/onthegosystems-ai-native-software-developer"
     }
   ],
-  "updated_at": "2026-08-25T01:37:29.972471+00:00"
+  "updated_at": "2026-08-25T03:04:13.640896+00:00"
 }
