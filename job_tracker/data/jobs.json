@@ -2,6 +2,38 @@
   "jobs": [
     {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-25T10:38:00.401734+00:00",
+      "id": "13745b7a0dfa",
+      "location": "Remote",
+      "posted_at": "2026-08-25T10:17:44+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2h8b"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-25T10:38:00.401734+00:00",
+      "id": "aed29660ac7a",
+      "location": "Remote",
+      "posted_at": "2026-08-25T09:50:00+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1j0c"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-25T09:41:00.550133+00:00",
       "id": "26b5c51d99ac",
       "location": "Remote",
@@ -24863,5 +24895,5 @@
       "url": "https://weworkremotely.com/remote-jobs/onthegosystems-ai-native-software-developer"
     }
   ],
-  "updated_at": "2026-08-25T09:41:00.550133+00:00"
+  "updated_at": "2026-08-25T10:38:00.401734+00:00"
 }
