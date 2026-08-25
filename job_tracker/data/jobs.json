@@ -1,6 +1,42 @@
 {
   "jobs": [
     {
+      "company": "Four Seasons",
+      "fetched_at": "2026-08-25T11:33:33.419392+00:00",
+      "id": "31883a137db6",
+      "location": "Macau,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec",
+        "full time",
+        "customer support",
+        "music",
+        "video",
+        "content writing",
+        "education",
+        "testing"
+      ],
+      "title": "Bell Captain",
+      "url": "https://remoteOK.com/remote-jobs/remote-bell-captain-four-seasons-1137107"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-25T11:33:33.419392+00:00",
+      "id": "a50deb0e0bfd",
+      "location": "Remote",
+      "posted_at": "2026-08-25T10:57:06+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3lie"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-25T10:38:00.401734+00:00",
       "id": "13745b7a0dfa",
@@ -24895,5 +24931,5 @@
       "url": "https://weworkremotely.com/remote-jobs/onthegosystems-ai-native-software-developer"
     }
   ],
-  "updated_at": "2026-08-25T10:38:00.401734+00:00"
+  "updated_at": "2026-08-25T11:33:33.419392+00:00"
 }
