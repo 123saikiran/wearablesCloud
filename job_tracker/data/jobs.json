@@ -1,6 +1,93 @@
 {
   "jobs": [
     {
+      "company": "careerAIForge",
+      "fetched_at": "2026-08-25T15:49:15.350547+00:00",
+      "id": "6e655c038dae",
+      "location": "Greater Lucknow Area,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec",
+        "full time",
+        "customer support",
+        "music",
+        "video",
+        "content writing"
+      ],
+      "title": "Customer Support Executive",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-executive-careeraiforge-1137106"
+    },
+    {
+      "company": "Bass Pro Shops",
+      "fetched_at": "2026-08-25T15:49:15.350547+00:00",
+      "id": "cc126203dfa1",
+      "location": "Regina,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "technical",
+        "marketing",
+        "education",
+        "medical",
+        "ecommerce",
+        "supervisor",
+        "exec",
+        "virtual assistant",
+        "sales"
+      ],
+      "title": "Overnight Task Team Lead",
+      "url": "https://remoteOK.com/remote-jobs/remote-overnight-task-team-lead-bass-pro-shops-1137121"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-25T15:49:15.350547+00:00",
+      "id": "4398c8f0b512",
+      "location": "Remote",
+      "posted_at": "2026-08-25T15:13:41+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4lce"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-08-25T15:49:15.350547+00:00",
+      "id": "a82790eb3132",
+      "location": "Remote",
+      "posted_at": "2026-08-25T15:00:18+00:00",
+      "source": "devto",
+      "tags": [
+        "beginners",
+        "jobs",
+        "career",
+        "programming"
+      ],
+      "title": "Summer 2026 Internships: 8 New Openings This Week (Aug 25)",
+      "url": "https://dev.to/crackr/summer-2026-internships-8-new-openings-this-week-aug-25-m52"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-08-25T15:49:15.350547+00:00",
+      "id": "8c140442ccd4",
+      "location": "Remote",
+      "posted_at": "2026-08-25T15:00:15+00:00",
+      "source": "devto",
+      "tags": [
+        "remotework",
+        "jobs",
+        "webdev",
+        "career"
+      ],
+      "title": "Remote SWE Jobs Paying Up to $200k (Aug 25)",
+      "url": "https://dev.to/crackr/remote-swe-jobs-paying-up-to-200k-aug-25-41pj"
+    },
+    {
       "company": "Continental Events",
       "fetched_at": "2026-08-25T14:53:44.103510+00:00",
       "id": "2e119ac33047",
@@ -25029,5 +25116,5 @@
       "url": "https://weworkremotely.com/remote-jobs/onthegosystems-ai-native-software-developer"
     }
   ],
-  "updated_at": "2026-08-25T14:53:44.103510+00:00"
+  "updated_at": "2026-08-25T15:49:15.350547+00:00"
 }

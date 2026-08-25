@@ -332,12 +332,13 @@
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
     },
     "Bass Pro Shops": {
-      "count": 2,
+      "count": 3,
       "job_ids": [
+        "cc126203dfa1",
         "ec0c59120e55",
         "667a510dbc23"
       ],
-      "last_seen": "2026-08-20T19:35:48.340200+00:00"
+      "last_seen": "2026-08-25T15:49:15.350547+00:00"
     },
     "Bay Plumbing &amp; Drainage": {
       "count": 1,
@@ -842,8 +843,10 @@
       "last_seen": "2026-08-12T08:22:52.939400+00:00"
     },
     "Crackr": {
-      "count": 40,
+      "count": 42,
       "job_ids": [
+        "a82790eb3132",
+        "8c140442ccd4",
         "ad8fc314c607",
         "3822543ab1b4",
         "40f3e561f237",
@@ -885,7 +888,7 @@
         "3295f687e970",
         "a28c68c2d2f5"
       ],
-      "last_seen": "2026-08-24T15:00:29+00:00"
+      "last_seen": "2026-08-25T15:00:18+00:00"
     },
     "Crawler Bros": {
       "count": 2,
@@ -2615,8 +2618,9 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 665,
+      "count": 666,
       "job_ids": [
+        "4398c8f0b512",
         "7c3f81bd8e70",
         "558f091a67ff",
         "eb02e966cc50",
@@ -3283,7 +3287,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-25T14:25:32+00:00"
+      "last_seen": "2026-08-25T15:13:41+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -4367,6 +4371,13 @@
       ],
       "last_seen": "2026-08-06T10:45:03.991691+00:00"
     },
+    "careerAIForge": {
+      "count": 1,
+      "job_ids": [
+        "6e655c038dae"
+      ],
+      "last_seen": "2026-08-25T15:49:15.350547+00:00"
+    },
     "ciitÃ©lÃ©com - Alerte des Populations": {
       "count": 1,
       "job_ids": [
@@ -4486,5 +4497,5 @@
       "last_seen": "2026-08-15T08:35:33.628741+00:00"
     }
   },
-  "updated_at": "2026-08-25T14:53:44.103510+00:00"
+  "updated_at": "2026-08-25T15:49:15.350547+00:00"
 }
