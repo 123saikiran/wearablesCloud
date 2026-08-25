@@ -208,6 +208,13 @@
       ],
       "last_seen": "2026-08-06T10:45:03.991691+00:00"
     },
+    "Amwell": {
+      "count": 1,
+      "job_ids": [
+        "41969cd8510c"
+      ],
+      "last_seen": "2026-08-09T07:30:40+00:00"
+    },
     "Anansewaa": {
       "count": 1,
       "job_ids": [
@@ -338,6 +345,13 @@
         "874522b6d1d2"
       ],
       "last_seen": "2026-08-05T14:21:54.411152+00:00"
+    },
+    "Bayer": {
+      "count": 1,
+      "job_ids": [
+        "de2b30f44f02"
+      ],
+      "last_seen": "2026-08-25T07:51:23.458585+00:00"
     },
     "Beer City Code": {
       "count": 3,
@@ -1304,13 +1318,14 @@
       "last_seen": "2026-08-17T01:40:17.655985+00:00"
     },
     "Fronix Services": {
-      "count": 3,
+      "count": 4,
       "job_ids": [
+        "8da95cf5d789",
         "769b88edaf77",
         "64dcd3ed27f5",
         "a0f741c3ce2f"
       ],
-      "last_seen": "2026-08-21T21:29:34.346500+00:00"
+      "last_seen": "2026-08-25T07:51:23.458585+00:00"
     },
     "FroxJob | Executive Jobs in Nepal": {
       "count": 1,
@@ -1410,6 +1425,13 @@
         "e843bd7867b6"
       ],
       "last_seen": "2026-08-16T13:35:33.762911+00:00"
+    },
+    "Gusto, Inc.": {
+      "count": 1,
+      "job_ids": [
+        "509a6b65c00a"
+      ],
+      "last_seen": "2026-08-09T07:30:40+00:00"
     },
     "H&amp;M": {
       "count": 1,
@@ -2578,8 +2600,9 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 655,
+      "count": 656,
       "job_ids": [
+        "0d803a9959c5",
         "51fb98bd09db",
         "dfa7d4efcf27",
         "97baefeb14b2",
@@ -3236,7 +3259,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-25T06:30:50+00:00"
+      "last_seen": "2026-08-25T07:28:46+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -4432,5 +4455,5 @@
       "last_seen": "2026-08-15T08:35:33.628741+00:00"
     }
   },
-  "updated_at": "2026-08-25T06:57:05.577445+00:00"
+  "updated_at": "2026-08-25T07:51:23.458585+00:00"
 }

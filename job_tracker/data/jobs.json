@@ -1,6 +1,54 @@
 {
   "jobs": [
     {
+      "company": "Bayer",
+      "fetched_at": "2026-08-25T07:51:23.458585+00:00",
+      "id": "de2b30f44f02",
+      "location": "Siliguri,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "dev",
+        "sales",
+        "medical",
+        "non tech",
+        "digital nomad"
+      ],
+      "title": "GLUCOBAY TASK FORCE",
+      "url": "https://remoteOK.com/remote-jobs/remote-glucobay-task-force-bayer-1137102"
+    },
+    {
+      "company": "Fronix Services",
+      "fetched_at": "2026-08-25T07:51:23.458585+00:00",
+      "id": "8da95cf5d789",
+      "location": "Thiruvananthapuram,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "hr",
+        "ops",
+        "exec"
+      ],
+      "title": "Airport Ground Staff Jobs For Freshers",
+      "url": "https://remoteOK.com/remote-jobs/remote-airport-ground-staff-jobs-for-freshers-fronix-services-1137116"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-25T07:51:23.458585+00:00",
+      "id": "0d803a9959c5",
+      "location": "Remote",
+      "posted_at": "2026-08-25T07:28:46+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-33ko"
+    },
+    {
       "company": "Dr. Martens Australia / New Zealand",
       "fetched_at": "2026-08-25T06:57:05.577445+00:00",
       "id": "fb43c4eaad93",
@@ -16940,6 +16988,32 @@
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-337h"
     },
     {
+      "company": "Gusto, Inc.",
+      "fetched_at": "2026-08-25T07:51:23.458585+00:00",
+      "id": "509a6b65c00a",
+      "location": "Remote",
+      "posted_at": "2026-08-09T07:30:40+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Full-Stack Programming"
+      ],
+      "title": "Staff Software Engineer, Time and Scheduling",
+      "url": "https://weworkremotely.com/remote-jobs/gusto-inc-staff-software-engineer-time-and-scheduling"
+    },
+    {
+      "company": "Amwell",
+      "fetched_at": "2026-08-25T07:51:23.458585+00:00",
+      "id": "41969cd8510c",
+      "location": "Remote",
+      "posted_at": "2026-08-09T07:30:40+00:00",
+      "source": "weworkremotely",
+      "tags": [
+        "Full-Stack Programming"
+      ],
+      "title": "Manager, Government Compliance & Authorization",
+      "url": "https://weworkremotely.com/remote-jobs/amwell-manager-government-compliance-authorization"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-09T08:51:08.845261+00:00",
       "id": "dd0c35916013",
@@ -24746,5 +24820,5 @@
       "url": "https://weworkremotely.com/remote-jobs/onthegosystems-ai-native-software-developer"
     }
   ],
-  "updated_at": "2026-08-25T06:57:05.577445+00:00"
+  "updated_at": "2026-08-25T07:51:23.458585+00:00"
 }
