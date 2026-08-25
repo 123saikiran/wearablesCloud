@@ -1,6 +1,33 @@
 {
   "jobs": [
     {
+      "company": "Krannich Solar Australia",
+      "fetched_at": "2026-08-25T08:50:12.807127+00:00",
+      "id": "a64fd254b3bf",
+      "location": "Brendale,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [],
+      "title": "Store person",
+      "url": "https://remoteOK.com/remote-jobs/remote-store-person-krannich-solar-australia-1137100"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-25T08:50:12.807127+00:00",
+      "id": "fa2d53e197a4",
+      "location": "Remote",
+      "posted_at": "2026-08-25T08:21:41+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-11ij"
+    },
+    {
       "company": "Bayer",
       "fetched_at": "2026-08-25T07:51:23.458585+00:00",
       "id": "de2b30f44f02",
@@ -24820,5 +24847,5 @@
       "url": "https://weworkremotely.com/remote-jobs/onthegosystems-ai-native-software-developer"
     }
   ],
-  "updated_at": "2026-08-25T07:51:23.458585+00:00"
+  "updated_at": "2026-08-25T08:50:12.807127+00:00"
 }

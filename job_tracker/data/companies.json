@@ -1794,6 +1794,13 @@
       ],
       "last_seen": "2026-08-06T07:43:52.639381+00:00"
     },
+    "Krannich Solar Australia": {
+      "count": 1,
+      "job_ids": [
+        "a64fd254b3bf"
+      ],
+      "last_seen": "2026-08-25T08:50:12.807127+00:00"
+    },
     "Kruger NearShore LLC - Rekluti": {
       "count": 1,
       "job_ids": [
@@ -2600,8 +2607,9 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 656,
+      "count": 657,
       "job_ids": [
+        "fa2d53e197a4",
         "0d803a9959c5",
         "51fb98bd09db",
         "dfa7d4efcf27",
@@ -3259,7 +3267,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-25T07:28:46+00:00"
+      "last_seen": "2026-08-25T08:21:41+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -4455,5 +4463,5 @@
       "last_seen": "2026-08-15T08:35:33.628741+00:00"
     }
   },
-  "updated_at": "2026-08-25T07:51:23.458585+00:00"
+  "updated_at": "2026-08-25T08:50:12.807127+00:00"
 }
