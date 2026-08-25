@@ -1,6 +1,38 @@
 {
   "jobs": [
     {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-25T21:33:45.383105+00:00",
+      "id": "0e7d359ae9e1",
+      "location": "Remote",
+      "posted_at": "2026-08-25T21:13:51+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1elc"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-25T21:33:45.383105+00:00",
+      "id": "32f8bfe74978",
+      "location": "Remote",
+      "posted_at": "2026-08-25T20:46:30+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1cpl"
+    },
+    {
       "company": "Teatro Multiplan MorumbiShopping",
       "fetched_at": "2026-08-25T20:34:55.312771+00:00",
       "id": "9a160ff45b5e",
@@ -25255,5 +25287,5 @@
       "url": "https://weworkremotely.com/remote-jobs/onthegosystems-ai-native-software-developer"
     }
   ],
-  "updated_at": "2026-08-25T20:34:55.312771+00:00"
+  "updated_at": "2026-08-25T21:33:45.383105+00:00"
 }
