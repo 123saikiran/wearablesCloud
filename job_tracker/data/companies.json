@@ -2618,8 +2618,10 @@
       "last_seen": "2026-08-05T22:15:55.329949+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 672,
+      "count": 674,
       "job_ids": [
+        "1eb4840c95fb",
+        "c2fd8fb547e4",
         "b5a928010d58",
         "d4cff73c0bd6",
         "4d296c728bc0",
@@ -3293,7 +3295,7 @@
         "c7f3fce09dd1",
         "d44dfa0ee282"
       ],
-      "last_seen": "2026-08-25T19:06:36+00:00"
+      "last_seen": "2026-08-25T20:12:37+00:00"
     },
     "Radical Reversibility": {
       "count": 2,
@@ -3835,6 +3837,13 @@
         "d6d06868adf5"
       ],
       "last_seen": "2026-08-06T07:43:52.639381+00:00"
+    },
+    "Teatro Multiplan MorumbiShopping": {
+      "count": 1,
+      "job_ids": [
+        "9a160ff45b5e"
+      ],
+      "last_seen": "2026-08-25T20:34:55.312771+00:00"
     },
     "Tees Components": {
       "count": 1,
@@ -4503,5 +4512,5 @@
       "last_seen": "2026-08-15T08:35:33.628741+00:00"
     }
   },
-  "updated_at": "2026-08-25T19:35:58.881333+00:00"
+  "updated_at": "2026-08-25T20:34:55.312771+00:00"
 }
