@@ -1,6 +1,80 @@
 {
   "jobs": [
     {
+      "company": "The Abaco Club",
+      "fetched_at": "2026-08-25T01:37:29.972471+00:00",
+      "id": "b834e6cbcfc8",
+      "location": "Marsh Harbour,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "design",
+        "education",
+        "technical",
+        "customer support",
+        "dev",
+        "exec",
+        "senior",
+        "ops",
+        "excel",
+        "engineer",
+        "digital nomad",
+        "marketing",
+        "virtual assistant",
+        "medical"
+      ],
+      "title": "Residential Technician",
+      "url": "https://remoteOK.com/remote-jobs/remote-residential-technician-the-abaco-club-1137096"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-25T01:37:29.972471+00:00",
+      "id": "39feabd65054",
+      "location": "Remote",
+      "posted_at": "2026-08-25T00:52:31+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-445f"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-25T01:37:29.972471+00:00",
+      "id": "cd9f045a9049",
+      "location": "Remote",
+      "posted_at": "2026-08-24T23:54:58+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-15je"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-25T01:37:29.972471+00:00",
+      "id": "c5a0e7e0ef38",
+      "location": "Remote",
+      "posted_at": "2026-08-24T23:34:12+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-5e4a"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-24T23:26:56.264754+00:00",
       "id": "17ec7b8585c0",
@@ -24525,5 +24599,5 @@
       "url": "https://weworkremotely.com/remote-jobs/onthegosystems-ai-native-software-developer"
     }
   ],
-  "updated_at": "2026-08-24T23:26:56.264754+00:00"
+  "updated_at": "2026-08-25T01:37:29.972471+00:00"
 }
