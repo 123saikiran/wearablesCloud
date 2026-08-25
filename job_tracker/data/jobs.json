@@ -1,6 +1,52 @@
 {
   "jobs": [
     {
+      "company": "Vashi Integrated Solutions",
+      "fetched_at": "2026-08-25T12:57:09.240621+00:00",
+      "id": "6c98842f83a6",
+      "location": "Pune Division,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec",
+        "full time"
+      ],
+      "title": "Executive",
+      "url": "https://remoteOK.com/remote-jobs/remote-executive-vashi-integrated-solutions-1137105"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-25T12:57:09.240621+00:00",
+      "id": "eb02e966cc50",
+      "location": "Remote",
+      "posted_at": "2026-08-25T12:31:11+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-272"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-25T12:57:09.240621+00:00",
+      "id": "429314617032",
+      "location": "Remote",
+      "posted_at": "2026-08-25T11:54:22+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4jke"
+    },
+    {
       "company": "Four Seasons",
       "fetched_at": "2026-08-25T11:33:33.419392+00:00",
       "id": "31883a137db6",
@@ -24931,5 +24977,5 @@
       "url": "https://weworkremotely.com/remote-jobs/onthegosystems-ai-native-software-developer"
     }
   ],
-  "updated_at": "2026-08-25T11:33:33.419392+00:00"
+  "updated_at": "2026-08-25T12:57:09.240621+00:00"
 }
