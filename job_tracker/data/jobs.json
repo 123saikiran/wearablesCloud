@@ -1,6 +1,121 @@
 {
   "jobs": [
     {
+      "company": "Skechers",
+      "fetched_at": "2026-08-26T16:22:27.488510+00:00",
+      "id": "679274192e94",
+      "location": "Barceloneta,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec",
+        "virtual assistant",
+        "customer support",
+        "marketing",
+        "ops",
+        "sales",
+        "ecommerce"
+      ],
+      "title": "Retail Assistant Store Manager",
+      "url": "https://remoteOK.com/remote-jobs/remote-retail-assistant-store-manager-skechers-1137132"
+    },
+    {
+      "company": "Reed",
+      "fetched_at": "2026-08-26T16:22:27.488510+00:00",
+      "id": "be4245bf6795",
+      "location": "Warrington,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec",
+        "customer support",
+        "testing",
+        "finance",
+        "sales",
+        "recruiter",
+        "marketing",
+        "senior",
+        "dev",
+        "c",
+        "microsoft",
+        "excel",
+        "engineer",
+        "full time",
+        "digital nomad"
+      ],
+      "title": "Estimator",
+      "url": "https://remoteOK.com/remote-jobs/remote-estimator-reed-1137146"
+    },
+    {
+      "company": "s1jobs",
+      "fetched_at": "2026-08-26T16:22:27.488510+00:00",
+      "id": "a0c9bbbdd083",
+      "location": "Glasgow,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec",
+        "customer support",
+        "testing",
+        "finance",
+        "sales",
+        "recruiter",
+        "marketing",
+        "senior"
+      ],
+      "title": "Estimator",
+      "url": "https://remoteOK.com/remote-jobs/remote-estimator-s1jobs-1137145"
+    },
+    {
+      "company": "Saasuji",
+      "fetched_at": "2026-08-26T16:22:27.488510+00:00",
+      "id": "fcaebbecd493",
+      "location": "Ahmedabad,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "non tech",
+        "design",
+        "marketing",
+        "digital nomad"
+      ],
+      "title": "Across all departments",
+      "url": "https://remoteOK.com/remote-jobs/remote-across-all-departments-saasuji-1137075"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-08-26T16:22:27.488510+00:00",
+      "id": "2324e49c9ca6",
+      "location": "Remote",
+      "posted_at": "2026-08-26T15:03:23+00:00",
+      "source": "devto",
+      "tags": [
+        "beginners",
+        "jobs",
+        "career",
+        "programming"
+      ],
+      "title": "These Companies Want Interns This Summer (Aug 26)",
+      "url": "https://dev.to/crackr/these-companies-want-interns-this-summer-aug-26-1opp"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-08-26T16:22:27.488510+00:00",
+      "id": "e49a2aad9661",
+      "location": "Remote",
+      "posted_at": "2026-08-26T15:03:19+00:00",
+      "source": "devto",
+      "tags": [
+        "remotework",
+        "jobs",
+        "webdev",
+        "career"
+      ],
+      "title": "8 Remote SWE Jobs You Can Apply to From Anywhere (Aug 26)",
+      "url": "https://dev.to/crackr/8-remote-swe-jobs-you-can-apply-to-from-anywhere-aug-26-1fji"
+    },
+    {
       "company": "Canada Post / Postes Canada",
       "fetched_at": "2026-08-26T14:49:56.317563+00:00",
       "id": "931453959ac6",
@@ -3866,123 +3981,7 @@
       ],
       "title": "Senior Specialist Global QMS",
       "url": "https://remoteOK.com/remote-jobs/remote-senior-specialist-global-qms-orca-bio-1137072"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-08-23T16:32:07.967758+00:00",
-      "id": "58917dd569c7",
-      "location": "Remote",
-      "posted_at": "2026-08-23T16:08:32+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3dcm"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-08-23T16:32:07.967758+00:00",
-      "id": "b3732fadc7d4",
-      "location": "Remote",
-      "posted_at": "2026-08-23T15:43:51+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3ln"
-    },
-    {
-      "company": "Platypus Shoes",
-      "fetched_at": "2026-08-23T15:27:56.114546+00:00",
-      "id": "0441b06eff1c",
-      "location": "Hillcrest,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "exec",
-        "education",
-        "customer support",
-        "marketing",
-        "virtual assistant",
-        "ops",
-        "sales",
-        "medical"
-      ],
-      "title": "Platypus Store Manager Grand Plaza",
-      "url": "https://remoteOK.com/remote-jobs/remote-platypus-store-manager-grand-plaza-platypus-shoes-1137085"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-08-23T15:27:56.114546+00:00",
-      "id": "de0b30e60d66",
-      "location": "Remote",
-      "posted_at": "2026-08-23T15:23:09+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-382m"
-    },
-    {
-      "company": "Crackr",
-      "fetched_at": "2026-08-23T15:27:56.114546+00:00",
-      "id": "40f3e561f237",
-      "location": "Remote",
-      "posted_at": "2026-08-23T15:00:42+00:00",
-      "source": "devto",
-      "tags": [
-        "beginners",
-        "jobs",
-        "career",
-        "programming"
-      ],
-      "title": "These Companies Want Interns This Summer (Aug 23)",
-      "url": "https://dev.to/crackr/these-companies-want-interns-this-summer-aug-23-eoj"
-    },
-    {
-      "company": "Crackr",
-      "fetched_at": "2026-08-23T15:27:56.114546+00:00",
-      "id": "9e95aeca9d22",
-      "location": "Remote",
-      "posted_at": "2026-08-23T15:00:39+00:00",
-      "source": "devto",
-      "tags": [
-        "remotework",
-        "jobs",
-        "webdev",
-        "career"
-      ],
-      "title": "8 Remote SWE Jobs You Can Apply to From Anywhere (Aug 23)",
-      "url": "https://dev.to/crackr/8-remote-swe-jobs-you-can-apply-to-from-anywhere-aug-23-39ma"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-08-23T15:27:56.114546+00:00",
-      "id": "2b9aaab94fb2",
-      "location": "Remote",
-      "posted_at": "2026-08-23T14:57:43+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-56ok"
     }
   ],
-  "updated_at": "2026-08-26T14:49:56.317563+00:00"
+  "updated_at": "2026-08-26T16:22:27.488510+00:00"
 }
