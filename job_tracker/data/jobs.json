@@ -1,6 +1,70 @@
 {
   "jobs": [
     {
+      "company": "Canada Post / Postes Canada",
+      "fetched_at": "2026-08-26T14:49:56.317563+00:00",
+      "id": "931453959ac6",
+      "location": "Allan,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "marketing",
+        "exec",
+        "full time"
+      ],
+      "title": "Rural and Suburban Mail Carrier Allan RR1",
+      "url": "https://remoteOK.com/remote-jobs/remote-rural-and-suburban-mail-carrier-allan-rr1-canada-post-postes-canada-1137126"
+    },
+    {
+      "company": "Bosta",
+      "fetched_at": "2026-08-26T14:49:56.317563+00:00",
+      "id": "722e697b3c21",
+      "location": "Maadi,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "accounting",
+        "customer support",
+        "recruiter",
+        "non tech"
+      ],
+      "title": "AP Accountant",
+      "url": "https://remoteOK.com/remote-jobs/remote-ap-accountant-bosta-1137124"
+    },
+    {
+      "company": "The Butcher Shoppe",
+      "fetched_at": "2026-08-26T14:49:56.317563+00:00",
+      "id": "e5dc5ef09cb4",
+      "location": "Toronto,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "technical",
+        "marketing",
+        "education",
+        "medical",
+        "ecommerce"
+      ],
+      "title": "Butcher",
+      "url": "https://remoteOK.com/remote-jobs/remote-butcher-the-butcher-shoppe-1137120"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-26T14:49:56.317563+00:00",
+      "id": "343735dd34cc",
+      "location": "Remote",
+      "posted_at": "2026-08-26T13:14:14+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3aca"
+    },
+    {
       "company": "Piramal Pharma Ltd",
       "fetched_at": "2026-08-26T13:03:01.146665+00:00",
       "id": "9b4db4d8768d",
@@ -3918,88 +3982,7 @@
       ],
       "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-56ok"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-08-23T15:27:56.114546+00:00",
-      "id": "b31eef8ea28d",
-      "location": "Remote",
-      "posted_at": "2026-08-23T14:37:38+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1oc0"
-    },
-    {
-      "company": "Saasuji",
-      "fetched_at": "2026-08-23T14:28:54.249601+00:00",
-      "id": "fcaebbecd493",
-      "location": "Ahmedabad,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "education",
-        "non tech",
-        "design",
-        "marketing",
-        "digital nomad"
-      ],
-      "title": "Across all departments",
-      "url": "https://remoteOK.com/remote-jobs/remote-across-all-departments-saasuji-1137075"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-08-23T14:28:54.249601+00:00",
-      "id": "a9edea487c6e",
-      "location": "Remote",
-      "posted_at": "2026-08-23T14:10:28+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-39ff"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-08-23T14:28:54.249601+00:00",
-      "id": "75785b267691",
-      "location": "Remote",
-      "posted_at": "2026-08-23T13:51:17+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4pp7"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-08-23T13:35:50.109777+00:00",
-      "id": "82cc89e752e4",
-      "location": "Remote",
-      "posted_at": "2026-08-23T13:19:39+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-k96"
     }
   ],
-  "updated_at": "2026-08-26T13:03:01.146665+00:00"
+  "updated_at": "2026-08-26T14:49:56.317563+00:00"
 }

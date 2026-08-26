@@ -64,6 +64,13 @@
       ],
       "last_seen": "2026-08-26T06:57:54.125290+00:00"
     },
+    "Bosta": {
+      "count": 1,
+      "job_ids": [
+        "722e697b3c21"
+      ],
+      "last_seen": "2026-08-26T14:49:56.317563+00:00"
+    },
     "Bupa Australia": {
       "count": 1,
       "job_ids": [
@@ -84,6 +91,13 @@
         "ee8cdfccd67f"
       ],
       "last_seen": "2026-08-26T06:57:54.125290+00:00"
+    },
+    "Canada Post / Postes Canada": {
+      "count": 1,
+      "job_ids": [
+        "931453959ac6"
+      ],
+      "last_seen": "2026-08-26T14:49:56.317563+00:00"
     },
     "Canopy Growth Corporation": {
       "count": 1,
@@ -454,8 +468,9 @@
       "last_seen": "2026-08-26T06:57:54.125290+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 111,
+      "count": 108,
       "job_ids": [
+        "343735dd34cc",
         "6e8ddc85b3ba",
         "2f0e8de8e4db",
         "ca7a9cf5cb92",
@@ -562,13 +577,9 @@
         "58917dd569c7",
         "b3732fadc7d4",
         "de0b30e60d66",
-        "2b9aaab94fb2",
-        "b31eef8ea28d",
-        "a9edea487c6e",
-        "75785b267691",
-        "82cc89e752e4"
+        "2b9aaab94fb2"
       ],
-      "last_seen": "2026-08-26T12:00:52+00:00"
+      "last_seen": "2026-08-26T13:14:14+00:00"
     },
     "Radisson Hotel Group": {
       "count": 1,
@@ -613,10 +624,9 @@
       "last_seen": "2026-08-23T16:32:07.967758+00:00"
     },
     "Saasuji": {
-      "count": 2,
+      "count": 1,
       "job_ids": [
-        "c83ba57c1505",
-        "fcaebbecd493"
+        "c83ba57c1505"
       ],
       "last_seen": "2026-08-24T14:48:31.731441+00:00"
     },
@@ -726,6 +736,13 @@
       ],
       "last_seen": "2026-08-25T01:37:29.972471+00:00"
     },
+    "The Butcher Shoppe": {
+      "count": 1,
+      "job_ids": [
+        "e5dc5ef09cb4"
+      ],
+      "last_seen": "2026-08-26T14:49:56.317563+00:00"
+    },
     "The Chedi LuÅ¡tica Bay": {
       "count": 1,
       "job_ids": [
@@ -825,5 +842,5 @@
       "last_seen": "2026-08-26T06:57:54.125290+00:00"
     }
   },
-  "updated_at": "2026-08-26T13:03:01.146665+00:00"
+  "updated_at": "2026-08-26T14:49:56.317563+00:00"
 }
