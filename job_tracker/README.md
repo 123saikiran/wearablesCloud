@@ -32,9 +32,9 @@ job_tracker/
 ├── config/
 │   └── alerts.json         # alert channels, recipient, keyword filter
 ├── data/
-│   ├── jobs.json           # active listings (last 30 days)
+│   ├── jobs.json           # active listings (last 3 days)
 │   ├── companies.json      # per-company listing counts
-│   └── job-history.json    # archive of listings older than 30 days
+│   └── job-history.json    # archive of listings older than 3 days
 └── frontend/
     └── index.html          # vanilla JS + Tailwind (CDN), no build step
 ```
@@ -124,5 +124,5 @@ python -m http.server 8000 --directory job_tracker/frontend
 
 - Indeed retired its public RSS feeds, so it isn't included as a source.
 - Job "id" is a hash of the listing URL, used for dedup and favoriting.
-- Listings older than 30 days roll off `jobs.json` into `job-history.json`
+- Listings older than 3 days roll off `jobs.json` into `job-history.json`
   (capped at the most recent 5,000 archived listings).
