@@ -1,6 +1,50 @@
 {
   "jobs": [
     {
+      "company": "Piramal Pharma Ltd",
+      "fetched_at": "2026-08-26T13:03:01.146665+00:00",
+      "id": "9b4db4d8768d",
+      "location": "Dhar,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "technical"
+      ],
+      "title": "Technical Staff",
+      "url": "https://remoteOK.com/remote-jobs/remote-technical-staff-piramal-pharma-ltd-1137118"
+    },
+    {
+      "company": "Newfoundland Chocolate Company",
+      "fetched_at": "2026-08-26T13:03:01.146665+00:00",
+      "id": "ceb36810e331",
+      "location": "St Johnâs,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "medical",
+        "non tech"
+      ],
+      "title": "building cleaner",
+      "url": "https://remoteOK.com/remote-jobs/remote-building-cleaner-newfoundland-chocolate-company-1137071"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-26T13:03:01.146665+00:00",
+      "id": "6e8ddc85b3ba",
+      "location": "Remote",
+      "posted_at": "2026-08-26T12:00:52+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1a1j"
+    },
+    {
       "company": "Lupin Ltd",
       "fetched_at": "2026-08-26T11:34:54.426432+00:00",
       "id": "f8b9d83082b6",
@@ -3955,71 +3999,7 @@
       ],
       "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-k96"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-08-23T12:50:48.873919+00:00",
-      "id": "459716503c45",
-      "location": "Remote",
-      "posted_at": "2026-08-23T12:40:35+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-498b"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-08-23T12:50:48.873919+00:00",
-      "id": "c900869a6a9d",
-      "location": "Remote",
-      "posted_at": "2026-08-23T11:57:48+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-m3"
-    },
-    {
-      "company": "Shamyl Bin Mansoor",
-      "fetched_at": "2026-08-23T12:50:48.873919+00:00",
-      "id": "71effc2997c0",
-      "location": "Remote",
-      "posted_at": "2026-08-23T11:48:12+00:00",
-      "source": "devto",
-      "tags": [
-        "opensource",
-        "go",
-        "jobs",
-        "architecture"
-      ],
-      "title": "freehire: An Open-Source Job Search Engine That Crawls Directly From Company Career Pages",
-      "url": "https://dev.to/shamylbm/freehire-an-open-source-job-search-engine-that-crawls-directly-from-company-career-pages-4eah"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-08-23T12:50:48.873919+00:00",
-      "id": "53da500bd4cc",
-      "location": "Remote",
-      "posted_at": "2026-08-23T11:42:08+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-21d7"
     }
   ],
-  "updated_at": "2026-08-26T11:34:54.426432+00:00"
+  "updated_at": "2026-08-26T13:03:01.146665+00:00"
 }

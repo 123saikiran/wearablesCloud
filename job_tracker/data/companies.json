@@ -389,6 +389,13 @@
       ],
       "last_seen": "2026-08-26T06:57:54.125290+00:00"
     },
+    "Newfoundland Chocolate Company": {
+      "count": 1,
+      "job_ids": [
+        "ceb36810e331"
+      ],
+      "last_seen": "2026-08-26T13:03:01.146665+00:00"
+    },
     "OTR": {
       "count": 2,
       "job_ids": [
@@ -410,6 +417,13 @@
         "124ebfde4b3e"
       ],
       "last_seen": "2026-08-26T06:57:54.125290+00:00"
+    },
+    "Piramal Pharma Ltd": {
+      "count": 1,
+      "job_ids": [
+        "9b4db4d8768d"
+      ],
+      "last_seen": "2026-08-26T13:03:01.146665+00:00"
     },
     "Platypus Shoes": {
       "count": 1,
@@ -440,8 +454,9 @@
       "last_seen": "2026-08-26T06:57:54.125290+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 113,
+      "count": 111,
       "job_ids": [
+        "6e8ddc85b3ba",
         "2f0e8de8e4db",
         "ca7a9cf5cb92",
         "6ab77dff37b2",
@@ -551,12 +566,9 @@
         "b31eef8ea28d",
         "a9edea487c6e",
         "75785b267691",
-        "82cc89e752e4",
-        "459716503c45",
-        "c900869a6a9d",
-        "53da500bd4cc"
+        "82cc89e752e4"
       ],
-      "last_seen": "2026-08-26T11:32:06+00:00"
+      "last_seen": "2026-08-26T12:00:52+00:00"
     },
     "Radisson Hotel Group": {
       "count": 1,
@@ -623,10 +635,9 @@
       "last_seen": "2026-08-26T06:57:54.125290+00:00"
     },
     "Shamyl Bin Mansoor": {
-      "count": 2,
+      "count": 1,
       "job_ids": [
-        "dbde16a78917",
-        "71effc2997c0"
+        "dbde16a78917"
       ],
       "last_seen": "2026-08-24T10:25:59+00:00"
     },
@@ -814,5 +825,5 @@
       "last_seen": "2026-08-26T06:57:54.125290+00:00"
     }
   },
-  "updated_at": "2026-08-26T11:34:54.426432+00:00"
+  "updated_at": "2026-08-26T13:03:01.146665+00:00"
 }
