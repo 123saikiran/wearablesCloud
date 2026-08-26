@@ -1,6 +1,23 @@
 {
   "jobs": [
     {
+      "company": "Salesforge",
+      "fetched_at": "2026-08-26T07:00:07.622077+00:00",
+      "id": "73ab7a096cc0",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "golang",
+        "senior",
+        "sales",
+        "engineer",
+        "backend"
+      ],
+      "title": "Senior Backend Engineer Build AI Agents",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1137114"
+    },
+    {
       "company": "InPost Group",
       "fetched_at": "2026-08-26T06:57:54.125290+00:00",
       "id": "667e24a34578",
@@ -4029,5 +4046,5 @@
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2men"
     }
   ],
-  "updated_at": "2026-08-26T06:57:54.125290+00:00"
+  "updated_at": "2026-08-26T07:00:07.622077+00:00"
 }
