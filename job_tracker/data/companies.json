@@ -340,6 +340,13 @@
       ],
       "last_seen": "2026-08-26T06:57:54.125290+00:00"
     },
+    "Lupin Ltd": {
+      "count": 1,
+      "job_ids": [
+        "f8b9d83082b6"
+      ],
+      "last_seen": "2026-08-26T11:34:54.426432+00:00"
+    },
     "Manhattan Grand Hotel": {
       "count": 1,
       "job_ids": [
@@ -381,13 +388,6 @@
         "7d488568589b"
       ],
       "last_seen": "2026-08-26T06:57:54.125290+00:00"
-    },
-    "Newfoundland Chocolate Company": {
-      "count": 1,
-      "job_ids": [
-        "ceb36810e331"
-      ],
-      "last_seen": "2026-08-23T11:26:00.668699+00:00"
     },
     "OTR": {
       "count": 2,
@@ -442,6 +442,8 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 113,
       "job_ids": [
+        "2f0e8de8e4db",
+        "ca7a9cf5cb92",
         "6ab77dff37b2",
         "23babbbd50c6",
         "c84aa78bb88e",
@@ -552,11 +554,9 @@
         "82cc89e752e4",
         "459716503c45",
         "c900869a6a9d",
-        "53da500bd4cc",
-        "d609e556bc47",
-        "a5aafa258547"
+        "53da500bd4cc"
       ],
-      "last_seen": "2026-08-26T10:21:07+00:00"
+      "last_seen": "2026-08-26T11:32:06+00:00"
     },
     "Radisson Hotel Group": {
       "count": 1,
@@ -701,6 +701,13 @@
       ],
       "last_seen": "2026-08-24T20:36:43.969634+00:00"
     },
+    "Tesco": {
+      "count": 1,
+      "job_ids": [
+        "6f3153c75a61"
+      ],
+      "last_seen": "2026-08-26T11:34:54.426432+00:00"
+    },
     "The Abaco Club": {
       "count": 1,
       "job_ids": [
@@ -807,5 +814,5 @@
       "last_seen": "2026-08-26T06:57:54.125290+00:00"
     }
   },
-  "updated_at": "2026-08-26T10:39:57.944144+00:00"
+  "updated_at": "2026-08-26T11:34:54.426432+00:00"
 }

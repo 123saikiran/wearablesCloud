@@ -1,6 +1,70 @@
 {
   "jobs": [
     {
+      "company": "Lupin Ltd",
+      "fetched_at": "2026-08-26T11:34:54.426432+00:00",
+      "id": "f8b9d83082b6",
+      "location": "Greater Nagpur Area,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "non tech"
+      ],
+      "title": "Officer",
+      "url": "https://remoteOK.com/remote-jobs/remote-officer-lupin-ltd-1137074"
+    },
+    {
+      "company": "Tesco",
+      "fetched_at": "2026-08-26T11:34:54.426432+00:00",
+      "id": "6f3153c75a61",
+      "location": "Newry,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec",
+        "customer support",
+        "testing",
+        "finance",
+        "sales",
+        "recruiter"
+      ],
+      "title": "Team Manager Newry Extra",
+      "url": "https://remoteOK.com/remote-jobs/remote-team-manager-newry-extra-tesco-1137077"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-26T11:34:54.426432+00:00",
+      "id": "2f0e8de8e4db",
+      "location": "Remote",
+      "posted_at": "2026-08-26T11:32:06+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-p7p"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-26T11:34:54.426432+00:00",
+      "id": "ca7a9cf5cb92",
+      "location": "Remote",
+      "posted_at": "2026-08-26T10:58:11+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2id9"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-26T10:39:57.944144+00:00",
       "id": "6ab77dff37b2",
@@ -3955,54 +4019,7 @@
       ],
       "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-21d7"
-    },
-    {
-      "company": "Newfoundland Chocolate Company",
-      "fetched_at": "2026-08-23T11:26:00.668699+00:00",
-      "id": "ceb36810e331",
-      "location": "St Johnâs,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "education",
-        "medical",
-        "non tech"
-      ],
-      "title": "building cleaner",
-      "url": "https://remoteOK.com/remote-jobs/remote-building-cleaner-newfoundland-chocolate-company-1137071"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-08-23T11:26:00.668699+00:00",
-      "id": "d609e556bc47",
-      "location": "Remote",
-      "posted_at": "2026-08-23T11:19:42+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4g78"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-08-23T11:26:00.668699+00:00",
-      "id": "a5aafa258547",
-      "location": "Remote",
-      "posted_at": "2026-08-23T10:56:58+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-fcf"
     }
   ],
-  "updated_at": "2026-08-26T10:39:57.944144+00:00"
+  "updated_at": "2026-08-26T11:34:54.426432+00:00"
 }
