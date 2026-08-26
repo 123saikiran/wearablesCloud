@@ -24,7 +24,7 @@ HISTORY_FILE = DATA_DIR / "job-history.json"
 NEW_THIS_RUN_FILE = DATA_DIR / ".new_this_run.json"
 
 RETENTION_DAYS = 3
-HISTORY_RETENTION_DAYS = 90
+HISTORY_RETENTION_DAYS = 3
 HISTORY_CAP = 5000
 REQUEST_TIMEOUT = 15
 USER_AGENT = "job-tracker-bot/1.0 (+github actions; educational project)"
