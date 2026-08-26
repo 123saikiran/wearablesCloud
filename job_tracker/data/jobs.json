@@ -1,6 +1,44 @@
 {
   "jobs": [
     {
+      "company": "Smokemart &amp; GiftBox",
+      "fetched_at": "2026-08-26T09:49:20.304854+00:00",
+      "id": "eeaa62dc6d91",
+      "location": "Darwin,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "accounting",
+        "customer support",
+        "recruiter",
+        "non tech",
+        "virtual assistant",
+        "infosec",
+        "marketing",
+        "exec",
+        "sales",
+        "golang"
+      ],
+      "title": "Smokemart &amp; GiftBox Palmerstone Sales Assistant",
+      "url": "https://remoteOK.com/remote-jobs/remote-smokemart-amp-giftbox-palmerstone-sales-assistant-smokemart-amp-giftbox-1137125"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-26T09:49:20.304854+00:00",
+      "id": "c84aa78bb88e",
+      "location": "Remote",
+      "posted_at": "2026-08-26T09:00:25+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3bfo"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-26T08:51:09.740340+00:00",
       "id": "925556925c3c",
@@ -3980,55 +4018,7 @@
       ],
       "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4dec"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-08-23T10:29:39.964442+00:00",
-      "id": "45e475eb8c09",
-      "location": "Remote",
-      "posted_at": "2026-08-23T09:49:20+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-193j"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-08-23T09:32:47.484260+00:00",
-      "id": "0dfbca662881",
-      "location": "Remote",
-      "posted_at": "2026-08-23T09:21:02+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2h7"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-08-23T09:32:47.484260+00:00",
-      "id": "8059f0cc03e9",
-      "location": "Remote",
-      "posted_at": "2026-08-23T08:54:55+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3d9f"
     }
   ],
-  "updated_at": "2026-08-26T08:51:09.740340+00:00"
+  "updated_at": "2026-08-26T09:49:20.304854+00:00"
 }
