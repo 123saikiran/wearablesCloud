@@ -124,5 +124,8 @@ python -m http.server 8000 --directory job_tracker/frontend
 
 - Indeed retired its public RSS feeds, so it isn't included as a source.
 - Job "id" is a hash of the listing URL, used for dedup and favoriting.
-- Listings older than 3 days roll off `jobs.json` into `job-history.json`
-  (capped at the most recent 5,000 archived listings).
+- Listings older than 3 days roll off `jobs.json` into `job-history.json`,
+  which itself drops anything older than 90 days (and is additionally
+  capped at the most recent 5,000 archived listings). Dedup checks both
+  files, so a listing a source keeps re-serving after it's archived isn't
+  treated as new again.

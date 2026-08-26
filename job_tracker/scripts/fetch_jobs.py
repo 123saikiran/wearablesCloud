@@ -24,6 +24,7 @@ HISTORY_FILE = DATA_DIR / "job-history.json"
 NEW_THIS_RUN_FILE = DATA_DIR / ".new_this_run.json"
 
 RETENTION_DAYS = 3
+HISTORY_RETENTION_DAYS = 90
 HISTORY_CAP = 5000
 REQUEST_TIMEOUT = 15
 USER_AGENT = "job-tracker-bot/1.0 (+github actions; educational project)"
@@ -160,6 +161,9 @@ def main() -> int:
     existing = load_json(JOBS_FILE, {"updated_at": None, "jobs": []})
     existing_by_id = {j["id"]: j for j in existing.get("jobs", [])}
 
+    history = load_json(HISTORY_FILE, {"archived_before": None, "jobs": []})
+    history_by_id = {j["id"]: j for j in history.get("jobs", [])}
+
     fetched_at = now_iso()
     newly_added: list[dict] = []
 
@@ -172,7 +176,11 @@ def main() -> int:
 
         for job in raw_jobs:
             jid = job_id(job["url"])
-            if jid in existing_by_id:
+            # Skip anything already known, whether still active or already
+            # archived — otherwise a source that keeps re-serving an old
+            # listing (e.g. RemoteOK) makes it look "new" again forever,
+            # re-triggering alerts and re-archiving it every run.
+            if jid in existing_by_id or jid in history_by_id:
                 continue
             job["id"] = jid
             job["fetched_at"] = fetched_at
@@ -183,35 +191,33 @@ def main() -> int:
 
     save_json(NEW_THIS_RUN_FILE, {"jobs": newly_added})
 
-    cutoff = datetime.now(timezone.utc) - timedelta(days=RETENTION_DAYS)
-
-    def is_recent(job: dict) -> bool:
+    def older_than(job: dict, cutoff: datetime) -> bool:
         ts = job.get("posted_at") or job.get("fetched_at")
         if not ts:
-            return True
+            return False
         try:
-            return datetime.fromisoformat(ts) >= cutoff
+            return datetime.fromisoformat(ts) < cutoff
         except ValueError:
-            return True
+            return False
 
-    active_jobs = [j for j in existing_by_id.values() if is_recent(j)]
-    archived_jobs = [j for j in existing_by_id.values() if not is_recent(j)]
+    active_cutoff = datetime.now(timezone.utc) - timedelta(days=RETENTION_DAYS)
+    active_jobs = [j for j in existing_by_id.values() if not older_than(j, active_cutoff)]
+    archived_jobs = [j for j in existing_by_id.values() if older_than(j, active_cutoff)]
 
     active_jobs.sort(key=lambda j: j.get("posted_at") or j.get("fetched_at") or "", reverse=True)
 
     save_json(JOBS_FILE, {"updated_at": fetched_at, "jobs": active_jobs})
 
-    if archived_jobs:
-        history = load_json(HISTORY_FILE, {"archived_before": None, "jobs": []})
-        history_by_id = {j["id"]: j for j in history.get("jobs", [])}
-        for j in archived_jobs:
-            history_by_id[j["id"]] = j
-        history_jobs = sorted(
-            history_by_id.values(),
-            key=lambda j: j.get("posted_at") or j.get("fetched_at") or "",
-            reverse=True,
-        )[:HISTORY_CAP]
-        save_json(HISTORY_FILE, {"archived_before": fetched_at, "jobs": history_jobs})
+    for j in archived_jobs:
+        history_by_id[j["id"]] = j
+
+    history_cutoff = datetime.now(timezone.utc) - timedelta(days=HISTORY_RETENTION_DAYS)
+    history_jobs = sorted(
+        (j for j in history_by_id.values() if not older_than(j, history_cutoff)),
+        key=lambda j: j.get("posted_at") or j.get("fetched_at") or "",
+        reverse=True,
+    )[:HISTORY_CAP]
+    save_json(HISTORY_FILE, {"archived_before": fetched_at, "jobs": history_jobs})
 
     companies: dict[str, dict] = {}
     for job in active_jobs:
