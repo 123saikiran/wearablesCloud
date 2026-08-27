@@ -14,6 +14,13 @@
       ],
       "last_seen": "2026-08-26T06:57:54.125290+00:00"
     },
+    "Aimwear": {
+      "count": 1,
+      "job_ids": [
+        "abc8e31de8c8"
+      ],
+      "last_seen": "2026-08-27T08:39:12.368596+00:00"
+    },
     "Alaka`ina Foundation Family of Companies": {
       "count": 1,
       "job_ids": [
@@ -71,6 +78,13 @@
         "722e697b3c21"
       ],
       "last_seen": "2026-08-26T14:49:56.317563+00:00"
+    },
+    "Buffalo Wild Wings - Fralich, Inc.": {
+      "count": 1,
+      "job_ids": [
+        "1fdac1349f80"
+      ],
+      "last_seen": "2026-08-27T08:39:12.368596+00:00"
     },
     "Bupa Australia": {
       "count": 1,
@@ -134,6 +148,13 @@
         "6ab9f03fdad5"
       ],
       "last_seen": "2026-08-26T06:57:54.125290+00:00"
+    },
+    "Complex Co.": {
+      "count": 1,
+      "job_ids": [
+        "bb7ca88ddd4c"
+      ],
+      "last_seen": "2026-08-27T08:39:12.368596+00:00"
     },
     "Continental Events": {
       "count": 1,
@@ -217,13 +238,6 @@
         "11fd1f667365"
       ],
       "last_seen": "2026-08-26T06:57:54.125290+00:00"
-    },
-    "Edspired.Tech": {
-      "count": 1,
-      "job_ids": [
-        "dd7e40833aa3"
-      ],
-      "last_seen": "2026-08-24T07:08:42.171191+00:00"
     },
     "Engine": {
       "count": 1,
@@ -313,13 +327,6 @@
       ],
       "last_seen": "2026-08-26T06:57:54.125290+00:00"
     },
-    "JobTrade": {
-      "count": 1,
-      "job_ids": [
-        "12232a64c4ca"
-      ],
-      "last_seen": "2026-08-24T07:08:42.171191+00:00"
-    },
     "Kent Removals &amp; Storage": {
       "count": 1,
       "job_ids": [
@@ -375,6 +382,13 @@
         "6021781e68f2"
       ],
       "last_seen": "2026-08-26T06:57:54.125290+00:00"
+    },
+    "Locals": {
+      "count": 1,
+      "job_ids": [
+        "02bc3afbb29d"
+      ],
+      "last_seen": "2026-08-27T08:39:12.368596+00:00"
     },
     "Lupin Ltd": {
       "count": 1,
@@ -432,6 +446,13 @@
       ],
       "last_seen": "2026-08-26T13:03:01.146665+00:00"
     },
+    "Nick Scali Limited": {
+      "count": 1,
+      "job_ids": [
+        "28c3bb23e7db"
+      ],
+      "last_seen": "2026-08-27T08:39:12.368596+00:00"
+    },
     "OTR": {
       "count": 2,
       "job_ids": [
@@ -439,6 +460,13 @@
         "2e1a8b8bf3ff"
       ],
       "last_seen": "2026-08-26T06:57:54.125290+00:00"
+    },
+    "Ocean / OcÃ©an": {
+      "count": 1,
+      "job_ids": [
+        "635ae882f4f1"
+      ],
+      "last_seen": "2026-08-27T08:39:12.368596+00:00"
     },
     "Orca Bio": {
       "count": 1,
@@ -490,8 +518,10 @@
       "last_seen": "2026-08-26T06:57:54.125290+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 89,
+      "count": 80,
       "job_ids": [
+        "ff07a704e2e8",
+        "bf06873abd29",
         "09b459afaa0f",
         "95518fccd8af",
         "129743b03c98",
@@ -569,20 +599,9 @@
         "bd5d6cd815c2",
         "7714660de534",
         "a4953942be94",
-        "07e296402233",
-        "02e5511b0427",
-        "a9ef38c91b58",
-        "3903eed2f82a",
-        "4c5e61c0006c",
-        "158facaef6e1",
-        "421561be5f98",
-        "ce000ddb0858",
-        "68b99f6924eb",
-        "5270e541320c",
-        "af10f78addce",
-        "a0e6ea4bd597"
+        "07e296402233"
       ],
-      "last_seen": "2026-08-26T20:20:53+00:00"
+      "last_seen": "2026-08-27T05:09:05+00:00"
     },
     "Radisson Hotel Group": {
       "count": 1,
@@ -783,11 +802,12 @@
       "last_seen": "2026-08-26T06:57:54.125290+00:00"
     },
     "The Home Depot Canada": {
-      "count": 1,
+      "count": 2,
       "job_ids": [
+        "e1e714780ed0",
         "3aae7076661b"
       ],
-      "last_seen": "2026-08-26T06:57:54.125290+00:00"
+      "last_seen": "2026-08-27T08:39:12.368596+00:00"
     },
     "The iNUA Hotel Collection": {
       "count": 1,
@@ -853,11 +873,12 @@
       "last_seen": "2026-08-25T15:49:15.350547+00:00"
     },
     "jidonglab": {
-      "count": 1,
+      "count": 2,
       "job_ids": [
+        "82fa3643166a",
         "b87677dd4d85"
       ],
-      "last_seen": "2026-08-25T03:38:54+00:00"
+      "last_seen": "2026-08-27T03:48:24+00:00"
     },
     "qing": {
       "count": 1,
@@ -881,5 +902,5 @@
       "last_seen": "2026-08-26T06:57:54.125290+00:00"
     }
   },
-  "updated_at": "2026-08-26T23:11:05.026003+00:00"
+  "updated_at": "2026-08-27T08:39:12.368596+00:00"
 }
