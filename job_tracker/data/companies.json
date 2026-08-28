@@ -72,6 +72,13 @@
       ],
       "last_seen": "2026-08-26T06:57:54.125290+00:00"
     },
+    "Blackbird Interactive": {
+      "count": 1,
+      "job_ids": [
+        "63695c1ba827"
+      ],
+      "last_seen": "2026-08-28T04:07:49.727414+00:00"
+    },
     "Bosta": {
       "count": 1,
       "job_ids": [
@@ -583,8 +590,9 @@
       "last_seen": "2026-08-26T06:57:54.125290+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 66,
+      "count": 54,
       "job_ids": [
+        "b381a662abc3",
         "e671a1c89888",
         "ff07a704e2e8",
         "bf06873abd29",
@@ -637,22 +645,9 @@
         "51fb98bd09db",
         "dfa7d4efcf27",
         "97baefeb14b2",
-        "7b19d56f3f8a",
-        "4b380f5eb3c1",
-        "01ea6a6fbd75",
-        "6ba8d015f557",
-        "39feabd65054",
-        "cd9f045a9049",
-        "c5a0e7e0ef38",
-        "17ec7b8585c0",
-        "a9a95546a531",
-        "283994a89b62",
-        "388617b475c8",
-        "37f3aac8a4ee",
-        "9575a963c5ba",
-        "4deef16e24cf"
+        "7b19d56f3f8a"
       ],
-      "last_seen": "2026-08-27T16:29:17+00:00"
+      "last_seen": "2026-08-28T01:07:02+00:00"
     },
     "Radisson Hotel Group": {
       "count": 1,
@@ -704,11 +699,12 @@
       "last_seen": "2026-08-26T23:11:05.026003+00:00"
     },
     "Saasuji": {
-      "count": 1,
+      "count": 2,
       "job_ids": [
+        "c83ba57c1505",
         "fcaebbecd493"
       ],
-      "last_seen": "2026-08-26T16:22:27.488510+00:00"
+      "last_seen": "2026-08-28T04:07:49.727414+00:00"
     },
     "Saipem": {
       "count": 1,
@@ -723,6 +719,13 @@
         "73ab7a096cc0"
       ],
       "last_seen": "2026-08-26T07:00:07.622077+00:00"
+    },
+    "Scotsman Hospitality": {
+      "count": 1,
+      "job_ids": [
+        "6a90d1bbef88"
+      ],
+      "last_seen": "2026-08-28T04:07:49.727414+00:00"
     },
     "Seed Heritage": {
       "count": 1,
@@ -774,6 +777,20 @@
       ],
       "last_seen": "2026-08-26T06:57:54.125290+00:00"
     },
+    "Storage King Group": {
+      "count": 1,
+      "job_ids": [
+        "129334ff7ac3"
+      ],
+      "last_seen": "2026-08-28T04:07:49.727414+00:00"
+    },
+    "Subway": {
+      "count": 1,
+      "job_ids": [
+        "99805f4ae447"
+      ],
+      "last_seen": "2026-08-28T04:07:49.727414+00:00"
+    },
     "Sunbelt Rentals, Inc.": {
       "count": 1,
       "job_ids": [
@@ -809,13 +826,6 @@
       ],
       "last_seen": "2026-08-25T20:34:55.312771+00:00"
     },
-    "Territory Generation": {
-      "count": 1,
-      "job_ids": [
-        "58bb8296da08"
-      ],
-      "last_seen": "2026-08-24T20:36:43.969634+00:00"
-    },
     "Tesco": {
       "count": 2,
       "job_ids": [
@@ -824,12 +834,12 @@
       ],
       "last_seen": "2026-08-27T19:43:33.462203+00:00"
     },
-    "The Abaco Club": {
+    "Tessera Labs": {
       "count": 1,
       "job_ids": [
-        "b834e6cbcfc8"
+        "f18c1fd14d71"
       ],
-      "last_seen": "2026-08-25T01:37:29.972471+00:00"
+      "last_seen": "2026-08-28T04:07:49.727414+00:00"
     },
     "The Butcher Shoppe": {
       "count": 1,
@@ -846,12 +856,13 @@
       "last_seen": "2026-08-26T06:57:54.125290+00:00"
     },
     "The Home Depot Canada": {
-      "count": 2,
+      "count": 3,
       "job_ids": [
+        "78984922d1c4",
         "e1e714780ed0",
         "3aae7076661b"
       ],
-      "last_seen": "2026-08-27T08:39:12.368596+00:00"
+      "last_seen": "2026-08-28T04:07:49.727414+00:00"
     },
     "The Shepparton Adviser": {
       "count": 1,
@@ -902,6 +913,14 @@
       ],
       "last_seen": "2026-08-26T06:57:54.125290+00:00"
     },
+    "W Hotels": {
+      "count": 2,
+      "job_ids": [
+        "7b5c65463ee8",
+        "eed48f89c829"
+      ],
+      "last_seen": "2026-08-28T04:07:49.727414+00:00"
+    },
     "Walmart Canada": {
       "count": 1,
       "job_ids": [
@@ -924,11 +943,10 @@
       "last_seen": "2026-08-25T15:49:15.350547+00:00"
     },
     "jidonglab": {
-      "count": 3,
+      "count": 2,
       "job_ids": [
         "025e0cefcc34",
-        "82fa3643166a",
-        "b87677dd4d85"
+        "82fa3643166a"
       ],
       "last_seen": "2026-08-27T15:50:31+00:00"
     },
@@ -954,5 +972,5 @@
       "last_seen": "2026-08-26T06:57:54.125290+00:00"
     }
   },
-  "updated_at": "2026-08-27T19:43:33.462203+00:00"
+  "updated_at": "2026-08-28T04:07:49.727414+00:00"
 }

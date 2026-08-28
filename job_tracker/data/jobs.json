@@ -1,6 +1,192 @@
 {
   "jobs": [
     {
+      "company": "W Hotels",
+      "fetched_at": "2026-08-28T04:07:49.727414+00:00",
+      "id": "7b5c65463ee8",
+      "location": "Albufeira,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "customer support",
+        "finance",
+        "non tech",
+        "supervisor",
+        "c",
+        "exec"
+      ],
+      "title": "Gardener NUSC",
+      "url": "https://remoteOK.com/remote-jobs/remote-gardener-nusc-w-hotels-1137185"
+    },
+    {
+      "company": "W Hotels",
+      "fetched_at": "2026-08-28T04:07:49.727414+00:00",
+      "id": "eed48f89c829",
+      "location": "Albufeira,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "design",
+        "education",
+        "marketing",
+        "travel",
+        "scheme",
+        "ops",
+        "medical",
+        "engineer",
+        "digital nomad",
+        "infosec",
+        "customer support",
+        "exec"
+      ],
+      "title": "Gardener",
+      "url": "https://remoteOK.com/remote-jobs/remote-gardener-w-hotels-1137164"
+    },
+    {
+      "company": "Storage King Group",
+      "fetched_at": "2026-08-28T04:07:49.727414+00:00",
+      "id": "129334ff7ac3",
+      "location": "Rozelle,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec",
+        "virtual assistant",
+        "education",
+        "customer support",
+        "marketing",
+        "travel",
+        "finance",
+        "legal",
+        "sales",
+        "medical",
+        "recruiter",
+        "full time"
+      ],
+      "title": "Assistant Manager",
+      "url": "https://remoteOK.com/remote-jobs/remote-assistant-manager-storage-king-group-1137161"
+    },
+    {
+      "company": "Blackbird Interactive",
+      "fetched_at": "2026-08-28T04:07:49.727414+00:00",
+      "id": "63695c1ba827",
+      "location": "Vancouver, BC, Canada",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "design",
+        "game dev",
+        "designer",
+        "technical",
+        "customer support",
+        "testing",
+        "content writing",
+        "senior",
+        "engineer",
+        "digital nomad"
+      ],
+      "title": "Senior Level Designer",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-level-designer-blackbird-interactive-1137156"
+    },
+    {
+      "company": "Tessera Labs",
+      "fetched_at": "2026-08-28T04:07:49.727414+00:00",
+      "id": "f18c1fd14d71",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "design",
+        "sys admin",
+        "consulting",
+        "testing",
+        "exec",
+        "cloud",
+        "senior",
+        "ops",
+        "engineer",
+        "ecommerce",
+        "shopify",
+        "full time",
+        "digital nomad"
+      ],
+      "title": "Oracle Fusion Cloud Lead â Logistics & Supply Chain Management",
+      "url": "https://remoteOK.com/remote-jobs/remote-oracle-fusion-cloud-lead-logistics-supply-chain-management-tessera-labs-1137155"
+    },
+    {
+      "company": "Scotsman Hospitality",
+      "fetched_at": "2026-08-28T04:07:49.727414+00:00",
+      "id": "6a90d1bbef88",
+      "location": "Glasgow,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "customer support",
+        "finance",
+        "non tech"
+      ],
+      "title": "Kitchen Porter",
+      "url": "https://remoteOK.com/remote-jobs/remote-kitchen-porter-scotsman-hospitality-1137184"
+    },
+    {
+      "company": "The Home Depot Canada",
+      "fetched_at": "2026-08-28T04:07:49.727414+00:00",
+      "id": "78984922d1c4",
+      "location": "Trois-RiviÃ¨res,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [],
+      "title": "Technicien Ã la location d'outils",
+      "url": "https://remoteOK.com/remote-jobs/remote-technicien-a-la-location-doutils-the-home-depot-canada-1137173"
+    },
+    {
+      "company": "Saasuji",
+      "fetched_at": "2026-08-28T04:07:49.727414+00:00",
+      "id": "c83ba57c1505",
+      "location": "Newcastle Upon Tyne,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "finance",
+        "medical",
+        "non tech"
+      ],
+      "title": "CDP",
+      "url": "https://remoteOK.com/remote-jobs/remote-cdp-saasuji-1137091"
+    },
+    {
+      "company": "Subway",
+      "fetched_at": "2026-08-28T04:07:49.727414+00:00",
+      "id": "99805f4ae447",
+      "location": "Grand Falls-Windsor,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "non tech"
+      ],
+      "title": "Sandwich artist",
+      "url": "https://remoteOK.com/remote-jobs/remote-sandwich-artist-subway-1137086"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-28T04:07:49.727414+00:00",
+      "id": "b381a662abc3",
+      "location": "Remote",
+      "posted_at": "2026-08-28T01:07:02+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-21ao"
+    },
+    {
       "company": "Carv",
       "fetched_at": "2026-08-27T19:43:33.462203+00:00",
       "id": "c53b1db41795",
@@ -3528,273 +3714,7 @@
       ],
       "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2elg"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-08-25T04:44:26.046321+00:00",
-      "id": "4b380f5eb3c1",
-      "location": "Remote",
-      "posted_at": "2026-08-25T03:59:32+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-h28"
-    },
-    {
-      "company": "jidonglab",
-      "fetched_at": "2026-08-25T04:44:26.046321+00:00",
-      "id": "b87677dd4d85",
-      "location": "Remote",
-      "posted_at": "2026-08-25T03:38:54+00:00",
-      "source": "devto",
-      "tags": [
-        "career",
-        "interview",
-        "jobs",
-        "discuss"
-      ],
-      "title": "Any Questions for Us? 7 Questions to Ask the Interviewer",
-      "url": "https://dev.to/ji_ai/any-questions-for-us-7-questions-to-ask-the-interviewer-2efi"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-08-25T04:44:26.046321+00:00",
-      "id": "01ea6a6fbd75",
-      "location": "Remote",
-      "posted_at": "2026-08-25T03:11:49+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-208n"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-08-25T03:04:13.640896+00:00",
-      "id": "6ba8d015f557",
-      "location": "Remote",
-      "posted_at": "2026-08-25T02:10:00+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-51be"
-    },
-    {
-      "company": "The Abaco Club",
-      "fetched_at": "2026-08-25T01:37:29.972471+00:00",
-      "id": "b834e6cbcfc8",
-      "location": "Marsh Harbour,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "design",
-        "education",
-        "technical",
-        "customer support",
-        "dev",
-        "exec",
-        "senior",
-        "ops",
-        "excel",
-        "engineer",
-        "digital nomad",
-        "marketing",
-        "virtual assistant",
-        "medical"
-      ],
-      "title": "Residential Technician",
-      "url": "https://remoteOK.com/remote-jobs/remote-residential-technician-the-abaco-club-1137096"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-08-25T01:37:29.972471+00:00",
-      "id": "39feabd65054",
-      "location": "Remote",
-      "posted_at": "2026-08-25T00:52:31+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-445f"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-08-25T01:37:29.972471+00:00",
-      "id": "cd9f045a9049",
-      "location": "Remote",
-      "posted_at": "2026-08-24T23:54:58+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-15je"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-08-25T01:37:29.972471+00:00",
-      "id": "c5a0e7e0ef38",
-      "location": "Remote",
-      "posted_at": "2026-08-24T23:34:12+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-5e4a"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-08-24T23:26:56.264754+00:00",
-      "id": "17ec7b8585c0",
-      "location": "Remote",
-      "posted_at": "2026-08-24T23:10:59+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1k6k"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-08-24T23:26:56.264754+00:00",
-      "id": "a9a95546a531",
-      "location": "Remote",
-      "posted_at": "2026-08-24T22:43:52+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-5d75"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-08-24T22:32:08.651687+00:00",
-      "id": "283994a89b62",
-      "location": "Remote",
-      "posted_at": "2026-08-24T22:11:13+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-54n1"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-08-24T22:32:08.651687+00:00",
-      "id": "388617b475c8",
-      "location": "Remote",
-      "posted_at": "2026-08-24T21:50:42+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-5dfn"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-08-24T21:34:59.579845+00:00",
-      "id": "37f3aac8a4ee",
-      "location": "Remote",
-      "posted_at": "2026-08-24T21:15:23+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-cj7"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-08-24T21:34:59.579845+00:00",
-      "id": "9575a963c5ba",
-      "location": "Remote",
-      "posted_at": "2026-08-24T20:46:22+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2o8i"
-    },
-    {
-      "company": "Territory Generation",
-      "fetched_at": "2026-08-24T20:36:43.969634+00:00",
-      "id": "58bb8296da08",
-      "location": "Alice Springs,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "education",
-        "technical",
-        "exec",
-        "ops"
-      ],
-      "title": "Electrical Tradesperson",
-      "url": "https://remoteOK.com/remote-jobs/remote-electrical-tradesperson-territory-generation-1137092"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-08-24T20:36:43.969634+00:00",
-      "id": "4deef16e24cf",
-      "location": "Remote",
-      "posted_at": "2026-08-24T20:02:52+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-28aj"
     }
   ],
-  "updated_at": "2026-08-27T19:43:33.462203+00:00"
+  "updated_at": "2026-08-28T04:07:49.727414+00:00"
 }
