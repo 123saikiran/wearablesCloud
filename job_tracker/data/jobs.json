@@ -1,6 +1,517 @@
 {
   "jobs": [
     {
+      "company": "Radisson Hotel Group",
+      "fetched_at": "2026-08-29T14:18:42.203837+00:00",
+      "id": "bbe58d0dacdb",
+      "location": "Visakhapatnam Rural mandal,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "technical",
+        "marketing",
+        "excel",
+        "sales",
+        "engineer",
+        "recruiter",
+        "full time",
+        "exec",
+        "customer support",
+        "golang"
+      ],
+      "title": "Sales Manager",
+      "url": "https://remoteOK.com/remote-jobs/remote-sales-manager-radisson-hotel-group-1137200"
+    },
+    {
+      "company": "FedEx",
+      "fetched_at": "2026-08-29T14:18:42.203837+00:00",
+      "id": "5f2969c27594",
+      "location": "Pembroke,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "infosec",
+        "testing",
+        "exec",
+        "math",
+        "content writing",
+        "sales"
+      ],
+      "title": "courier",
+      "url": "https://remoteOK.com/remote-jobs/remote-courier-fedex-1137195"
+    },
+    {
+      "company": "Royal Lepage Icon Realty",
+      "fetched_at": "2026-08-29T14:18:42.203837+00:00",
+      "id": "7f166a2a904d",
+      "location": "Prince Albert,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "finance",
+        "education",
+        "medical",
+        "non tech"
+      ],
+      "title": "handyman woman",
+      "url": "https://remoteOK.com/remote-jobs/remote-handyman-woman-royal-lepage-icon-realty-1137196"
+    },
+    {
+      "company": "Stanley Black &amp; Decker, Inc.",
+      "fetched_at": "2026-08-29T14:18:42.203837+00:00",
+      "id": "55ad3d8aceec",
+      "location": "ä¸­å±±å¸,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "marketing",
+        "non tech"
+      ],
+      "title": "åæ",
+      "url": "https://remoteOK.com/remote-jobs/"
+    },
+    {
+      "company": "Salesforge",
+      "fetched_at": "2026-08-29T14:18:42.203837+00:00",
+      "id": "73ab7a096cc0",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "golang",
+        "senior",
+        "sales",
+        "engineer",
+        "backend"
+      ],
+      "title": "Senior Backend Engineer Build AI Agents",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1137114"
+    },
+    {
+      "company": "InPost Group",
+      "fetched_at": "2026-08-29T14:18:42.203837+00:00",
+      "id": "667e24a34578",
+      "location": "Indore,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [],
+      "title": "Parcel Delivery Drivers",
+      "url": "https://remoteOK.com/remote-jobs/remote-parcel-delivery-drivers-inpost-group-1137066"
+    },
+    {
+      "company": "Kruger NearShore LLC - Rekluti",
+      "fetched_at": "2026-08-29T14:18:42.203837+00:00",
+      "id": "e74fef823751",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "full stack",
+        "front end",
+        "python",
+        "dev",
+        "testing",
+        "web dev",
+        "quality assurance",
+        "devops",
+        "c",
+        "cloud",
+        "nosql",
+        "git",
+        "flutter",
+        "angular",
+        "mobile",
+        "golang",
+        "backend",
+        "digital nomad"
+      ],
+      "title": "DESARROLLADOR FULL STACK",
+      "url": "https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062"
+    },
+    {
+      "company": "RainFocus",
+      "fetched_at": "2026-08-29T14:18:42.203837+00:00",
+      "id": "cbf056ed26a5",
+      "location": "Orem, UT",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "analyst",
+        "design",
+        "saas",
+        "infosec",
+        "education",
+        "technical",
+        "dev",
+        "cloud",
+        "exec",
+        "senior",
+        "ops",
+        "marketing",
+        "engineer",
+        "digital nomad"
+      ],
+      "title": "Senior Governance Risk and Compliance Analyst",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-governance-risk-and-compliance-analyst-rainfocus-1137061"
+    },
+    {
+      "company": "East Coast Concepts",
+      "fetched_at": "2026-08-29T14:18:42.203837+00:00",
+      "id": "11fd1f667365",
+      "location": "Newcastle Upon Tyne,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "finance",
+        "medical",
+        "non tech"
+      ],
+      "title": "CDP",
+      "url": "https://remoteOK.com/remote-jobs/remote-cdp-east-coast-concepts-1137065"
+    },
+    {
+      "company": "Shoppers Drug Mart",
+      "fetched_at": "2026-08-29T14:18:42.203837+00:00",
+      "id": "b7ec237534b0",
+      "location": "Kitchener,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec",
+        "customer support",
+        "dev",
+        "medical",
+        "digital nomad"
+      ],
+      "title": "Post Office Manager",
+      "url": "https://remoteOK.com/remote-jobs/remote-post-office-manager-shoppers-drug-mart-1137063"
+    },
+    {
+      "company": "Linsco Ltd",
+      "fetched_at": "2026-08-29T14:18:42.203837+00:00",
+      "id": "16a99d26b809",
+      "location": "Dronfield,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "design",
+        "dev",
+        "travel",
+        "finance",
+        "scheme",
+        "microsoft",
+        "exec",
+        "excel",
+        "full time",
+        "digital nomad"
+      ],
+      "title": "Estimator",
+      "url": "https://remoteOK.com/remote-jobs/remote-estimator-linsco-ltd-1137060"
+    },
+    {
+      "company": "Dart",
+      "fetched_at": "2026-08-29T14:18:42.203837+00:00",
+      "id": "c71c2c8d8439",
+      "location": "George Town,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "design",
+        "sys admin",
+        "education",
+        "customer support",
+        "testing",
+        "travel",
+        "node",
+        "microsoft",
+        "exec",
+        "ops",
+        "medical",
+        "engineer",
+        "digital nomad",
+        "c sharp",
+        "technical",
+        "marketing",
+        "quality assurance",
+        "javascript",
+        "c",
+        "css",
+        "html"
+      ],
+      "title": "Project Systems Specialist",
+      "url": "https://remoteOK.com/remote-jobs/remote-project-systems-specialist-dart-1137069"
+    },
+    {
+      "company": "MyAarohan",
+      "fetched_at": "2026-08-29T14:18:42.203837+00:00",
+      "id": "4dab66a2ffad",
+      "location": "QuÃ©bec,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "marketing",
+        "non tech"
+      ],
+      "title": "Uday",
+      "url": "https://remoteOK.com/remote-jobs/remote-uday-myaarohan-1137048"
+    },
+    {
+      "company": "McNab",
+      "fetched_at": "2026-08-29T14:18:42.203837+00:00",
+      "id": "16ec32e5d07f",
+      "location": "West End,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "customer support",
+        "dev",
+        "marketing",
+        "exec",
+        "medical",
+        "recruiter",
+        "digital nomad"
+      ],
+      "title": "Estimator Brisbane",
+      "url": "https://remoteOK.com/remote-jobs/remote-estimator-brisbane-mcnab-1137047"
+    },
+    {
+      "company": "Kent Removals &amp; Storage",
+      "fetched_at": "2026-08-29T14:18:42.203837+00:00",
+      "id": "eae2fdd6a2d7",
+      "location": "Albury,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "customer support",
+        "non tech",
+        "education",
+        "golang",
+        "medical",
+        "full time"
+      ],
+      "title": "Removalist Offsider",
+      "url": "https://remoteOK.com/remote-jobs/remote-removalist-offsider-kent-removals-amp-storage-1137059"
+    },
+    {
+      "company": "OTR",
+      "fetched_at": "2026-08-29T14:18:42.203837+00:00",
+      "id": "3d70ac7edb9b",
+      "location": "Alice Springs,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "virtual assistant",
+        "customer support",
+        "marketing",
+        "travel",
+        "speech",
+        "finance",
+        "medical",
+        "recruiter",
+        "non tech",
+        "exec",
+        "infosec",
+        "education",
+        "ops",
+        "sales",
+        "golang"
+      ],
+      "title": "Reddy Express Alice Springs Mt Gillen Customer Service Representative",
+      "url": "https://remoteOK.com/remote-jobs/remote-reddy-express-alice-springs-mt-gillen-customer-service-representative-otr-1137043"
+    },
+    {
+      "company": "UzEats",
+      "fetched_at": "2026-08-29T14:18:42.203837+00:00",
+      "id": "7ccf4ccd73b0",
+      "location": "Reach,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "customer support",
+        "non tech"
+      ],
+      "title": "Open positions",
+      "url": "https://remoteOK.com/remote-jobs/remote-open-positions-uzeats-1137037"
+    },
+    {
+      "company": "Cotton On Group",
+      "fetched_at": "2026-08-29T14:18:42.203837+00:00",
+      "id": "d86dfdb3f62f",
+      "location": "Parramatta,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "virtual assistant",
+        "customer support",
+        "marketing",
+        "travel",
+        "speech",
+        "finance",
+        "medical",
+        "recruiter",
+        "non tech"
+      ],
+      "title": "Stock Assistant Supre Parramatta",
+      "url": "https://remoteOK.com/remote-jobs/remote-stock-assistant-supre-parramatta-cotton-on-group-1137039"
+    },
+    {
+      "company": "Retail FX",
+      "fetched_at": "2026-08-29T14:18:42.203837+00:00",
+      "id": "b2f1ebf48dc5",
+      "location": "Bunbury,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "virtual assistant",
+        "customer support",
+        "marketing",
+        "travel",
+        "speech",
+        "finance",
+        "medical",
+        "recruiter",
+        "non tech",
+        "exec",
+        "infosec",
+        "education",
+        "ops",
+        "sales",
+        "golang"
+      ],
+      "title": "Store Manager Bunbury",
+      "url": "https://remoteOK.com/remote-jobs/remote-store-manager-bunbury-retail-fx-1137042"
+    },
+    {
+      "company": "Cable Bahamas Ltd.",
+      "fetched_at": "2026-08-29T14:18:42.203837+00:00",
+      "id": "ee8cdfccd67f",
+      "location": "Nassau,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "design",
+        "sys admin",
+        "education",
+        "customer support",
+        "testing",
+        "travel",
+        "node",
+        "microsoft",
+        "exec",
+        "ops",
+        "medical",
+        "engineer",
+        "digital nomad"
+      ],
+      "title": "Field Technician III",
+      "url": "https://remoteOK.com/remote-jobs/remote-field-technician-iii-cable-bahamas-ltd-1137068"
+    },
+    {
+      "company": "Shoppers Drug Mart",
+      "fetched_at": "2026-08-29T14:18:42.203837+00:00",
+      "id": "a523d421c7d5",
+      "location": "Kingston,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "sales",
+        "non tech",
+        "customer support",
+        "microsoft",
+        "ops",
+        "excel",
+        "recruiter",
+        "full time",
+        "dev",
+        "exec",
+        "medical",
+        "digital nomad"
+      ],
+      "title": "Beauty merchandiser",
+      "url": "https://remoteOK.com/remote-jobs/remote-beauty-merchandiser-shoppers-drug-mart-1137055"
+    },
+    {
+      "company": "NT Health",
+      "fetched_at": "2026-08-29T14:18:42.203837+00:00",
+      "id": "7ff79bb94057",
+      "location": "Alice Springs,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec",
+        "medical"
+      ],
+      "title": "Orderly",
+      "url": "https://remoteOK.com/remote-jobs/remote-orderly-nt-health-1137035"
+    },
+    {
+      "company": "Manhattan Grand Hotel",
+      "fetched_at": "2026-08-29T14:18:42.203837+00:00",
+      "id": "bbc80836b621",
+      "location": "MalÃ©,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "accounting",
+        "infosec"
+      ],
+      "title": "Loss Prevention Officer",
+      "url": "https://remoteOK.com/remote-jobs/remote-loss-prevention-officer-manhattan-grand-hotel-1137027"
+    },
+    {
+      "company": "H&amp;M",
+      "fetched_at": "2026-08-29T14:18:42.203837+00:00",
+      "id": "92773dc2e335",
+      "location": "Bhubaneshwar,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "design",
+        "customer support",
+        "marketing",
+        "exec",
+        "virtual assistant",
+        "sales",
+        "medical",
+        "full time",
+        "digital nomad"
+      ],
+      "title": "Sales Advisor",
+      "url": "https://remoteOK.com/remote-jobs/remote-sales-advisor-hampm-1137044"
+    },
+    {
+      "company": "GPC Asia Pacific",
+      "fetched_at": "2026-08-29T14:18:42.203837+00:00",
+      "id": "51749b48e81c",
+      "location": "Brisbane,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "customer support",
+        "medical",
+        "non tech"
+      ],
+      "title": "Team Member Level 2",
+      "url": "https://remoteOK.com/remote-jobs/remote-team-member-level-2-gpc-asia-pacific-1137022"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-29T14:18:42.203837+00:00",
+      "id": "09c31209465e",
+      "location": "Remote",
+      "posted_at": "2026-08-29T10:41:14+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-364i"
+    },
+    {
       "company": "Atreides",
       "fetched_at": "2026-08-29T08:50:55.974757+00:00",
       "id": "507ba5b74900",
@@ -1580,217 +2091,7 @@
       ],
       "title": "Butcher",
       "url": "https://remoteOK.com/remote-jobs/remote-butcher-the-butcher-shoppe-1137120"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-08-26T14:49:56.317563+00:00",
-      "id": "343735dd34cc",
-      "location": "Remote",
-      "posted_at": "2026-08-26T13:14:14+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3aca"
-    },
-    {
-      "company": "Piramal Pharma Ltd",
-      "fetched_at": "2026-08-26T13:03:01.146665+00:00",
-      "id": "9b4db4d8768d",
-      "location": "Dhar,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "technical"
-      ],
-      "title": "Technical Staff",
-      "url": "https://remoteOK.com/remote-jobs/remote-technical-staff-piramal-pharma-ltd-1137118"
-    },
-    {
-      "company": "Newfoundland Chocolate Company",
-      "fetched_at": "2026-08-26T13:03:01.146665+00:00",
-      "id": "ceb36810e331",
-      "location": "St Johnâs,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "education",
-        "medical",
-        "non tech"
-      ],
-      "title": "building cleaner",
-      "url": "https://remoteOK.com/remote-jobs/remote-building-cleaner-newfoundland-chocolate-company-1137071"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-08-26T13:03:01.146665+00:00",
-      "id": "6e8ddc85b3ba",
-      "location": "Remote",
-      "posted_at": "2026-08-26T12:00:52+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1a1j"
-    },
-    {
-      "company": "Lupin Ltd",
-      "fetched_at": "2026-08-26T11:34:54.426432+00:00",
-      "id": "f8b9d83082b6",
-      "location": "Greater Nagpur Area,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "education",
-        "non tech"
-      ],
-      "title": "Officer",
-      "url": "https://remoteOK.com/remote-jobs/remote-officer-lupin-ltd-1137074"
-    },
-    {
-      "company": "Tesco",
-      "fetched_at": "2026-08-26T11:34:54.426432+00:00",
-      "id": "6f3153c75a61",
-      "location": "Newry,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "exec",
-        "customer support",
-        "testing",
-        "finance",
-        "sales",
-        "recruiter"
-      ],
-      "title": "Team Manager Newry Extra",
-      "url": "https://remoteOK.com/remote-jobs/remote-team-manager-newry-extra-tesco-1137077"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-08-26T11:34:54.426432+00:00",
-      "id": "2f0e8de8e4db",
-      "location": "Remote",
-      "posted_at": "2026-08-26T11:32:06+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-p7p"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-08-26T11:34:54.426432+00:00",
-      "id": "ca7a9cf5cb92",
-      "location": "Remote",
-      "posted_at": "2026-08-26T10:58:11+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2id9"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-08-26T10:39:57.944144+00:00",
-      "id": "6ab77dff37b2",
-      "location": "Remote",
-      "posted_at": "2026-08-26T10:21:07+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-bcm"
-    },
-    {
-      "company": "qing",
-      "fetched_at": "2026-08-26T10:39:57.944144+00:00",
-      "id": "9c06b28bf191",
-      "location": "Remote",
-      "posted_at": "2026-08-26T10:00:55+00:00",
-      "source": "devto",
-      "tags": [
-        "python",
-        "webscraping",
-        "jobs",
-        "automation"
-      ],
-      "title": "Build a Job Board Scraper to Find Remote Opportunities",
-      "url": "https://dev.to/qingluan/build-a-job-board-scraper-to-find-remote-opportunities-1ndl"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-08-26T10:39:57.944144+00:00",
-      "id": "23babbbd50c6",
-      "location": "Remote",
-      "posted_at": "2026-08-26T09:51:03+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2bje"
-    },
-    {
-      "company": "Smokemart &amp; GiftBox",
-      "fetched_at": "2026-08-26T09:49:20.304854+00:00",
-      "id": "eeaa62dc6d91",
-      "location": "Darwin,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "accounting",
-        "customer support",
-        "recruiter",
-        "non tech",
-        "virtual assistant",
-        "infosec",
-        "marketing",
-        "exec",
-        "sales",
-        "golang"
-      ],
-      "title": "Smokemart &amp; GiftBox Palmerstone Sales Assistant",
-      "url": "https://remoteOK.com/remote-jobs/remote-smokemart-amp-giftbox-palmerstone-sales-assistant-smokemart-amp-giftbox-1137125"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-08-26T09:49:20.304854+00:00",
-      "id": "c84aa78bb88e",
-      "location": "Remote",
-      "posted_at": "2026-08-26T09:00:25+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3bfo"
     }
   ],
-  "updated_at": "2026-08-29T08:50:55.974757+00:00"
+  "updated_at": "2026-08-29T14:18:42.203837+00:00"
 }
