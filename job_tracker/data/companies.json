@@ -50,6 +50,13 @@
       ],
       "last_seen": "2026-08-26T19:09:39.773171+00:00"
     },
+    "Bayer": {
+      "count": 1,
+      "job_ids": [
+        "de2b30f44f02"
+      ],
+      "last_seen": "2026-08-29T01:37:07.235665+00:00"
+    },
     "Benchling": {
       "count": 1,
       "job_ids": [
@@ -189,6 +196,13 @@
       ],
       "last_seen": "2026-08-28T15:00:23+00:00"
     },
+    "Crocs, Inc.": {
+      "count": 1,
+      "job_ids": [
+        "558ebfea0266"
+      ],
+      "last_seen": "2026-08-29T01:37:07.235665+00:00"
+    },
     "Dart": {
       "count": 1,
       "job_ids": [
@@ -216,6 +230,13 @@
         "bc88b7beeb34"
       ],
       "last_seen": "2026-08-26T06:57:54.125290+00:00"
+    },
+    "Dr. Martens Australia / New Zealand": {
+      "count": 1,
+      "job_ids": [
+        "fb43c4eaad93"
+      ],
+      "last_seen": "2026-08-29T01:37:07.235665+00:00"
     },
     "Dreem Health": {
       "count": 1,
@@ -275,11 +296,12 @@
       "last_seen": "2026-08-26T06:57:54.125290+00:00"
     },
     "Four Seasons": {
-      "count": 1,
+      "count": 2,
       "job_ids": [
+        "31883a137db6",
         "d6c50b705aa2"
       ],
-      "last_seen": "2026-08-26T06:57:54.125290+00:00"
+      "last_seen": "2026-08-29T01:37:07.235665+00:00"
     },
     "Fronix Services": {
       "count": 2,
@@ -338,6 +360,13 @@
       ],
       "last_seen": "2026-08-26T06:57:54.125290+00:00"
     },
+    "Hilton Salwa Beach Resort &amp; Villas": {
+      "count": 1,
+      "job_ids": [
+        "69b63a4922b7"
+      ],
+      "last_seen": "2026-08-29T01:37:07.235665+00:00"
+    },
     "InPost Group": {
       "count": 1,
       "job_ids": [
@@ -395,6 +424,13 @@
         "eae2fdd6a2d7"
       ],
       "last_seen": "2026-08-26T06:57:54.125290+00:00"
+    },
+    "Krannich Solar Australia": {
+      "count": 1,
+      "job_ids": [
+        "a64fd254b3bf"
+      ],
+      "last_seen": "2026-08-29T01:37:07.235665+00:00"
     },
     "Kruger NearShore LLC - Rekluti": {
       "count": 1,
@@ -538,6 +574,14 @@
       ],
       "last_seen": "2026-08-26T06:57:54.125290+00:00"
     },
+    "Pete's Frootique": {
+      "count": 2,
+      "job_ids": [
+        "371d52efc6db",
+        "2850ed5c2600"
+      ],
+      "last_seen": "2026-08-29T01:37:07.235665+00:00"
+    },
     "Piramal Pharma Ltd": {
       "count": 1,
       "job_ids": [
@@ -574,8 +618,9 @@
       "last_seen": "2026-08-26T06:57:54.125290+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 38,
+      "count": 24,
       "job_ids": [
+        "2549d61c82df",
         "b67af95671f0",
         "b381a662abc3",
         "e671a1c89888",
@@ -598,24 +643,9 @@
         "0de9cd635afe",
         "a4f22ece04ab",
         "2cbc451d11e8",
-        "02c161e56572",
-        "154bd9a0a887",
-        "9bdc37c3d06c",
-        "ac32af5ef098",
-        "066e2399346e",
-        "aad8684c9812",
-        "507d26d28e8d",
-        "c09e0fbd8783",
-        "0e7d359ae9e1",
-        "32f8bfe74978",
-        "1eb4840c95fb",
-        "c2fd8fb547e4",
-        "b5a928010d58",
-        "d4cff73c0bd6",
-        "4d296c728bc0",
-        "13a4173ad707"
+        "02c161e56572"
       ],
-      "last_seen": "2026-08-28T12:44:52+00:00"
+      "last_seen": "2026-08-28T22:44:55+00:00"
     },
     "Radisson Hotel Group": {
       "count": 1,
@@ -808,13 +838,6 @@
       ],
       "last_seen": "2026-08-26T06:57:54.125290+00:00"
     },
-    "Teatro Multiplan MorumbiShopping": {
-      "count": 1,
-      "job_ids": [
-        "9a160ff45b5e"
-      ],
-      "last_seen": "2026-08-25T20:34:55.312771+00:00"
-    },
     "Territory Generation": {
       "count": 1,
       "job_ids": [
@@ -909,6 +932,13 @@
       ],
       "last_seen": "2026-08-26T06:57:54.125290+00:00"
     },
+    "Vashi Integrated Solutions": {
+      "count": 1,
+      "job_ids": [
+        "6c98842f83a6"
+      ],
+      "last_seen": "2026-08-29T01:37:07.235665+00:00"
+    },
     "Verlo": {
       "count": 1,
       "job_ids": [
@@ -953,11 +983,12 @@
       "last_seen": "2026-08-26T06:57:54.125290+00:00"
     },
     "Wood": {
-      "count": 1,
+      "count": 2,
       "job_ids": [
+        "1cb8668b563f",
         "f74e2c56dd02"
       ],
-      "last_seen": "2026-08-26T06:57:54.125290+00:00"
+      "last_seen": "2026-08-29T01:37:07.235665+00:00"
     },
     "jidonglab": {
       "count": 2,
@@ -989,5 +1020,5 @@
       "last_seen": "2026-08-26T06:57:54.125290+00:00"
     }
   },
-  "updated_at": "2026-08-28T17:14:44.676972+00:00"
+  "updated_at": "2026-08-29T01:37:07.235665+00:00"
 }
