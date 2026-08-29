@@ -14,6 +14,13 @@
       ],
       "last_seen": "2026-08-29T08:50:55.974757+00:00"
     },
+    "Bass Pro Shops": {
+      "count": 1,
+      "job_ids": [
+        "559044575be7"
+      ],
+      "last_seen": "2026-08-29T23:59:38.290556+00:00"
+    },
     "Bayer": {
       "count": 1,
       "job_ids": [
@@ -55,13 +62,6 @@
         "931453959ac6"
       ],
       "last_seen": "2026-08-29T21:35:02.253658+00:00"
-    },
-    "Carters Inc.": {
-      "count": 1,
-      "job_ids": [
-        "5cd7dd1a41a3"
-      ],
-      "last_seen": "2026-08-26T23:11:05.026003+00:00"
     },
     "Carv": {
       "count": 1,
@@ -145,6 +145,13 @@
         "dd7e40833aa3"
       ],
       "last_seen": "2026-08-27T19:43:33.462203+00:00"
+    },
+    "Elements Recruitment Australia": {
+      "count": 1,
+      "job_ids": [
+        "71d7458f08aa"
+      ],
+      "last_seen": "2026-08-29T23:59:38.290556+00:00"
     },
     "FedEx": {
       "count": 1,
@@ -282,12 +289,34 @@
       ],
       "last_seen": "2026-08-28T17:14:44.676972+00:00"
     },
+    "Leena AI": {
+      "count": 1,
+      "job_ids": [
+        "8e148451b6ce"
+      ],
+      "last_seen": "2026-08-29T23:59:38.290556+00:00"
+    },
+    "Lemon Tree Premier": {
+      "count": 1,
+      "job_ids": [
+        "c9a9583e9c2e"
+      ],
+      "last_seen": "2026-08-29T23:59:38.290556+00:00"
+    },
     "Linsco Ltd": {
       "count": 1,
       "job_ids": [
         "16a99d26b809"
       ],
       "last_seen": "2026-08-29T14:18:42.203837+00:00"
+    },
+    "Localiza&amp;Co": {
+      "count": 2,
+      "job_ids": [
+        "89110adaa1f1",
+        "0c98dcd56261"
+      ],
+      "last_seen": "2026-08-29T23:59:38.290556+00:00"
     },
     "Locals": {
       "count": 1,
@@ -359,13 +388,6 @@
       ],
       "last_seen": "2026-08-27T08:39:12.368596+00:00"
     },
-    "Orca Bio": {
-      "count": 1,
-      "job_ids": [
-        "1701cf6919ff"
-      ],
-      "last_seen": "2026-08-26T23:11:05.026003+00:00"
-    },
     "Pembroke School": {
       "count": 1,
       "job_ids": [
@@ -398,6 +420,7 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 11,
       "job_ids": [
+        "e361cddf67e3",
         "891e478c0d1d",
         "ab0bda76b8aa",
         "1747cce17064",
@@ -407,10 +430,9 @@
         "b67af95671f0",
         "b381a662abc3",
         "e671a1c89888",
-        "ff07a704e2e8",
-        "bf06873abd29"
+        "ff07a704e2e8"
       ],
-      "last_seen": "2026-08-29T21:20:44+00:00"
+      "last_seen": "2026-08-29T23:27:25+00:00"
     },
     "Radisson Hotel Group": {
       "count": 1,
@@ -439,13 +461,6 @@
         "b2f1ebf48dc5"
       ],
       "last_seen": "2026-08-29T14:18:42.203837+00:00"
-    },
-    "Rowan": {
-      "count": 1,
-      "job_ids": [
-        "d3d49e5b6de8"
-      ],
-      "last_seen": "2026-08-26T23:11:05.026003+00:00"
     },
     "Royal Caribbean Group": {
       "count": 1,
@@ -546,13 +561,6 @@
         "99805f4ae447"
       ],
       "last_seen": "2026-08-28T04:07:49.727414+00:00"
-    },
-    "Swissport": {
-      "count": 1,
-      "job_ids": [
-        "3780ec28979e"
-      ],
-      "last_seen": "2026-08-26T23:11:05.026003+00:00"
     },
     "TS Imagine": {
       "count": 1,
@@ -692,5 +700,5 @@
       "last_seen": "2026-08-29T21:35:02.253658+00:00"
     }
   },
-  "updated_at": "2026-08-29T21:35:02.253658+00:00"
+  "updated_at": "2026-08-29T23:59:38.290556+00:00"
 }
