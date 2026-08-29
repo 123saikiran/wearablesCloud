@@ -35,13 +35,6 @@
       ],
       "last_seen": "2026-08-28T04:07:49.727414+00:00"
     },
-    "Bosta": {
-      "count": 1,
-      "job_ids": [
-        "722e697b3c21"
-      ],
-      "last_seen": "2026-08-26T14:49:56.317563+00:00"
-    },
     "Buffalo Wild Wings - Fralich, Inc.": {
       "count": 1,
       "job_ids": [
@@ -55,13 +48,6 @@
         "ee8cdfccd67f"
       ],
       "last_seen": "2026-08-29T14:18:42.203837+00:00"
-    },
-    "Canada Post / Postes Canada": {
-      "count": 1,
-      "job_ids": [
-        "931453959ac6"
-      ],
-      "last_seen": "2026-08-26T14:49:56.317563+00:00"
     },
     "Carters Inc.": {
       "count": 1,
@@ -101,14 +87,14 @@
     "Crackr": {
       "count": 6,
       "job_ids": [
+        "18c1a7dd3e2b",
+        "a59645afd96b",
         "b82ea9d1be36",
         "f3592415dd47",
         "d22615376e4c",
-        "ef6c386b2c4e",
-        "2324e49c9ca6",
-        "e49a2aad9661"
+        "ef6c386b2c4e"
       ],
-      "last_seen": "2026-08-28T15:00:23+00:00"
+      "last_seen": "2026-08-29T15:00:22+00:00"
     },
     "Crocs, Inc.": {
       "count": 1,
@@ -123,6 +109,13 @@
         "c71c2c8d8439"
       ],
       "last_seen": "2026-08-29T14:18:42.203837+00:00"
+    },
+    "Digest Media": {
+      "count": 1,
+      "job_ids": [
+        "665fa257e8da"
+      ],
+      "last_seen": "2026-08-29T18:15:30.156706+00:00"
     },
     "Dr. Martens Australia / New Zealand": {
       "count": 1,
@@ -301,6 +294,13 @@
       ],
       "last_seen": "2026-08-27T08:39:12.368596+00:00"
     },
+    "Lupin Ltd": {
+      "count": 1,
+      "job_ids": [
+        "f8b9d83082b6"
+      ],
+      "last_seen": "2026-08-29T18:15:30.156706+00:00"
+    },
     "Manhattan Grand Hotel": {
       "count": 1,
       "job_ids": [
@@ -328,6 +328,13 @@
         "7ff79bb94057"
       ],
       "last_seen": "2026-08-29T14:18:42.203837+00:00"
+    },
+    "Newfoundland Chocolate Company": {
+      "count": 1,
+      "job_ids": [
+        "ceb36810e331"
+      ],
+      "last_seen": "2026-08-29T18:15:30.156706+00:00"
     },
     "Nick Scali Limited": {
       "count": 1,
@@ -372,6 +379,20 @@
       ],
       "last_seen": "2026-08-29T01:37:07.235665+00:00"
     },
+    "Piramal Pharma Ltd": {
+      "count": 1,
+      "job_ids": [
+        "9b4db4d8768d"
+      ],
+      "last_seen": "2026-08-29T18:15:30.156706+00:00"
+    },
+    "Places for People": {
+      "count": 1,
+      "job_ids": [
+        "9fd1fa735d35"
+      ],
+      "last_seen": "2026-08-29T18:15:30.156706+00:00"
+    },
     "Platypus Shoes": {
       "count": 1,
       "job_ids": [
@@ -382,6 +403,7 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 11,
       "job_ids": [
+        "1747cce17064",
         "09c31209465e",
         "0c0306aad2fb",
         "2549d61c82df",
@@ -391,10 +413,9 @@
         "ff07a704e2e8",
         "bf06873abd29",
         "09b459afaa0f",
-        "95518fccd8af",
-        "129743b03c98"
+        "95518fccd8af"
       ],
-      "last_seen": "2026-08-29T10:41:14+00:00"
+      "last_seen": "2026-08-29T15:19:58+00:00"
     },
     "Radisson Hotel Group": {
       "count": 1,
@@ -409,13 +430,6 @@
         "cbf056ed26a5"
       ],
       "last_seen": "2026-08-29T14:18:42.203837+00:00"
-    },
-    "Reed": {
-      "count": 1,
-      "job_ids": [
-        "be4245bf6795"
-      ],
-      "last_seen": "2026-08-26T16:22:27.488510+00:00"
     },
     "Retail FX": {
       "count": 1,
@@ -446,10 +460,9 @@
       "last_seen": "2026-08-29T14:18:42.203837+00:00"
     },
     "Saasuji": {
-      "count": 2,
+      "count": 1,
       "job_ids": [
-        "c83ba57c1505",
-        "fcaebbecd493"
+        "c83ba57c1505"
       ],
       "last_seen": "2026-08-28T04:07:49.727414+00:00"
     },
@@ -503,12 +516,12 @@
       ],
       "last_seen": "2026-08-28T17:14:44.676972+00:00"
     },
-    "Skechers": {
+    "Smokemart &amp; GiftBox": {
       "count": 1,
       "job_ids": [
-        "679274192e94"
+        "eeaa62dc6d91"
       ],
-      "last_seen": "2026-08-26T16:22:27.488510+00:00"
+      "last_seen": "2026-08-29T18:15:30.156706+00:00"
     },
     "Stanley Black &amp; Decker, Inc.": {
       "count": 1,
@@ -560,11 +573,12 @@
       "last_seen": "2026-08-28T17:14:44.676972+00:00"
     },
     "Tesco": {
-      "count": 1,
+      "count": 2,
       "job_ids": [
+        "6f3153c75a61",
         "1cfb77c4076e"
       ],
-      "last_seen": "2026-08-27T19:43:33.462203+00:00"
+      "last_seen": "2026-08-29T18:15:30.156706+00:00"
     },
     "Tessera Labs": {
       "count": 1,
@@ -586,13 +600,6 @@
         "b834e6cbcfc8"
       ],
       "last_seen": "2026-08-28T17:14:44.676972+00:00"
-    },
-    "The Butcher Shoppe": {
-      "count": 1,
-      "job_ids": [
-        "e5dc5ef09cb4"
-      ],
-      "last_seen": "2026-08-26T14:49:56.317563+00:00"
     },
     "The Home Depot Canada": {
       "count": 2,
@@ -666,14 +673,7 @@
         "82fa3643166a"
       ],
       "last_seen": "2026-08-27T15:50:31+00:00"
-    },
-    "s1jobs": {
-      "count": 1,
-      "job_ids": [
-        "a0c9bbbdd083"
-      ],
-      "last_seen": "2026-08-26T16:22:27.488510+00:00"
     }
   },
-  "updated_at": "2026-08-29T14:18:42.203837+00:00"
+  "updated_at": "2026-08-29T18:15:30.156706+00:00"
 }

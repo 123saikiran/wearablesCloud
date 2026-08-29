@@ -1,6 +1,176 @@
 {
   "jobs": [
     {
+      "company": "Digest Media",
+      "fetched_at": "2026-08-29T18:15:30.156706+00:00",
+      "id": "665fa257e8da",
+      "location": "Newcastle,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "design",
+        "consulting",
+        "exec",
+        "ops",
+        "engineer",
+        "digital nomad",
+        "testing"
+      ],
+      "title": "Test",
+      "url": "https://remoteOK.com/remote-jobs/remote-test-digest-media-1137198"
+    },
+    {
+      "company": "Places for People",
+      "fetched_at": "2026-08-29T18:15:30.156706+00:00",
+      "id": "9fd1fa735d35",
+      "location": "Greater Newcastle Area,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "teaching",
+        "customer support",
+        "finance",
+        "cloud",
+        "scheme",
+        "mobile",
+        "medical",
+        "recruiter",
+        "non tech"
+      ],
+      "title": "Joiner",
+      "url": "https://remoteOK.com/remote-jobs/remote-joiner-places-for-people-1137211"
+    },
+    {
+      "company": "Piramal Pharma Ltd",
+      "fetched_at": "2026-08-29T18:15:30.156706+00:00",
+      "id": "9b4db4d8768d",
+      "location": "Dhar,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "technical"
+      ],
+      "title": "Technical Staff",
+      "url": "https://remoteOK.com/remote-jobs/remote-technical-staff-piramal-pharma-ltd-1137118"
+    },
+    {
+      "company": "Smokemart &amp; GiftBox",
+      "fetched_at": "2026-08-29T18:15:30.156706+00:00",
+      "id": "eeaa62dc6d91",
+      "location": "Darwin,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "accounting",
+        "customer support",
+        "recruiter",
+        "non tech",
+        "virtual assistant",
+        "infosec",
+        "marketing",
+        "exec",
+        "sales",
+        "golang"
+      ],
+      "title": "Smokemart &amp; GiftBox Palmerstone Sales Assistant",
+      "url": "https://remoteOK.com/remote-jobs/remote-smokemart-amp-giftbox-palmerstone-sales-assistant-smokemart-amp-giftbox-1137125"
+    },
+    {
+      "company": "Newfoundland Chocolate Company",
+      "fetched_at": "2026-08-29T18:15:30.156706+00:00",
+      "id": "ceb36810e331",
+      "location": "St Johnâs,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "medical",
+        "non tech"
+      ],
+      "title": "building cleaner",
+      "url": "https://remoteOK.com/remote-jobs/remote-building-cleaner-newfoundland-chocolate-company-1137071"
+    },
+    {
+      "company": "Lupin Ltd",
+      "fetched_at": "2026-08-29T18:15:30.156706+00:00",
+      "id": "f8b9d83082b6",
+      "location": "Greater Nagpur Area,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "non tech"
+      ],
+      "title": "Officer",
+      "url": "https://remoteOK.com/remote-jobs/remote-officer-lupin-ltd-1137074"
+    },
+    {
+      "company": "Tesco",
+      "fetched_at": "2026-08-29T18:15:30.156706+00:00",
+      "id": "6f3153c75a61",
+      "location": "Newry,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec",
+        "customer support",
+        "testing",
+        "finance",
+        "sales",
+        "recruiter"
+      ],
+      "title": "Team Manager Newry Extra",
+      "url": "https://remoteOK.com/remote-jobs/remote-team-manager-newry-extra-tesco-1137077"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-29T18:15:30.156706+00:00",
+      "id": "1747cce17064",
+      "location": "Remote",
+      "posted_at": "2026-08-29T15:19:58+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2614"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-08-29T18:15:30.156706+00:00",
+      "id": "18c1a7dd3e2b",
+      "location": "Remote",
+      "posted_at": "2026-08-29T15:00:22+00:00",
+      "source": "devto",
+      "tags": [
+        "beginners",
+        "jobs",
+        "career",
+        "programming"
+      ],
+      "title": "These Companies Want Interns This Summer (Aug 29)",
+      "url": "https://dev.to/crackr/these-companies-want-interns-this-summer-aug-29-27lf"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-08-29T18:15:30.156706+00:00",
+      "id": "a59645afd96b",
+      "location": "Remote",
+      "posted_at": "2026-08-29T15:00:19+00:00",
+      "source": "devto",
+      "tags": [
+        "remotework",
+        "jobs",
+        "webdev",
+        "career"
+      ],
+      "title": "8 Remote SWE Jobs You Can Apply to From Anywhere (Aug 29)",
+      "url": "https://dev.to/crackr/8-remote-swe-jobs-you-can-apply-to-from-anywhere-aug-29-3jk"
+    },
+    {
       "company": "Radisson Hotel Group",
       "fetched_at": "2026-08-29T14:18:42.203837+00:00",
       "id": "bbe58d0dacdb",
@@ -1912,186 +2082,7 @@
       ],
       "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-36l9"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-08-26T19:09:39.773171+00:00",
-      "id": "129743b03c98",
-      "location": "Remote",
-      "posted_at": "2026-08-26T16:33:53+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2bjj"
-    },
-    {
-      "company": "Skechers",
-      "fetched_at": "2026-08-26T16:22:27.488510+00:00",
-      "id": "679274192e94",
-      "location": "Barceloneta,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "exec",
-        "virtual assistant",
-        "customer support",
-        "marketing",
-        "ops",
-        "sales",
-        "ecommerce"
-      ],
-      "title": "Retail Assistant Store Manager",
-      "url": "https://remoteOK.com/remote-jobs/remote-retail-assistant-store-manager-skechers-1137132"
-    },
-    {
-      "company": "Reed",
-      "fetched_at": "2026-08-26T16:22:27.488510+00:00",
-      "id": "be4245bf6795",
-      "location": "Warrington,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "exec",
-        "customer support",
-        "testing",
-        "finance",
-        "sales",
-        "recruiter",
-        "marketing",
-        "senior",
-        "dev",
-        "c",
-        "microsoft",
-        "excel",
-        "engineer",
-        "full time",
-        "digital nomad"
-      ],
-      "title": "Estimator",
-      "url": "https://remoteOK.com/remote-jobs/remote-estimator-reed-1137146"
-    },
-    {
-      "company": "s1jobs",
-      "fetched_at": "2026-08-26T16:22:27.488510+00:00",
-      "id": "a0c9bbbdd083",
-      "location": "Glasgow,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "exec",
-        "customer support",
-        "testing",
-        "finance",
-        "sales",
-        "recruiter",
-        "marketing",
-        "senior"
-      ],
-      "title": "Estimator",
-      "url": "https://remoteOK.com/remote-jobs/remote-estimator-s1jobs-1137145"
-    },
-    {
-      "company": "Saasuji",
-      "fetched_at": "2026-08-26T16:22:27.488510+00:00",
-      "id": "fcaebbecd493",
-      "location": "Ahmedabad,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "education",
-        "non tech",
-        "design",
-        "marketing",
-        "digital nomad"
-      ],
-      "title": "Across all departments",
-      "url": "https://remoteOK.com/remote-jobs/remote-across-all-departments-saasuji-1137075"
-    },
-    {
-      "company": "Crackr",
-      "fetched_at": "2026-08-26T16:22:27.488510+00:00",
-      "id": "2324e49c9ca6",
-      "location": "Remote",
-      "posted_at": "2026-08-26T15:03:23+00:00",
-      "source": "devto",
-      "tags": [
-        "beginners",
-        "jobs",
-        "career",
-        "programming"
-      ],
-      "title": "These Companies Want Interns This Summer (Aug 26)",
-      "url": "https://dev.to/crackr/these-companies-want-interns-this-summer-aug-26-1opp"
-    },
-    {
-      "company": "Crackr",
-      "fetched_at": "2026-08-26T16:22:27.488510+00:00",
-      "id": "e49a2aad9661",
-      "location": "Remote",
-      "posted_at": "2026-08-26T15:03:19+00:00",
-      "source": "devto",
-      "tags": [
-        "remotework",
-        "jobs",
-        "webdev",
-        "career"
-      ],
-      "title": "8 Remote SWE Jobs You Can Apply to From Anywhere (Aug 26)",
-      "url": "https://dev.to/crackr/8-remote-swe-jobs-you-can-apply-to-from-anywhere-aug-26-1fji"
-    },
-    {
-      "company": "Canada Post / Postes Canada",
-      "fetched_at": "2026-08-26T14:49:56.317563+00:00",
-      "id": "931453959ac6",
-      "location": "Allan,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "marketing",
-        "exec",
-        "full time"
-      ],
-      "title": "Rural and Suburban Mail Carrier Allan RR1",
-      "url": "https://remoteOK.com/remote-jobs/remote-rural-and-suburban-mail-carrier-allan-rr1-canada-post-postes-canada-1137126"
-    },
-    {
-      "company": "Bosta",
-      "fetched_at": "2026-08-26T14:49:56.317563+00:00",
-      "id": "722e697b3c21",
-      "location": "Maadi,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "accounting",
-        "customer support",
-        "recruiter",
-        "non tech"
-      ],
-      "title": "AP Accountant",
-      "url": "https://remoteOK.com/remote-jobs/remote-ap-accountant-bosta-1137124"
-    },
-    {
-      "company": "The Butcher Shoppe",
-      "fetched_at": "2026-08-26T14:49:56.317563+00:00",
-      "id": "e5dc5ef09cb4",
-      "location": "Toronto,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "technical",
-        "marketing",
-        "education",
-        "medical",
-        "ecommerce"
-      ],
-      "title": "Butcher",
-      "url": "https://remoteOK.com/remote-jobs/remote-butcher-the-butcher-shoppe-1137120"
     }
   ],
-  "updated_at": "2026-08-29T14:18:42.203837+00:00"
+  "updated_at": "2026-08-29T18:15:30.156706+00:00"
 }
