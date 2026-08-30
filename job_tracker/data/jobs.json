@@ -2,6 +2,54 @@
   "jobs": [
     {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-30T22:35:23.353649+00:00",
+      "id": "5ecd08473558",
+      "location": "Remote",
+      "posted_at": "2026-08-30T22:09:10+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4mjl"
+    },
+    {
+      "company": "qing",
+      "fetched_at": "2026-08-30T22:35:23.353649+00:00",
+      "id": "aec0eee2e184",
+      "location": "Remote",
+      "posted_at": "2026-08-30T22:00:55+00:00",
+      "source": "devto",
+      "tags": [
+        "jobs",
+        "money",
+        "startup",
+        "webdev"
+      ],
+      "title": "How to Build a Developer Job Board That Earns Money",
+      "url": "https://dev.to/qingluan/how-to-build-a-developer-job-board-that-earns-money-2el1"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-30T22:35:23.353649+00:00",
+      "id": "751f4e35eab3",
+      "location": "Remote",
+      "posted_at": "2026-08-30T19:43:11+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-g85"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-30T19:41:21.754611+00:00",
       "id": "b6adaf510262",
       "location": "Remote",
@@ -2043,240 +2091,7 @@
       ],
       "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-21ao"
-    },
-    {
-      "company": "Carv",
-      "fetched_at": "2026-08-27T19:43:33.462203+00:00",
-      "id": "c53b1db41795",
-      "location": "London,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [],
-      "title": "Don't see a role for you",
-      "url": "https://remoteOK.com/remote-jobs/remote-dont-see-a-role-for-you-carv-1137150"
-    },
-    {
-      "company": "JD.COM",
-      "fetched_at": "2026-08-27T19:43:33.462203+00:00",
-      "id": "e6a0ef256c53",
-      "location": "Lutterworth,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "exec",
-        "ops",
-        "sys admin"
-      ],
-      "title": "Equipment Maintenance",
-      "url": "https://remoteOK.com/remote-jobs/remote-equipment-maintenance-jd-com-1137151"
-    },
-    {
-      "company": "Intuit",
-      "fetched_at": "2026-08-27T19:43:33.462203+00:00",
-      "id": "72ceedf46d23",
-      "location": "Toronto,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [],
-      "title": "N A",
-      "url": "https://remoteOK.com/remote-jobs/remote-n-a-intuit-1137159"
-    },
-    {
-      "company": "Sherborne Schools Group",
-      "fetched_at": "2026-08-27T19:43:33.462203+00:00",
-      "id": "6baf25d55ea4",
-      "location": "Hertford,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "exec",
-        "ops",
-        "sys admin",
-        "education"
-      ],
-      "title": "Various roles",
-      "url": "https://remoteOK.com/remote-jobs/remote-various-roles-sherborne-schools-group-1137152"
-    },
-    {
-      "company": "Interaction Design Foundation",
-      "fetched_at": "2026-08-27T19:43:33.462203+00:00",
-      "id": "b68095d25eb0",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "education",
-        "design",
-        "content writing"
-      ],
-      "title": "Course Director UX UI and AI",
-      "url": "https://remoteOK.com/remote-jobs/remote-course-director-ux-ui-and-ai-interaction-design-foundation-1137139"
-    },
-    {
-      "company": "Interaction Design Foundation",
-      "fetched_at": "2026-08-27T19:43:33.462203+00:00",
-      "id": "4ef5e2cc3787",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "design",
-        "content writing",
-        "education"
-      ],
-      "title": "Education Designer UX UI and AI",
-      "url": "https://remoteOK.com/remote-jobs/remote-education-designer-ux-ui-and-ai-interaction-design-foundation-1137138"
-    },
-    {
-      "company": "Interaction Design Foundation",
-      "fetched_at": "2026-08-27T19:43:33.462203+00:00",
-      "id": "6a92d8de124a",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "design",
-        "content writing"
-      ],
-      "title": "Course Writer and Editor UX UI and AI",
-      "url": "https://remoteOK.com/remote-jobs/remote-course-writer-and-editor-ux-ui-and-ai-interaction-design-foundation-1137136"
-    },
-    {
-      "company": "Geelong Careers",
-      "fetched_at": "2026-08-27T19:43:33.462203+00:00",
-      "id": "30db5971dc4f",
-      "location": "Geelong,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "education",
-        "dev",
-        "marketing",
-        "finance",
-        "exec",
-        "ops",
-        "digital nomad",
-        "golang",
-        "medical",
-        "infosec"
-      ],
-      "title": "Mail Sorter",
-      "url": "https://remoteOK.com/remote-jobs/remote-mail-sorter-geelong-careers-1137168"
-    },
-    {
-      "company": "Tesco",
-      "fetched_at": "2026-08-27T19:43:33.462203+00:00",
-      "id": "1cfb77c4076e",
-      "location": "Newtownards,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "exec",
-        "customer support",
-        "testing",
-        "finance",
-        "sales",
-        "recruiter"
-      ],
-      "title": "Team Manager Newtownards Extra",
-      "url": "https://remoteOK.com/remote-jobs/remote-team-manager-newtownards-extra-tesco-1137144"
-    },
-    {
-      "company": "Coogee Chemicals",
-      "fetched_at": "2026-08-27T19:43:33.462203+00:00",
-      "id": "57d9baa2eec1",
-      "location": "Kwinana Beach,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "education",
-        "dev",
-        "marketing",
-        "finance",
-        "exec",
-        "ops",
-        "digital nomad"
-      ],
-      "title": "General Interest Position",
-      "url": "https://remoteOK.com/remote-jobs/remote-general-interest-position-coogee-chemicals-1137166"
-    },
-    {
-      "company": "The Shepparton Adviser",
-      "fetched_at": "2026-08-27T19:43:33.462203+00:00",
-      "id": "09074d71b4ed",
-      "location": "Shepparton,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "education",
-        "dev",
-        "marketing",
-        "finance",
-        "exec",
-        "ops",
-        "digital nomad",
-        "golang",
-        "medical"
-      ],
-      "title": "Various Positions",
-      "url": "https://remoteOK.com/remote-jobs/remote-various-positions-the-shepparton-adviser-1137167"
-    },
-    {
-      "company": "Edspired.Tech",
-      "fetched_at": "2026-08-27T19:43:33.462203+00:00",
-      "id": "dd7e40833aa3",
-      "location": "Vijayawada,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "exec",
-        "customer support",
-        "dev",
-        "excel",
-        "engineer",
-        "full time",
-        "digital nomad"
-      ],
-      "title": "Quantity Surveyor",
-      "url": "https://remoteOK.com/remote-jobs/remote-quantity-surveyor-edspired-tech-1137098"
-    },
-    {
-      "company": "JobTrade",
-      "fetched_at": "2026-08-27T19:43:33.462203+00:00",
-      "id": "12232a64c4ca",
-      "location": "Guwahati,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "exec",
-        "customer support",
-        "dev",
-        "excel",
-        "engineer",
-        "full time",
-        "digital nomad",
-        "design",
-        "content writing",
-        "education"
-      ],
-      "title": "DTP Operator",
-      "url": "https://remoteOK.com/remote-jobs/remote-dtp-operator-jobtrade-1137099"
-    },
-    {
-      "company": "Guzman y Gomez Mexican Kitchen",
-      "fetched_at": "2026-08-27T19:43:33.462203+00:00",
-      "id": "5c57cfbf453a",
-      "location": "North Sydney,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "education",
-        "customer support",
-        "exec"
-      ],
-      "title": "Cook FT Northpoint",
-      "url": "https://remoteOK.com/remote-jobs/remote-cook-ft-northpoint-guzman-y-gomez-mexican-kitchen-1137170"
     }
   ],
-  "updated_at": "2026-08-30T19:41:21.754611+00:00"
+  "updated_at": "2026-08-30T22:35:23.353649+00:00"
 }
