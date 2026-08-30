@@ -1,6 +1,144 @@
 {
   "jobs": [
     {
+      "company": "Acumentis Group",
+      "fetched_at": "2026-08-30T05:15:32.198714+00:00",
+      "id": "dd8550c8db61",
+      "location": "Port Macquarie,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "customer support",
+        "marketing",
+        "exec",
+        "finance",
+        "sales"
+      ],
+      "title": "Residential Valuer",
+      "url": "https://remoteOK.com/remote-jobs/remote-residential-valuer-acumentis-group-1137214"
+    },
+    {
+      "company": "Swissport",
+      "fetched_at": "2026-08-30T05:15:32.198714+00:00",
+      "id": "3780ec28979e",
+      "location": "Piarco,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "customer support",
+        "marketing",
+        "math",
+        "exec",
+        "ops",
+        "medical"
+      ],
+      "title": "Ramp Attendant",
+      "url": "https://remoteOK.com/remote-jobs/remote-ramp-attendant-swissport-1137140"
+    },
+    {
+      "company": "Carters Inc.",
+      "fetched_at": "2026-08-30T05:15:32.198714+00:00",
+      "id": "5cd7dd1a41a3",
+      "location": "CanÃ³vanas,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec",
+        "virtual assistant",
+        "customer support",
+        "marketing",
+        "ops",
+        "sales",
+        "ecommerce",
+        "education",
+        "web dev",
+        "payroll",
+        "excel",
+        "medical",
+        "recruiter"
+      ],
+      "title": "Store Manager",
+      "url": "https://remoteOK.com/remote-jobs/remote-store-manager-carters-inc-1137135"
+    },
+    {
+      "company": "Rowan",
+      "fetched_at": "2026-08-30T05:15:32.198714+00:00",
+      "id": "d3d49e5b6de8",
+      "location": "Chicago, IL",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "customer support",
+        "dev",
+        "exec",
+        "math",
+        "node",
+        "ops",
+        "sales",
+        "medical",
+        "digital nomad"
+      ],
+      "title": "Retail Store Associate",
+      "url": "https://remoteOK.com/remote-jobs/remote-retail-store-associate-rowan-1137073"
+    },
+    {
+      "company": "Orca Bio",
+      "fetched_at": "2026-08-30T05:15:32.198714+00:00",
+      "id": "1701cf6919ff",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "hr",
+        "sys admin",
+        "customer support",
+        "marketing",
+        "education",
+        "exec",
+        "senior",
+        "medical",
+        "engineer",
+        "recruiter",
+        "full time"
+      ],
+      "title": "Senior Specialist Global QMS",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-specialist-global-qms-orca-bio-1137072"
+    },
+    {
+      "company": "LangstonHughes2689",
+      "fetched_at": "2026-08-30T05:15:32.198714+00:00",
+      "id": "e6f6ec47c85f",
+      "location": "Remote",
+      "posted_at": "2026-08-30T01:52:17+00:00",
+      "source": "devto",
+      "tags": [
+        "email",
+        "enqueue",
+        "jobs",
+        "idempotentretries"
+      ],
+      "title": "Scheduled Email Reconciliation: 2-Phase Enqueue Jobs for Idempotent Retries (and Why)",
+      "url": "https://dev.to/langstonhughes2689/scheduled-email-reconciliation-2-phase-enqueue-jobs-for-idempotent-retries-and-why-9p6"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-30T05:15:32.198714+00:00",
+      "id": "3f29a2c97d54",
+      "location": "Remote",
+      "posted_at": "2026-08-30T01:28:29+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2fo6"
+    },
+    {
       "company": "Elements Recruitment Australia",
       "fetched_at": "2026-08-29T23:59:38.290556+00:00",
       "id": "71d7458f08aa",
@@ -2140,39 +2278,7 @@
       ],
       "title": "Captain",
       "url": "https://remoteOK.com/remote-jobs/remote-captain-ocean-ocean-1137157"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-08-27T08:39:12.368596+00:00",
-      "id": "ff07a704e2e8",
-      "location": "Remote",
-      "posted_at": "2026-08-27T05:09:05+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2j6m"
-    },
-    {
-      "company": "jidonglab",
-      "fetched_at": "2026-08-27T08:39:12.368596+00:00",
-      "id": "82fa3643166a",
-      "location": "Remote",
-      "posted_at": "2026-08-27T03:48:24+00:00",
-      "source": "devto",
-      "tags": [
-        "interview",
-        "career",
-        "jobs",
-        "discuss"
-      ],
-      "title": "Why Great Engineers Bomb the Behavioral Interview Round",
-      "url": "https://dev.to/ji_ai/why-great-engineers-bomb-the-behavioral-interview-round-56i4"
     }
   ],
-  "updated_at": "2026-08-29T23:59:38.290556+00:00"
+  "updated_at": "2026-08-30T05:15:32.198714+00:00"
 }

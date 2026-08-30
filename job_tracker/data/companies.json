@@ -1,5 +1,12 @@
 {
   "companies": {
+    "Acumentis Group": {
+      "count": 1,
+      "job_ids": [
+        "dd8550c8db61"
+      ],
+      "last_seen": "2026-08-30T05:15:32.198714+00:00"
+    },
     "Aimwear": {
       "count": 1,
       "job_ids": [
@@ -62,6 +69,13 @@
         "931453959ac6"
       ],
       "last_seen": "2026-08-29T21:35:02.253658+00:00"
+    },
+    "Carters Inc.": {
+      "count": 1,
+      "job_ids": [
+        "5cd7dd1a41a3"
+      ],
+      "last_seen": "2026-08-30T05:15:32.198714+00:00"
     },
     "Carv": {
       "count": 1,
@@ -282,6 +296,13 @@
       ],
       "last_seen": "2026-08-29T14:18:42.203837+00:00"
     },
+    "LangstonHughes2689": {
+      "count": 1,
+      "job_ids": [
+        "e6f6ec47c85f"
+      ],
+      "last_seen": "2026-08-30T01:52:17+00:00"
+    },
     "Larsen &amp; Toubro": {
       "count": 1,
       "job_ids": [
@@ -388,6 +409,13 @@
       ],
       "last_seen": "2026-08-27T08:39:12.368596+00:00"
     },
+    "Orca Bio": {
+      "count": 1,
+      "job_ids": [
+        "1701cf6919ff"
+      ],
+      "last_seen": "2026-08-30T05:15:32.198714+00:00"
+    },
     "Pembroke School": {
       "count": 1,
       "job_ids": [
@@ -420,6 +448,7 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 11,
       "job_ids": [
+        "3f29a2c97d54",
         "e361cddf67e3",
         "891e478c0d1d",
         "ab0bda76b8aa",
@@ -429,10 +458,9 @@
         "2549d61c82df",
         "b67af95671f0",
         "b381a662abc3",
-        "e671a1c89888",
-        "ff07a704e2e8"
+        "e671a1c89888"
       ],
-      "last_seen": "2026-08-29T23:27:25+00:00"
+      "last_seen": "2026-08-30T01:28:29+00:00"
     },
     "Radisson Hotel Group": {
       "count": 1,
@@ -461,6 +489,13 @@
         "b2f1ebf48dc5"
       ],
       "last_seen": "2026-08-29T14:18:42.203837+00:00"
+    },
+    "Rowan": {
+      "count": 1,
+      "job_ids": [
+        "d3d49e5b6de8"
+      ],
+      "last_seen": "2026-08-30T05:15:32.198714+00:00"
     },
     "Royal Caribbean Group": {
       "count": 1,
@@ -561,6 +596,13 @@
         "99805f4ae447"
       ],
       "last_seen": "2026-08-28T04:07:49.727414+00:00"
+    },
+    "Swissport": {
+      "count": 1,
+      "job_ids": [
+        "3780ec28979e"
+      ],
+      "last_seen": "2026-08-30T05:15:32.198714+00:00"
     },
     "TS Imagine": {
       "count": 1,
@@ -685,10 +727,9 @@
       "last_seen": "2026-08-29T01:37:07.235665+00:00"
     },
     "jidonglab": {
-      "count": 2,
+      "count": 1,
       "job_ids": [
-        "025e0cefcc34",
-        "82fa3643166a"
+        "025e0cefcc34"
       ],
       "last_seen": "2026-08-27T15:50:31+00:00"
     },
@@ -700,5 +741,5 @@
       "last_seen": "2026-08-29T21:35:02.253658+00:00"
     }
   },
-  "updated_at": "2026-08-29T23:59:38.290556+00:00"
+  "updated_at": "2026-08-30T05:15:32.198714+00:00"
 }
