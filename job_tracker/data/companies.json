@@ -7,13 +7,6 @@
       ],
       "last_seen": "2026-08-30T05:15:32.198714+00:00"
     },
-    "Aimwear": {
-      "count": 1,
-      "job_ids": [
-        "abc8e31de8c8"
-      ],
-      "last_seen": "2026-08-27T08:39:12.368596+00:00"
-    },
     "Atreides": {
       "count": 1,
       "job_ids": [
@@ -49,13 +42,6 @@
       ],
       "last_seen": "2026-08-29T21:35:02.253658+00:00"
     },
-    "Buffalo Wild Wings - Fralich, Inc.": {
-      "count": 1,
-      "job_ids": [
-        "1fdac1349f80"
-      ],
-      "last_seen": "2026-08-27T08:39:12.368596+00:00"
-    },
     "Cable Bahamas Ltd.": {
       "count": 1,
       "job_ids": [
@@ -83,13 +69,6 @@
         "c53b1db41795"
       ],
       "last_seen": "2026-08-27T19:43:33.462203+00:00"
-    },
-    "Complex Co.": {
-      "count": 1,
-      "job_ids": [
-        "bb7ca88ddd4c"
-      ],
-      "last_seen": "2026-08-27T08:39:12.368596+00:00"
     },
     "Coogee Chemicals": {
       "count": 1,
@@ -339,13 +318,6 @@
       ],
       "last_seen": "2026-08-29T23:59:38.290556+00:00"
     },
-    "Locals": {
-      "count": 1,
-      "job_ids": [
-        "02bc3afbb29d"
-      ],
-      "last_seen": "2026-08-27T08:39:12.368596+00:00"
-    },
     "Lupin Ltd": {
       "count": 1,
       "job_ids": [
@@ -388,26 +360,12 @@
       ],
       "last_seen": "2026-08-29T18:15:30.156706+00:00"
     },
-    "Nick Scali Limited": {
-      "count": 1,
-      "job_ids": [
-        "28c3bb23e7db"
-      ],
-      "last_seen": "2026-08-27T08:39:12.368596+00:00"
-    },
     "OTR": {
       "count": 1,
       "job_ids": [
         "3d70ac7edb9b"
       ],
       "last_seen": "2026-08-29T14:18:42.203837+00:00"
-    },
-    "Ocean / OcÃ©an": {
-      "count": 1,
-      "job_ids": [
-        "635ae882f4f1"
-      ],
-      "last_seen": "2026-08-27T08:39:12.368596+00:00"
     },
     "Orca Bio": {
       "count": 1,
@@ -446,8 +404,9 @@
       "last_seen": "2026-08-29T18:15:30.156706+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 11,
+      "count": 12,
       "job_ids": [
+        "ececeb72ce36",
         "3f29a2c97d54",
         "e361cddf67e3",
         "891e478c0d1d",
@@ -460,7 +419,7 @@
         "b381a662abc3",
         "e671a1c89888"
       ],
-      "last_seen": "2026-08-30T01:28:29+00:00"
+      "last_seen": "2026-08-30T07:10:25+00:00"
     },
     "Radisson Hotel Group": {
       "count": 1,
@@ -662,10 +621,9 @@
       "last_seen": "2026-08-29T21:35:02.253658+00:00"
     },
     "The Home Depot Canada": {
-      "count": 2,
+      "count": 1,
       "job_ids": [
-        "78984922d1c4",
-        "e1e714780ed0"
+        "78984922d1c4"
       ],
       "last_seen": "2026-08-28T04:07:49.727414+00:00"
     },
@@ -741,5 +699,5 @@
       "last_seen": "2026-08-29T21:35:02.253658+00:00"
     }
   },
-  "updated_at": "2026-08-30T05:15:32.198714+00:00"
+  "updated_at": "2026-08-30T11:40:29.759978+00:00"
 }
