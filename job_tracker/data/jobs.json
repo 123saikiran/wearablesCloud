@@ -1,6 +1,157 @@
 {
   "jobs": [
     {
+      "company": "Complex Co.",
+      "fetched_at": "2026-08-30T16:27:23.251492+00:00",
+      "id": "bb7ca88ddd4c",
+      "location": "Canberra,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "technical",
+        "customer support",
+        "microsoft",
+        "exec",
+        "junior",
+        "excel"
+      ],
+      "title": "Lead Estimator",
+      "url": "https://remoteOK.com/remote-jobs/remote-lead-estimator-complex-co-1137153"
+    },
+    {
+      "company": "Buffalo Wild Wings - Fralich, Inc.",
+      "fetched_at": "2026-08-30T16:27:23.251492+00:00",
+      "id": "1fdac1349f80",
+      "location": "El Paso,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "finance",
+        "math",
+        "exec"
+      ],
+      "title": "BACK OF HOUSE",
+      "url": "https://remoteOK.com/remote-jobs/remote-back-of-house-buffalo-wild-wings-fralich-inc-1137129"
+    },
+    {
+      "company": "Aimwear",
+      "fetched_at": "2026-08-30T16:27:23.251492+00:00",
+      "id": "abc8e31de8c8",
+      "location": "LaSalle,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [],
+      "title": "GA",
+      "url": "https://remoteOK.com/remote-jobs/remote-ga-aimwear-1137128"
+    },
+    {
+      "company": "Nick Scali Limited",
+      "fetched_at": "2026-08-30T16:27:23.251492+00:00",
+      "id": "28c3bb23e7db",
+      "location": "Hobart,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "technical",
+        "customer support",
+        "microsoft",
+        "exec",
+        "junior",
+        "excel",
+        "design",
+        "education",
+        "marketing",
+        "travel",
+        "ops",
+        "sales",
+        "digital nomad"
+      ],
+      "title": "Earn more",
+      "url": "https://remoteOK.com/remote-jobs/remote-earn-more-nick-scali-limited-1137154"
+    },
+    {
+      "company": "Locals",
+      "fetched_at": "2026-08-30T16:27:23.251492+00:00",
+      "id": "02bc3afbb29d",
+      "location": "Nagpur,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "design",
+        "travel",
+        "speech",
+        "video",
+        "content writing",
+        "marketing",
+        "full time",
+        "digital nomad"
+      ],
+      "title": "Video Editor",
+      "url": "https://remoteOK.com/remote-jobs/remote-video-editor-locals-1137158"
+    },
+    {
+      "company": "The Home Depot Canada",
+      "fetched_at": "2026-08-30T16:27:23.251492+00:00",
+      "id": "e1e714780ed0",
+      "location": "Dartmouth,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "sales",
+        "non tech"
+      ],
+      "title": "Appliance Sales Specialist",
+      "url": "https://remoteOK.com/remote-jobs/remote-appliance-sales-specialist-the-home-depot-canada-1137160"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-08-30T16:27:23.251492+00:00",
+      "id": "5bfd9656acbf",
+      "location": "Remote",
+      "posted_at": "2026-08-30T15:00:22+00:00",
+      "source": "devto",
+      "tags": [
+        "beginners",
+        "jobs",
+        "career",
+        "programming"
+      ],
+      "title": "Where to Find Tech Internships This Summer (Aug 30)",
+      "url": "https://dev.to/crackr/where-to-find-tech-internships-this-summer-aug-30-5711"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-08-30T16:27:23.251492+00:00",
+      "id": "979d54338c0a",
+      "location": "Remote",
+      "posted_at": "2026-08-30T15:00:19+00:00",
+      "source": "devto",
+      "tags": [
+        "remotework",
+        "jobs",
+        "webdev",
+        "career"
+      ],
+      "title": "Senior Remote SWE Roles Hiring Now - 1 Pay $150k+ (Aug 30)",
+      "url": "https://dev.to/crackr/senior-remote-swe-roles-hiring-now-1-pay-150k-aug-30-3jj1"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-30T16:27:23.251492+00:00",
+      "id": "10c266851f69",
+      "location": "Remote",
+      "posted_at": "2026-08-30T12:52:10+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3hmj"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-08-30T11:40:29.759978+00:00",
       "id": "ececeb72ce36",
@@ -2125,55 +2276,7 @@
       ],
       "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-f52"
-    },
-    {
-      "company": "jidonglab",
-      "fetched_at": "2026-08-27T19:43:33.462203+00:00",
-      "id": "025e0cefcc34",
-      "location": "Remote",
-      "posted_at": "2026-08-27T15:50:31+00:00",
-      "source": "devto",
-      "tags": [
-        "career",
-        "interview",
-        "jobs",
-        "discuss"
-      ],
-      "title": "Developer Salary Negotiation: The Recruiter Already Has a Number",
-      "url": "https://dev.to/ji_ai/developer-salary-negotiation-the-recruiter-already-has-a-number-1ann"
-    },
-    {
-      "company": "Crackr",
-      "fetched_at": "2026-08-27T19:43:33.462203+00:00",
-      "id": "d22615376e4c",
-      "location": "Remote",
-      "posted_at": "2026-08-27T15:01:19+00:00",
-      "source": "devto",
-      "tags": [
-        "beginners",
-        "jobs",
-        "career",
-        "programming"
-      ],
-      "title": "Where to Find Tech Internships This Summer (Aug 27)",
-      "url": "https://dev.to/crackr/where-to-find-tech-internships-this-summer-aug-27-1350"
-    },
-    {
-      "company": "Crackr",
-      "fetched_at": "2026-08-27T19:43:33.462203+00:00",
-      "id": "ef6c386b2c4e",
-      "location": "Remote",
-      "posted_at": "2026-08-27T15:01:15+00:00",
-      "source": "devto",
-      "tags": [
-        "remotework",
-        "jobs",
-        "webdev",
-        "career"
-      ],
-      "title": "Senior Remote SWE Roles Hiring Now - 1 Pay $150k+ (Aug 27)",
-      "url": "https://dev.to/crackr/senior-remote-swe-roles-hiring-now-1-pay-150k-aug-27-3gja"
     }
   ],
-  "updated_at": "2026-08-30T11:40:29.759978+00:00"
+  "updated_at": "2026-08-30T16:27:23.251492+00:00"
 }
