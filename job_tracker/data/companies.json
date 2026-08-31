@@ -77,12 +77,26 @@
       ],
       "last_seen": "2026-08-30T05:15:32.198714+00:00"
     },
+    "Carv": {
+      "count": 1,
+      "job_ids": [
+        "c53b1db41795"
+      ],
+      "last_seen": "2026-08-31T01:16:53.523857+00:00"
+    },
     "Complex Co.": {
       "count": 1,
       "job_ids": [
         "bb7ca88ddd4c"
       ],
       "last_seen": "2026-08-30T16:27:23.251492+00:00"
+    },
+    "Coogee Chemicals": {
+      "count": 1,
+      "job_ids": [
+        "57d9baa2eec1"
+      ],
+      "last_seen": "2026-08-31T01:16:53.523857+00:00"
     },
     "Cotton On Group": {
       "count": 1,
@@ -139,6 +153,13 @@
       ],
       "last_seen": "2026-08-29T14:18:42.203837+00:00"
     },
+    "Edspired.Tech": {
+      "count": 1,
+      "job_ids": [
+        "dd7e40833aa3"
+      ],
+      "last_seen": "2026-08-31T01:16:53.523857+00:00"
+    },
     "Elements Recruitment Australia": {
       "count": 1,
       "job_ids": [
@@ -167,12 +188,26 @@
       ],
       "last_seen": "2026-08-29T14:18:42.203837+00:00"
     },
+    "Geelong Careers": {
+      "count": 1,
+      "job_ids": [
+        "30db5971dc4f"
+      ],
+      "last_seen": "2026-08-31T01:16:53.523857+00:00"
+    },
     "Greater Pell City Chamber of Commerce": {
       "count": 1,
       "job_ids": [
         "a9e8663e1cd3"
       ],
       "last_seen": "2026-08-28T17:14:44.676972+00:00"
+    },
+    "Guzman y Gomez Mexican Kitchen": {
+      "count": 1,
+      "job_ids": [
+        "5c57cfbf453a"
+      ],
+      "last_seen": "2026-08-31T01:16:53.523857+00:00"
     },
     "H&amp;M": {
       "count": 1,
@@ -203,12 +238,42 @@
       ],
       "last_seen": "2026-08-29T14:18:42.203837+00:00"
     },
+    "Interaction Design Foundation": {
+      "count": 3,
+      "job_ids": [
+        "b68095d25eb0",
+        "4ef5e2cc3787",
+        "6a92d8de124a"
+      ],
+      "last_seen": "2026-08-31T01:16:53.523857+00:00"
+    },
+    "Intuit": {
+      "count": 1,
+      "job_ids": [
+        "72ceedf46d23"
+      ],
+      "last_seen": "2026-08-31T01:16:53.523857+00:00"
+    },
     "JAI HANUMAN UDYOG LIMITED": {
       "count": 1,
       "job_ids": [
         "8438d4420a51"
       ],
       "last_seen": "2026-08-28T17:14:44.676972+00:00"
+    },
+    "JD.COM": {
+      "count": 1,
+      "job_ids": [
+        "e6a0ef256c53"
+      ],
+      "last_seen": "2026-08-31T01:16:53.523857+00:00"
+    },
+    "JobTrade": {
+      "count": 1,
+      "job_ids": [
+        "12232a64c4ca"
+      ],
+      "last_seen": "2026-08-31T01:16:53.523857+00:00"
     },
     "Kent Removals &amp; Storage": {
       "count": 1,
@@ -376,6 +441,7 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 15,
       "job_ids": [
+        "1f65efafa8d7",
         "5ecd08473558",
         "751f4e35eab3",
         "b6adaf510262",
@@ -389,10 +455,9 @@
         "09c31209465e",
         "0c0306aad2fb",
         "2549d61c82df",
-        "b67af95671f0",
-        "b381a662abc3"
+        "b67af95671f0"
       ],
-      "last_seen": "2026-08-30T22:09:10+00:00"
+      "last_seen": "2026-08-31T00:35:35+00:00"
     },
     "Radisson Hotel Group": {
       "count": 1,
@@ -471,6 +536,13 @@
         "6a90d1bbef88"
       ],
       "last_seen": "2026-08-28T04:07:49.727414+00:00"
+    },
+    "Sherborne Schools Group": {
+      "count": 1,
+      "job_ids": [
+        "6baf25d55ea4"
+      ],
+      "last_seen": "2026-08-31T01:16:53.523857+00:00"
     },
     "Shoppers Drug Mart": {
       "count": 2,
@@ -551,11 +623,12 @@
       "last_seen": "2026-08-28T17:14:44.676972+00:00"
     },
     "Tesco": {
-      "count": 1,
+      "count": 2,
       "job_ids": [
+        "1cfb77c4076e",
         "6f3153c75a61"
       ],
-      "last_seen": "2026-08-29T18:15:30.156706+00:00"
+      "last_seen": "2026-08-31T01:16:53.523857+00:00"
     },
     "Tessera Labs": {
       "count": 1,
@@ -592,6 +665,13 @@
         "78984922d1c4"
       ],
       "last_seen": "2026-08-30T16:27:23.251492+00:00"
+    },
+    "The Shepparton Adviser": {
+      "count": 1,
+      "job_ids": [
+        "09074d71b4ed"
+      ],
+      "last_seen": "2026-08-31T01:16:53.523857+00:00"
     },
     "Transportation Partners &amp; Logistics": {
       "count": 1,
@@ -658,5 +738,5 @@
       "last_seen": "2026-08-29T21:35:02.253658+00:00"
     }
   },
-  "updated_at": "2026-08-30T22:35:23.353649+00:00"
+  "updated_at": "2026-08-31T01:16:53.523857+00:00"
 }
