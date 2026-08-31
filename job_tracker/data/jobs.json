@@ -1,6 +1,178 @@
 {
   "jobs": [
     {
+      "company": "Mr Clutch Autocentres",
+      "fetched_at": "2026-08-31T08:28:51.026256+00:00",
+      "id": "d43d6f2fb706",
+      "location": "Oxford,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "testing",
+        "sys admin",
+        "education",
+        "finance",
+        "scheme",
+        "non tech"
+      ],
+      "title": "MOT Tester",
+      "url": "https://remoteOK.com/remote-jobs/remote-mot-tester-mr-clutch-autocentres-1137218"
+    },
+    {
+      "company": "Stobart",
+      "fetched_at": "2026-08-31T08:28:51.026256+00:00",
+      "id": "1e81d3ac3a4d",
+      "location": "Northampton,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "c",
+        "scheme",
+        "ops",
+        "legal",
+        "medical",
+        "recruiter",
+        "full time",
+        "non tech"
+      ],
+      "title": "Shunter",
+      "url": "https://remoteOK.com/remote-jobs/remote-shunter-stobart-1137216"
+    },
+    {
+      "company": "Thrifty Car and Van Rental",
+      "fetched_at": "2026-08-31T08:28:51.026256+00:00",
+      "id": "172700102f2c",
+      "location": "Exeter,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "testing",
+        "sys admin",
+        "education",
+        "finance",
+        "scheme",
+        "non tech",
+        "customer support",
+        "marketing",
+        "admin",
+        "ops"
+      ],
+      "title": "Customer Service Agent",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-service-agent-thrifty-car-and-van-rental-1137219"
+    },
+    {
+      "company": "Wellburn Care Homes Ltd",
+      "fetched_at": "2026-08-31T08:28:51.026256+00:00",
+      "id": "78fe9a178196",
+      "location": "Berwick-Upon-Tweed,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "c",
+        "scheme",
+        "ops",
+        "legal",
+        "medical",
+        "recruiter",
+        "full time",
+        "non tech",
+        "education",
+        "golang"
+      ],
+      "title": "Handyperson",
+      "url": "https://remoteOK.com/remote-jobs/remote-handyperson-wellburn-care-homes-ltd-1137217"
+    },
+    {
+      "company": "Clarks International",
+      "fetched_at": "2026-08-31T08:28:51.026256+00:00",
+      "id": "71a309faa8b4",
+      "location": "Oxford,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "testing",
+        "sys admin",
+        "education",
+        "finance",
+        "scheme",
+        "non tech",
+        "customer support",
+        "marketing",
+        "admin",
+        "ops",
+        "exec",
+        "virtual assistant",
+        "microsoft",
+        "sales"
+      ],
+      "title": "Assistant Manager",
+      "url": "https://remoteOK.com/remote-jobs/remote-assistant-manager-clarks-international-1137220"
+    },
+    {
+      "company": "TRANT ENGINEERING LIMITED",
+      "fetched_at": "2026-08-31T08:28:51.026256+00:00",
+      "id": "19d1a9b3d292",
+      "location": "Southampton,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "testing",
+        "sys admin",
+        "education",
+        "finance",
+        "scheme",
+        "non tech",
+        "customer support",
+        "marketing",
+        "admin",
+        "ops",
+        "exec",
+        "virtual assistant",
+        "microsoft",
+        "sales",
+        "design",
+        "technical",
+        "supervisor",
+        "assembly",
+        "engineer",
+        "digital nomad"
+      ],
+      "title": "Wireperson",
+      "url": "https://remoteOK.com/remote-jobs/remote-wireperson-trant-engineering-limited-1137221"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-08-31T08:28:51.026256+00:00",
+      "id": "775dc7d75034",
+      "location": "Remote",
+      "posted_at": "2026-08-31T06:06:09+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-14hj"
+    },
+    {
+      "company": "jidonglab",
+      "fetched_at": "2026-08-31T08:28:51.026256+00:00",
+      "id": "b620bd077424",
+      "location": "Remote",
+      "posted_at": "2026-08-31T04:04:53+00:00",
+      "source": "devto",
+      "tags": [
+        "interview",
+        "career",
+        "jobs",
+        "discuss"
+      ],
+      "title": "The Hiring Debrief: Where Your Tech Interview Is Really Decided",
+      "url": "https://dev.to/ji_ai/the-hiring-debrief-where-your-tech-interview-is-really-decided-4dhc"
+    },
+    {
       "company": "Carv",
       "fetched_at": "2026-08-31T01:16:53.523857+00:00",
       "id": "c53b1db41795",
@@ -2154,177 +2326,7 @@
       ],
       "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-42b8"
-    },
-    {
-      "company": "W Hotels",
-      "fetched_at": "2026-08-28T04:07:49.727414+00:00",
-      "id": "7b5c65463ee8",
-      "location": "Albufeira,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "education",
-        "customer support",
-        "finance",
-        "non tech",
-        "supervisor",
-        "c",
-        "exec"
-      ],
-      "title": "Gardener NUSC",
-      "url": "https://remoteOK.com/remote-jobs/remote-gardener-nusc-w-hotels-1137185"
-    },
-    {
-      "company": "W Hotels",
-      "fetched_at": "2026-08-28T04:07:49.727414+00:00",
-      "id": "eed48f89c829",
-      "location": "Albufeira,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "design",
-        "education",
-        "marketing",
-        "travel",
-        "scheme",
-        "ops",
-        "medical",
-        "engineer",
-        "digital nomad",
-        "infosec",
-        "customer support",
-        "exec"
-      ],
-      "title": "Gardener",
-      "url": "https://remoteOK.com/remote-jobs/remote-gardener-w-hotels-1137164"
-    },
-    {
-      "company": "Storage King Group",
-      "fetched_at": "2026-08-28T04:07:49.727414+00:00",
-      "id": "129334ff7ac3",
-      "location": "Rozelle,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "exec",
-        "virtual assistant",
-        "education",
-        "customer support",
-        "marketing",
-        "travel",
-        "finance",
-        "legal",
-        "sales",
-        "medical",
-        "recruiter",
-        "full time"
-      ],
-      "title": "Assistant Manager",
-      "url": "https://remoteOK.com/remote-jobs/remote-assistant-manager-storage-king-group-1137161"
-    },
-    {
-      "company": "Blackbird Interactive",
-      "fetched_at": "2026-08-28T04:07:49.727414+00:00",
-      "id": "63695c1ba827",
-      "location": "Vancouver, BC, Canada",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "design",
-        "game dev",
-        "designer",
-        "technical",
-        "customer support",
-        "testing",
-        "content writing",
-        "senior",
-        "engineer",
-        "digital nomad"
-      ],
-      "title": "Senior Level Designer",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-level-designer-blackbird-interactive-1137156"
-    },
-    {
-      "company": "Tessera Labs",
-      "fetched_at": "2026-08-28T04:07:49.727414+00:00",
-      "id": "f18c1fd14d71",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "design",
-        "sys admin",
-        "consulting",
-        "testing",
-        "exec",
-        "cloud",
-        "senior",
-        "ops",
-        "engineer",
-        "ecommerce",
-        "shopify",
-        "full time",
-        "digital nomad"
-      ],
-      "title": "Oracle Fusion Cloud Lead â Logistics & Supply Chain Management",
-      "url": "https://remoteOK.com/remote-jobs/remote-oracle-fusion-cloud-lead-logistics-supply-chain-management-tessera-labs-1137155"
-    },
-    {
-      "company": "Scotsman Hospitality",
-      "fetched_at": "2026-08-28T04:07:49.727414+00:00",
-      "id": "6a90d1bbef88",
-      "location": "Glasgow,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "education",
-        "customer support",
-        "finance",
-        "non tech"
-      ],
-      "title": "Kitchen Porter",
-      "url": "https://remoteOK.com/remote-jobs/remote-kitchen-porter-scotsman-hospitality-1137184"
-    },
-    {
-      "company": "The Home Depot Canada",
-      "fetched_at": "2026-08-28T04:07:49.727414+00:00",
-      "id": "78984922d1c4",
-      "location": "Trois-RiviÃ¨res,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [],
-      "title": "Technicien Ã la location d'outils",
-      "url": "https://remoteOK.com/remote-jobs/remote-technicien-a-la-location-doutils-the-home-depot-canada-1137173"
-    },
-    {
-      "company": "Saasuji",
-      "fetched_at": "2026-08-28T04:07:49.727414+00:00",
-      "id": "c83ba57c1505",
-      "location": "Newcastle Upon Tyne,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "finance",
-        "medical",
-        "non tech"
-      ],
-      "title": "CDP",
-      "url": "https://remoteOK.com/remote-jobs/remote-cdp-saasuji-1137091"
-    },
-    {
-      "company": "Subway",
-      "fetched_at": "2026-08-28T04:07:49.727414+00:00",
-      "id": "99805f4ae447",
-      "location": "Grand Falls-Windsor,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "education",
-        "non tech"
-      ],
-      "title": "Sandwich artist",
-      "url": "https://remoteOK.com/remote-jobs/remote-sandwich-artist-subway-1137086"
     }
   ],
-  "updated_at": "2026-08-31T01:16:53.523857+00:00"
+  "updated_at": "2026-08-31T08:28:51.026256+00:00"
 }
