@@ -35,6 +35,13 @@
       ],
       "last_seen": "2026-08-29T01:37:07.235665+00:00"
     },
+    "Benzinga": {
+      "count": 1,
+      "job_ids": [
+        "08991bb5dd0b"
+      ],
+      "last_seen": "2026-08-31T21:52:20.639342+00:00"
+    },
     "Blackbird Interactive": {
       "count": 1,
       "job_ids": [
@@ -202,13 +209,6 @@
       ],
       "last_seen": "2026-08-31T01:16:53.523857+00:00"
     },
-    "Greater Pell City Chamber of Commerce": {
-      "count": 1,
-      "job_ids": [
-        "a9e8663e1cd3"
-      ],
-      "last_seen": "2026-08-28T17:14:44.676972+00:00"
-    },
     "Guardian Electrical Compliance Ltd": {
       "count": 1,
       "job_ids": [
@@ -268,13 +268,6 @@
       ],
       "last_seen": "2026-08-31T01:16:53.523857+00:00"
     },
-    "JAI HANUMAN UDYOG LIMITED": {
-      "count": 1,
-      "job_ids": [
-        "8438d4420a51"
-      ],
-      "last_seen": "2026-08-28T17:14:44.676972+00:00"
-    },
     "JD.COM": {
       "count": 1,
       "job_ids": [
@@ -316,13 +309,6 @@
         "e6f6ec47c85f"
       ],
       "last_seen": "2026-08-30T01:52:17+00:00"
-    },
-    "Larsen &amp; Toubro": {
-      "count": 1,
-      "job_ids": [
-        "2a7983a8bc72"
-      ],
-      "last_seen": "2026-08-28T17:14:44.676972+00:00"
     },
     "Leena AI": {
       "count": 1,
@@ -460,8 +446,9 @@
       "last_seen": "2026-08-29T18:15:30.156706+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 16,
+      "count": 17,
       "job_ids": [
+        "18a4ab42543b",
         "cff6fa72b4a9",
         "775dc7d75034",
         "1f65efafa8d7",
@@ -479,7 +466,7 @@
         "0c0306aad2fb",
         "2549d61c82df"
       ],
-      "last_seen": "2026-08-31T13:42:34+00:00"
+      "last_seen": "2026-08-31T19:41:44+00:00"
     },
     "Radisson Hotel Group": {
       "count": 1,
@@ -515,13 +502,6 @@
         "d3d49e5b6de8"
       ],
       "last_seen": "2026-08-30T05:15:32.198714+00:00"
-    },
-    "Royal Caribbean Group": {
-      "count": 1,
-      "job_ids": [
-        "e6beb621a703"
-      ],
-      "last_seen": "2026-08-28T17:14:44.676972+00:00"
     },
     "Royal Lepage Icon Realty": {
       "count": 1,
@@ -573,13 +553,6 @@
         "a523d421c7d5"
       ],
       "last_seen": "2026-08-29T14:18:42.203837+00:00"
-    },
-    "Sisal Hub Albania": {
-      "count": 1,
-      "job_ids": [
-        "715b254de673"
-      ],
-      "last_seen": "2026-08-28T17:14:44.676972+00:00"
     },
     "Skechers": {
       "count": 1,
@@ -644,26 +617,12 @@
       ],
       "last_seen": "2026-08-31T08:28:51.026256+00:00"
     },
-    "TS Imagine": {
-      "count": 1,
-      "job_ids": [
-        "a8326b0c32f9"
-      ],
-      "last_seen": "2026-08-28T17:14:44.676972+00:00"
-    },
     "Teatro Multiplan MorumbiShopping": {
       "count": 1,
       "job_ids": [
         "9a160ff45b5e"
       ],
       "last_seen": "2026-08-29T08:50:55.974757+00:00"
-    },
-    "Territory Generation": {
-      "count": 1,
-      "job_ids": [
-        "58bb8296da08"
-      ],
-      "last_seen": "2026-08-28T17:14:44.676972+00:00"
     },
     "Tesco": {
       "count": 2,
@@ -679,20 +638,6 @@
         "f18c1fd14d71"
       ],
       "last_seen": "2026-08-31T16:57:11.014400+00:00"
-    },
-    "The AI Whistleblower Initiative": {
-      "count": 1,
-      "job_ids": [
-        "916cd2848e14"
-      ],
-      "last_seen": "2026-08-28T17:14:44.676972+00:00"
-    },
-    "The Abaco Club": {
-      "count": 1,
-      "job_ids": [
-        "b834e6cbcfc8"
-      ],
-      "last_seen": "2026-08-28T17:14:44.676972+00:00"
     },
     "The Butcher Shoppe": {
       "count": 1,
@@ -723,13 +668,6 @@
       ],
       "last_seen": "2026-08-31T08:28:51.026256+00:00"
     },
-    "Transportation Partners &amp; Logistics": {
-      "count": 1,
-      "job_ids": [
-        "e7ba68dc9f7e"
-      ],
-      "last_seen": "2026-08-28T17:14:44.676972+00:00"
-    },
     "UzEats": {
       "count": 1,
       "job_ids": [
@@ -743,20 +681,6 @@
         "6c98842f83a6"
       ],
       "last_seen": "2026-08-29T01:37:07.235665+00:00"
-    },
-    "Vertu Motors plc": {
-      "count": 1,
-      "job_ids": [
-        "6c953a74a85d"
-      ],
-      "last_seen": "2026-08-28T17:14:44.676972+00:00"
-    },
-    "VirtuHire": {
-      "count": 1,
-      "job_ids": [
-        "c1f0f420cfa6"
-      ],
-      "last_seen": "2026-08-28T17:14:44.676972+00:00"
     },
     "W Hotels": {
       "count": 2,
@@ -772,6 +696,13 @@
         "78fe9a178196"
       ],
       "last_seen": "2026-08-31T08:28:51.026256+00:00"
+    },
+    "Wonderful": {
+      "count": 1,
+      "job_ids": [
+        "43e2b2a0b178"
+      ],
+      "last_seen": "2026-08-31T21:52:20.639342+00:00"
     },
     "Wood": {
       "count": 1,
@@ -802,5 +733,5 @@
       "last_seen": "2026-08-29T21:35:02.253658+00:00"
     }
   },
-  "updated_at": "2026-08-31T16:57:11.014400+00:00"
+  "updated_at": "2026-08-31T21:52:20.639342+00:00"
 }
