@@ -35,6 +35,13 @@
       ],
       "last_seen": "2026-08-29T01:37:07.235665+00:00"
     },
+    "Blackbird Interactive": {
+      "count": 1,
+      "job_ids": [
+        "63695c1ba827"
+      ],
+      "last_seen": "2026-08-31T16:57:11.014400+00:00"
+    },
     "Bosta": {
       "count": 1,
       "job_ids": [
@@ -108,14 +115,14 @@
     "Crackr": {
       "count": 6,
       "job_ids": [
+        "8c6e72b854aa",
+        "36adcdec586a",
         "5bfd9656acbf",
         "979d54338c0a",
         "18c1a7dd3e2b",
-        "a59645afd96b",
-        "b82ea9d1be36",
-        "f3592415dd47"
+        "a59645afd96b"
       ],
-      "last_seen": "2026-08-30T15:00:22+00:00"
+      "last_seen": "2026-08-31T15:01:07+00:00"
     },
     "Crocs, Inc.": {
       "count": 1,
@@ -201,6 +208,13 @@
         "a9e8663e1cd3"
       ],
       "last_seen": "2026-08-28T17:14:44.676972+00:00"
+    },
+    "Guardian Electrical Compliance Ltd": {
+      "count": 1,
+      "job_ids": [
+        "98b747ece644"
+      ],
+      "last_seen": "2026-08-31T16:57:11.014400+00:00"
     },
     "Guzman y Gomez Mexican Kitchen": {
       "count": 1,
@@ -448,6 +462,7 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 16,
       "job_ids": [
+        "cff6fa72b4a9",
         "775dc7d75034",
         "1f65efafa8d7",
         "5ecd08473558",
@@ -462,10 +477,9 @@
         "1747cce17064",
         "09c31209465e",
         "0c0306aad2fb",
-        "2549d61c82df",
-        "b67af95671f0"
+        "2549d61c82df"
       ],
-      "last_seen": "2026-08-31T06:06:09+00:00"
+      "last_seen": "2026-08-31T13:42:34+00:00"
     },
     "Radisson Hotel Group": {
       "count": 1,
@@ -517,11 +531,12 @@
       "last_seen": "2026-08-29T14:18:42.203837+00:00"
     },
     "Saasuji": {
-      "count": 1,
+      "count": 2,
       "job_ids": [
+        "c83ba57c1505",
         "fcaebbecd493"
       ],
-      "last_seen": "2026-08-29T21:35:02.253658+00:00"
+      "last_seen": "2026-08-31T16:57:11.014400+00:00"
     },
     "Salesforge": {
       "count": 1,
@@ -536,6 +551,13 @@
         "149f2d5f0045"
       ],
       "last_seen": "2026-08-29T08:50:55.974757+00:00"
+    },
+    "Scotsman Hospitality": {
+      "count": 1,
+      "job_ids": [
+        "6a90d1bbef88"
+      ],
+      "last_seen": "2026-08-31T16:57:11.014400+00:00"
     },
     "Sherborne Schools Group": {
       "count": 1,
@@ -573,6 +595,13 @@
       ],
       "last_seen": "2026-08-29T18:15:30.156706+00:00"
     },
+    "Spendless Shoes": {
+      "count": 1,
+      "job_ids": [
+        "84ad1fc4376b"
+      ],
+      "last_seen": "2026-08-31T16:57:11.014400+00:00"
+    },
     "Stanley Black &amp; Decker, Inc.": {
       "count": 1,
       "job_ids": [
@@ -586,6 +615,20 @@
         "1e81d3ac3a4d"
       ],
       "last_seen": "2026-08-31T08:28:51.026256+00:00"
+    },
+    "Storage King Group": {
+      "count": 1,
+      "job_ids": [
+        "129334ff7ac3"
+      ],
+      "last_seen": "2026-08-31T16:57:11.014400+00:00"
+    },
+    "Subway": {
+      "count": 1,
+      "job_ids": [
+        "99805f4ae447"
+      ],
+      "last_seen": "2026-08-31T16:57:11.014400+00:00"
     },
     "Swissport": {
       "count": 1,
@@ -630,6 +673,13 @@
       ],
       "last_seen": "2026-08-31T01:16:53.523857+00:00"
     },
+    "Tessera Labs": {
+      "count": 1,
+      "job_ids": [
+        "f18c1fd14d71"
+      ],
+      "last_seen": "2026-08-31T16:57:11.014400+00:00"
+    },
     "The AI Whistleblower Initiative": {
       "count": 1,
       "job_ids": [
@@ -652,11 +702,12 @@
       "last_seen": "2026-08-29T21:35:02.253658+00:00"
     },
     "The Home Depot Canada": {
-      "count": 1,
+      "count": 2,
       "job_ids": [
+        "78984922d1c4",
         "e1e714780ed0"
       ],
-      "last_seen": "2026-08-30T16:27:23.251492+00:00"
+      "last_seen": "2026-08-31T16:57:11.014400+00:00"
     },
     "The Shepparton Adviser": {
       "count": 1,
@@ -707,6 +758,14 @@
       ],
       "last_seen": "2026-08-28T17:14:44.676972+00:00"
     },
+    "W Hotels": {
+      "count": 2,
+      "job_ids": [
+        "7b5c65463ee8",
+        "eed48f89c829"
+      ],
+      "last_seen": "2026-08-31T16:57:11.014400+00:00"
+    },
     "Wellburn Care Homes Ltd": {
       "count": 1,
       "job_ids": [
@@ -743,5 +802,5 @@
       "last_seen": "2026-08-29T21:35:02.253658+00:00"
     }
   },
-  "updated_at": "2026-08-31T08:28:51.026256+00:00"
+  "updated_at": "2026-08-31T16:57:11.014400+00:00"
 }
