@@ -14,6 +14,13 @@
       ],
       "last_seen": "2026-08-30T16:27:23.251492+00:00"
     },
+    "Amazon Web Services (AWS)": {
+      "count": 1,
+      "job_ids": [
+        "ab36adb3f271"
+      ],
+      "last_seen": "2026-09-01T07:35:58.078444+00:00"
+    },
     "Atreides": {
       "count": 1,
       "job_ids": [
@@ -27,13 +34,6 @@
         "559044575be7"
       ],
       "last_seen": "2026-08-29T23:59:38.290556+00:00"
-    },
-    "Bayer": {
-      "count": 1,
-      "job_ids": [
-        "de2b30f44f02"
-      ],
-      "last_seen": "2026-08-29T01:37:07.235665+00:00"
     },
     "Benzinga": {
       "count": 1,
@@ -98,6 +98,13 @@
       ],
       "last_seen": "2026-08-31T08:28:51.026256+00:00"
     },
+    "Coca-Cola Cambodia Beverage Company Ltd": {
+      "count": 1,
+      "job_ids": [
+        "40925d90d9f8"
+      ],
+      "last_seen": "2026-09-01T07:35:58.078444+00:00"
+    },
     "Complex Co.": {
       "count": 2,
       "job_ids": [
@@ -132,13 +139,6 @@
       ],
       "last_seen": "2026-08-31T15:01:07+00:00"
     },
-    "Crocs, Inc.": {
-      "count": 1,
-      "job_ids": [
-        "558ebfea0266"
-      ],
-      "last_seen": "2026-08-29T01:37:07.235665+00:00"
-    },
     "Dart": {
       "count": 2,
       "job_ids": [
@@ -153,13 +153,6 @@
         "665fa257e8da"
       ],
       "last_seen": "2026-08-29T18:15:30.156706+00:00"
-    },
-    "Dr. Martens Australia / New Zealand": {
-      "count": 1,
-      "job_ids": [
-        "fb43c4eaad93"
-      ],
-      "last_seen": "2026-08-29T01:37:07.235665+00:00"
     },
     "East Coast Concepts": {
       "count": 1,
@@ -188,13 +181,6 @@
         "5f2969c27594"
       ],
       "last_seen": "2026-08-29T14:18:42.203837+00:00"
-    },
-    "Four Seasons": {
-      "count": 1,
-      "job_ids": [
-        "31883a137db6"
-      ],
-      "last_seen": "2026-08-29T01:37:07.235665+00:00"
     },
     "GPC Asia Pacific": {
       "count": 1,
@@ -237,13 +223,6 @@
         "92773dc2e335"
       ],
       "last_seen": "2026-08-29T14:18:42.203837+00:00"
-    },
-    "Hilton Salwa Beach Resort &amp; Villas": {
-      "count": 1,
-      "job_ids": [
-        "69b63a4922b7"
-      ],
-      "last_seen": "2026-08-29T01:37:07.235665+00:00"
     },
     "Hola Moda": {
       "count": 2,
@@ -297,19 +276,19 @@
       ],
       "last_seen": "2026-08-31T01:16:53.523857+00:00"
     },
+    "Jugopetrol AD": {
+      "count": 1,
+      "job_ids": [
+        "96918171a1ed"
+      ],
+      "last_seen": "2026-09-01T07:35:58.078444+00:00"
+    },
     "Kent Removals &amp; Storage": {
       "count": 1,
       "job_ids": [
         "eae2fdd6a2d7"
       ],
       "last_seen": "2026-08-29T14:18:42.203837+00:00"
-    },
-    "Krannich Solar Australia": {
-      "count": 1,
-      "job_ids": [
-        "a64fd254b3bf"
-      ],
-      "last_seen": "2026-08-29T01:37:07.235665+00:00"
     },
     "Kruger NearShore LLC - Rekluti": {
       "count": 1,
@@ -445,14 +424,6 @@
       ],
       "last_seen": "2026-08-29T08:50:55.974757+00:00"
     },
-    "Pete's Frootique": {
-      "count": 2,
-      "job_ids": [
-        "371d52efc6db",
-        "2850ed5c2600"
-      ],
-      "last_seen": "2026-08-29T01:37:07.235665+00:00"
-    },
     "Piramal Pharma Ltd": {
       "count": 1,
       "job_ids": [
@@ -468,8 +439,10 @@
       "last_seen": "2026-08-29T18:15:30.156706+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 17,
+      "count": 18,
       "job_ids": [
+        "2491dd927f04",
+        "e506807fdc2f",
         "61e4bae5f3e5",
         "18a4ab42543b",
         "cff6fa72b4a9",
@@ -485,10 +458,9 @@
         "891e478c0d1d",
         "ab0bda76b8aa",
         "1747cce17064",
-        "09c31209465e",
-        "0c0306aad2fb"
+        "09c31209465e"
       ],
-      "last_seen": "2026-08-31T23:24:56+00:00"
+      "last_seen": "2026-09-01T07:12:28+00:00"
     },
     "Radisson Hotel Group": {
       "count": 1,
@@ -746,13 +718,6 @@
       ],
       "last_seen": "2026-08-29T14:18:42.203837+00:00"
     },
-    "Vashi Integrated Solutions": {
-      "count": 1,
-      "job_ids": [
-        "6c98842f83a6"
-      ],
-      "last_seen": "2026-08-29T01:37:07.235665+00:00"
-    },
     "Vertu Motors plc": {
       "count": 1,
       "job_ids": [
@@ -796,13 +761,6 @@
       ],
       "last_seen": "2026-08-31T21:52:20.639342+00:00"
     },
-    "Wood": {
-      "count": 1,
-      "job_ids": [
-        "1cb8668b563f"
-      ],
-      "last_seen": "2026-08-29T01:37:07.235665+00:00"
-    },
     "jidonglab": {
       "count": 1,
       "job_ids": [
@@ -825,5 +783,5 @@
       "last_seen": "2026-08-29T21:35:02.253658+00:00"
     }
   },
-  "updated_at": "2026-09-01T01:09:19.666361+00:00"
+  "updated_at": "2026-09-01T07:35:58.078444+00:00"
 }

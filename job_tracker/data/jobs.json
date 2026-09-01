@@ -1,6 +1,92 @@
 {
   "jobs": [
     {
+      "company": "Coca-Cola Cambodia Beverage Company Ltd",
+      "fetched_at": "2026-09-01T07:35:58.078444+00:00",
+      "id": "40925d90d9f8",
+      "location": "Phnom Penh,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec",
+        "design",
+        "hr",
+        "infosec",
+        "customer support",
+        "payroll",
+        "finance",
+        "ops",
+        "digital nomad"
+      ],
+      "title": "Manager Rewards Management",
+      "url": "https://remoteOK.com/remote-jobs/remote-manager-rewards-management-coca-cola-cambodia-beverage-company-ltd-1137227"
+    },
+    {
+      "company": "Jugopetrol AD",
+      "fetched_at": "2026-09-01T07:35:58.078444+00:00",
+      "id": "96918171a1ed",
+      "location": "Podgorica,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "microsoft"
+      ],
+      "title": "Merchandiser",
+      "url": "https://remoteOK.com/remote-jobs/remote-merchandiser-jugopetrol-ad-1137234"
+    },
+    {
+      "company": "Amazon Web Services (AWS)",
+      "fetched_at": "2026-09-01T07:35:58.078444+00:00",
+      "id": "ab36adb3f271",
+      "location": "Telangana,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "exec",
+        "ops",
+        "engineer",
+        "amazon",
+        "web dev",
+        "cloud",
+        "aws"
+      ],
+      "title": "Cloud Computing",
+      "url": "https://remoteOK.com/remote-jobs/remote-cloud-computing-amazon-web-services-aws-1137231"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-01T07:35:58.078444+00:00",
+      "id": "2491dd927f04",
+      "location": "Remote",
+      "posted_at": "2026-09-01T07:12:28+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3ofe"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-01T07:35:58.078444+00:00",
+      "id": "e506807fdc2f",
+      "location": "Remote",
+      "posted_at": "2026-09-01T01:56:16+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4cf2"
+    },
+    {
       "company": "Complex Co.",
       "fetched_at": "2026-09-01T01:09:19.666361+00:00",
       "id": "f9761e47764b",
@@ -2441,191 +2527,7 @@
       ],
       "title": "Maintenance Operative",
       "url": "https://remoteOK.com/remote-jobs/remote-maintenance-operative-scape-1137208"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-08-29T08:50:55.974757+00:00",
-      "id": "0c0306aad2fb",
-      "location": "Remote",
-      "posted_at": "2026-08-29T03:55:47+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4h1o"
-    },
-    {
-      "company": "Hilton Salwa Beach Resort &amp; Villas",
-      "fetched_at": "2026-08-29T01:37:07.235665+00:00",
-      "id": "69b63a4922b7",
-      "location": "Ù Ø³ÙØ·,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "testing",
-        "non tech"
-      ],
-      "title": "Cdp",
-      "url": "https://remoteOK.com/remote-jobs/remote-cdp-hilton-salwa-beach-resort-amp-villas-1137179"
-    },
-    {
-      "company": "Pete's Frootique",
-      "fetched_at": "2026-08-29T01:37:07.235665+00:00",
-      "id": "371d52efc6db",
-      "location": "Bedford,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "supervisor",
-        "web dev",
-        "exec",
-        "customer support",
-        "ops"
-      ],
-      "title": "Meat and Seafood Clerk",
-      "url": "https://remoteOK.com/remote-jobs/remote-meat-and-seafood-clerk-petes-frootique-1137191"
-    },
-    {
-      "company": "Pete's Frootique",
-      "fetched_at": "2026-08-29T01:37:07.235665+00:00",
-      "id": "2850ed5c2600",
-      "location": "Bedford,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "supervisor",
-        "web dev",
-        "exec",
-        "customer support",
-        "ops"
-      ],
-      "title": "Receiver",
-      "url": "https://remoteOK.com/remote-jobs/remote-receiver-petes-frootique-1137192"
-    },
-    {
-      "company": "Crocs, Inc.",
-      "fetched_at": "2026-08-29T01:37:07.235665+00:00",
-      "id": "558ebfea0266",
-      "location": "Chatswood,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "exec",
-        "sys admin",
-        "customer support",
-        "marketing",
-        "c",
-        "microsoft",
-        "ops",
-        "excel",
-        "sales"
-      ],
-      "title": "Store Manager",
-      "url": "https://remoteOK.com/remote-jobs/remote-store-manager-crocs-inc-1137181"
-    },
-    {
-      "company": "Wood",
-      "fetched_at": "2026-08-29T01:37:07.235665+00:00",
-      "id": "1cb8668b563f",
-      "location": "Carlsbad,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "design",
-        "consulting",
-        "exec",
-        "ops",
-        "engineer",
-        "digital nomad"
-      ],
-      "title": "Journeyman I P",
-      "url": "https://remoteOK.com/remote-jobs/remote-journeyman-i-p-wood-1137197"
-    },
-    {
-      "company": "Vashi Integrated Solutions",
-      "fetched_at": "2026-08-29T01:37:07.235665+00:00",
-      "id": "6c98842f83a6",
-      "location": "Pune Division,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "exec",
-        "full time"
-      ],
-      "title": "Executive",
-      "url": "https://remoteOK.com/remote-jobs/remote-executive-vashi-integrated-solutions-1137105"
-    },
-    {
-      "company": "Four Seasons",
-      "fetched_at": "2026-08-29T01:37:07.235665+00:00",
-      "id": "31883a137db6",
-      "location": "Macau,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "exec",
-        "full time",
-        "customer support",
-        "music",
-        "video",
-        "content writing",
-        "education",
-        "testing"
-      ],
-      "title": "Bell Captain",
-      "url": "https://remoteOK.com/remote-jobs/remote-bell-captain-four-seasons-1137107"
-    },
-    {
-      "company": "Krannich Solar Australia",
-      "fetched_at": "2026-08-29T01:37:07.235665+00:00",
-      "id": "a64fd254b3bf",
-      "location": "Brendale,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [],
-      "title": "Store person",
-      "url": "https://remoteOK.com/remote-jobs/remote-store-person-krannich-solar-australia-1137100"
-    },
-    {
-      "company": "Bayer",
-      "fetched_at": "2026-08-29T01:37:07.235665+00:00",
-      "id": "de2b30f44f02",
-      "location": "Siliguri,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "dev",
-        "sales",
-        "medical",
-        "non tech",
-        "digital nomad"
-      ],
-      "title": "GLUCOBAY TASK FORCE",
-      "url": "https://remoteOK.com/remote-jobs/remote-glucobay-task-force-bayer-1137102"
-    },
-    {
-      "company": "Dr. Martens Australia / New Zealand",
-      "fetched_at": "2026-08-29T01:37:07.235665+00:00",
-      "id": "fb43c4eaad93",
-      "location": "Canberra,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "virtual assistant",
-        "education",
-        "customer support",
-        "exec",
-        "ops",
-        "sales",
-        "medical"
-      ],
-      "title": "AUS Dr Martens Sales Assistant Expression of Interest",
-      "url": "https://remoteOK.com/remote-jobs/remote-aus-dr-martens-sales-assistant-expression-of-interest-dr-martens-australia-new-zealand-1137113"
     }
   ],
-  "updated_at": "2026-09-01T01:09:19.666361+00:00"
+  "updated_at": "2026-09-01T07:35:58.078444+00:00"
 }
