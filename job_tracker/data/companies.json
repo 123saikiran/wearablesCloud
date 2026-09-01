@@ -28,6 +28,13 @@
       ],
       "last_seen": "2026-09-01T07:35:58.078444+00:00"
     },
+    "Atreides": {
+      "count": 1,
+      "job_ids": [
+        "507ba5b74900"
+      ],
+      "last_seen": "2026-09-01T17:44:58.213118+00:00"
+    },
     "Bass Pro Shops": {
       "count": 1,
       "job_ids": [
@@ -69,13 +76,6 @@
         "1fdac1349f80"
       ],
       "last_seen": "2026-08-30T16:27:23.251492+00:00"
-    },
-    "Cable Bahamas Ltd.": {
-      "count": 1,
-      "job_ids": [
-        "ee8cdfccd67f"
-      ],
-      "last_seen": "2026-08-29T14:18:42.203837+00:00"
     },
     "Canada Post / Postes Canada": {
       "count": 1,
@@ -127,24 +127,17 @@
       ],
       "last_seen": "2026-08-31T01:16:53.523857+00:00"
     },
-    "Cotton On Group": {
-      "count": 1,
-      "job_ids": [
-        "d86dfdb3f62f"
-      ],
-      "last_seen": "2026-08-29T14:18:42.203837+00:00"
-    },
     "Crackr": {
       "count": 6,
       "job_ids": [
+        "33ffa295eb89",
+        "1bc1994e2504",
         "8c6e72b854aa",
         "36adcdec586a",
         "5bfd9656acbf",
-        "979d54338c0a",
-        "18c1a7dd3e2b",
-        "a59645afd96b"
+        "979d54338c0a"
       ],
-      "last_seen": "2026-08-31T15:01:07+00:00"
+      "last_seen": "2026-09-01T15:03:06+00:00"
     },
     "Crocs, Inc.": {
       "count": 1,
@@ -154,10 +147,9 @@
       "last_seen": "2026-09-01T13:21:59.883771+00:00"
     },
     "Dart": {
-      "count": 2,
+      "count": 1,
       "job_ids": [
-        "3f4e1af97d62",
-        "c71c2c8d8439"
+        "3f4e1af97d62"
       ],
       "last_seen": "2026-08-29T21:35:02.253658+00:00"
     },
@@ -167,13 +159,6 @@
         "665fa257e8da"
       ],
       "last_seen": "2026-08-29T18:15:30.156706+00:00"
-    },
-    "East Coast Concepts": {
-      "count": 1,
-      "job_ids": [
-        "11fd1f667365"
-      ],
-      "last_seen": "2026-08-29T14:18:42.203837+00:00"
     },
     "Edspired.Tech": {
       "count": 1,
@@ -189,12 +174,12 @@
       ],
       "last_seen": "2026-08-29T23:59:38.290556+00:00"
     },
-    "FedEx": {
+    "Fifth Avenue Properties / Fifth Avenue Homes": {
       "count": 1,
       "job_ids": [
-        "5f2969c27594"
+        "0ba85f873ea6"
       ],
-      "last_seen": "2026-08-29T14:18:42.203837+00:00"
+      "last_seen": "2026-09-01T17:44:58.213118+00:00"
     },
     "Four Seasons": {
       "count": 1,
@@ -203,12 +188,12 @@
       ],
       "last_seen": "2026-09-01T13:21:59.883771+00:00"
     },
-    "GPC Asia Pacific": {
+    "Fronix Services": {
       "count": 1,
       "job_ids": [
-        "51749b48e81c"
+        "af34f3a632ef"
       ],
-      "last_seen": "2026-08-29T14:18:42.203837+00:00"
+      "last_seen": "2026-09-01T17:44:58.213118+00:00"
     },
     "Geelong Careers": {
       "count": 1,
@@ -238,13 +223,6 @@
       ],
       "last_seen": "2026-08-31T01:16:53.523857+00:00"
     },
-    "H&amp;M": {
-      "count": 1,
-      "job_ids": [
-        "92773dc2e335"
-      ],
-      "last_seen": "2026-08-29T14:18:42.203837+00:00"
-    },
     "HARTMANN GROUP International": {
       "count": 1,
       "job_ids": [
@@ -273,13 +251,6 @@
         "4dce23079adb"
       ],
       "last_seen": "2026-09-01T13:21:59.883771+00:00"
-    },
-    "InPost Group": {
-      "count": 1,
-      "job_ids": [
-        "667e24a34578"
-      ],
-      "last_seen": "2026-08-29T14:18:42.203837+00:00"
     },
     "Interaction Design Foundation": {
       "count": 3,
@@ -332,26 +303,12 @@
       ],
       "last_seen": "2026-09-01T07:35:58.078444+00:00"
     },
-    "Kent Removals &amp; Storage": {
-      "count": 1,
-      "job_ids": [
-        "eae2fdd6a2d7"
-      ],
-      "last_seen": "2026-08-29T14:18:42.203837+00:00"
-    },
     "Krannich Solar Australia": {
       "count": 1,
       "job_ids": [
         "a64fd254b3bf"
       ],
       "last_seen": "2026-09-01T13:21:59.883771+00:00"
-    },
-    "Kruger NearShore LLC - Rekluti": {
-      "count": 1,
-      "job_ids": [
-        "e74fef823751"
-      ],
-      "last_seen": "2026-08-29T14:18:42.203837+00:00"
     },
     "LangstonHughes2689": {
       "count": 1,
@@ -381,13 +338,6 @@
       ],
       "last_seen": "2026-08-29T23:59:38.290556+00:00"
     },
-    "Linsco Ltd": {
-      "count": 1,
-      "job_ids": [
-        "16a99d26b809"
-      ],
-      "last_seen": "2026-08-29T14:18:42.203837+00:00"
-    },
     "Localiza&amp;Co": {
       "count": 2,
       "job_ids": [
@@ -410,40 +360,12 @@
       ],
       "last_seen": "2026-08-29T18:15:30.156706+00:00"
     },
-    "Manhattan Grand Hotel": {
-      "count": 1,
-      "job_ids": [
-        "bbc80836b621"
-      ],
-      "last_seen": "2026-08-29T14:18:42.203837+00:00"
-    },
-    "McNab": {
-      "count": 1,
-      "job_ids": [
-        "16ec32e5d07f"
-      ],
-      "last_seen": "2026-08-29T14:18:42.203837+00:00"
-    },
     "Mr Clutch Autocentres": {
       "count": 1,
       "job_ids": [
         "d43d6f2fb706"
       ],
       "last_seen": "2026-08-31T08:28:51.026256+00:00"
-    },
-    "MyAarohan": {
-      "count": 1,
-      "job_ids": [
-        "4dab66a2ffad"
-      ],
-      "last_seen": "2026-08-29T14:18:42.203837+00:00"
-    },
-    "NT Health": {
-      "count": 1,
-      "job_ids": [
-        "7ff79bb94057"
-      ],
-      "last_seen": "2026-08-29T14:18:42.203837+00:00"
     },
     "Newfoundland Chocolate Company": {
       "count": 1,
@@ -459,19 +381,19 @@
       ],
       "last_seen": "2026-08-30T16:27:23.251492+00:00"
     },
-    "OTR": {
-      "count": 1,
-      "job_ids": [
-        "3d70ac7edb9b"
-      ],
-      "last_seen": "2026-08-29T14:18:42.203837+00:00"
-    },
     "Orca Bio": {
       "count": 1,
       "job_ids": [
         "1701cf6919ff"
       ],
       "last_seen": "2026-08-30T05:15:32.198714+00:00"
+    },
+    "Pembroke School": {
+      "count": 1,
+      "job_ids": [
+        "2fcbbf5c1e1d"
+      ],
+      "last_seen": "2026-09-01T17:44:58.213118+00:00"
     },
     "Pete's Frootique": {
       "count": 2,
@@ -505,6 +427,7 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 18,
       "job_ids": [
+        "bb8553cee7e2",
         "37df50304831",
         "2491dd927f04",
         "e506807fdc2f",
@@ -521,24 +444,9 @@
         "3f29a2c97d54",
         "e361cddf67e3",
         "891e478c0d1d",
-        "ab0bda76b8aa",
-        "1747cce17064"
+        "ab0bda76b8aa"
       ],
-      "last_seen": "2026-09-01T12:34:48+00:00"
-    },
-    "Radisson Hotel Group": {
-      "count": 1,
-      "job_ids": [
-        "bbe58d0dacdb"
-      ],
-      "last_seen": "2026-08-29T14:18:42.203837+00:00"
-    },
-    "RainFocus": {
-      "count": 1,
-      "job_ids": [
-        "cbf056ed26a5"
-      ],
-      "last_seen": "2026-08-29T14:18:42.203837+00:00"
+      "last_seen": "2026-09-01T16:54:17+00:00"
     },
     "Reed": {
       "count": 1,
@@ -547,12 +455,12 @@
       ],
       "last_seen": "2026-08-29T21:35:02.253658+00:00"
     },
-    "Retail FX": {
+    "Rojgar Suvidha": {
       "count": 1,
       "job_ids": [
-        "b2f1ebf48dc5"
+        "aca1d4c55edc"
       ],
-      "last_seen": "2026-08-29T14:18:42.203837+00:00"
+      "last_seen": "2026-09-01T15:07:54+00:00"
     },
     "Rowan": {
       "count": 1,
@@ -568,13 +476,6 @@
       ],
       "last_seen": "2026-09-01T01:09:19.666361+00:00"
     },
-    "Royal Lepage Icon Realty": {
-      "count": 1,
-      "job_ids": [
-        "7f166a2a904d"
-      ],
-      "last_seen": "2026-08-29T14:18:42.203837+00:00"
-    },
     "Saasuji": {
       "count": 2,
       "job_ids": [
@@ -583,12 +484,12 @@
       ],
       "last_seen": "2026-08-31T16:57:11.014400+00:00"
     },
-    "Salesforge": {
+    "Scape": {
       "count": 1,
       "job_ids": [
-        "73ab7a096cc0"
+        "149f2d5f0045"
       ],
-      "last_seen": "2026-08-29T14:18:42.203837+00:00"
+      "last_seen": "2026-09-01T17:44:58.213118+00:00"
     },
     "Scotsman Hospitality": {
       "count": 1,
@@ -603,14 +504,6 @@
         "6baf25d55ea4"
       ],
       "last_seen": "2026-08-31T01:16:53.523857+00:00"
-    },
-    "Shoppers Drug Mart": {
-      "count": 2,
-      "job_ids": [
-        "b7ec237534b0",
-        "a523d421c7d5"
-      ],
-      "last_seen": "2026-08-29T14:18:42.203837+00:00"
     },
     "Sisal Hub Albania": {
       "count": 1,
@@ -640,13 +533,6 @@
       ],
       "last_seen": "2026-08-31T16:57:11.014400+00:00"
     },
-    "Stanley Black &amp; Decker, Inc.": {
-      "count": 1,
-      "job_ids": [
-        "55ad3d8aceec"
-      ],
-      "last_seen": "2026-08-29T14:18:42.203837+00:00"
-    },
     "Stobart": {
       "count": 1,
       "job_ids": [
@@ -661,12 +547,26 @@
       ],
       "last_seen": "2026-08-31T16:57:11.014400+00:00"
     },
+    "Streamline Search": {
+      "count": 1,
+      "job_ids": [
+        "6da040801641"
+      ],
+      "last_seen": "2026-09-01T17:44:58.213118+00:00"
+    },
     "Subway": {
       "count": 1,
       "job_ids": [
         "99805f4ae447"
       ],
       "last_seen": "2026-08-31T16:57:11.014400+00:00"
+    },
+    "Supermercados Mundial": {
+      "count": 1,
+      "job_ids": [
+        "18dfc771d38b"
+      ],
+      "last_seen": "2026-09-01T17:44:58.213118+00:00"
     },
     "Swissport": {
       "count": 1,
@@ -688,6 +588,13 @@
         "a8326b0c32f9"
       ],
       "last_seen": "2026-09-01T01:09:19.666361+00:00"
+    },
+    "Teatro Multiplan MorumbiShopping": {
+      "count": 1,
+      "job_ids": [
+        "9a160ff45b5e"
+      ],
+      "last_seen": "2026-09-01T17:44:58.213118+00:00"
     },
     "Territory Generation": {
       "count": 1,
@@ -732,6 +639,13 @@
       ],
       "last_seen": "2026-08-29T21:35:02.253658+00:00"
     },
+    "The Drinks LLAB": {
+      "count": 1,
+      "job_ids": [
+        "55928a01d258"
+      ],
+      "last_seen": "2026-09-01T17:44:58.213118+00:00"
+    },
     "The Home Depot Canada": {
       "count": 2,
       "job_ids": [
@@ -761,13 +675,6 @@
       ],
       "last_seen": "2026-09-01T01:09:19.666361+00:00"
     },
-    "UzEats": {
-      "count": 1,
-      "job_ids": [
-        "7ccf4ccd73b0"
-      ],
-      "last_seen": "2026-08-29T14:18:42.203837+00:00"
-    },
     "Vashi Integrated Solutions": {
       "count": 2,
       "job_ids": [
@@ -791,12 +698,13 @@
       "last_seen": "2026-09-01T01:09:19.666361+00:00"
     },
     "W Hotels": {
-      "count": 2,
+      "count": 3,
       "job_ids": [
+        "b88670e3de4e",
         "7b5c65463ee8",
         "eed48f89c829"
       ],
-      "last_seen": "2026-08-31T16:57:11.014400+00:00"
+      "last_seen": "2026-09-01T17:44:58.213118+00:00"
     },
     "Wellburn Care Homes Ltd": {
       "count": 1,
@@ -848,5 +756,5 @@
       "last_seen": "2026-08-29T21:35:02.253658+00:00"
     }
   },
-  "updated_at": "2026-09-01T13:21:59.883771+00:00"
+  "updated_at": "2026-09-01T17:44:58.213118+00:00"
 }
