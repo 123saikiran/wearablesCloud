@@ -63,13 +63,6 @@
       ],
       "last_seen": "2026-08-31T16:57:11.014400+00:00"
     },
-    "Bosta": {
-      "count": 1,
-      "job_ids": [
-        "722e697b3c21"
-      ],
-      "last_seen": "2026-08-29T21:35:02.253658+00:00"
-    },
     "Brooks Brothers": {
       "count": 1,
       "job_ids": [
@@ -83,13 +76,6 @@
         "1fdac1349f80"
       ],
       "last_seen": "2026-08-30T16:27:23.251492+00:00"
-    },
-    "Canada Post / Postes Canada": {
-      "count": 1,
-      "job_ids": [
-        "931453959ac6"
-      ],
-      "last_seen": "2026-08-29T21:35:02.253658+00:00"
     },
     "Carters Inc.": {
       "count": 1,
@@ -153,12 +139,12 @@
       ],
       "last_seen": "2026-09-01T13:21:59.883771+00:00"
     },
-    "Dart": {
+    "Digest Media": {
       "count": 1,
       "job_ids": [
-        "3f4e1af97d62"
+        "665fa257e8da"
       ],
-      "last_seen": "2026-08-29T21:35:02.253658+00:00"
+      "last_seen": "2026-09-01T23:12:00.951518+00:00"
     },
     "Edspired.Tech": {
       "count": 1,
@@ -187,6 +173,13 @@
         "0ba85f873ea6"
       ],
       "last_seen": "2026-09-01T17:44:58.213118+00:00"
+    },
+    "Food Basics": {
+      "count": 1,
+      "job_ids": [
+        "544014e7a36d"
+      ],
+      "last_seen": "2026-09-01T23:12:00.951518+00:00"
     },
     "Four Seasons": {
       "count": 1,
@@ -250,14 +243,6 @@
         "69b63a4922b7"
       ],
       "last_seen": "2026-09-01T13:21:59.883771+00:00"
-    },
-    "Hola Moda": {
-      "count": 2,
-      "job_ids": [
-        "747d0c3de6ad",
-        "f3b8267fcb77"
-      ],
-      "last_seen": "2026-08-29T21:35:02.253658+00:00"
     },
     "ITC Limited": {
       "count": 1,
@@ -410,6 +395,20 @@
       ],
       "last_seen": "2026-09-01T13:21:59.883771+00:00"
     },
+    "Piramal Pharma Ltd": {
+      "count": 1,
+      "job_ids": [
+        "9b4db4d8768d"
+      ],
+      "last_seen": "2026-09-01T23:12:00.951518+00:00"
+    },
+    "Places for People": {
+      "count": 1,
+      "job_ids": [
+        "9fd1fa735d35"
+      ],
+      "last_seen": "2026-09-01T23:12:00.951518+00:00"
+    },
     "Power FM Bega Bay": {
       "count": 1,
       "job_ids": [
@@ -420,6 +419,7 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 18,
       "job_ids": [
+        "0ac14b5ed743",
         "f49a9842446b",
         "bb8553cee7e2",
         "37df50304831",
@@ -436,10 +436,9 @@
         "10c266851f69",
         "ececeb72ce36",
         "3f29a2c97d54",
-        "e361cddf67e3",
-        "891e478c0d1d"
+        "e361cddf67e3"
       ],
-      "last_seen": "2026-09-01T19:41:28+00:00"
+      "last_seen": "2026-09-01T22:03:25+00:00"
     },
     "Radisson Hotel Group": {
       "count": 1,
@@ -447,13 +446,6 @@
         "bbe58d0dacdb"
       ],
       "last_seen": "2026-09-01T20:52:34.783281+00:00"
-    },
-    "Reed": {
-      "count": 1,
-      "job_ids": [
-        "be4245bf6795"
-      ],
-      "last_seen": "2026-08-29T21:35:02.253658+00:00"
     },
     "Rojgar Suvidha": {
       "count": 2,
@@ -485,10 +477,9 @@
       "last_seen": "2026-09-01T20:52:34.783281+00:00"
     },
     "Saasuji": {
-      "count": 2,
+      "count": 1,
       "job_ids": [
-        "c83ba57c1505",
-        "fcaebbecd493"
+        "c83ba57c1505"
       ],
       "last_seen": "2026-08-31T16:57:11.014400+00:00"
     },
@@ -527,12 +518,12 @@
       ],
       "last_seen": "2026-09-01T01:09:19.666361+00:00"
     },
-    "Skechers": {
+    "Smokemart &amp; GiftBox": {
       "count": 1,
       "job_ids": [
-        "679274192e94"
+        "eeaa62dc6d91"
       ],
-      "last_seen": "2026-08-29T21:35:02.253658+00:00"
+      "last_seen": "2026-09-01T23:12:00.951518+00:00"
     },
     "Spendless Shoes": {
       "count": 1,
@@ -653,13 +644,6 @@
       ],
       "last_seen": "2026-09-01T01:09:19.666361+00:00"
     },
-    "The Butcher Shoppe": {
-      "count": 1,
-      "job_ids": [
-        "e5dc5ef09cb4"
-      ],
-      "last_seen": "2026-08-29T21:35:02.253658+00:00"
-    },
     "The Drinks LLAB": {
       "count": 1,
       "job_ids": [
@@ -768,14 +752,7 @@
         "aec0eee2e184"
       ],
       "last_seen": "2026-08-30T22:00:55+00:00"
-    },
-    "s1jobs": {
-      "count": 1,
-      "job_ids": [
-        "a0c9bbbdd083"
-      ],
-      "last_seen": "2026-08-29T21:35:02.253658+00:00"
     }
   },
-  "updated_at": "2026-09-01T20:52:34.783281+00:00"
+  "updated_at": "2026-09-01T23:12:00.951518+00:00"
 }
