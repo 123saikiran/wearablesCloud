@@ -1,5 +1,12 @@
 {
   "companies": {
+    "AMA Group Ltd": {
+      "count": 1,
+      "job_ids": [
+        "0f3598261bef"
+      ],
+      "last_seen": "2026-09-01T13:21:59.883771+00:00"
+    },
     "Acumentis Group": {
       "count": 1,
       "job_ids": [
@@ -21,19 +28,19 @@
       ],
       "last_seen": "2026-09-01T07:35:58.078444+00:00"
     },
-    "Atreides": {
-      "count": 1,
-      "job_ids": [
-        "507ba5b74900"
-      ],
-      "last_seen": "2026-08-29T08:50:55.974757+00:00"
-    },
     "Bass Pro Shops": {
       "count": 1,
       "job_ids": [
         "559044575be7"
       ],
       "last_seen": "2026-08-29T23:59:38.290556+00:00"
+    },
+    "Bayer": {
+      "count": 1,
+      "job_ids": [
+        "de2b30f44f02"
+      ],
+      "last_seen": "2026-09-01T13:21:59.883771+00:00"
     },
     "Benzinga": {
       "count": 1,
@@ -139,6 +146,13 @@
       ],
       "last_seen": "2026-08-31T15:01:07+00:00"
     },
+    "Crocs, Inc.": {
+      "count": 1,
+      "job_ids": [
+        "558ebfea0266"
+      ],
+      "last_seen": "2026-09-01T13:21:59.883771+00:00"
+    },
     "Dart": {
       "count": 2,
       "job_ids": [
@@ -182,6 +196,13 @@
       ],
       "last_seen": "2026-08-29T14:18:42.203837+00:00"
     },
+    "Four Seasons": {
+      "count": 1,
+      "job_ids": [
+        "31883a137db6"
+      ],
+      "last_seen": "2026-09-01T13:21:59.883771+00:00"
+    },
     "GPC Asia Pacific": {
       "count": 1,
       "job_ids": [
@@ -224,6 +245,20 @@
       ],
       "last_seen": "2026-08-29T14:18:42.203837+00:00"
     },
+    "HARTMANN GROUP International": {
+      "count": 1,
+      "job_ids": [
+        "b5a6ee26001d"
+      ],
+      "last_seen": "2026-09-01T13:21:59.883771+00:00"
+    },
+    "Hilton Salwa Beach Resort &amp; Villas": {
+      "count": 1,
+      "job_ids": [
+        "69b63a4922b7"
+      ],
+      "last_seen": "2026-09-01T13:21:59.883771+00:00"
+    },
     "Hola Moda": {
       "count": 2,
       "job_ids": [
@@ -231,6 +266,13 @@
         "f3b8267fcb77"
       ],
       "last_seen": "2026-08-29T21:35:02.253658+00:00"
+    },
+    "ITC Limited": {
+      "count": 1,
+      "job_ids": [
+        "4dce23079adb"
+      ],
+      "last_seen": "2026-09-01T13:21:59.883771+00:00"
     },
     "InPost Group": {
       "count": 1,
@@ -269,6 +311,13 @@
       ],
       "last_seen": "2026-08-31T01:16:53.523857+00:00"
     },
+    "JLL": {
+      "count": 1,
+      "job_ids": [
+        "c5b3fc67c73b"
+      ],
+      "last_seen": "2026-09-01T13:21:59.883771+00:00"
+    },
     "JobTrade": {
       "count": 1,
       "job_ids": [
@@ -289,6 +338,13 @@
         "eae2fdd6a2d7"
       ],
       "last_seen": "2026-08-29T14:18:42.203837+00:00"
+    },
+    "Krannich Solar Australia": {
+      "count": 1,
+      "job_ids": [
+        "a64fd254b3bf"
+      ],
+      "last_seen": "2026-09-01T13:21:59.883771+00:00"
     },
     "Kruger NearShore LLC - Rekluti": {
       "count": 1,
@@ -417,12 +473,13 @@
       ],
       "last_seen": "2026-08-30T05:15:32.198714+00:00"
     },
-    "Pembroke School": {
-      "count": 1,
+    "Pete's Frootique": {
+      "count": 2,
       "job_ids": [
-        "2fcbbf5c1e1d"
+        "371d52efc6db",
+        "2850ed5c2600"
       ],
-      "last_seen": "2026-08-29T08:50:55.974757+00:00"
+      "last_seen": "2026-09-01T13:21:59.883771+00:00"
     },
     "Piramal Pharma Ltd": {
       "count": 1,
@@ -438,9 +495,17 @@
       ],
       "last_seen": "2026-08-29T18:15:30.156706+00:00"
     },
+    "Power FM Bega Bay": {
+      "count": 1,
+      "job_ids": [
+        "b805ad16257f"
+      ],
+      "last_seen": "2026-09-01T13:21:59.883771+00:00"
+    },
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 18,
       "job_ids": [
+        "37df50304831",
         "2491dd927f04",
         "e506807fdc2f",
         "61e4bae5f3e5",
@@ -457,10 +522,9 @@
         "e361cddf67e3",
         "891e478c0d1d",
         "ab0bda76b8aa",
-        "1747cce17064",
-        "09c31209465e"
+        "1747cce17064"
       ],
-      "last_seen": "2026-09-01T07:12:28+00:00"
+      "last_seen": "2026-09-01T12:34:48+00:00"
     },
     "Radisson Hotel Group": {
       "count": 1,
@@ -525,13 +589,6 @@
         "73ab7a096cc0"
       ],
       "last_seen": "2026-08-29T14:18:42.203837+00:00"
-    },
-    "Scape": {
-      "count": 1,
-      "job_ids": [
-        "149f2d5f0045"
-      ],
-      "last_seen": "2026-08-29T08:50:55.974757+00:00"
     },
     "Scotsman Hospitality": {
       "count": 1,
@@ -632,13 +689,6 @@
       ],
       "last_seen": "2026-09-01T01:09:19.666361+00:00"
     },
-    "Teatro Multiplan MorumbiShopping": {
-      "count": 1,
-      "job_ids": [
-        "9a160ff45b5e"
-      ],
-      "last_seen": "2026-08-29T08:50:55.974757+00:00"
-    },
     "Territory Generation": {
       "count": 1,
       "job_ids": [
@@ -718,6 +768,14 @@
       ],
       "last_seen": "2026-08-29T14:18:42.203837+00:00"
     },
+    "Vashi Integrated Solutions": {
+      "count": 2,
+      "job_ids": [
+        "732a27151e8f",
+        "6c98842f83a6"
+      ],
+      "last_seen": "2026-09-01T13:21:59.883771+00:00"
+    },
     "Vertu Motors plc": {
       "count": 1,
       "job_ids": [
@@ -761,6 +819,13 @@
       ],
       "last_seen": "2026-08-31T21:52:20.639342+00:00"
     },
+    "Wood": {
+      "count": 1,
+      "job_ids": [
+        "1cb8668b563f"
+      ],
+      "last_seen": "2026-09-01T13:21:59.883771+00:00"
+    },
     "jidonglab": {
       "count": 1,
       "job_ids": [
@@ -783,5 +848,5 @@
       "last_seen": "2026-08-29T21:35:02.253658+00:00"
     }
   },
-  "updated_at": "2026-09-01T07:35:58.078444+00:00"
+  "updated_at": "2026-09-01T13:21:59.883771+00:00"
 }
