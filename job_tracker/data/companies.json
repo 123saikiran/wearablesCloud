@@ -70,6 +70,13 @@
       ],
       "last_seen": "2026-08-29T21:35:02.253658+00:00"
     },
+    "Brooks Brothers": {
+      "count": 1,
+      "job_ids": [
+        "ccf73e620dbb"
+      ],
+      "last_seen": "2026-09-01T20:52:34.783281+00:00"
+    },
     "Buffalo Wild Wings - Fralich, Inc.": {
       "count": 1,
       "job_ids": [
@@ -153,13 +160,6 @@
       ],
       "last_seen": "2026-08-29T21:35:02.253658+00:00"
     },
-    "Digest Media": {
-      "count": 1,
-      "job_ids": [
-        "665fa257e8da"
-      ],
-      "last_seen": "2026-08-29T18:15:30.156706+00:00"
-    },
     "Edspired.Tech": {
       "count": 1,
       "job_ids": [
@@ -173,6 +173,13 @@
         "71d7458f08aa"
       ],
       "last_seen": "2026-08-29T23:59:38.290556+00:00"
+    },
+    "FedEx": {
+      "count": 1,
+      "job_ids": [
+        "5f2969c27594"
+      ],
+      "last_seen": "2026-09-01T20:52:34.783281+00:00"
     },
     "Fifth Avenue Properties / Fifth Avenue Homes": {
       "count": 1,
@@ -201,6 +208,13 @@
         "30db5971dc4f"
       ],
       "last_seen": "2026-08-31T01:16:53.523857+00:00"
+    },
+    "Gildan": {
+      "count": 1,
+      "job_ids": [
+        "ea3789efa1e5"
+      ],
+      "last_seen": "2026-09-01T20:52:34.783281+00:00"
     },
     "Greater Pell City Chamber of Commerce": {
       "count": 1,
@@ -338,6 +352,13 @@
       ],
       "last_seen": "2026-08-29T23:59:38.290556+00:00"
     },
+    "Linsco Ltd": {
+      "count": 1,
+      "job_ids": [
+        "26f98e5432be"
+      ],
+      "last_seen": "2026-09-01T20:52:34.783281+00:00"
+    },
     "Localiza&amp;Co": {
       "count": 2,
       "job_ids": [
@@ -353,26 +374,12 @@
       ],
       "last_seen": "2026-08-30T16:27:23.251492+00:00"
     },
-    "Lupin Ltd": {
-      "count": 1,
-      "job_ids": [
-        "f8b9d83082b6"
-      ],
-      "last_seen": "2026-08-29T18:15:30.156706+00:00"
-    },
     "Mr Clutch Autocentres": {
       "count": 1,
       "job_ids": [
         "d43d6f2fb706"
       ],
       "last_seen": "2026-08-31T08:28:51.026256+00:00"
-    },
-    "Newfoundland Chocolate Company": {
-      "count": 1,
-      "job_ids": [
-        "ceb36810e331"
-      ],
-      "last_seen": "2026-08-29T18:15:30.156706+00:00"
     },
     "Nick Scali Limited": {
       "count": 1,
@@ -403,20 +410,6 @@
       ],
       "last_seen": "2026-09-01T13:21:59.883771+00:00"
     },
-    "Piramal Pharma Ltd": {
-      "count": 1,
-      "job_ids": [
-        "9b4db4d8768d"
-      ],
-      "last_seen": "2026-08-29T18:15:30.156706+00:00"
-    },
-    "Places for People": {
-      "count": 1,
-      "job_ids": [
-        "9fd1fa735d35"
-      ],
-      "last_seen": "2026-08-29T18:15:30.156706+00:00"
-    },
     "Power FM Bega Bay": {
       "count": 1,
       "job_ids": [
@@ -427,6 +420,7 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 18,
       "job_ids": [
+        "f49a9842446b",
         "bb8553cee7e2",
         "37df50304831",
         "2491dd927f04",
@@ -443,10 +437,16 @@
         "ececeb72ce36",
         "3f29a2c97d54",
         "e361cddf67e3",
-        "891e478c0d1d",
-        "ab0bda76b8aa"
+        "891e478c0d1d"
       ],
-      "last_seen": "2026-09-01T16:54:17+00:00"
+      "last_seen": "2026-09-01T19:41:28+00:00"
+    },
+    "Radisson Hotel Group": {
+      "count": 1,
+      "job_ids": [
+        "bbe58d0dacdb"
+      ],
+      "last_seen": "2026-09-01T20:52:34.783281+00:00"
     },
     "Reed": {
       "count": 1,
@@ -456,11 +456,12 @@
       "last_seen": "2026-08-29T21:35:02.253658+00:00"
     },
     "Rojgar Suvidha": {
-      "count": 1,
+      "count": 2,
       "job_ids": [
+        "a248a0d9de07",
         "aca1d4c55edc"
       ],
-      "last_seen": "2026-09-01T15:07:54+00:00"
+      "last_seen": "2026-09-01T18:34:37+00:00"
     },
     "Rowan": {
       "count": 1,
@@ -476,6 +477,13 @@
       ],
       "last_seen": "2026-09-01T01:09:19.666361+00:00"
     },
+    "Royal Lepage Icon Realty": {
+      "count": 1,
+      "job_ids": [
+        "7f166a2a904d"
+      ],
+      "last_seen": "2026-09-01T20:52:34.783281+00:00"
+    },
     "Saasuji": {
       "count": 2,
       "job_ids": [
@@ -483,6 +491,13 @@
         "fcaebbecd493"
       ],
       "last_seen": "2026-08-31T16:57:11.014400+00:00"
+    },
+    "Salesforge": {
+      "count": 1,
+      "job_ids": [
+        "73ab7a096cc0"
+      ],
+      "last_seen": "2026-09-01T20:52:34.783281+00:00"
     },
     "Scape": {
       "count": 1,
@@ -519,19 +534,19 @@
       ],
       "last_seen": "2026-08-29T21:35:02.253658+00:00"
     },
-    "Smokemart &amp; GiftBox": {
-      "count": 1,
-      "job_ids": [
-        "eeaa62dc6d91"
-      ],
-      "last_seen": "2026-08-29T18:15:30.156706+00:00"
-    },
     "Spendless Shoes": {
       "count": 1,
       "job_ids": [
         "84ad1fc4376b"
       ],
       "last_seen": "2026-08-31T16:57:11.014400+00:00"
+    },
+    "Stanley Black &amp; Decker, Inc.": {
+      "count": 1,
+      "job_ids": [
+        "55ad3d8aceec"
+      ],
+      "last_seen": "2026-09-01T20:52:34.783281+00:00"
     },
     "Stobart": {
       "count": 1,
@@ -589,6 +604,13 @@
       ],
       "last_seen": "2026-09-01T01:09:19.666361+00:00"
     },
+    "Tap Growth ai": {
+      "count": 1,
+      "job_ids": [
+        "0f652df17cde"
+      ],
+      "last_seen": "2026-09-01T20:52:34.783281+00:00"
+    },
     "Teatro Multiplan MorumbiShopping": {
       "count": 1,
       "job_ids": [
@@ -604,10 +626,9 @@
       "last_seen": "2026-09-01T01:09:19.666361+00:00"
     },
     "Tesco": {
-      "count": 2,
+      "count": 1,
       "job_ids": [
-        "1cfb77c4076e",
-        "6f3153c75a61"
+        "1cfb77c4076e"
       ],
       "last_seen": "2026-08-31T01:16:53.523857+00:00"
     },
@@ -756,5 +777,5 @@
       "last_seen": "2026-08-29T21:35:02.253658+00:00"
     }
   },
-  "updated_at": "2026-09-01T17:44:58.213118+00:00"
+  "updated_at": "2026-09-01T20:52:34.783281+00:00"
 }
