@@ -7,6 +7,13 @@
       ],
       "last_seen": "2026-09-01T13:21:59.883771+00:00"
     },
+    "Acumentis Group": {
+      "count": 1,
+      "job_ids": [
+        "dd8550c8db61"
+      ],
+      "last_seen": "2026-09-02T13:29:00.084294+00:00"
+    },
     "Aimwear": {
       "count": 1,
       "job_ids": [
@@ -91,6 +98,13 @@
       ],
       "last_seen": "2026-09-02T03:57:04.959100+00:00"
     },
+    "Carters Inc.": {
+      "count": 1,
+      "job_ids": [
+        "5cd7dd1a41a3"
+      ],
+      "last_seen": "2026-09-02T13:29:00.084294+00:00"
+    },
     "Carv": {
       "count": 1,
       "job_ids": [
@@ -127,6 +141,13 @@
       ],
       "last_seen": "2026-08-31T01:16:53.523857+00:00"
     },
+    "Copa Airlines": {
+      "count": 1,
+      "job_ids": [
+        "03b587da9545"
+      ],
+      "last_seen": "2026-09-02T13:29:00.084294+00:00"
+    },
     "Crackr": {
       "count": 6,
       "job_ids": [
@@ -159,6 +180,13 @@
         "cbeb8309b2e4"
       ],
       "last_seen": "2026-09-02T02:24:46+00:00"
+    },
+    "Delta Hotels by Marriott Edinburgh": {
+      "count": 1,
+      "job_ids": [
+        "19dd76245f69"
+      ],
+      "last_seen": "2026-09-02T13:29:00.084294+00:00"
     },
     "Digest Media": {
       "count": 1,
@@ -258,6 +286,13 @@
       ],
       "last_seen": "2026-09-01T13:21:59.883771+00:00"
     },
+    "Hertz": {
+      "count": 1,
+      "job_ids": [
+        "69f3a8238ed4"
+      ],
+      "last_seen": "2026-09-02T13:29:00.084294+00:00"
+    },
     "Hilton Salwa Beach Resort &amp; Villas": {
       "count": 1,
       "job_ids": [
@@ -272,6 +307,13 @@
         "f3b8267fcb77"
       ],
       "last_seen": "2026-09-02T03:57:04.959100+00:00"
+    },
+    "Hovis Bakeries": {
+      "count": 1,
+      "job_ids": [
+        "6b2c33ff7663"
+      ],
+      "last_seen": "2026-09-02T13:29:00.084294+00:00"
     },
     "ITC Limited": {
       "count": 1,
@@ -367,12 +409,13 @@
       "last_seen": "2026-09-01T20:52:34.783281+00:00"
     },
     "Localiza&amp;Co": {
-      "count": 2,
+      "count": 3,
       "job_ids": [
+        "fc6f8ae81319",
         "89110adaa1f1",
         "0c98dcd56261"
       ],
-      "last_seen": "2026-09-02T08:42:31.472928+00:00"
+      "last_seen": "2026-09-02T13:29:00.084294+00:00"
     },
     "Locals": {
       "count": 1,
@@ -380,6 +423,13 @@
         "02bc3afbb29d"
       ],
       "last_seen": "2026-08-30T16:27:23.251492+00:00"
+    },
+    "Marriott International": {
+      "count": 1,
+      "job_ids": [
+        "8fe1b3733596"
+      ],
+      "last_seen": "2026-09-02T13:29:00.084294+00:00"
     },
     "Mr Clutch Autocentres": {
       "count": 1,
@@ -441,6 +491,7 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 17,
       "job_ids": [
+        "099c001082d7",
         "d172753a0dc7",
         "acb6e758f349",
         "0ac14b5ed743",
@@ -456,10 +507,9 @@
         "1f65efafa8d7",
         "5ecd08473558",
         "751f4e35eab3",
-        "b6adaf510262",
-        "10c266851f69"
+        "b6adaf510262"
       ],
-      "last_seen": "2026-09-02T04:30:42+00:00"
+      "last_seen": "2026-09-02T09:00:38+00:00"
     },
     "Radisson Hotel Group": {
       "count": 1,
@@ -560,6 +610,13 @@
       ],
       "last_seen": "2026-08-31T16:57:11.014400+00:00"
     },
+    "St. Regis Hotels &amp; Resorts": {
+      "count": 1,
+      "job_ids": [
+        "2c7a0515e650"
+      ],
+      "last_seen": "2026-09-02T13:29:00.084294+00:00"
+    },
     "Stanley Black &amp; Decker, Inc.": {
       "count": 1,
       "job_ids": [
@@ -601,6 +658,13 @@
         "18dfc771d38b"
       ],
       "last_seen": "2026-09-01T17:44:58.213118+00:00"
+    },
+    "Swissport": {
+      "count": 1,
+      "job_ids": [
+        "3780ec28979e"
+      ],
+      "last_seen": "2026-09-02T13:29:00.084294+00:00"
     },
     "TRANT ENGINEERING LIMITED": {
       "count": 1,
@@ -789,5 +853,5 @@
       "last_seen": "2026-09-02T03:57:04.959100+00:00"
     }
   },
-  "updated_at": "2026-09-02T08:42:31.472928+00:00"
+  "updated_at": "2026-09-02T13:29:00.084294+00:00"
 }
