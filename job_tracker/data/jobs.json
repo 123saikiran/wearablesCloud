@@ -1,6 +1,143 @@
 {
   "jobs": [
     {
+      "company": "PVH Group Inc",
+      "fetched_at": "2026-09-02T20:52:13.968276+00:00",
+      "id": "ca87e1f7abaf",
+      "location": "Bridgetown,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "payroll",
+        "vfx",
+        "customer support",
+        "dev",
+        "non tech",
+        "digital nomad"
+      ],
+      "title": "Payroll Clerk",
+      "url": "https://remoteOK.com/remote-jobs/remote-payroll-clerk-pvh-group-inc-1137264"
+    },
+    {
+      "company": "NT Health",
+      "fetched_at": "2026-09-02T20:52:13.968276+00:00",
+      "id": "2f633a4db665",
+      "location": "Katherine,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "supervisor",
+        "customer support",
+        "medical",
+        "non tech"
+      ],
+      "title": "Domestic",
+      "url": "https://remoteOK.com/remote-jobs/remote-domestic-nt-health-1137261"
+    },
+    {
+      "company": "City of York Council",
+      "fetched_at": "2026-09-02T20:52:13.968276+00:00",
+      "id": "4ec71e3195ed",
+      "location": "York,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "scheme",
+        "medical",
+        "engineer",
+        "customer support",
+        "c",
+        "exec"
+      ],
+      "title": "Joiner",
+      "url": "https://remoteOK.com/remote-jobs/remote-joiner-city-of-york-council-1137263"
+    },
+    {
+      "company": "Complex Co.",
+      "fetched_at": "2026-09-02T20:52:13.968276+00:00",
+      "id": "bb7ca88ddd4c",
+      "location": "Canberra,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "technical",
+        "customer support",
+        "microsoft",
+        "exec",
+        "junior",
+        "excel"
+      ],
+      "title": "Lead Estimator",
+      "url": "https://remoteOK.com/remote-jobs/remote-lead-estimator-complex-co-1137153"
+    },
+    {
+      "company": "Buffalo Wild Wings - Fralich, Inc.",
+      "fetched_at": "2026-09-02T20:52:13.968276+00:00",
+      "id": "1fdac1349f80",
+      "location": "El Paso,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "finance",
+        "math",
+        "exec"
+      ],
+      "title": "BACK OF HOUSE",
+      "url": "https://remoteOK.com/remote-jobs/remote-back-of-house-buffalo-wild-wings-fralich-inc-1137129"
+    },
+    {
+      "company": "Aimwear",
+      "fetched_at": "2026-09-02T20:52:13.968276+00:00",
+      "id": "abc8e31de8c8",
+      "location": "LaSalle,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [],
+      "title": "GA",
+      "url": "https://remoteOK.com/remote-jobs/remote-ga-aimwear-1137128"
+    },
+    {
+      "company": "Nick Scali Limited",
+      "fetched_at": "2026-09-02T20:52:13.968276+00:00",
+      "id": "28c3bb23e7db",
+      "location": "Hobart,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "technical",
+        "customer support",
+        "microsoft",
+        "exec",
+        "junior",
+        "excel",
+        "design",
+        "education",
+        "marketing",
+        "travel",
+        "ops",
+        "sales",
+        "digital nomad"
+      ],
+      "title": "Earn more",
+      "url": "https://remoteOK.com/remote-jobs/remote-earn-more-nick-scali-limited-1137154"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-02T20:52:13.968276+00:00",
+      "id": "a5a744e50297",
+      "location": "Remote",
+      "posted_at": "2026-09-02T19:54:59+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-150d"
+    },
+    {
       "company": "H&amp;M",
       "fetched_at": "2026-09-02T17:47:55.739496+00:00",
       "id": "459c50495dba",
@@ -2655,23 +2792,7 @@
       ],
       "title": "How to Build a Developer Job Board That Earns Money",
       "url": "https://dev.to/qingluan/how-to-build-a-developer-job-board-that-earns-money-2el1"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-08-30T22:35:23.353649+00:00",
-      "id": "751f4e35eab3",
-      "location": "Remote",
-      "posted_at": "2026-08-30T19:43:11+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-g85"
     }
   ],
-  "updated_at": "2026-09-02T17:47:55.739496+00:00"
+  "updated_at": "2026-09-02T20:52:13.968276+00:00"
 }
