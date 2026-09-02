@@ -1,6 +1,188 @@
 {
   "jobs": [
     {
+      "company": "H&amp;M",
+      "fetched_at": "2026-09-02T17:47:55.739496+00:00",
+      "id": "459c50495dba",
+      "location": "BayamÃ³n,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "infosec",
+        "education",
+        "designer",
+        "customer support",
+        "marketing",
+        "dev",
+        "exec",
+        "ops",
+        "legal",
+        "sales",
+        "medical",
+        "recruiter",
+        "digital nomad"
+      ],
+      "title": "H&amp;M Visual Merchandiser Plaza del Sol",
+      "url": "https://remoteOK.com/remote-jobs/remote-hampm-visual-merchandiser-plaza-del-sol-hampm-1137270"
+    },
+    {
+      "company": "Buffalo Wild Wings - Fralich, Inc.",
+      "fetched_at": "2026-09-02T17:47:55.739496+00:00",
+      "id": "098020254eef",
+      "location": "Georgetown,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "payroll",
+        "vfx",
+        "customer support",
+        "dev",
+        "non tech",
+        "digital nomad",
+        "exec",
+        "legal",
+        "engineer"
+      ],
+      "title": "JANITOR",
+      "url": "https://remoteOK.com/remote-jobs/remote-janitor-buffalo-wild-wings-fralich-inc-1137266"
+    },
+    {
+      "company": "Halfords",
+      "fetched_at": "2026-09-02T17:47:55.739496+00:00",
+      "id": "4cd612bdc5a2",
+      "location": "Coventry,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "customer support",
+        "marketing",
+        "exec",
+        "finance",
+        "scheme",
+        "medical",
+        "testing"
+      ],
+      "title": "Vehicle Technician MOT Tester",
+      "url": "https://remoteOK.com/remote-jobs/remote-vehicle-technician-mot-tester-halfords-1137258"
+    },
+    {
+      "company": "The Russell Inn Hotel &amp; Conference Centre",
+      "fetched_at": "2026-09-02T17:47:55.739496+00:00",
+      "id": "d7fb8723516b",
+      "location": "Russell,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "testing",
+        "non tech",
+        "customer support",
+        "education",
+        "medical"
+      ],
+      "title": "handyman woman",
+      "url": "https://remoteOK.com/remote-jobs/remote-handyman-woman-the-russell-inn-hotel-amp-conference-centre-1137282"
+    },
+    {
+      "company": "Canada Post / Postes Canada",
+      "fetched_at": "2026-09-02T17:47:55.739496+00:00",
+      "id": "d71725fdeabd",
+      "location": "Blind River,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "testing",
+        "non tech",
+        "customer support",
+        "education",
+        "medical",
+        "marketing",
+        "exec",
+        "full time"
+      ],
+      "title": "Rural and Suburban Mail Carrier",
+      "url": "https://remoteOK.com/remote-jobs/remote-rural-and-suburban-mail-carrier-canada-post-postes-canada-1137283"
+    },
+    {
+      "company": "GrupoNewChase",
+      "fetched_at": "2026-09-02T17:47:55.739496+00:00",
+      "id": "9dd9e03b2ea2",
+      "location": "Salvador,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "c",
+        "exec",
+        "excel"
+      ],
+      "title": "Motorista Salvador BA",
+      "url": "https://remoteOK.com/remote-jobs/remote-motorista-salvador-ba-gruponewchase-1137285"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-02T17:47:55.739496+00:00",
+      "id": "791049315475",
+      "location": "Remote",
+      "posted_at": "2026-09-02T17:19:12+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-npn"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-09-02T17:47:55.739496+00:00",
+      "id": "cf41dd7e69f2",
+      "location": "Remote",
+      "posted_at": "2026-09-02T15:01:16+00:00",
+      "source": "devto",
+      "tags": [
+        "beginners",
+        "jobs",
+        "career",
+        "programming"
+      ],
+      "title": "Where to Find Tech Internships This Summer (Sep 2)",
+      "url": "https://dev.to/crackr/where-to-find-tech-internships-this-summer-sep-2-42ma"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-09-02T17:47:55.739496+00:00",
+      "id": "0ef890bc6e65",
+      "location": "Remote",
+      "posted_at": "2026-09-02T15:01:13+00:00",
+      "source": "devto",
+      "tags": [
+        "remotework",
+        "jobs",
+        "webdev",
+        "career"
+      ],
+      "title": "Senior Remote SWE Roles Hiring Now - 1 Pay $150k+ (Sep 2)",
+      "url": "https://dev.to/crackr/senior-remote-swe-roles-hiring-now-1-pay-150k-sep-2-5649"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-02T17:47:55.739496+00:00",
+      "id": "a6ae54a9a25c",
+      "location": "Remote",
+      "posted_at": "2026-09-02T13:37:16+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4kfm"
+    },
+    {
       "company": "St. Regis Hotels &amp; Resorts",
       "fetched_at": "2026-09-02T13:29:00.084294+00:00",
       "id": "2c7a0515e650",
@@ -2489,158 +2671,7 @@
       ],
       "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-g85"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-08-30T19:41:21.754611+00:00",
-      "id": "b6adaf510262",
-      "location": "Remote",
-      "posted_at": "2026-08-30T17:00:21+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-264c"
-    },
-    {
-      "company": "Complex Co.",
-      "fetched_at": "2026-08-30T16:27:23.251492+00:00",
-      "id": "bb7ca88ddd4c",
-      "location": "Canberra,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "technical",
-        "customer support",
-        "microsoft",
-        "exec",
-        "junior",
-        "excel"
-      ],
-      "title": "Lead Estimator",
-      "url": "https://remoteOK.com/remote-jobs/remote-lead-estimator-complex-co-1137153"
-    },
-    {
-      "company": "Buffalo Wild Wings - Fralich, Inc.",
-      "fetched_at": "2026-08-30T16:27:23.251492+00:00",
-      "id": "1fdac1349f80",
-      "location": "El Paso,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "finance",
-        "math",
-        "exec"
-      ],
-      "title": "BACK OF HOUSE",
-      "url": "https://remoteOK.com/remote-jobs/remote-back-of-house-buffalo-wild-wings-fralich-inc-1137129"
-    },
-    {
-      "company": "Aimwear",
-      "fetched_at": "2026-08-30T16:27:23.251492+00:00",
-      "id": "abc8e31de8c8",
-      "location": "LaSalle,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [],
-      "title": "GA",
-      "url": "https://remoteOK.com/remote-jobs/remote-ga-aimwear-1137128"
-    },
-    {
-      "company": "Nick Scali Limited",
-      "fetched_at": "2026-08-30T16:27:23.251492+00:00",
-      "id": "28c3bb23e7db",
-      "location": "Hobart,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "technical",
-        "customer support",
-        "microsoft",
-        "exec",
-        "junior",
-        "excel",
-        "design",
-        "education",
-        "marketing",
-        "travel",
-        "ops",
-        "sales",
-        "digital nomad"
-      ],
-      "title": "Earn more",
-      "url": "https://remoteOK.com/remote-jobs/remote-earn-more-nick-scali-limited-1137154"
-    },
-    {
-      "company": "Locals",
-      "fetched_at": "2026-08-30T16:27:23.251492+00:00",
-      "id": "02bc3afbb29d",
-      "location": "Nagpur,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "design",
-        "travel",
-        "speech",
-        "video",
-        "content writing",
-        "marketing",
-        "full time",
-        "digital nomad"
-      ],
-      "title": "Video Editor",
-      "url": "https://remoteOK.com/remote-jobs/remote-video-editor-locals-1137158"
-    },
-    {
-      "company": "The Home Depot Canada",
-      "fetched_at": "2026-08-30T16:27:23.251492+00:00",
-      "id": "e1e714780ed0",
-      "location": "Dartmouth,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "sales",
-        "non tech"
-      ],
-      "title": "Appliance Sales Specialist",
-      "url": "https://remoteOK.com/remote-jobs/remote-appliance-sales-specialist-the-home-depot-canada-1137160"
-    },
-    {
-      "company": "Crackr",
-      "fetched_at": "2026-08-30T16:27:23.251492+00:00",
-      "id": "5bfd9656acbf",
-      "location": "Remote",
-      "posted_at": "2026-08-30T15:00:22+00:00",
-      "source": "devto",
-      "tags": [
-        "beginners",
-        "jobs",
-        "career",
-        "programming"
-      ],
-      "title": "Where to Find Tech Internships This Summer (Aug 30)",
-      "url": "https://dev.to/crackr/where-to-find-tech-internships-this-summer-aug-30-5711"
-    },
-    {
-      "company": "Crackr",
-      "fetched_at": "2026-08-30T16:27:23.251492+00:00",
-      "id": "979d54338c0a",
-      "location": "Remote",
-      "posted_at": "2026-08-30T15:00:19+00:00",
-      "source": "devto",
-      "tags": [
-        "remotework",
-        "jobs",
-        "webdev",
-        "career"
-      ],
-      "title": "Senior Remote SWE Roles Hiring Now - 1 Pay $150k+ (Aug 30)",
-      "url": "https://dev.to/crackr/senior-remote-swe-roles-hiring-now-1-pay-150k-aug-30-3jj1"
     }
   ],
-  "updated_at": "2026-09-02T13:29:00.084294+00:00"
+  "updated_at": "2026-09-02T17:47:55.739496+00:00"
 }
