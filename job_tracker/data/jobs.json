@@ -1,6 +1,69 @@
 {
   "jobs": [
     {
+      "company": "Four Seasons",
+      "fetched_at": "2026-09-02T23:11:36.051691+00:00",
+      "id": "61331c618315",
+      "location": "Nassau,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "payroll",
+        "vfx",
+        "customer support",
+        "dev",
+        "non tech",
+        "digital nomad",
+        "exec",
+        "legal",
+        "engineer"
+      ],
+      "title": "Kitchen Technician",
+      "url": "https://remoteOK.com/remote-jobs/remote-kitchen-technician-four-seasons-1137265"
+    },
+    {
+      "company": "Clutch",
+      "fetched_at": "2026-09-02T23:11:36.051691+00:00",
+      "id": "7cdd7a0f0a29",
+      "location": "Etobicoke,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "customer support",
+        "recruiter",
+        "non tech",
+        "hr",
+        "marketing",
+        "travel",
+        "teaching",
+        "finance",
+        "golang",
+        "medical",
+        "full time",
+        "ops",
+        "sales"
+      ],
+      "title": "Vehicle Detailer",
+      "url": "https://remoteOK.com/remote-jobs/remote-vehicle-detailer-clutch-1137278"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-02T23:11:36.051691+00:00",
+      "id": "a78f534e71cf",
+      "location": "Remote",
+      "posted_at": "2026-09-02T22:13:49+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3e28"
+    },
+    {
       "company": "PVH Group Inc",
       "fetched_at": "2026-09-02T20:52:13.968276+00:00",
       "id": "ca87e1f7abaf",
@@ -2760,39 +2823,7 @@
       ],
       "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-5cf5"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-08-30T22:35:23.353649+00:00",
-      "id": "5ecd08473558",
-      "location": "Remote",
-      "posted_at": "2026-08-30T22:09:10+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4mjl"
-    },
-    {
-      "company": "qing",
-      "fetched_at": "2026-08-30T22:35:23.353649+00:00",
-      "id": "aec0eee2e184",
-      "location": "Remote",
-      "posted_at": "2026-08-30T22:00:55+00:00",
-      "source": "devto",
-      "tags": [
-        "jobs",
-        "money",
-        "startup",
-        "webdev"
-      ],
-      "title": "How to Build a Developer Job Board That Earns Money",
-      "url": "https://dev.to/qingluan/how-to-build-a-developer-job-board-that-earns-money-2el1"
     }
   ],
-  "updated_at": "2026-09-02T20:52:13.968276+00:00"
+  "updated_at": "2026-09-02T23:11:36.051691+00:00"
 }

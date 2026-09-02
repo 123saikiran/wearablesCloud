@@ -128,6 +128,13 @@
       ],
       "last_seen": "2026-08-31T08:28:51.026256+00:00"
     },
+    "Clutch": {
+      "count": 1,
+      "job_ids": [
+        "7cdd7a0f0a29"
+      ],
+      "last_seen": "2026-09-02T23:11:36.051691+00:00"
+    },
     "Coca-Cola Cambodia Beverage Company Ltd": {
       "count": 1,
       "job_ids": [
@@ -240,11 +247,12 @@
       "last_seen": "2026-09-01T23:12:00.951518+00:00"
     },
     "Four Seasons": {
-      "count": 1,
+      "count": 2,
       "job_ids": [
+        "61331c618315",
         "31883a137db6"
       ],
-      "last_seen": "2026-09-01T13:21:59.883771+00:00"
+      "last_seen": "2026-09-02T23:11:36.051691+00:00"
     },
     "Fronix Services": {
       "count": 1,
@@ -528,6 +536,7 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 18,
       "job_ids": [
+        "a78f534e71cf",
         "a5a744e50297",
         "791049315475",
         "a6ae54a9a25c",
@@ -544,10 +553,9 @@
         "18a4ab42543b",
         "cff6fa72b4a9",
         "775dc7d75034",
-        "1f65efafa8d7",
-        "5ecd08473558"
+        "1f65efafa8d7"
       ],
-      "last_seen": "2026-09-02T19:54:59+00:00"
+      "last_seen": "2026-09-02T22:13:49+00:00"
     },
     "Radisson Hotel Group": {
       "count": 1,
@@ -882,13 +890,6 @@
       ],
       "last_seen": "2026-08-31T04:04:53+00:00"
     },
-    "qing": {
-      "count": 1,
-      "job_ids": [
-        "aec0eee2e184"
-      ],
-      "last_seen": "2026-08-30T22:00:55+00:00"
-    },
     "s1jobs": {
       "count": 1,
       "job_ids": [
@@ -897,5 +898,5 @@
       "last_seen": "2026-09-02T03:57:04.959100+00:00"
     }
   },
-  "updated_at": "2026-09-02T20:52:13.968276+00:00"
+  "updated_at": "2026-09-02T23:11:36.051691+00:00"
 }
