@@ -1,6 +1,132 @@
 {
   "jobs": [
     {
+      "company": "C2 Group",
+      "fetched_at": "2026-09-02T08:42:31.472928+00:00",
+      "id": "5054c7640f18",
+      "location": "Greater Sydney Area,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "full time",
+        "infosec",
+        "education"
+      ],
+      "title": "Expression of Interest Canât see a role thatâs right for you",
+      "url": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-cant-see-a-role-thats-right-for-you-c2-group-1137251"
+    },
+    {
+      "company": "Elements Recruitment Australia",
+      "fetched_at": "2026-09-02T08:42:31.472928+00:00",
+      "id": "71d7458f08aa",
+      "location": "Clayton,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "recruiter",
+        "non tech"
+      ],
+      "title": "APPLY NOW Send Veritas your Resume DON'T CLOSE WEBSITE",
+      "url": "https://remoteOK.com/remote-jobs/remote-apply-now-send-veritas-your-resume-dont-close-website-elements-recruitment-australia-1137201"
+    },
+    {
+      "company": "Localiza&amp;Co",
+      "fetched_at": "2026-09-02T08:42:31.472928+00:00",
+      "id": "89110adaa1f1",
+      "location": "MacaÃ©,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [],
+      "title": "HIGIENIZADOR DE CARROS MACAÃ RJ",
+      "url": "https://remoteOK.com/remote-jobs/remote-higienizador-de-carros-macae-rj-localizaampco-1137203"
+    },
+    {
+      "company": "Localiza&amp;Co",
+      "fetched_at": "2026-09-02T08:42:31.472928+00:00",
+      "id": "0c98dcd56261",
+      "location": "Curitiba,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [],
+      "title": "HIGIENIZADOR DE CARROS CURITIBA PR",
+      "url": "https://remoteOK.com/remote-jobs/remote-higienizador-de-carros-curitiba-pr-localizaampco-1137204"
+    },
+    {
+      "company": "Leena AI",
+      "fetched_at": "2026-09-02T08:42:31.472928+00:00",
+      "id": "8e148451b6ce",
+      "location": "Gurugram,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "testing",
+        "non tech"
+      ],
+      "title": "Test Job",
+      "url": "https://remoteOK.com/remote-jobs/remote-test-job-leena-ai-1137142"
+    },
+    {
+      "company": "Bass Pro Shops",
+      "fetched_at": "2026-09-02T08:42:31.472928+00:00",
+      "id": "559044575be7",
+      "location": "Winnipeg,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "supervisor",
+        "customer support",
+        "ads",
+        "exec",
+        "ops",
+        "sales"
+      ],
+      "title": "OVERNIGHT SHIFT Retail Merchandiser",
+      "url": "https://remoteOK.com/remote-jobs/remote-overnight-shift-retail-merchandiser-bass-pro-shops-1137123"
+    },
+    {
+      "company": "Lemon Tree Premier",
+      "fetched_at": "2026-09-02T08:42:31.472928+00:00",
+      "id": "c9a9583e9c2e",
+      "location": "Bijnor,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [],
+      "title": "Find a job 3rd comi",
+      "url": "https://remoteOK.com/remote-jobs/remote-find-a-job-3rd-comi-lemon-tree-premier-1137127"
+    },
+    {
+      "company": "PhilipJameson",
+      "fetched_at": "2026-09-02T08:42:31.472928+00:00",
+      "id": "8592d84e6b2f",
+      "location": "Remote",
+      "posted_at": "2026-09-02T06:36:35+00:00",
+      "source": "devto",
+      "tags": [
+        "edtech",
+        "batonrouge",
+        "k12",
+        "jobs"
+      ],
+      "title": "Expands EdTech Platforms, Studyville Fuels Baton Rouge Growth",
+      "url": "https://dev.to/philip098/expands-edtech-platforms-studyville-fuels-baton-rouge-growth-305e"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-02T08:42:31.472928+00:00",
+      "id": "d172753a0dc7",
+      "location": "Remote",
+      "posted_at": "2026-09-02T04:30:42+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2ehl"
+    },
+    {
       "company": "Hola Moda",
       "fetched_at": "2026-09-02T03:57:04.959100+00:00",
       "id": "747d0c3de6ad",
@@ -2317,129 +2443,7 @@
       ],
       "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3hmj"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-08-30T11:40:29.759978+00:00",
-      "id": "ececeb72ce36",
-      "location": "Remote",
-      "posted_at": "2026-08-30T07:10:25+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4pka"
-    },
-    {
-      "company": "Acumentis Group",
-      "fetched_at": "2026-08-30T05:15:32.198714+00:00",
-      "id": "dd8550c8db61",
-      "location": "Port Macquarie,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "customer support",
-        "marketing",
-        "exec",
-        "finance",
-        "sales"
-      ],
-      "title": "Residential Valuer",
-      "url": "https://remoteOK.com/remote-jobs/remote-residential-valuer-acumentis-group-1137214"
-    },
-    {
-      "company": "Swissport",
-      "fetched_at": "2026-08-30T05:15:32.198714+00:00",
-      "id": "3780ec28979e",
-      "location": "Piarco,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "education",
-        "customer support",
-        "marketing",
-        "math",
-        "exec",
-        "ops",
-        "medical"
-      ],
-      "title": "Ramp Attendant",
-      "url": "https://remoteOK.com/remote-jobs/remote-ramp-attendant-swissport-1137140"
-    },
-    {
-      "company": "Carters Inc.",
-      "fetched_at": "2026-08-30T05:15:32.198714+00:00",
-      "id": "5cd7dd1a41a3",
-      "location": "CanÃ³vanas,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "exec",
-        "virtual assistant",
-        "customer support",
-        "marketing",
-        "ops",
-        "sales",
-        "ecommerce",
-        "education",
-        "web dev",
-        "payroll",
-        "excel",
-        "medical",
-        "recruiter"
-      ],
-      "title": "Store Manager",
-      "url": "https://remoteOK.com/remote-jobs/remote-store-manager-carters-inc-1137135"
-    },
-    {
-      "company": "Rowan",
-      "fetched_at": "2026-08-30T05:15:32.198714+00:00",
-      "id": "d3d49e5b6de8",
-      "location": "Chicago, IL",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "education",
-        "customer support",
-        "dev",
-        "exec",
-        "math",
-        "node",
-        "ops",
-        "sales",
-        "medical",
-        "digital nomad"
-      ],
-      "title": "Retail Store Associate",
-      "url": "https://remoteOK.com/remote-jobs/remote-retail-store-associate-rowan-1137073"
-    },
-    {
-      "company": "Orca Bio",
-      "fetched_at": "2026-08-30T05:15:32.198714+00:00",
-      "id": "1701cf6919ff",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "hr",
-        "sys admin",
-        "customer support",
-        "marketing",
-        "education",
-        "exec",
-        "senior",
-        "medical",
-        "engineer",
-        "recruiter",
-        "full time"
-      ],
-      "title": "Senior Specialist Global QMS",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-specialist-global-qms-orca-bio-1137072"
     }
   ],
-  "updated_at": "2026-09-02T03:57:04.959100+00:00"
+  "updated_at": "2026-09-02T08:42:31.472928+00:00"
 }

@@ -7,13 +7,6 @@
       ],
       "last_seen": "2026-09-01T13:21:59.883771+00:00"
     },
-    "Acumentis Group": {
-      "count": 1,
-      "job_ids": [
-        "dd8550c8db61"
-      ],
-      "last_seen": "2026-08-30T05:15:32.198714+00:00"
-    },
     "Aimwear": {
       "count": 1,
       "job_ids": [
@@ -34,6 +27,13 @@
         "507ba5b74900"
       ],
       "last_seen": "2026-09-01T17:44:58.213118+00:00"
+    },
+    "Bass Pro Shops": {
+      "count": 1,
+      "job_ids": [
+        "559044575be7"
+      ],
+      "last_seen": "2026-09-02T08:42:31.472928+00:00"
     },
     "Bayer": {
       "count": 1,
@@ -77,19 +77,19 @@
       ],
       "last_seen": "2026-08-30T16:27:23.251492+00:00"
     },
+    "C2 Group": {
+      "count": 1,
+      "job_ids": [
+        "5054c7640f18"
+      ],
+      "last_seen": "2026-09-02T08:42:31.472928+00:00"
+    },
     "Canada Post / Postes Canada": {
       "count": 1,
       "job_ids": [
         "931453959ac6"
       ],
       "last_seen": "2026-09-02T03:57:04.959100+00:00"
-    },
-    "Carters Inc.": {
-      "count": 1,
-      "job_ids": [
-        "5cd7dd1a41a3"
-      ],
-      "last_seen": "2026-08-30T05:15:32.198714+00:00"
     },
     "Carv": {
       "count": 1,
@@ -173,6 +173,13 @@
         "dd7e40833aa3"
       ],
       "last_seen": "2026-08-31T01:16:53.523857+00:00"
+    },
+    "Elements Recruitment Australia": {
+      "count": 1,
+      "job_ids": [
+        "71d7458f08aa"
+      ],
+      "last_seen": "2026-09-02T08:42:31.472928+00:00"
     },
     "FedEx": {
       "count": 1,
@@ -338,12 +345,34 @@
       ],
       "last_seen": "2026-09-01T01:09:19.666361+00:00"
     },
+    "Leena AI": {
+      "count": 1,
+      "job_ids": [
+        "8e148451b6ce"
+      ],
+      "last_seen": "2026-09-02T08:42:31.472928+00:00"
+    },
+    "Lemon Tree Premier": {
+      "count": 1,
+      "job_ids": [
+        "c9a9583e9c2e"
+      ],
+      "last_seen": "2026-09-02T08:42:31.472928+00:00"
+    },
     "Linsco Ltd": {
       "count": 1,
       "job_ids": [
         "26f98e5432be"
       ],
       "last_seen": "2026-09-01T20:52:34.783281+00:00"
+    },
+    "Localiza&amp;Co": {
+      "count": 2,
+      "job_ids": [
+        "89110adaa1f1",
+        "0c98dcd56261"
+      ],
+      "last_seen": "2026-09-02T08:42:31.472928+00:00"
     },
     "Locals": {
       "count": 1,
@@ -366,13 +395,6 @@
       ],
       "last_seen": "2026-08-30T16:27:23.251492+00:00"
     },
-    "Orca Bio": {
-      "count": 1,
-      "job_ids": [
-        "1701cf6919ff"
-      ],
-      "last_seen": "2026-08-30T05:15:32.198714+00:00"
-    },
     "Pembroke School": {
       "count": 1,
       "job_ids": [
@@ -387,6 +409,13 @@
         "2850ed5c2600"
       ],
       "last_seen": "2026-09-01T13:21:59.883771+00:00"
+    },
+    "PhilipJameson": {
+      "count": 1,
+      "job_ids": [
+        "8592d84e6b2f"
+      ],
+      "last_seen": "2026-09-02T06:36:35+00:00"
     },
     "Piramal Pharma Ltd": {
       "count": 1,
@@ -412,6 +441,7 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 17,
       "job_ids": [
+        "d172753a0dc7",
         "acb6e758f349",
         "0ac14b5ed743",
         "f49a9842446b",
@@ -427,10 +457,9 @@
         "5ecd08473558",
         "751f4e35eab3",
         "b6adaf510262",
-        "10c266851f69",
-        "ececeb72ce36"
+        "10c266851f69"
       ],
-      "last_seen": "2026-09-02T00:10:16+00:00"
+      "last_seen": "2026-09-02T04:30:42+00:00"
     },
     "Radisson Hotel Group": {
       "count": 1,
@@ -453,13 +482,6 @@
         "aca1d4c55edc"
       ],
       "last_seen": "2026-09-01T18:34:37+00:00"
-    },
-    "Rowan": {
-      "count": 1,
-      "job_ids": [
-        "d3d49e5b6de8"
-      ],
-      "last_seen": "2026-08-30T05:15:32.198714+00:00"
     },
     "Royal Caribbean Group": {
       "count": 1,
@@ -579,13 +601,6 @@
         "18dfc771d38b"
       ],
       "last_seen": "2026-09-01T17:44:58.213118+00:00"
-    },
-    "Swissport": {
-      "count": 1,
-      "job_ids": [
-        "3780ec28979e"
-      ],
-      "last_seen": "2026-08-30T05:15:32.198714+00:00"
     },
     "TRANT ENGINEERING LIMITED": {
       "count": 1,
@@ -774,5 +789,5 @@
       "last_seen": "2026-09-02T03:57:04.959100+00:00"
     }
   },
-  "updated_at": "2026-09-02T03:57:04.959100+00:00"
+  "updated_at": "2026-09-02T08:42:31.472928+00:00"
 }
