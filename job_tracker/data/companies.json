@@ -28,6 +28,13 @@
       ],
       "last_seen": "2026-09-01T07:35:58.078444+00:00"
     },
+    "Ampol": {
+      "count": 1,
+      "job_ids": [
+        "1cfea869b419"
+      ],
+      "last_seen": "2026-09-03T13:27:30.195929+00:00"
+    },
     "Atreides": {
       "count": 1,
       "job_ids": [
@@ -448,6 +455,13 @@
       ],
       "last_seen": "2026-09-02T13:29:00.084294+00:00"
     },
+    "Mr Clutch Autocentres": {
+      "count": 1,
+      "job_ids": [
+        "d43d6f2fb706"
+      ],
+      "last_seen": "2026-09-03T13:27:30.195929+00:00"
+    },
     "NT Health": {
       "count": 1,
       "job_ids": [
@@ -513,8 +527,9 @@
       "last_seen": "2026-09-01T13:21:59.883771+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 18,
+      "count": 19,
       "job_ids": [
+        "02c7c9487b63",
         "8d9dbc2f8d9e",
         "f8ca1dfcbcc3",
         "a78f534e71cf",
@@ -534,7 +549,7 @@
         "18a4ab42543b",
         "cff6fa72b4a9"
       ],
-      "last_seen": "2026-09-03T04:47:21+00:00"
+      "last_seen": "2026-09-03T09:14:44+00:00"
     },
     "Radisson Hotel Group": {
       "count": 1,
@@ -656,6 +671,13 @@
       ],
       "last_seen": "2026-09-01T20:52:34.783281+00:00"
     },
+    "Stobart": {
+      "count": 1,
+      "job_ids": [
+        "1e81d3ac3a4d"
+      ],
+      "last_seen": "2026-09-03T13:27:30.195929+00:00"
+    },
     "Storage King Group": {
       "count": 1,
       "job_ids": [
@@ -690,6 +712,13 @@
         "3780ec28979e"
       ],
       "last_seen": "2026-09-02T13:29:00.084294+00:00"
+    },
+    "TRANT ENGINEERING LIMITED": {
+      "count": 1,
+      "job_ids": [
+        "19d1a9b3d292"
+      ],
+      "last_seen": "2026-09-03T13:27:30.195929+00:00"
     },
     "TS Imagine": {
       "count": 1,
@@ -775,6 +804,13 @@
       ],
       "last_seen": "2026-09-02T17:47:55.739496+00:00"
     },
+    "Thrifty Car and Van Rental": {
+      "count": 1,
+      "job_ids": [
+        "172700102f2c"
+      ],
+      "last_seen": "2026-09-03T13:27:30.195929+00:00"
+    },
     "Transportation Partners &amp; Logistics": {
       "count": 1,
       "job_ids": [
@@ -821,6 +857,13 @@
       ],
       "last_seen": "2026-09-03T03:56:27.302124+00:00"
     },
+    "Wellburn Care Homes Ltd": {
+      "count": 1,
+      "job_ids": [
+        "78fe9a178196"
+      ],
+      "last_seen": "2026-09-03T13:27:30.195929+00:00"
+    },
     "Wipro": {
       "count": 1,
       "job_ids": [
@@ -850,5 +893,5 @@
       "last_seen": "2026-09-02T03:57:04.959100+00:00"
     }
   },
-  "updated_at": "2026-09-03T08:51:03.424048+00:00"
+  "updated_at": "2026-09-03T13:27:30.195929+00:00"
 }

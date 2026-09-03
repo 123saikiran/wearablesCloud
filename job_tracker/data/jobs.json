@@ -1,6 +1,156 @@
 {
   "jobs": [
     {
+      "company": "Ampol",
+      "fetched_at": "2026-09-03T13:27:30.195929+00:00",
+      "id": "1cfea869b419",
+      "location": "Port Macquarie,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "testing",
+        "exec",
+        "full time",
+        "marketing",
+        "finance",
+        "ops",
+        "recruiter"
+      ],
+      "title": "Store Manager Port Macquarie",
+      "url": "https://remoteOK.com/remote-jobs/remote-store-manager-port-macquarie-ampol-1137295"
+    },
+    {
+      "company": "Mr Clutch Autocentres",
+      "fetched_at": "2026-09-03T13:27:30.195929+00:00",
+      "id": "d43d6f2fb706",
+      "location": "Oxford,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "testing",
+        "sys admin",
+        "education",
+        "finance",
+        "scheme",
+        "non tech"
+      ],
+      "title": "MOT Tester",
+      "url": "https://remoteOK.com/remote-jobs/remote-mot-tester-mr-clutch-autocentres-1137218"
+    },
+    {
+      "company": "Stobart",
+      "fetched_at": "2026-09-03T13:27:30.195929+00:00",
+      "id": "1e81d3ac3a4d",
+      "location": "Northampton,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "c",
+        "scheme",
+        "ops",
+        "legal",
+        "medical",
+        "recruiter",
+        "full time",
+        "non tech"
+      ],
+      "title": "Shunter",
+      "url": "https://remoteOK.com/remote-jobs/remote-shunter-stobart-1137216"
+    },
+    {
+      "company": "Thrifty Car and Van Rental",
+      "fetched_at": "2026-09-03T13:27:30.195929+00:00",
+      "id": "172700102f2c",
+      "location": "Exeter,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "testing",
+        "sys admin",
+        "education",
+        "finance",
+        "scheme",
+        "non tech",
+        "customer support",
+        "marketing",
+        "admin",
+        "ops"
+      ],
+      "title": "Customer Service Agent",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-service-agent-thrifty-car-and-van-rental-1137219"
+    },
+    {
+      "company": "Wellburn Care Homes Ltd",
+      "fetched_at": "2026-09-03T13:27:30.195929+00:00",
+      "id": "78fe9a178196",
+      "location": "Berwick-Upon-Tweed,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "c",
+        "scheme",
+        "ops",
+        "legal",
+        "medical",
+        "recruiter",
+        "full time",
+        "non tech",
+        "education",
+        "golang"
+      ],
+      "title": "Handyperson",
+      "url": "https://remoteOK.com/remote-jobs/remote-handyperson-wellburn-care-homes-ltd-1137217"
+    },
+    {
+      "company": "TRANT ENGINEERING LIMITED",
+      "fetched_at": "2026-09-03T13:27:30.195929+00:00",
+      "id": "19d1a9b3d292",
+      "location": "Southampton,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "testing",
+        "sys admin",
+        "education",
+        "finance",
+        "scheme",
+        "non tech",
+        "customer support",
+        "marketing",
+        "admin",
+        "ops",
+        "exec",
+        "virtual assistant",
+        "microsoft",
+        "sales",
+        "design",
+        "technical",
+        "supervisor",
+        "assembly",
+        "engineer",
+        "digital nomad"
+      ],
+      "title": "Wireperson",
+      "url": "https://remoteOK.com/remote-jobs/remote-wireperson-trant-engineering-limited-1137221"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-03T13:27:30.195929+00:00",
+      "id": "02c7c9487b63",
+      "location": "Remote",
+      "posted_at": "2026-09-03T09:14:44+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4kk6"
+    },
+    {
       "company": "Volar Fashion",
       "fetched_at": "2026-09-03T08:51:03.424048+00:00",
       "id": "79c5c777bdb9",
@@ -2673,5 +2823,5 @@
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4h51"
     }
   ],
-  "updated_at": "2026-09-03T08:51:03.424048+00:00"
+  "updated_at": "2026-09-03T13:27:30.195929+00:00"
 }
