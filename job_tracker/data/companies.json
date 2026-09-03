@@ -63,13 +63,6 @@
       ],
       "last_seen": "2026-09-01T13:21:59.883771+00:00"
     },
-    "Benzinga": {
-      "count": 1,
-      "job_ids": [
-        "08991bb5dd0b"
-      ],
-      "last_seen": "2026-08-31T21:52:20.639342+00:00"
-    },
     "Blackbird Interactive": {
       "count": 1,
       "job_ids": [
@@ -268,12 +261,13 @@
       "last_seen": "2026-09-01T23:12:00.951518+00:00"
     },
     "Four Seasons": {
-      "count": 2,
+      "count": 3,
       "job_ids": [
+        "4bf724a5e771",
         "61331c618315",
         "31883a137db6"
       ],
-      "last_seen": "2026-09-02T23:11:36.051691+00:00"
+      "last_seen": "2026-09-03T23:08:41.176206+00:00"
     },
     "Fronix Services": {
       "count": 1,
@@ -462,6 +456,13 @@
       ],
       "last_seen": "2026-09-02T13:29:00.084294+00:00"
     },
+    "MSC Cruises": {
+      "count": 1,
+      "job_ids": [
+        "82f155b3795d"
+      ],
+      "last_seen": "2026-09-03T23:08:41.176206+00:00"
+    },
     "Marriott International": {
       "count": 1,
       "job_ids": [
@@ -548,8 +549,9 @@
       "last_seen": "2026-09-01T13:21:59.883771+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 20,
+      "count": 21,
       "job_ids": [
+        "abe944216d81",
         "e386031de494",
         "d8eed287ea84",
         "df741fdd6fe2",
@@ -571,7 +573,7 @@
         "e506807fdc2f",
         "61e4bae5f3e5"
       ],
-      "last_seen": "2026-09-03T19:58:28+00:00"
+      "last_seen": "2026-09-03T22:23:52+00:00"
     },
     "Radisson Hotel Group": {
       "count": 1,
@@ -872,13 +874,6 @@
       ],
       "last_seen": "2026-09-01T01:09:19.666361+00:00"
     },
-    "Wonderful": {
-      "count": 1,
-      "job_ids": [
-        "43e2b2a0b178"
-      ],
-      "last_seen": "2026-08-31T21:52:20.639342+00:00"
-    },
     "Wood": {
       "count": 1,
       "job_ids": [
@@ -901,5 +896,5 @@
       "last_seen": "2026-09-02T03:57:04.959100+00:00"
     }
   },
-  "updated_at": "2026-09-03T20:49:34.414391+00:00"
+  "updated_at": "2026-09-03T23:08:41.176206+00:00"
 }

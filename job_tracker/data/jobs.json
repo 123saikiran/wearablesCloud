@@ -1,6 +1,57 @@
 {
   "jobs": [
     {
+      "company": "Four Seasons",
+      "fetched_at": "2026-09-03T23:08:41.176206+00:00",
+      "id": "4bf724a5e771",
+      "location": "Nassau,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "supervisor",
+        "legal",
+        "non tech"
+      ],
+      "title": "Public Area Attendant",
+      "url": "https://remoteOK.com/remote-jobs/remote-public-area-attendant-four-seasons-1137297"
+    },
+    {
+      "company": "MSC Cruises",
+      "fetched_at": "2026-09-03T23:08:41.176206+00:00",
+      "id": "82f155b3795d",
+      "location": "Rum Cay,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "supervisor",
+        "legal",
+        "non tech",
+        "sys admin",
+        "exec",
+        "engineer"
+      ],
+      "title": "Irrigation Technician",
+      "url": "https://remoteOK.com/remote-jobs/remote-irrigation-technician-msc-cruises-1137298"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-03T23:08:41.176206+00:00",
+      "id": "abe944216d81",
+      "location": "Remote",
+      "posted_at": "2026-09-03T22:23:52+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1p0h"
+    },
+    {
       "company": "WorkaJobs",
       "fetched_at": "2026-09-03T20:49:34.414391+00:00",
       "id": "f69588ecf0e0",
@@ -2820,42 +2871,7 @@
       ],
       "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4pn3"
-    },
-    {
-      "company": "Benzinga",
-      "fetched_at": "2026-08-31T21:52:20.639342+00:00",
-      "id": "08991bb5dd0b",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "golang",
-        "video",
-        "engineer"
-      ],
-      "title": "AI Engineer Data APIs",
-      "url": "https://remoteOK.com/remote-jobs/remote-ai-engineer-data-apis-benzinga-1137224"
-    },
-    {
-      "company": "Wonderful",
-      "fetched_at": "2026-08-31T21:52:20.639342+00:00",
-      "id": "43e2b2a0b178",
-      "location": "Bridgetown,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "saas",
-        "salesforce",
-        "sys admin",
-        "technical",
-        "marketing",
-        "exec",
-        "senior",
-        "sales"
-      ],
-      "title": "GTM",
-      "url": "https://remoteOK.com/remote-jobs/remote-gtm-wonderful-1137225"
     }
   ],
-  "updated_at": "2026-09-03T20:49:34.414391+00:00"
+  "updated_at": "2026-09-03T23:08:41.176206+00:00"
 }
