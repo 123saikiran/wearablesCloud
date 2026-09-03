@@ -35,6 +35,13 @@
       ],
       "last_seen": "2026-09-03T13:27:30.195929+00:00"
     },
+    "Astrek Careers": {
+      "count": 1,
+      "job_ids": [
+        "45d631bbd6fd"
+      ],
+      "last_seen": "2026-09-03T20:49:34.414391+00:00"
+    },
     "Atreides": {
       "count": 1,
       "job_ids": [
@@ -62,6 +69,13 @@
         "08991bb5dd0b"
       ],
       "last_seen": "2026-08-31T21:52:20.639342+00:00"
+    },
+    "Blackbird Interactive": {
+      "count": 1,
+      "job_ids": [
+        "63695c1ba827"
+      ],
+      "last_seen": "2026-09-03T20:49:34.414391+00:00"
     },
     "Bosta": {
       "count": 1,
@@ -296,6 +310,13 @@
       ],
       "last_seen": "2026-09-02T17:47:55.739496+00:00"
     },
+    "Guardian Electrical Compliance Ltd": {
+      "count": 1,
+      "job_ids": [
+        "98b747ece644"
+      ],
+      "last_seen": "2026-09-03T20:49:34.414391+00:00"
+    },
     "H&amp;M": {
       "count": 1,
       "job_ids": [
@@ -529,6 +550,7 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 20,
       "job_ids": [
+        "e386031de494",
         "d8eed287ea84",
         "df741fdd6fe2",
         "02c7c9487b63",
@@ -547,10 +569,9 @@
         "37df50304831",
         "2491dd927f04",
         "e506807fdc2f",
-        "61e4bae5f3e5",
-        "18a4ab42543b"
+        "61e4bae5f3e5"
       ],
-      "last_seen": "2026-09-03T17:15:06+00:00"
+      "last_seen": "2026-09-03T19:58:28+00:00"
     },
     "Radisson Hotel Group": {
       "count": 1,
@@ -637,6 +658,13 @@
       ],
       "last_seen": "2026-09-01T23:12:00.951518+00:00"
     },
+    "St. George's University": {
+      "count": 1,
+      "job_ids": [
+        "38276f77e61d"
+      ],
+      "last_seen": "2026-09-03T20:49:34.414391+00:00"
+    },
     "St. Regis Hotels &amp; Resorts": {
       "count": 1,
       "job_ids": [
@@ -657,6 +685,13 @@
         "1e81d3ac3a4d"
       ],
       "last_seen": "2026-09-03T13:27:30.195929+00:00"
+    },
+    "Storage King Group": {
+      "count": 1,
+      "job_ids": [
+        "129334ff7ac3"
+      ],
+      "last_seen": "2026-09-03T20:49:34.414391+00:00"
     },
     "Streamline Search": {
       "count": 1,
@@ -720,6 +755,13 @@
         "1cfb77c4076e"
       ],
       "last_seen": "2026-09-03T08:51:03.424048+00:00"
+    },
+    "Tessera Labs": {
+      "count": 1,
+      "job_ids": [
+        "f18c1fd14d71"
+      ],
+      "last_seen": "2026-09-03T20:49:34.414391+00:00"
     },
     "The AI Whistleblower Initiative": {
       "count": 1,
@@ -800,12 +842,14 @@
       "last_seen": "2026-09-03T08:51:03.424048+00:00"
     },
     "W Hotels": {
-      "count": 2,
+      "count": 4,
       "job_ids": [
+        "7b5c65463ee8",
+        "eed48f89c829",
         "8bbf75a6d469",
         "b88670e3de4e"
       ],
-      "last_seen": "2026-09-03T03:56:27.302124+00:00"
+      "last_seen": "2026-09-03T20:49:34.414391+00:00"
     },
     "Wellburn Care Homes Ltd": {
       "count": 1,
@@ -813,6 +857,13 @@
         "78fe9a178196"
       ],
       "last_seen": "2026-09-03T13:27:30.195929+00:00"
+    },
+    "Wilco Contractors Northwest Inc.": {
+      "count": 1,
+      "job_ids": [
+        "244d1ee993b2"
+      ],
+      "last_seen": "2026-09-03T20:49:34.414391+00:00"
     },
     "Wipro": {
       "count": 1,
@@ -835,6 +886,13 @@
       ],
       "last_seen": "2026-09-01T13:21:59.883771+00:00"
     },
+    "WorkaJobs": {
+      "count": 1,
+      "job_ids": [
+        "f69588ecf0e0"
+      ],
+      "last_seen": "2026-09-03T20:49:34.414391+00:00"
+    },
     "s1jobs": {
       "count": 1,
       "job_ids": [
@@ -843,5 +901,5 @@
       "last_seen": "2026-09-02T03:57:04.959100+00:00"
     }
   },
-  "updated_at": "2026-09-03T17:43:59.205510+00:00"
+  "updated_at": "2026-09-03T20:49:34.414391+00:00"
 }
