@@ -1,6 +1,105 @@
 {
   "jobs": [
     {
+      "company": "Emplyfy",
+      "fetched_at": "2026-09-03T17:43:59.205510+00:00",
+      "id": "119f31ccd0f6",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "customer support",
+        "microsoft",
+        "excel",
+        "sales",
+        "exec"
+      ],
+      "title": "Service Sales Executive",
+      "url": "https://remoteOK.com/remote-jobs/remote-service-sales-executive-emplyfy-1137280"
+    },
+    {
+      "company": "OrderYOYO",
+      "fetched_at": "2026-09-03T17:43:59.205510+00:00",
+      "id": "56f90acd7e69",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec",
+        "customer support",
+        "marketing",
+        "scheme",
+        "mobile",
+        "sales"
+      ],
+      "title": "Regional Sales Manager",
+      "url": "https://remoteOK.com/remote-jobs/remote-regional-sales-manager-orderyoyo-1137279"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-03T17:43:59.205510+00:00",
+      "id": "d8eed287ea84",
+      "location": "Remote",
+      "posted_at": "2026-09-03T17:15:06+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4052"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-09-03T17:43:59.205510+00:00",
+      "id": "a4b95bfa0a77",
+      "location": "Remote",
+      "posted_at": "2026-09-03T15:01:09+00:00",
+      "source": "devto",
+      "tags": [
+        "beginners",
+        "jobs",
+        "career",
+        "programming"
+      ],
+      "title": "Summer 2026 Internships: 8 New Openings This Week (Sep 3)",
+      "url": "https://dev.to/crackr/summer-2026-internships-8-new-openings-this-week-sep-3-1pki"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-09-03T17:43:59.205510+00:00",
+      "id": "82c3910aa154",
+      "location": "Remote",
+      "posted_at": "2026-09-03T15:01:05+00:00",
+      "source": "devto",
+      "tags": [
+        "remotework",
+        "jobs",
+        "webdev",
+        "career"
+      ],
+      "title": "Remote SWE Jobs Paying Up to $200k (Sep 3)",
+      "url": "https://dev.to/crackr/remote-swe-jobs-paying-up-to-200k-sep-3-a9p"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-03T17:43:59.205510+00:00",
+      "id": "df741fdd6fe2",
+      "location": "Remote",
+      "posted_at": "2026-09-03T13:41:03+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3d9b"
+    },
+    {
       "company": "Ampol",
       "fetched_at": "2026-09-03T13:27:30.195929+00:00",
       "id": "1cfea869b419",
@@ -2559,269 +2658,7 @@
       ],
       "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3e7n"
-    },
-    {
-      "company": "Guardian Electrical Compliance Ltd",
-      "fetched_at": "2026-08-31T16:57:11.014400+00:00",
-      "id": "98b747ece644",
-      "location": "Oxford,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "microsoft",
-        "testing",
-        "sys admin",
-        "customer support",
-        "dev",
-        "excel",
-        "recruiter",
-        "non tech",
-        "digital nomad"
-      ],
-      "title": "Professional PAT Tester",
-      "url": "https://remoteOK.com/remote-jobs/remote-professional-pat-tester-guardian-electrical-compliance-ltd-1137235"
-    },
-    {
-      "company": "W Hotels",
-      "fetched_at": "2026-08-31T16:57:11.014400+00:00",
-      "id": "7b5c65463ee8",
-      "location": "Albufeira,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "education",
-        "customer support",
-        "finance",
-        "non tech",
-        "supervisor",
-        "c",
-        "exec"
-      ],
-      "title": "Gardener NUSC",
-      "url": "https://remoteOK.com/remote-jobs/remote-gardener-nusc-w-hotels-1137185"
-    },
-    {
-      "company": "W Hotels",
-      "fetched_at": "2026-08-31T16:57:11.014400+00:00",
-      "id": "eed48f89c829",
-      "location": "Albufeira,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "design",
-        "education",
-        "marketing",
-        "travel",
-        "scheme",
-        "ops",
-        "medical",
-        "engineer",
-        "digital nomad",
-        "infosec",
-        "customer support",
-        "exec"
-      ],
-      "title": "Gardener",
-      "url": "https://remoteOK.com/remote-jobs/remote-gardener-w-hotels-1137164"
-    },
-    {
-      "company": "Storage King Group",
-      "fetched_at": "2026-08-31T16:57:11.014400+00:00",
-      "id": "129334ff7ac3",
-      "location": "Rozelle,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "exec",
-        "virtual assistant",
-        "education",
-        "customer support",
-        "marketing",
-        "travel",
-        "finance",
-        "legal",
-        "sales",
-        "medical",
-        "recruiter",
-        "full time"
-      ],
-      "title": "Assistant Manager",
-      "url": "https://remoteOK.com/remote-jobs/remote-assistant-manager-storage-king-group-1137161"
-    },
-    {
-      "company": "Blackbird Interactive",
-      "fetched_at": "2026-08-31T16:57:11.014400+00:00",
-      "id": "63695c1ba827",
-      "location": "Vancouver, BC, Canada",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "design",
-        "game dev",
-        "designer",
-        "technical",
-        "customer support",
-        "testing",
-        "content writing",
-        "senior",
-        "engineer",
-        "digital nomad"
-      ],
-      "title": "Senior Level Designer",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-level-designer-blackbird-interactive-1137156"
-    },
-    {
-      "company": "Tessera Labs",
-      "fetched_at": "2026-08-31T16:57:11.014400+00:00",
-      "id": "f18c1fd14d71",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "design",
-        "sys admin",
-        "consulting",
-        "testing",
-        "exec",
-        "cloud",
-        "senior",
-        "ops",
-        "engineer",
-        "ecommerce",
-        "shopify",
-        "full time",
-        "digital nomad"
-      ],
-      "title": "Oracle Fusion Cloud Lead â Logistics & Supply Chain Management",
-      "url": "https://remoteOK.com/remote-jobs/remote-oracle-fusion-cloud-lead-logistics-supply-chain-management-tessera-labs-1137155"
-    },
-    {
-      "company": "Scotsman Hospitality",
-      "fetched_at": "2026-08-31T16:57:11.014400+00:00",
-      "id": "6a90d1bbef88",
-      "location": "Glasgow,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "education",
-        "customer support",
-        "finance",
-        "non tech"
-      ],
-      "title": "Kitchen Porter",
-      "url": "https://remoteOK.com/remote-jobs/remote-kitchen-porter-scotsman-hospitality-1137184"
-    },
-    {
-      "company": "Spendless Shoes",
-      "fetched_at": "2026-08-31T16:57:11.014400+00:00",
-      "id": "84ad1fc4376b",
-      "location": "Ipswich,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "technical",
-        "customer support",
-        "microsoft",
-        "exec",
-        "junior",
-        "excel",
-        "recruiter",
-        "education",
-        "finance",
-        "scheme",
-        "sales"
-      ],
-      "title": "RETAIL STORE MANAGER RIVERLINK",
-      "url": "https://remoteOK.com/remote-jobs/remote-retail-store-manager-riverlink-spendless-shoes-1137229"
-    },
-    {
-      "company": "The Home Depot Canada",
-      "fetched_at": "2026-08-31T16:57:11.014400+00:00",
-      "id": "78984922d1c4",
-      "location": "Trois-RiviÃ¨res,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [],
-      "title": "Technicien Ã la location d'outils",
-      "url": "https://remoteOK.com/remote-jobs/remote-technicien-a-la-location-doutils-the-home-depot-canada-1137173"
-    },
-    {
-      "company": "Saasuji",
-      "fetched_at": "2026-08-31T16:57:11.014400+00:00",
-      "id": "c83ba57c1505",
-      "location": "Newcastle Upon Tyne,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "finance",
-        "medical",
-        "non tech"
-      ],
-      "title": "CDP",
-      "url": "https://remoteOK.com/remote-jobs/remote-cdp-saasuji-1137091"
-    },
-    {
-      "company": "Subway",
-      "fetched_at": "2026-08-31T16:57:11.014400+00:00",
-      "id": "99805f4ae447",
-      "location": "Grand Falls-Windsor,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "education",
-        "non tech"
-      ],
-      "title": "Sandwich artist",
-      "url": "https://remoteOK.com/remote-jobs/remote-sandwich-artist-subway-1137086"
-    },
-    {
-      "company": "Crackr",
-      "fetched_at": "2026-08-31T16:57:11.014400+00:00",
-      "id": "8c6e72b854aa",
-      "location": "Remote",
-      "posted_at": "2026-08-31T15:01:07+00:00",
-      "source": "devto",
-      "tags": [
-        "beginners",
-        "jobs",
-        "career",
-        "programming"
-      ],
-      "title": "Summer 2026 Internships: 8 New Openings This Week (Aug 31)",
-      "url": "https://dev.to/crackr/summer-2026-internships-8-new-openings-this-week-aug-31-9l9"
-    },
-    {
-      "company": "Crackr",
-      "fetched_at": "2026-08-31T16:57:11.014400+00:00",
-      "id": "36adcdec586a",
-      "location": "Remote",
-      "posted_at": "2026-08-31T15:01:03+00:00",
-      "source": "devto",
-      "tags": [
-        "remotework",
-        "jobs",
-        "webdev",
-        "career"
-      ],
-      "title": "Remote SWE Jobs Paying Up to $200k (Aug 31)",
-      "url": "https://dev.to/crackr/remote-swe-jobs-paying-up-to-200k-aug-31-4804"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-08-31T16:57:11.014400+00:00",
-      "id": "cff6fa72b4a9",
-      "location": "Remote",
-      "posted_at": "2026-08-31T13:42:34+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4h51"
     }
   ],
-  "updated_at": "2026-09-03T13:27:30.195929+00:00"
+  "updated_at": "2026-09-03T17:43:59.205510+00:00"
 }
