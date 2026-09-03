@@ -1,6 +1,97 @@
 {
   "jobs": [
     {
+      "company": "Sigma",
+      "fetched_at": "2026-09-03T03:56:27.302124+00:00",
+      "id": "d3a9ed230213",
+      "location": "Newport,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "infosec",
+        "education",
+        "customer support",
+        "exec",
+        "finance",
+        "medical",
+        "recruiter"
+      ],
+      "title": "Multi Skilled Maintenance Technician",
+      "url": "https://remoteOK.com/remote-jobs/remote-multi-skilled-maintenance-technician-sigma-1137273"
+    },
+    {
+      "company": "W Hotels",
+      "fetched_at": "2026-09-03T03:56:27.302124+00:00",
+      "id": "8bbf75a6d469",
+      "location": "Budapest,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "infosec",
+        "education",
+        "customer support",
+        "exec"
+      ],
+      "title": "Chief Steward",
+      "url": "https://remoteOK.com/remote-jobs/remote-chief-steward-w-hotels-1137272"
+    },
+    {
+      "company": "Department of Justice and Community Safety, Victoria",
+      "fetched_at": "2026-09-03T03:56:27.302124+00:00",
+      "id": "aa2e46d11b9b",
+      "location": "Bendigo,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "infosec",
+        "exec",
+        "medical",
+        "recruiter"
+      ],
+      "title": "Field Officer Bendigo",
+      "url": "https://remoteOK.com/remote-jobs/remote-field-officer-bendigo-department-of-justice-and-community-safety-victoria-1137267"
+    },
+    {
+      "company": "Go Auto",
+      "fetched_at": "2026-09-03T03:56:27.302124+00:00",
+      "id": "5c907233e4f5",
+      "location": "Edmonton,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "customer support",
+        "recruiter",
+        "non tech",
+        "hr",
+        "marketing",
+        "travel",
+        "teaching",
+        "finance",
+        "golang",
+        "medical",
+        "full time"
+      ],
+      "title": "Detailer",
+      "url": "https://remoteOK.com/remote-jobs/remote-detailer-go-auto-1137277"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-03T03:56:27.302124+00:00",
+      "id": "f8ca1dfcbcc3",
+      "location": "Remote",
+      "posted_at": "2026-09-03T00:17:56+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-26ak"
+    },
+    {
       "company": "Four Seasons",
       "fetched_at": "2026-09-02T23:11:36.051691+00:00",
       "id": "61331c618315",
@@ -2574,256 +2665,7 @@
       ],
       "title": "The Hiring Debrief: Where Your Tech Interview Is Really Decided",
       "url": "https://dev.to/ji_ai/the-hiring-debrief-where-your-tech-interview-is-really-decided-4dhc"
-    },
-    {
-      "company": "Carv",
-      "fetched_at": "2026-08-31T01:16:53.523857+00:00",
-      "id": "c53b1db41795",
-      "location": "London,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [],
-      "title": "Don't see a role for you",
-      "url": "https://remoteOK.com/remote-jobs/remote-dont-see-a-role-for-you-carv-1137150"
-    },
-    {
-      "company": "JD.COM",
-      "fetched_at": "2026-08-31T01:16:53.523857+00:00",
-      "id": "e6a0ef256c53",
-      "location": "Lutterworth,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "exec",
-        "ops",
-        "sys admin"
-      ],
-      "title": "Equipment Maintenance",
-      "url": "https://remoteOK.com/remote-jobs/remote-equipment-maintenance-jd-com-1137151"
-    },
-    {
-      "company": "Intuit",
-      "fetched_at": "2026-08-31T01:16:53.523857+00:00",
-      "id": "72ceedf46d23",
-      "location": "Toronto,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [],
-      "title": "N A",
-      "url": "https://remoteOK.com/remote-jobs/remote-n-a-intuit-1137159"
-    },
-    {
-      "company": "Sherborne Schools Group",
-      "fetched_at": "2026-08-31T01:16:53.523857+00:00",
-      "id": "6baf25d55ea4",
-      "location": "Hertford,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "exec",
-        "ops",
-        "sys admin",
-        "education"
-      ],
-      "title": "Various roles",
-      "url": "https://remoteOK.com/remote-jobs/remote-various-roles-sherborne-schools-group-1137152"
-    },
-    {
-      "company": "Interaction Design Foundation",
-      "fetched_at": "2026-08-31T01:16:53.523857+00:00",
-      "id": "b68095d25eb0",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "education",
-        "design",
-        "content writing"
-      ],
-      "title": "Course Director UX UI and AI",
-      "url": "https://remoteOK.com/remote-jobs/remote-course-director-ux-ui-and-ai-interaction-design-foundation-1137139"
-    },
-    {
-      "company": "Interaction Design Foundation",
-      "fetched_at": "2026-08-31T01:16:53.523857+00:00",
-      "id": "4ef5e2cc3787",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "design",
-        "content writing",
-        "education"
-      ],
-      "title": "Education Designer UX UI and AI",
-      "url": "https://remoteOK.com/remote-jobs/remote-education-designer-ux-ui-and-ai-interaction-design-foundation-1137138"
-    },
-    {
-      "company": "Interaction Design Foundation",
-      "fetched_at": "2026-08-31T01:16:53.523857+00:00",
-      "id": "6a92d8de124a",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "design",
-        "content writing"
-      ],
-      "title": "Course Writer and Editor UX UI and AI",
-      "url": "https://remoteOK.com/remote-jobs/remote-course-writer-and-editor-ux-ui-and-ai-interaction-design-foundation-1137136"
-    },
-    {
-      "company": "Geelong Careers",
-      "fetched_at": "2026-08-31T01:16:53.523857+00:00",
-      "id": "30db5971dc4f",
-      "location": "Geelong,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "education",
-        "dev",
-        "marketing",
-        "finance",
-        "exec",
-        "ops",
-        "digital nomad",
-        "golang",
-        "medical",
-        "infosec"
-      ],
-      "title": "Mail Sorter",
-      "url": "https://remoteOK.com/remote-jobs/remote-mail-sorter-geelong-careers-1137168"
-    },
-    {
-      "company": "Tesco",
-      "fetched_at": "2026-08-31T01:16:53.523857+00:00",
-      "id": "1cfb77c4076e",
-      "location": "Newtownards,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "exec",
-        "customer support",
-        "testing",
-        "finance",
-        "sales",
-        "recruiter"
-      ],
-      "title": "Team Manager Newtownards Extra",
-      "url": "https://remoteOK.com/remote-jobs/remote-team-manager-newtownards-extra-tesco-1137144"
-    },
-    {
-      "company": "Coogee Chemicals",
-      "fetched_at": "2026-08-31T01:16:53.523857+00:00",
-      "id": "57d9baa2eec1",
-      "location": "Kwinana Beach,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "education",
-        "dev",
-        "marketing",
-        "finance",
-        "exec",
-        "ops",
-        "digital nomad"
-      ],
-      "title": "General Interest Position",
-      "url": "https://remoteOK.com/remote-jobs/remote-general-interest-position-coogee-chemicals-1137166"
-    },
-    {
-      "company": "The Shepparton Adviser",
-      "fetched_at": "2026-08-31T01:16:53.523857+00:00",
-      "id": "09074d71b4ed",
-      "location": "Shepparton,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "education",
-        "dev",
-        "marketing",
-        "finance",
-        "exec",
-        "ops",
-        "digital nomad",
-        "golang",
-        "medical"
-      ],
-      "title": "Various Positions",
-      "url": "https://remoteOK.com/remote-jobs/remote-various-positions-the-shepparton-adviser-1137167"
-    },
-    {
-      "company": "Edspired.Tech",
-      "fetched_at": "2026-08-31T01:16:53.523857+00:00",
-      "id": "dd7e40833aa3",
-      "location": "Vijayawada,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "exec",
-        "customer support",
-        "dev",
-        "excel",
-        "engineer",
-        "full time",
-        "digital nomad"
-      ],
-      "title": "Quantity Surveyor",
-      "url": "https://remoteOK.com/remote-jobs/remote-quantity-surveyor-edspired-tech-1137098"
-    },
-    {
-      "company": "JobTrade",
-      "fetched_at": "2026-08-31T01:16:53.523857+00:00",
-      "id": "12232a64c4ca",
-      "location": "Guwahati,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "exec",
-        "customer support",
-        "dev",
-        "excel",
-        "engineer",
-        "full time",
-        "digital nomad",
-        "design",
-        "content writing",
-        "education"
-      ],
-      "title": "DTP Operator",
-      "url": "https://remoteOK.com/remote-jobs/remote-dtp-operator-jobtrade-1137099"
-    },
-    {
-      "company": "Guzman y Gomez Mexican Kitchen",
-      "fetched_at": "2026-08-31T01:16:53.523857+00:00",
-      "id": "5c57cfbf453a",
-      "location": "North Sydney,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "education",
-        "customer support",
-        "exec"
-      ],
-      "title": "Cook FT Northpoint",
-      "url": "https://remoteOK.com/remote-jobs/remote-cook-ft-northpoint-guzman-y-gomez-mexican-kitchen-1137170"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-08-31T01:16:53.523857+00:00",
-      "id": "1f65efafa8d7",
-      "location": "Remote",
-      "posted_at": "2026-08-31T00:35:35+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-5cf5"
     }
   ],
-  "updated_at": "2026-09-02T23:11:36.051691+00:00"
+  "updated_at": "2026-09-03T03:56:27.302124+00:00"
 }

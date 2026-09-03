@@ -107,13 +107,6 @@
       ],
       "last_seen": "2026-09-02T13:29:00.084294+00:00"
     },
-    "Carv": {
-      "count": 1,
-      "job_ids": [
-        "c53b1db41795"
-      ],
-      "last_seen": "2026-08-31T01:16:53.523857+00:00"
-    },
     "City of York Council": {
       "count": 1,
       "job_ids": [
@@ -149,13 +142,6 @@
         "f9761e47764b"
       ],
       "last_seen": "2026-09-02T20:52:13.968276+00:00"
-    },
-    "Coogee Chemicals": {
-      "count": 1,
-      "job_ids": [
-        "57d9baa2eec1"
-      ],
-      "last_seen": "2026-08-31T01:16:53.523857+00:00"
     },
     "Copa Airlines": {
       "count": 1,
@@ -204,19 +190,19 @@
       ],
       "last_seen": "2026-09-02T13:29:00.084294+00:00"
     },
+    "Department of Justice and Community Safety, Victoria": {
+      "count": 1,
+      "job_ids": [
+        "aa2e46d11b9b"
+      ],
+      "last_seen": "2026-09-03T03:56:27.302124+00:00"
+    },
     "Digest Media": {
       "count": 1,
       "job_ids": [
         "665fa257e8da"
       ],
       "last_seen": "2026-09-01T23:12:00.951518+00:00"
-    },
-    "Edspired.Tech": {
-      "count": 1,
-      "job_ids": [
-        "dd7e40833aa3"
-      ],
-      "last_seen": "2026-08-31T01:16:53.523857+00:00"
     },
     "Elements Recruitment Australia": {
       "count": 1,
@@ -261,19 +247,19 @@
       ],
       "last_seen": "2026-09-01T17:44:58.213118+00:00"
     },
-    "Geelong Careers": {
-      "count": 1,
-      "job_ids": [
-        "30db5971dc4f"
-      ],
-      "last_seen": "2026-08-31T01:16:53.523857+00:00"
-    },
     "Gildan": {
       "count": 1,
       "job_ids": [
         "ea3789efa1e5"
       ],
       "last_seen": "2026-09-01T20:52:34.783281+00:00"
+    },
+    "Go Auto": {
+      "count": 1,
+      "job_ids": [
+        "5c907233e4f5"
+      ],
+      "last_seen": "2026-09-03T03:56:27.302124+00:00"
     },
     "Greater Pell City Chamber of Commerce": {
       "count": 1,
@@ -295,13 +281,6 @@
         "98b747ece644"
       ],
       "last_seen": "2026-08-31T16:57:11.014400+00:00"
-    },
-    "Guzman y Gomez Mexican Kitchen": {
-      "count": 1,
-      "job_ids": [
-        "5c57cfbf453a"
-      ],
-      "last_seen": "2026-08-31T01:16:53.523857+00:00"
     },
     "H&amp;M": {
       "count": 1,
@@ -360,22 +339,6 @@
       ],
       "last_seen": "2026-09-01T13:21:59.883771+00:00"
     },
-    "Interaction Design Foundation": {
-      "count": 3,
-      "job_ids": [
-        "b68095d25eb0",
-        "4ef5e2cc3787",
-        "6a92d8de124a"
-      ],
-      "last_seen": "2026-08-31T01:16:53.523857+00:00"
-    },
-    "Intuit": {
-      "count": 1,
-      "job_ids": [
-        "72ceedf46d23"
-      ],
-      "last_seen": "2026-08-31T01:16:53.523857+00:00"
-    },
     "JAI HANUMAN UDYOG LIMITED": {
       "count": 1,
       "job_ids": [
@@ -383,26 +346,12 @@
       ],
       "last_seen": "2026-09-01T01:09:19.666361+00:00"
     },
-    "JD.COM": {
-      "count": 1,
-      "job_ids": [
-        "e6a0ef256c53"
-      ],
-      "last_seen": "2026-08-31T01:16:53.523857+00:00"
-    },
     "JLL": {
       "count": 1,
       "job_ids": [
         "c5b3fc67c73b"
       ],
       "last_seen": "2026-09-01T13:21:59.883771+00:00"
-    },
-    "JobTrade": {
-      "count": 1,
-      "job_ids": [
-        "12232a64c4ca"
-      ],
-      "last_seen": "2026-08-31T01:16:53.523857+00:00"
     },
     "Jugopetrol AD": {
       "count": 1,
@@ -536,6 +485,7 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 18,
       "job_ids": [
+        "f8ca1dfcbcc3",
         "a78f534e71cf",
         "a5a744e50297",
         "791049315475",
@@ -552,10 +502,9 @@
         "61e4bae5f3e5",
         "18a4ab42543b",
         "cff6fa72b4a9",
-        "775dc7d75034",
-        "1f65efafa8d7"
+        "775dc7d75034"
       ],
-      "last_seen": "2026-09-02T22:13:49+00:00"
+      "last_seen": "2026-09-03T00:17:56+00:00"
     },
     "Radisson Hotel Group": {
       "count": 1,
@@ -621,12 +570,12 @@
       ],
       "last_seen": "2026-08-31T16:57:11.014400+00:00"
     },
-    "Sherborne Schools Group": {
+    "Sigma": {
       "count": 1,
       "job_ids": [
-        "6baf25d55ea4"
+        "d3a9ed230213"
       ],
-      "last_seen": "2026-08-31T01:16:53.523857+00:00"
+      "last_seen": "2026-09-03T03:56:27.302124+00:00"
     },
     "Sisal Hub Albania": {
       "count": 1,
@@ -747,13 +696,6 @@
       ],
       "last_seen": "2026-09-01T01:09:19.666361+00:00"
     },
-    "Tesco": {
-      "count": 1,
-      "job_ids": [
-        "1cfb77c4076e"
-      ],
-      "last_seen": "2026-08-31T01:16:53.523857+00:00"
-    },
     "Tessera Labs": {
       "count": 1,
       "job_ids": [
@@ -803,13 +745,6 @@
       ],
       "last_seen": "2026-09-02T17:47:55.739496+00:00"
     },
-    "The Shepparton Adviser": {
-      "count": 1,
-      "job_ids": [
-        "09074d71b4ed"
-      ],
-      "last_seen": "2026-08-31T01:16:53.523857+00:00"
-    },
     "Thrifty Car and Van Rental": {
       "count": 1,
       "job_ids": [
@@ -847,13 +782,14 @@
       "last_seen": "2026-09-01T01:09:19.666361+00:00"
     },
     "W Hotels": {
-      "count": 3,
+      "count": 4,
       "job_ids": [
+        "8bbf75a6d469",
         "b88670e3de4e",
         "7b5c65463ee8",
         "eed48f89c829"
       ],
-      "last_seen": "2026-09-01T17:44:58.213118+00:00"
+      "last_seen": "2026-09-03T03:56:27.302124+00:00"
     },
     "Wellburn Care Homes Ltd": {
       "count": 1,
@@ -898,5 +834,5 @@
       "last_seen": "2026-09-02T03:57:04.959100+00:00"
     }
   },
-  "updated_at": "2026-09-02T23:11:36.051691+00:00"
+  "updated_at": "2026-09-03T03:56:27.302124+00:00"
 }
