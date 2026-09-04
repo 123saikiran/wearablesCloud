@@ -1,6 +1,297 @@
 {
   "jobs": [
     {
+      "company": "GAV Resorts",
+      "fetched_at": "2026-09-04T17:30:43.732697+00:00",
+      "id": "316b0a8df47a",
+      "location": "Ipojuca,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "excel",
+        "non tech"
+      ],
+      "title": "Roupeiro Muro Alto PE",
+      "url": "https://remoteOK.com/remote-jobs/remote-roupeiro-muro-alto-pe-gav-resorts-1137304"
+    },
+    {
+      "company": "SunnyData",
+      "fetched_at": "2026-09-04T17:30:43.732697+00:00",
+      "id": "cb055b1bced4",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "technical",
+        "dev",
+        "testing",
+        "marketing",
+        "quality assurance",
+        "education",
+        "cloud",
+        "engineer",
+        "digital nomad"
+      ],
+      "title": "QA Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-qa-engineer-sunnydata-1137300"
+    },
+    {
+      "company": "HUGO BOSS",
+      "fetched_at": "2026-09-04T17:30:43.732697+00:00",
+      "id": "cf5b25c36d15",
+      "location": "San Juan,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec",
+        "react",
+        "education",
+        "consulting",
+        "customer support",
+        "microsoft",
+        "ops",
+        "sales",
+        "medical"
+      ],
+      "title": "Store Manager BOSS Store Plaza Las Americas",
+      "url": "https://remoteOK.com/remote-jobs/remote-store-manager-boss-store-plaza-las-americas-hugo-boss-1137301"
+    },
+    {
+      "company": "Vashi Integrated Solutions",
+      "fetched_at": "2026-09-04T17:30:43.732697+00:00",
+      "id": "732a27151e8f",
+      "location": "Lucknow,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "full time"
+      ],
+      "title": "Picker",
+      "url": "https://remoteOK.com/remote-jobs/remote-picker-vashi-integrated-solutions-1137239"
+    },
+    {
+      "company": "JLL",
+      "fetched_at": "2026-09-04T17:30:43.732697+00:00",
+      "id": "c5b3fc67c73b",
+      "location": "Ludhiana,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "exec",
+        "ops",
+        "engineer"
+      ],
+      "title": "Fire Officer",
+      "url": "https://remoteOK.com/remote-jobs/remote-fire-officer-jll-1137230"
+    },
+    {
+      "company": "ITC Limited",
+      "fetched_at": "2026-09-04T17:30:43.732697+00:00",
+      "id": "4dce23079adb",
+      "location": "Guntur,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "exec",
+        "ops",
+        "engineer",
+        "amazon",
+        "web dev",
+        "cloud",
+        "aws"
+      ],
+      "title": "Production Lead",
+      "url": "https://remoteOK.com/remote-jobs/remote-production-lead-itc-limited-1137233"
+    },
+    {
+      "company": "HARTMANN GROUP International",
+      "fetched_at": "2026-09-04T17:30:43.732697+00:00",
+      "id": "b5a6ee26001d",
+      "location": "Warangal Rural,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "exec",
+        "ops",
+        "engineer",
+        "amazon",
+        "web dev",
+        "cloud",
+        "aws"
+      ],
+      "title": "Employee",
+      "url": "https://remoteOK.com/remote-jobs/remote-employee-hartmann-group-international-1137232"
+    },
+    {
+      "company": "AMA Group Ltd",
+      "fetched_at": "2026-09-04T17:30:43.732697+00:00",
+      "id": "0f3598261bef",
+      "location": "Tingalpa,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "full time",
+        "infosec",
+        "education"
+      ],
+      "title": "Parts Person",
+      "url": "https://remoteOK.com/remote-jobs/remote-parts-person-ama-group-ltd-1137250"
+    },
+    {
+      "company": "Hilton Salwa Beach Resort &amp; Villas",
+      "fetched_at": "2026-09-04T17:30:43.732697+00:00",
+      "id": "69b63a4922b7",
+      "location": "Ù Ø³ÙØ·,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "testing",
+        "non tech"
+      ],
+      "title": "Cdp",
+      "url": "https://remoteOK.com/remote-jobs/remote-cdp-hilton-salwa-beach-resort-amp-villas-1137179"
+    },
+    {
+      "company": "Pete's Frootique",
+      "fetched_at": "2026-09-04T17:30:43.732697+00:00",
+      "id": "371d52efc6db",
+      "location": "Bedford,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "supervisor",
+        "web dev",
+        "exec",
+        "customer support",
+        "ops"
+      ],
+      "title": "Meat and Seafood Clerk",
+      "url": "https://remoteOK.com/remote-jobs/remote-meat-and-seafood-clerk-petes-frootique-1137191"
+    },
+    {
+      "company": "Pete's Frootique",
+      "fetched_at": "2026-09-04T17:30:43.732697+00:00",
+      "id": "2850ed5c2600",
+      "location": "Bedford,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "supervisor",
+        "web dev",
+        "exec",
+        "customer support",
+        "ops"
+      ],
+      "title": "Receiver",
+      "url": "https://remoteOK.com/remote-jobs/remote-receiver-petes-frootique-1137192"
+    },
+    {
+      "company": "Crocs, Inc.",
+      "fetched_at": "2026-09-04T17:30:43.732697+00:00",
+      "id": "558ebfea0266",
+      "location": "Chatswood,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec",
+        "sys admin",
+        "customer support",
+        "marketing",
+        "c",
+        "microsoft",
+        "ops",
+        "excel",
+        "sales"
+      ],
+      "title": "Store Manager",
+      "url": "https://remoteOK.com/remote-jobs/remote-store-manager-crocs-inc-1137181"
+    },
+    {
+      "company": "Wood",
+      "fetched_at": "2026-09-04T17:30:43.732697+00:00",
+      "id": "1cb8668b563f",
+      "location": "Carlsbad,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "design",
+        "consulting",
+        "exec",
+        "ops",
+        "engineer",
+        "digital nomad"
+      ],
+      "title": "Journeyman I P",
+      "url": "https://remoteOK.com/remote-jobs/remote-journeyman-i-p-wood-1137197"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-04T17:30:43.732697+00:00",
+      "id": "717aa912bd46",
+      "location": "Remote",
+      "posted_at": "2026-09-04T17:04:07+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4g"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-09-04T17:30:43.732697+00:00",
+      "id": "51430efc1e21",
+      "location": "Remote",
+      "posted_at": "2026-09-04T15:00:16+00:00",
+      "source": "devto",
+      "tags": [
+        "beginners",
+        "jobs",
+        "career",
+        "programming"
+      ],
+      "title": "These Companies Want Interns This Summer (Sep 4)",
+      "url": "https://dev.to/crackr/these-companies-want-interns-this-summer-sep-4-5doa"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-09-04T17:30:43.732697+00:00",
+      "id": "1be6e88e759b",
+      "location": "Remote",
+      "posted_at": "2026-09-04T15:00:13+00:00",
+      "source": "devto",
+      "tags": [
+        "remotework",
+        "jobs",
+        "webdev",
+        "career"
+      ],
+      "title": "8 Remote SWE Jobs You Can Apply to From Anywhere (Sep 4)",
+      "url": "https://dev.to/crackr/8-remote-swe-jobs-you-can-apply-to-from-anywhere-sep-4-17mb"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-04T17:30:43.732697+00:00",
+      "id": "98a4f2c4f954",
+      "location": "Remote",
+      "posted_at": "2026-09-04T13:30:32+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-29pk"
+    },
+    {
       "company": "U.P.PRO",
       "fetched_at": "2026-09-04T13:22:04.034891+00:00",
       "id": "43fcee87d7e5",
@@ -2568,71 +2859,7 @@
       ],
       "title": "Maintenance Operative",
       "url": "https://remoteOK.com/remote-jobs/remote-maintenance-operative-scape-1137208"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-01T17:44:58.213118+00:00",
-      "id": "bb8553cee7e2",
-      "location": "Remote",
-      "posted_at": "2026-09-01T16:54:17+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-161i"
-    },
-    {
-      "company": "Rojgar Suvidha",
-      "fetched_at": "2026-09-01T17:44:58.213118+00:00",
-      "id": "aca1d4c55edc",
-      "location": "Remote",
-      "posted_at": "2026-09-01T15:07:54+00:00",
-      "source": "devto",
-      "tags": [
-        "jobs",
-        "career",
-        "india",
-        "sarkari"
-      ],
-      "title": "[77 Posts] CONCOR MT & Assistant Officer Recruitment 2026: Online Form & Eligibility — Notification & Eligibility",
-      "url": "https://dev.to/rojgar_suvidha_c418e2537b/77-posts-concor-mt-assistant-officer-recruitment-2026-online-form-eligibility-notification-39lm"
-    },
-    {
-      "company": "Crackr",
-      "fetched_at": "2026-09-01T17:44:58.213118+00:00",
-      "id": "33ffa295eb89",
-      "location": "Remote",
-      "posted_at": "2026-09-01T15:03:06+00:00",
-      "source": "devto",
-      "tags": [
-        "beginners",
-        "jobs",
-        "career",
-        "programming"
-      ],
-      "title": "These Companies Want Interns This Summer (Sep 1)",
-      "url": "https://dev.to/crackr/these-companies-want-interns-this-summer-sep-1-7m3"
-    },
-    {
-      "company": "Crackr",
-      "fetched_at": "2026-09-01T17:44:58.213118+00:00",
-      "id": "1bc1994e2504",
-      "location": "Remote",
-      "posted_at": "2026-09-01T15:03:02+00:00",
-      "source": "devto",
-      "tags": [
-        "remotework",
-        "jobs",
-        "webdev",
-        "career"
-      ],
-      "title": "8 Remote SWE Jobs You Can Apply to From Anywhere (Sep 1)",
-      "url": "https://dev.to/crackr/8-remote-swe-jobs-you-can-apply-to-from-anywhere-sep-1-nd"
     }
   ],
-  "updated_at": "2026-09-04T13:22:04.034891+00:00"
+  "updated_at": "2026-09-04T17:30:43.732697+00:00"
 }

@@ -1,5 +1,12 @@
 {
   "companies": {
+    "AMA Group Ltd": {
+      "count": 1,
+      "job_ids": [
+        "0f3598261bef"
+      ],
+      "last_seen": "2026-09-04T17:30:43.732697+00:00"
+    },
     "Acumentis Group": {
       "count": 1,
       "job_ids": [
@@ -160,14 +167,21 @@
     "Crackr": {
       "count": 6,
       "job_ids": [
+        "51430efc1e21",
+        "1be6e88e759b",
         "a4b95bfa0a77",
         "82c3910aa154",
         "cf41dd7e69f2",
-        "0ef890bc6e65",
-        "33ffa295eb89",
-        "1bc1994e2504"
+        "0ef890bc6e65"
       ],
-      "last_seen": "2026-09-03T15:01:09+00:00"
+      "last_seen": "2026-09-04T15:00:16+00:00"
+    },
+    "Crocs, Inc.": {
+      "count": 1,
+      "job_ids": [
+        "558ebfea0266"
+      ],
+      "last_seen": "2026-09-04T17:30:43.732697+00:00"
     },
     "Dart": {
       "count": 1,
@@ -261,6 +275,13 @@
       ],
       "last_seen": "2026-09-01T17:44:58.213118+00:00"
     },
+    "GAV Resorts": {
+      "count": 1,
+      "job_ids": [
+        "316b0a8df47a"
+      ],
+      "last_seen": "2026-09-04T17:30:43.732697+00:00"
+    },
     "Gildan": {
       "count": 1,
       "job_ids": [
@@ -303,6 +324,20 @@
       ],
       "last_seen": "2026-09-02T17:47:55.739496+00:00"
     },
+    "HARTMANN GROUP International": {
+      "count": 1,
+      "job_ids": [
+        "b5a6ee26001d"
+      ],
+      "last_seen": "2026-09-04T17:30:43.732697+00:00"
+    },
+    "HUGO BOSS": {
+      "count": 1,
+      "job_ids": [
+        "cf5b25c36d15"
+      ],
+      "last_seen": "2026-09-04T17:30:43.732697+00:00"
+    },
     "Hacksaw Gaming": {
       "count": 1,
       "job_ids": [
@@ -324,6 +359,13 @@
       ],
       "last_seen": "2026-09-02T13:29:00.084294+00:00"
     },
+    "Hilton Salwa Beach Resort &amp; Villas": {
+      "count": 1,
+      "job_ids": [
+        "69b63a4922b7"
+      ],
+      "last_seen": "2026-09-04T17:30:43.732697+00:00"
+    },
     "Hola Moda": {
       "count": 2,
       "job_ids": [
@@ -338,6 +380,13 @@
         "6b2c33ff7663"
       ],
       "last_seen": "2026-09-02T13:29:00.084294+00:00"
+    },
+    "ITC Limited": {
+      "count": 1,
+      "job_ids": [
+        "4dce23079adb"
+      ],
+      "last_seen": "2026-09-04T17:30:43.732697+00:00"
     },
     "Interaction Design Foundation": {
       "count": 3,
@@ -368,6 +417,13 @@
         "e6a0ef256c53"
       ],
       "last_seen": "2026-09-03T08:51:03.424048+00:00"
+    },
+    "JLL": {
+      "count": 1,
+      "job_ids": [
+        "c5b3fc67c73b"
+      ],
+      "last_seen": "2026-09-04T17:30:43.732697+00:00"
     },
     "Jugopetrol AD": {
       "count": 1,
@@ -469,6 +525,14 @@
       ],
       "last_seen": "2026-09-01T17:44:58.213118+00:00"
     },
+    "Pete's Frootique": {
+      "count": 2,
+      "job_ids": [
+        "371d52efc6db",
+        "2850ed5c2600"
+      ],
+      "last_seen": "2026-09-04T17:30:43.732697+00:00"
+    },
     "PhilipJameson": {
       "count": 1,
       "job_ids": [
@@ -491,8 +555,10 @@
       "last_seen": "2026-09-01T23:12:00.951518+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 20,
+      "count": 21,
       "job_ids": [
+        "717aa912bd46",
+        "98a4f2c4f954",
         "755acc514e04",
         "7d85cf69bea8",
         "3e9b9cdee383",
@@ -511,10 +577,9 @@
         "d172753a0dc7",
         "acb6e758f349",
         "0ac14b5ed743",
-        "f49a9842446b",
-        "bb8553cee7e2"
+        "f49a9842446b"
       ],
-      "last_seen": "2026-09-04T09:02:28+00:00"
+      "last_seen": "2026-09-04T17:04:07+00:00"
     },
     "Radisson Hotel Group": {
       "count": 1,
@@ -531,10 +596,9 @@
       "last_seen": "2026-09-02T03:57:04.959100+00:00"
     },
     "Rojgar Suvidha": {
-      "count": 2,
+      "count": 1,
       "job_ids": [
-        "a248a0d9de07",
-        "aca1d4c55edc"
+        "a248a0d9de07"
       ],
       "last_seen": "2026-09-01T18:34:37+00:00"
     },
@@ -650,6 +714,13 @@
       ],
       "last_seen": "2026-09-01T17:44:58.213118+00:00"
     },
+    "SunnyData": {
+      "count": 1,
+      "job_ids": [
+        "cb055b1bced4"
+      ],
+      "last_seen": "2026-09-04T17:30:43.732697+00:00"
+    },
     "Supermercados Mundial": {
       "count": 1,
       "job_ids": [
@@ -741,6 +812,13 @@
       ],
       "last_seen": "2026-09-04T13:22:04.034891+00:00"
     },
+    "Vashi Integrated Solutions": {
+      "count": 1,
+      "job_ids": [
+        "732a27151e8f"
+      ],
+      "last_seen": "2026-09-04T17:30:43.732697+00:00"
+    },
     "Vertu Motors plc": {
       "count": 1,
       "job_ids": [
@@ -800,6 +878,13 @@
       ],
       "last_seen": "2026-09-04T03:57:54.682789+00:00"
     },
+    "Wood": {
+      "count": 1,
+      "job_ids": [
+        "1cb8668b563f"
+      ],
+      "last_seen": "2026-09-04T17:30:43.732697+00:00"
+    },
     "WorkaJobs": {
       "count": 1,
       "job_ids": [
@@ -822,5 +907,5 @@
       "last_seen": "2026-09-04T13:22:04.034891+00:00"
     }
   },
-  "updated_at": "2026-09-04T13:22:04.034891+00:00"
+  "updated_at": "2026-09-04T17:30:43.732697+00:00"
 }
