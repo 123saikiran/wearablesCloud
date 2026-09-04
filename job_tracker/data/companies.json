@@ -42,13 +42,6 @@
       ],
       "last_seen": "2026-09-03T20:49:34.414391+00:00"
     },
-    "Atreides": {
-      "count": 1,
-      "job_ids": [
-        "507ba5b74900"
-      ],
-      "last_seen": "2026-09-01T17:44:58.213118+00:00"
-    },
     "Bass Pro Shops": {
       "count": 1,
       "job_ids": [
@@ -246,13 +239,6 @@
       ],
       "last_seen": "2026-09-01T20:52:34.783281+00:00"
     },
-    "Fifth Avenue Properties / Fifth Avenue Homes": {
-      "count": 1,
-      "job_ids": [
-        "0ba85f873ea6"
-      ],
-      "last_seen": "2026-09-01T17:44:58.213118+00:00"
-    },
     "Food Basics": {
       "count": 1,
       "job_ids": [
@@ -267,13 +253,6 @@
         "61331c618315"
       ],
       "last_seen": "2026-09-03T23:08:41.176206+00:00"
-    },
-    "Fronix Services": {
-      "count": 1,
-      "job_ids": [
-        "af34f3a632ef"
-      ],
-      "last_seen": "2026-09-01T17:44:58.213118+00:00"
     },
     "GAV Resorts": {
       "count": 1,
@@ -518,13 +497,6 @@
       ],
       "last_seen": "2026-09-02T20:52:13.968276+00:00"
     },
-    "Pembroke School": {
-      "count": 1,
-      "job_ids": [
-        "2fcbbf5c1e1d"
-      ],
-      "last_seen": "2026-09-01T17:44:58.213118+00:00"
-    },
     "Pete's Frootique": {
       "count": 2,
       "job_ids": [
@@ -557,6 +529,7 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 21,
       "job_ids": [
+        "66d19f585d4a",
         "717aa912bd46",
         "98a4f2c4f954",
         "755acc514e04",
@@ -576,10 +549,9 @@
         "099c001082d7",
         "d172753a0dc7",
         "acb6e758f349",
-        "0ac14b5ed743",
-        "f49a9842446b"
+        "0ac14b5ed743"
       ],
-      "last_seen": "2026-09-04T17:04:07+00:00"
+      "last_seen": "2026-09-04T19:33:06+00:00"
     },
     "Radisson Hotel Group": {
       "count": 1,
@@ -594,13 +566,6 @@
         "be4245bf6795"
       ],
       "last_seen": "2026-09-02T03:57:04.959100+00:00"
-    },
-    "Rojgar Suvidha": {
-      "count": 1,
-      "job_ids": [
-        "a248a0d9de07"
-      ],
-      "last_seen": "2026-09-01T18:34:37+00:00"
     },
     "Royal Caribbean Group": {
       "count": 1,
@@ -622,13 +587,6 @@
         "73ab7a096cc0"
       ],
       "last_seen": "2026-09-01T20:52:34.783281+00:00"
-    },
-    "Scape": {
-      "count": 1,
-      "job_ids": [
-        "149f2d5f0045"
-      ],
-      "last_seen": "2026-09-01T17:44:58.213118+00:00"
     },
     "Scottish Police Authority": {
       "count": 1,
@@ -707,26 +665,12 @@
       ],
       "last_seen": "2026-09-03T20:49:34.414391+00:00"
     },
-    "Streamline Search": {
-      "count": 1,
-      "job_ids": [
-        "6da040801641"
-      ],
-      "last_seen": "2026-09-01T17:44:58.213118+00:00"
-    },
     "SunnyData": {
       "count": 1,
       "job_ids": [
         "cb055b1bced4"
       ],
       "last_seen": "2026-09-04T17:30:43.732697+00:00"
-    },
-    "Supermercados Mundial": {
-      "count": 1,
-      "job_ids": [
-        "18dfc771d38b"
-      ],
-      "last_seen": "2026-09-01T17:44:58.213118+00:00"
     },
     "Swissport": {
       "count": 1,
@@ -748,13 +692,6 @@
         "0f652df17cde"
       ],
       "last_seen": "2026-09-01T20:52:34.783281+00:00"
-    },
-    "Teatro Multiplan MorumbiShopping": {
-      "count": 1,
-      "job_ids": [
-        "9a160ff45b5e"
-      ],
-      "last_seen": "2026-09-01T17:44:58.213118+00:00"
     },
     "Tesco": {
       "count": 1,
@@ -783,13 +720,6 @@
         "e5dc5ef09cb4"
       ],
       "last_seen": "2026-09-02T03:57:04.959100+00:00"
-    },
-    "The Drinks LLAB": {
-      "count": 1,
-      "job_ids": [
-        "55928a01d258"
-      ],
-      "last_seen": "2026-09-01T17:44:58.213118+00:00"
     },
     "The Russell Inn Hotel &amp; Conference Centre": {
       "count": 1,
@@ -841,14 +771,20 @@
       "last_seen": "2026-09-03T08:51:03.424048+00:00"
     },
     "W Hotels": {
-      "count": 4,
+      "count": 3,
       "job_ids": [
         "7b5c65463ee8",
         "eed48f89c829",
-        "8bbf75a6d469",
-        "b88670e3de4e"
+        "8bbf75a6d469"
       ],
       "last_seen": "2026-09-03T20:49:34.414391+00:00"
+    },
+    "Warehance": {
+      "count": 1,
+      "job_ids": [
+        "b229c41a3801"
+      ],
+      "last_seen": "2026-09-04T20:36:53.434977+00:00"
     },
     "Wellburn Care Homes Ltd": {
       "count": 1,
@@ -907,5 +843,5 @@
       "last_seen": "2026-09-04T13:22:04.034891+00:00"
     }
   },
-  "updated_at": "2026-09-04T17:30:43.732697+00:00"
+  "updated_at": "2026-09-04T20:36:53.434977+00:00"
 }

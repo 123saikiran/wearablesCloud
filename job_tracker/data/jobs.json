@@ -1,6 +1,35 @@
 {
   "jobs": [
     {
+      "company": "Warehance",
+      "fetched_at": "2026-09-04T20:36:53.434977+00:00",
+      "id": "b229c41a3801",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "customer support"
+      ],
+      "title": "Customer Support & Success Specialist",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-success-specialist-warehance-1137302"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-04T20:36:53.434977+00:00",
+      "id": "66d19f585d4a",
+      "location": "Remote",
+      "posted_at": "2026-09-04T19:33:06+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-38dp"
+    },
+    {
       "company": "GAV Resorts",
       "fetched_at": "2026-09-04T17:30:43.732697+00:00",
       "id": "316b0a8df47a",
@@ -2653,213 +2682,7 @@
       ],
       "title": "Senior Backend Engineer Build AI Agents",
       "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1137114"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-01T20:52:34.783281+00:00",
-      "id": "f49a9842446b",
-      "location": "Remote",
-      "posted_at": "2026-09-01T19:41:28+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4imh"
-    },
-    {
-      "company": "Rojgar Suvidha",
-      "fetched_at": "2026-09-01T20:52:34.783281+00:00",
-      "id": "a248a0d9de07",
-      "location": "Remote",
-      "posted_at": "2026-09-01T18:34:37+00:00",
-      "source": "devto",
-      "tags": [
-        "jobs",
-        "career",
-        "india",
-        "sarkari"
-      ],
-      "title": "[AU PhD 2026] Allahabad University PhD Admission 2026: Check Eligibility, Fee & Application Details — Notification & Eligibility",
-      "url": "https://dev.to/rojgar_suvidha_c418e2537b/au-phd-2026-allahabad-university-phd-admission-2026-check-eligibility-fee-application-details-ho0"
-    },
-    {
-      "company": "Streamline Search",
-      "fetched_at": "2026-09-01T17:44:58.213118+00:00",
-      "id": "6da040801641",
-      "location": "Corby,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "design",
-        "infosec",
-        "music",
-        "education",
-        "exec",
-        "medical",
-        "digital nomad",
-        "technical",
-        "customer support",
-        "dev",
-        "travel",
-        "microsoft",
-        "senior",
-        "excel"
-      ],
-      "title": "Construction Estimator",
-      "url": "https://remoteOK.com/remote-jobs/remote-construction-estimator-streamline-search-1137238"
-    },
-    {
-      "company": "W Hotels",
-      "fetched_at": "2026-09-01T17:44:58.213118+00:00",
-      "id": "b88670e3de4e",
-      "location": "Edinburgh,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "design",
-        "infosec",
-        "music",
-        "education",
-        "exec",
-        "medical",
-        "digital nomad"
-      ],
-      "title": "Kitchen Porter W Edinburgh",
-      "url": "https://remoteOK.com/remote-jobs/remote-kitchen-porter-w-edinburgh-w-hotels-1137237"
-    },
-    {
-      "company": "The Drinks LLAB",
-      "fetched_at": "2026-09-01T17:44:58.213118+00:00",
-      "id": "55928a01d258",
-      "location": "Port of Spain,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [],
-      "title": "Delivery Driver",
-      "url": "https://remoteOK.com/remote-jobs/remote-delivery-driver-the-drinks-llab-1137242"
-    },
-    {
-      "company": "Fifth Avenue Properties / Fifth Avenue Homes",
-      "fetched_at": "2026-09-01T17:44:58.213118+00:00",
-      "id": "0ba85f873ea6",
-      "location": "High River,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [],
-      "title": "Estimator",
-      "url": "https://remoteOK.com/remote-jobs/remote-estimator-fifth-avenue-properties-fifth-avenue-homes-1137236"
-    },
-    {
-      "company": "Fronix Services",
-      "fetched_at": "2026-09-01T17:44:58.213118+00:00",
-      "id": "af34f3a632ef",
-      "location": "Thiruvananthapuram,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "sys admin",
-        "infosec",
-        "education",
-        "customer support",
-        "testing",
-        "c",
-        "exec",
-        "engineer",
-        "hr",
-        "travel"
-      ],
-      "title": "Airport Ground Staff Customer Service Associate",
-      "url": "https://remoteOK.com/remote-jobs/remote-airport-ground-staff-customer-service-associate-fronix-services-1137254"
-    },
-    {
-      "company": "Atreides",
-      "fetched_at": "2026-09-01T17:44:58.213118+00:00",
-      "id": "507ba5b74900",
-      "location": "Denmark, Denmark, Western Australia, Australia",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "travel",
-        "exec",
-        "ops",
-        "medical"
-      ],
-      "title": "Donât see your role Apply here",
-      "url": "https://remoteOK.com/remote-jobs/remote-dont-see-your-role-apply-here-atreides-1137186"
-    },
-    {
-      "company": "Pembroke School",
-      "fetched_at": "2026-09-01T17:44:58.213118+00:00",
-      "id": "2fcbbf5c1e1d",
-      "location": "Adelaide,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "exec",
-        "sys admin",
-        "customer support",
-        "marketing",
-        "c",
-        "microsoft",
-        "ops",
-        "excel",
-        "sales",
-        "english teacher",
-        "teaching",
-        "design",
-        "education",
-        "senior",
-        "recruiter",
-        "full time",
-        "digital nomad"
-      ],
-      "title": "English Teacher",
-      "url": "https://remoteOK.com/remote-jobs/remote-english-teacher-pembroke-school-1137182"
-    },
-    {
-      "company": "Supermercados Mundial",
-      "fetched_at": "2026-09-01T17:44:58.213118+00:00",
-      "id": "18dfc771d38b",
-      "location": "Rio de Janeiro e RegiÃ£o,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [],
-      "title": "Ajudante Geral",
-      "url": "https://remoteOK.com/remote-jobs/remote-ajudante-geral-supermercados-mundial-1137252"
-    },
-    {
-      "company": "Teatro Multiplan MorumbiShopping",
-      "fetched_at": "2026-09-01T17:44:58.213118+00:00",
-      "id": "9a160ff45b5e",
-      "location": "Kotalpur,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [],
-      "title": "LEGO",
-      "url": "https://remoteOK.com/remote-jobs/remote-lego-teatro-multiplan-morumbishopping-1137112"
-    },
-    {
-      "company": "Scape",
-      "fetched_at": "2026-09-01T17:44:58.213118+00:00",
-      "id": "149f2d5f0045",
-      "location": "Hammersmith,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "sys admin",
-        "teaching",
-        "education",
-        "exec",
-        "scheme",
-        "medical"
-      ],
-      "title": "Maintenance Operative",
-      "url": "https://remoteOK.com/remote-jobs/remote-maintenance-operative-scape-1137208"
     }
   ],
-  "updated_at": "2026-09-04T17:30:43.732697+00:00"
+  "updated_at": "2026-09-04T20:36:53.434977+00:00"
 }
