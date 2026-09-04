@@ -21,13 +21,6 @@
       ],
       "last_seen": "2026-09-02T20:52:13.968276+00:00"
     },
-    "Amazon Web Services (AWS)": {
-      "count": 1,
-      "job_ids": [
-        "ab36adb3f271"
-      ],
-      "last_seen": "2026-09-01T07:35:58.078444+00:00"
-    },
     "Ampol": {
       "count": 1,
       "job_ids": [
@@ -142,19 +135,13 @@
       ],
       "last_seen": "2026-09-02T23:11:36.051691+00:00"
     },
-    "Coca-Cola Cambodia Beverage Company Ltd": {
-      "count": 1,
-      "job_ids": [
-        "40925d90d9f8"
-      ],
-      "last_seen": "2026-09-01T07:35:58.078444+00:00"
-    },
     "Complex Co.": {
-      "count": 1,
+      "count": 2,
       "job_ids": [
+        "f9761e47764b",
         "bb7ca88ddd4c"
       ],
-      "last_seen": "2026-09-02T20:52:13.968276+00:00"
+      "last_seen": "2026-09-04T08:47:06.617520+00:00"
     },
     "Coogee Chemicals": {
       "count": 1,
@@ -296,6 +283,13 @@
       ],
       "last_seen": "2026-09-03T03:56:27.302124+00:00"
     },
+    "Greater Pell City Chamber of Commerce": {
+      "count": 1,
+      "job_ids": [
+        "a9e8663e1cd3"
+      ],
+      "last_seen": "2026-09-04T08:47:06.617520+00:00"
+    },
     "GrupoNewChase": {
       "count": 1,
       "job_ids": [
@@ -383,6 +377,13 @@
       ],
       "last_seen": "2026-09-03T08:51:03.424048+00:00"
     },
+    "JAI HANUMAN UDYOG LIMITED": {
+      "count": 1,
+      "job_ids": [
+        "8438d4420a51"
+      ],
+      "last_seen": "2026-09-04T08:47:06.617520+00:00"
+    },
     "JD.COM": {
       "count": 1,
       "job_ids": [
@@ -397,19 +398,19 @@
       ],
       "last_seen": "2026-09-01T13:21:59.883771+00:00"
     },
-    "Jugopetrol AD": {
-      "count": 1,
-      "job_ids": [
-        "96918171a1ed"
-      ],
-      "last_seen": "2026-09-01T07:35:58.078444+00:00"
-    },
     "Krannich Solar Australia": {
       "count": 1,
       "job_ids": [
         "a64fd254b3bf"
       ],
       "last_seen": "2026-09-01T13:21:59.883771+00:00"
+    },
+    "Larsen &amp; Toubro": {
+      "count": 1,
+      "job_ids": [
+        "2a7983a8bc72"
+      ],
+      "last_seen": "2026-09-04T08:47:06.617520+00:00"
     },
     "Leena AI": {
       "count": 1,
@@ -536,6 +537,7 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 20,
       "job_ids": [
+        "7d85cf69bea8",
         "3e9b9cdee383",
         "abe944216d81",
         "e386031de494",
@@ -554,10 +556,9 @@
         "0ac14b5ed743",
         "f49a9842446b",
         "bb8553cee7e2",
-        "37df50304831",
-        "2491dd927f04"
+        "37df50304831"
       ],
-      "last_seen": "2026-09-04T00:12:41+00:00"
+      "last_seen": "2026-09-04T04:34:38+00:00"
     },
     "Radisson Hotel Group": {
       "count": 1,
@@ -580,6 +581,13 @@
         "aca1d4c55edc"
       ],
       "last_seen": "2026-09-01T18:34:37+00:00"
+    },
+    "Royal Caribbean Group": {
+      "count": 1,
+      "job_ids": [
+        "e6beb621a703"
+      ],
+      "last_seen": "2026-09-04T08:47:06.617520+00:00"
     },
     "Royal Lepage Icon Realty": {
       "count": 1,
@@ -622,6 +630,13 @@
         "d3a9ed230213"
       ],
       "last_seen": "2026-09-03T03:56:27.302124+00:00"
+    },
+    "Sisal Hub Albania": {
+      "count": 1,
+      "job_ids": [
+        "715b254de673"
+      ],
+      "last_seen": "2026-09-04T08:47:06.617520+00:00"
     },
     "Skechers": {
       "count": 1,
@@ -728,6 +743,13 @@
       ],
       "last_seen": "2026-09-03T20:49:34.414391+00:00"
     },
+    "The AI Whistleblower Initiative": {
+      "count": 1,
+      "job_ids": [
+        "916cd2848e14"
+      ],
+      "last_seen": "2026-09-04T08:47:06.617520+00:00"
+    },
     "The Butcher Shoppe": {
       "count": 1,
       "job_ids": [
@@ -764,6 +786,20 @@
       ],
       "last_seen": "2026-09-01T13:21:59.883771+00:00"
     },
+    "Vertu Motors plc": {
+      "count": 1,
+      "job_ids": [
+        "6c953a74a85d"
+      ],
+      "last_seen": "2026-09-04T08:47:06.617520+00:00"
+    },
+    "VirtuHire": {
+      "count": 1,
+      "job_ids": [
+        "c1f0f420cfa6"
+      ],
+      "last_seen": "2026-09-04T08:47:06.617520+00:00"
+    },
     "Volar Fashion": {
       "count": 1,
       "job_ids": [
@@ -795,6 +831,13 @@
       ],
       "last_seen": "2026-09-03T20:49:34.414391+00:00"
     },
+    "Wipro": {
+      "count": 1,
+      "job_ids": [
+        "65e8ca7e9245"
+      ],
+      "last_seen": "2026-09-04T08:47:06.617520+00:00"
+    },
     "Wonderful": {
       "count": 1,
       "job_ids": [
@@ -824,5 +867,5 @@
       "last_seen": "2026-09-02T03:57:04.959100+00:00"
     }
   },
-  "updated_at": "2026-09-04T03:57:54.682789+00:00"
+  "updated_at": "2026-09-04T08:47:06.617520+00:00"
 }
