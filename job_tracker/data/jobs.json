@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-05T18:55:34.896779+00:00",
+      "id": "8477d17f7070",
+      "location": "Remote",
+      "posted_at": "2026-09-05T18:15:07+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-mma"
+    },
+    {
       "company": "Empire Assets",
       "fetched_at": "2026-09-05T16:41:31.145145+00:00",
       "id": "b448eb571a3a",
@@ -2449,141 +2465,7 @@
       ],
       "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-150d"
-    },
-    {
-      "company": "H&amp;M",
-      "fetched_at": "2026-09-02T17:47:55.739496+00:00",
-      "id": "459c50495dba",
-      "location": "BayamÃ³n,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "infosec",
-        "education",
-        "designer",
-        "customer support",
-        "marketing",
-        "dev",
-        "exec",
-        "ops",
-        "legal",
-        "sales",
-        "medical",
-        "recruiter",
-        "digital nomad"
-      ],
-      "title": "H&amp;M Visual Merchandiser Plaza del Sol",
-      "url": "https://remoteOK.com/remote-jobs/remote-hampm-visual-merchandiser-plaza-del-sol-hampm-1137270"
-    },
-    {
-      "company": "Buffalo Wild Wings - Fralich, Inc.",
-      "fetched_at": "2026-09-02T17:47:55.739496+00:00",
-      "id": "098020254eef",
-      "location": "Georgetown,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "payroll",
-        "vfx",
-        "customer support",
-        "dev",
-        "non tech",
-        "digital nomad",
-        "exec",
-        "legal",
-        "engineer"
-      ],
-      "title": "JANITOR",
-      "url": "https://remoteOK.com/remote-jobs/remote-janitor-buffalo-wild-wings-fralich-inc-1137266"
-    },
-    {
-      "company": "Halfords",
-      "fetched_at": "2026-09-02T17:47:55.739496+00:00",
-      "id": "4cd612bdc5a2",
-      "location": "Coventry,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "education",
-        "customer support",
-        "marketing",
-        "exec",
-        "finance",
-        "scheme",
-        "medical",
-        "testing"
-      ],
-      "title": "Vehicle Technician MOT Tester",
-      "url": "https://remoteOK.com/remote-jobs/remote-vehicle-technician-mot-tester-halfords-1137258"
-    },
-    {
-      "company": "The Russell Inn Hotel &amp; Conference Centre",
-      "fetched_at": "2026-09-02T17:47:55.739496+00:00",
-      "id": "d7fb8723516b",
-      "location": "Russell,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "testing",
-        "non tech",
-        "customer support",
-        "education",
-        "medical"
-      ],
-      "title": "handyman woman",
-      "url": "https://remoteOK.com/remote-jobs/remote-handyman-woman-the-russell-inn-hotel-amp-conference-centre-1137282"
-    },
-    {
-      "company": "Canada Post / Postes Canada",
-      "fetched_at": "2026-09-02T17:47:55.739496+00:00",
-      "id": "d71725fdeabd",
-      "location": "Blind River,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "testing",
-        "non tech",
-        "customer support",
-        "education",
-        "medical",
-        "marketing",
-        "exec",
-        "full time"
-      ],
-      "title": "Rural and Suburban Mail Carrier",
-      "url": "https://remoteOK.com/remote-jobs/remote-rural-and-suburban-mail-carrier-canada-post-postes-canada-1137283"
-    },
-    {
-      "company": "GrupoNewChase",
-      "fetched_at": "2026-09-02T17:47:55.739496+00:00",
-      "id": "9dd9e03b2ea2",
-      "location": "Salvador,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "c",
-        "exec",
-        "excel"
-      ],
-      "title": "Motorista Salvador BA",
-      "url": "https://remoteOK.com/remote-jobs/remote-motorista-salvador-ba-gruponewchase-1137285"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-02T17:47:55.739496+00:00",
-      "id": "791049315475",
-      "location": "Remote",
-      "posted_at": "2026-09-02T17:19:12+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-npn"
     }
   ],
-  "updated_at": "2026-09-05T16:41:31.145145+00:00"
+  "updated_at": "2026-09-05T18:55:34.896779+00:00"
 }

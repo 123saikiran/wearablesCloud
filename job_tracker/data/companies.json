@@ -71,10 +71,9 @@
       "last_seen": "2026-09-05T00:48:14.295531+00:00"
     },
     "Buffalo Wild Wings - Fralich, Inc.": {
-      "count": 2,
+      "count": 1,
       "job_ids": [
-        "1fdac1349f80",
-        "098020254eef"
+        "1fdac1349f80"
       ],
       "last_seen": "2026-09-02T20:52:13.968276+00:00"
     },
@@ -84,13 +83,6 @@
         "5054c7640f18"
       ],
       "last_seen": "2026-09-05T13:47:57.763792+00:00"
-    },
-    "Canada Post / Postes Canada": {
-      "count": 1,
-      "job_ids": [
-        "d71725fdeabd"
-      ],
-      "last_seen": "2026-09-02T17:47:55.739496+00:00"
     },
     "Carv": {
       "count": 1,
@@ -281,26 +273,12 @@
       ],
       "last_seen": "2026-09-04T08:47:06.617520+00:00"
     },
-    "GrupoNewChase": {
-      "count": 1,
-      "job_ids": [
-        "9dd9e03b2ea2"
-      ],
-      "last_seen": "2026-09-02T17:47:55.739496+00:00"
-    },
     "Guardian Electrical Compliance Ltd": {
       "count": 1,
       "job_ids": [
         "98b747ece644"
       ],
       "last_seen": "2026-09-03T20:49:34.414391+00:00"
-    },
-    "H&amp;M": {
-      "count": 1,
-      "job_ids": [
-        "459c50495dba"
-      ],
-      "last_seen": "2026-09-02T17:47:55.739496+00:00"
     },
     "HARTMANN GROUP International": {
       "count": 1,
@@ -322,13 +300,6 @@
         "a6227b62f517"
       ],
       "last_seen": "2026-09-04T13:22:04.034891+00:00"
-    },
-    "Halfords": {
-      "count": 1,
-      "job_ids": [
-        "4cd612bdc5a2"
-      ],
-      "last_seen": "2026-09-02T17:47:55.739496+00:00"
     },
     "Hertz": {
       "count": 1,
@@ -500,6 +471,7 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 23,
       "job_ids": [
+        "8477d17f7070",
         "ccef9307ad09",
         "c0b9b0f15ca7",
         "badc75680ec8",
@@ -521,10 +493,9 @@
         "8d9dbc2f8d9e",
         "f8ca1dfcbcc3",
         "a78f534e71cf",
-        "a5a744e50297",
-        "791049315475"
+        "a5a744e50297"
       ],
-      "last_seen": "2026-09-05T16:09:17+00:00"
+      "last_seen": "2026-09-05T18:15:07+00:00"
     },
     "Radisson Hotel Group": {
       "count": 1,
@@ -666,13 +637,6 @@
       ],
       "last_seen": "2026-09-04T22:55:42.824799+00:00"
     },
-    "The Russell Inn Hotel &amp; Conference Centre": {
-      "count": 1,
-      "job_ids": [
-        "d7fb8723516b"
-      ],
-      "last_seen": "2026-09-02T17:47:55.739496+00:00"
-    },
     "Thrifty Car and Van Rental": {
       "count": 1,
       "job_ids": [
@@ -789,5 +753,5 @@
       "last_seen": "2026-09-04T13:22:04.034891+00:00"
     }
   },
-  "updated_at": "2026-09-05T16:41:31.145145+00:00"
+  "updated_at": "2026-09-05T18:55:34.896779+00:00"
 }
