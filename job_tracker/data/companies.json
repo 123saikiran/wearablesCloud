@@ -49,13 +49,6 @@
       ],
       "last_seen": "2026-09-04T22:55:42.824799+00:00"
     },
-    "Bass Pro Shops": {
-      "count": 1,
-      "job_ids": [
-        "559044575be7"
-      ],
-      "last_seen": "2026-09-02T08:42:31.472928+00:00"
-    },
     "Benzinga": {
       "count": 1,
       "job_ids": [
@@ -84,13 +77,6 @@
         "098020254eef"
       ],
       "last_seen": "2026-09-02T20:52:13.968276+00:00"
-    },
-    "C2 Group": {
-      "count": 1,
-      "job_ids": [
-        "5054c7640f18"
-      ],
-      "last_seen": "2026-09-02T08:42:31.472928+00:00"
     },
     "Canada Post / Postes Canada": {
       "count": 1,
@@ -175,6 +161,13 @@
       ],
       "last_seen": "2026-09-04T17:30:43.732697+00:00"
     },
+    "Dart": {
+      "count": 1,
+      "job_ids": [
+        "3f4e1af97d62"
+      ],
+      "last_seen": "2026-09-05T10:21:06.773007+00:00"
+    },
     "Delta Hotels by Marriott Edinburgh": {
       "count": 1,
       "job_ids": [
@@ -195,13 +188,6 @@
         "665fa257e8da"
       ],
       "last_seen": "2026-09-05T05:29:03.537553+00:00"
-    },
-    "Elements Recruitment Australia": {
-      "count": 1,
-      "job_ids": [
-        "71d7458f08aa"
-      ],
-      "last_seen": "2026-09-02T08:42:31.472928+00:00"
     },
     "Emplyfy": {
       "count": 1,
@@ -344,6 +330,14 @@
       ],
       "last_seen": "2026-09-04T17:30:43.732697+00:00"
     },
+    "Hola Moda": {
+      "count": 2,
+      "job_ids": [
+        "747d0c3de6ad",
+        "f3b8267fcb77"
+      ],
+      "last_seen": "2026-09-05T10:21:06.773007+00:00"
+    },
     "Hovis Bakeries": {
       "count": 1,
       "job_ids": [
@@ -409,20 +403,6 @@
       ],
       "last_seen": "2026-09-04T08:47:06.617520+00:00"
     },
-    "Leena AI": {
-      "count": 1,
-      "job_ids": [
-        "8e148451b6ce"
-      ],
-      "last_seen": "2026-09-02T08:42:31.472928+00:00"
-    },
-    "Lemon Tree Premier": {
-      "count": 1,
-      "job_ids": [
-        "c9a9583e9c2e"
-      ],
-      "last_seen": "2026-09-02T08:42:31.472928+00:00"
-    },
     "Linsco Ltd": {
       "count": 1,
       "job_ids": [
@@ -431,11 +411,9 @@
       "last_seen": "2026-09-05T00:48:14.295531+00:00"
     },
     "Localiza&amp;Co": {
-      "count": 3,
+      "count": 1,
       "job_ids": [
-        "fc6f8ae81319",
-        "89110adaa1f1",
-        "0c98dcd56261"
+        "fc6f8ae81319"
       ],
       "last_seen": "2026-09-02T13:29:00.084294+00:00"
     },
@@ -503,16 +481,11 @@
       ],
       "last_seen": "2026-09-04T17:30:43.732697+00:00"
     },
-    "PhilipJameson": {
-      "count": 1,
-      "job_ids": [
-        "8592d84e6b2f"
-      ],
-      "last_seen": "2026-09-02T06:36:35+00:00"
-    },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 21,
+      "count": 22,
       "job_ids": [
+        "badc75680ec8",
+        "2beba2c529cc",
         "73d7560c4f56",
         "e7ad81bc502b",
         "5b8e67de50a5",
@@ -532,10 +505,9 @@
         "a78f534e71cf",
         "a5a744e50297",
         "791049315475",
-        "a6ae54a9a25c",
-        "099c001082d7"
+        "a6ae54a9a25c"
       ],
-      "last_seen": "2026-09-05T01:14:51+00:00"
+      "last_seen": "2026-09-05T09:58:27+00:00"
     },
     "Radisson Hotel Group": {
       "count": 1,
@@ -800,5 +772,5 @@
       "last_seen": "2026-09-04T13:22:04.034891+00:00"
     }
   },
-  "updated_at": "2026-09-05T05:29:03.537553+00:00"
+  "updated_at": "2026-09-05T10:21:06.773007+00:00"
 }

@@ -1,6 +1,84 @@
 {
   "jobs": [
     {
+      "company": "Hola Moda",
+      "fetched_at": "2026-09-05T10:21:06.773007+00:00",
+      "id": "747d0c3de6ad",
+      "location": "Valencia,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec",
+        "c"
+      ],
+      "title": "Store Manager",
+      "url": "https://remoteOK.com/remote-jobs/remote-store-manager-hola-moda-1137206"
+    },
+    {
+      "company": "Hola Moda",
+      "fetched_at": "2026-09-05T10:21:06.773007+00:00",
+      "id": "f3b8267fcb77",
+      "location": "Valencia,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [],
+      "title": "Visual Merchandiser",
+      "url": "https://remoteOK.com/remote-jobs/remote-visual-merchandiser-hola-moda-1137205"
+    },
+    {
+      "company": "Dart",
+      "fetched_at": "2026-09-05T10:21:06.773007+00:00",
+      "id": "3f4e1af97d62",
+      "location": "George Town,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "sys admin",
+        "education",
+        "technical",
+        "customer support",
+        "marketing",
+        "travel",
+        "medical",
+        "engineer",
+        "full time"
+      ],
+      "title": "Building Maintenance Technician",
+      "url": "https://remoteOK.com/remote-jobs/remote-building-maintenance-technician-dart-1137212"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-05T10:21:06.773007+00:00",
+      "id": "badc75680ec8",
+      "location": "Remote",
+      "posted_at": "2026-09-05T09:58:27+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1i0a"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-05T10:21:06.773007+00:00",
+      "id": "2beba2c529cc",
+      "location": "Remote",
+      "posted_at": "2026-09-05T05:56:50+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2d2l"
+    },
+    {
       "company": "Food Basics",
       "fetched_at": "2026-09-05T05:29:03.537553+00:00",
       "id": "544014e7a36d",
@@ -2441,133 +2519,7 @@
       ],
       "title": "Store Manager",
       "url": "https://remoteOK.com/remote-jobs/remote-store-manager-carters-inc-1137135"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-02T13:29:00.084294+00:00",
-      "id": "099c001082d7",
-      "location": "Remote",
-      "posted_at": "2026-09-02T09:00:38+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-17h2"
-    },
-    {
-      "company": "C2 Group",
-      "fetched_at": "2026-09-02T08:42:31.472928+00:00",
-      "id": "5054c7640f18",
-      "location": "Greater Sydney Area,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "full time",
-        "infosec",
-        "education"
-      ],
-      "title": "Expression of Interest Canât see a role thatâs right for you",
-      "url": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-cant-see-a-role-thats-right-for-you-c2-group-1137251"
-    },
-    {
-      "company": "Elements Recruitment Australia",
-      "fetched_at": "2026-09-02T08:42:31.472928+00:00",
-      "id": "71d7458f08aa",
-      "location": "Clayton,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "recruiter",
-        "non tech"
-      ],
-      "title": "APPLY NOW Send Veritas your Resume DON'T CLOSE WEBSITE",
-      "url": "https://remoteOK.com/remote-jobs/remote-apply-now-send-veritas-your-resume-dont-close-website-elements-recruitment-australia-1137201"
-    },
-    {
-      "company": "Localiza&amp;Co",
-      "fetched_at": "2026-09-02T08:42:31.472928+00:00",
-      "id": "89110adaa1f1",
-      "location": "MacaÃ©,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [],
-      "title": "HIGIENIZADOR DE CARROS MACAÃ RJ",
-      "url": "https://remoteOK.com/remote-jobs/remote-higienizador-de-carros-macae-rj-localizaampco-1137203"
-    },
-    {
-      "company": "Localiza&amp;Co",
-      "fetched_at": "2026-09-02T08:42:31.472928+00:00",
-      "id": "0c98dcd56261",
-      "location": "Curitiba,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [],
-      "title": "HIGIENIZADOR DE CARROS CURITIBA PR",
-      "url": "https://remoteOK.com/remote-jobs/remote-higienizador-de-carros-curitiba-pr-localizaampco-1137204"
-    },
-    {
-      "company": "Leena AI",
-      "fetched_at": "2026-09-02T08:42:31.472928+00:00",
-      "id": "8e148451b6ce",
-      "location": "Gurugram,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "testing",
-        "non tech"
-      ],
-      "title": "Test Job",
-      "url": "https://remoteOK.com/remote-jobs/remote-test-job-leena-ai-1137142"
-    },
-    {
-      "company": "Bass Pro Shops",
-      "fetched_at": "2026-09-02T08:42:31.472928+00:00",
-      "id": "559044575be7",
-      "location": "Winnipeg,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "supervisor",
-        "customer support",
-        "ads",
-        "exec",
-        "ops",
-        "sales"
-      ],
-      "title": "OVERNIGHT SHIFT Retail Merchandiser",
-      "url": "https://remoteOK.com/remote-jobs/remote-overnight-shift-retail-merchandiser-bass-pro-shops-1137123"
-    },
-    {
-      "company": "Lemon Tree Premier",
-      "fetched_at": "2026-09-02T08:42:31.472928+00:00",
-      "id": "c9a9583e9c2e",
-      "location": "Bijnor,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [],
-      "title": "Find a job 3rd comi",
-      "url": "https://remoteOK.com/remote-jobs/remote-find-a-job-3rd-comi-lemon-tree-premier-1137127"
-    },
-    {
-      "company": "PhilipJameson",
-      "fetched_at": "2026-09-02T08:42:31.472928+00:00",
-      "id": "8592d84e6b2f",
-      "location": "Remote",
-      "posted_at": "2026-09-02T06:36:35+00:00",
-      "source": "devto",
-      "tags": [
-        "edtech",
-        "batonrouge",
-        "k12",
-        "jobs"
-      ],
-      "title": "Expands EdTech Platforms, Studyville Fuels Baton Rouge Growth",
-      "url": "https://dev.to/philip098/expands-edtech-platforms-studyville-fuels-baton-rouge-growth-305e"
     }
   ],
-  "updated_at": "2026-09-05T05:29:03.537553+00:00"
+  "updated_at": "2026-09-05T10:21:06.773007+00:00"
 }
