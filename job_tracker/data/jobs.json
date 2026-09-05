@@ -1,6 +1,89 @@
 {
   "jobs": [
     {
+      "company": "C2 Group",
+      "fetched_at": "2026-09-05T13:47:57.763792+00:00",
+      "id": "5054c7640f18",
+      "location": "Greater Sydney Area,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "full time",
+        "infosec",
+        "education"
+      ],
+      "title": "Expression of Interest Canât see a role thatâs right for you",
+      "url": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-cant-see-a-role-thats-right-for-you-c2-group-1137251"
+    },
+    {
+      "company": "Elements Recruitment Australia",
+      "fetched_at": "2026-09-05T13:47:57.763792+00:00",
+      "id": "71d7458f08aa",
+      "location": "Clayton,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "recruiter",
+        "non tech"
+      ],
+      "title": "APPLY NOW Send Veritas your Resume DON'T CLOSE WEBSITE",
+      "url": "https://remoteOK.com/remote-jobs/remote-apply-now-send-veritas-your-resume-dont-close-website-elements-recruitment-australia-1137201"
+    },
+    {
+      "company": "Localiza&amp;Co",
+      "fetched_at": "2026-09-05T13:47:57.763792+00:00",
+      "id": "89110adaa1f1",
+      "location": "MacaÃ©,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [],
+      "title": "HIGIENIZADOR DE CARROS MACAÃ RJ",
+      "url": "https://remoteOK.com/remote-jobs/remote-higienizador-de-carros-macae-rj-localizaampco-1137203"
+    },
+    {
+      "company": "Localiza&amp;Co",
+      "fetched_at": "2026-09-05T13:47:57.763792+00:00",
+      "id": "0c98dcd56261",
+      "location": "Curitiba,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [],
+      "title": "HIGIENIZADOR DE CARROS CURITIBA PR",
+      "url": "https://remoteOK.com/remote-jobs/remote-higienizador-de-carros-curitiba-pr-localizaampco-1137204"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-05T13:47:57.763792+00:00",
+      "id": "c0b9b0f15ca7",
+      "location": "Remote",
+      "posted_at": "2026-09-05T13:18:27+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2l6l"
+    },
+    {
+      "company": "qing",
+      "fetched_at": "2026-09-05T13:47:57.763792+00:00",
+      "id": "1d9bb9642d79",
+      "location": "Remote",
+      "posted_at": "2026-09-05T12:00:08+00:00",
+      "source": "devto",
+      "tags": [
+        "python",
+        "webscraping",
+        "jobs",
+        "automation"
+      ],
+      "title": "Build a Job Board Scraper to Find Remote Opportunities",
+      "url": "https://dev.to/qingluan/build-a-job-board-scraper-to-find-remote-opportunities-351e"
+    },
+    {
       "company": "Hola Moda",
       "fetched_at": "2026-09-05T10:21:06.773007+00:00",
       "id": "747d0c3de6ad",
@@ -2306,220 +2389,7 @@
       ],
       "title": "Senior Remote SWE Roles Hiring Now - 1 Pay $150k+ (Sep 2)",
       "url": "https://dev.to/crackr/senior-remote-swe-roles-hiring-now-1-pay-150k-sep-2-5649"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-02T17:47:55.739496+00:00",
-      "id": "a6ae54a9a25c",
-      "location": "Remote",
-      "posted_at": "2026-09-02T13:37:16+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4kfm"
-    },
-    {
-      "company": "St. Regis Hotels &amp; Resorts",
-      "fetched_at": "2026-09-02T13:29:00.084294+00:00",
-      "id": "2c7a0515e650",
-      "location": "Goa,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "sys admin",
-        "infosec",
-        "education",
-        "customer support",
-        "testing",
-        "c",
-        "exec",
-        "engineer"
-      ],
-      "title": "Carpenter",
-      "url": "https://remoteOK.com/remote-jobs/remote-carpenter-st-regis-hotels-amp-resorts-1137253"
-    },
-    {
-      "company": "Marriott International",
-      "fetched_at": "2026-09-02T13:29:00.084294+00:00",
-      "id": "8fe1b3733596",
-      "location": "Goa,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "sys admin",
-        "infosec",
-        "education",
-        "customer support",
-        "testing",
-        "c",
-        "exec",
-        "engineer",
-        "hr",
-        "travel",
-        "virtual assistant",
-        "supervisor",
-        "ops",
-        "medical"
-      ],
-      "title": "Assistant Housekeeping Manager",
-      "url": "https://remoteOK.com/remote-jobs/remote-assistant-housekeeping-manager-marriott-international-1137255"
-    },
-    {
-      "company": "Delta Hotels by Marriott Edinburgh",
-      "fetched_at": "2026-09-02T13:29:00.084294+00:00",
-      "id": "19dd76245f69",
-      "location": "Edinburgh,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "education",
-        "customer support",
-        "marketing",
-        "exec",
-        "finance",
-        "scheme",
-        "medical"
-      ],
-      "title": "Maintenance Technician 40hrs week",
-      "url": "https://remoteOK.com/remote-jobs/remote-maintenance-technician-40hrs-week-delta-hotels-by-marriott-edinburgh-1137257"
-    },
-    {
-      "company": "Hovis Bakeries",
-      "fetched_at": "2026-09-02T13:29:00.084294+00:00",
-      "id": "6b2c33ff7663",
-      "location": "Belfast,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "scheme",
-        "medical",
-        "engineer"
-      ],
-      "title": "FLM",
-      "url": "https://remoteOK.com/remote-jobs/remote-flm-hovis-bakeries-1137262"
-    },
-    {
-      "company": "Acumentis Group",
-      "fetched_at": "2026-09-02T13:29:00.084294+00:00",
-      "id": "dd8550c8db61",
-      "location": "Port Macquarie,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "customer support",
-        "marketing",
-        "exec",
-        "finance",
-        "sales"
-      ],
-      "title": "Residential Valuer",
-      "url": "https://remoteOK.com/remote-jobs/remote-residential-valuer-acumentis-group-1137214"
-    },
-    {
-      "company": "Localiza&amp;Co",
-      "fetched_at": "2026-09-02T13:29:00.084294+00:00",
-      "id": "fc6f8ae81319",
-      "location": "Blumenau,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [],
-      "title": "HIGIENIZADOR DE CARROS BLUMENAU SC",
-      "url": "https://remoteOK.com/remote-jobs/remote-higienizador-de-carros-blumenau-sc-localizaampco-1137269"
-    },
-    {
-      "company": "Copa Airlines",
-      "fetched_at": "2026-09-02T13:29:00.084294+00:00",
-      "id": "03b587da9545",
-      "location": "PanamÃ¡,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "infosec",
-        "education",
-        "designer",
-        "customer support",
-        "marketing",
-        "dev",
-        "exec",
-        "ops",
-        "legal",
-        "sales",
-        "medical",
-        "recruiter",
-        "digital nomad",
-        "travel"
-      ],
-      "title": "Captains Capitanes",
-      "url": "https://remoteOK.com/remote-jobs/remote-captains-capitanes-copa-airlines-1137271"
-    },
-    {
-      "company": "Hertz",
-      "fetched_at": "2026-09-02T13:29:00.084294+00:00",
-      "id": "69f3a8238ed4",
-      "location": "Etobicoke,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "education",
-        "customer support",
-        "recruiter",
-        "non tech",
-        "hr",
-        "marketing",
-        "travel"
-      ],
-      "title": "Car Wash Attendant",
-      "url": "https://remoteOK.com/remote-jobs/remote-car-wash-attendant-hertz-1137276"
-    },
-    {
-      "company": "Swissport",
-      "fetched_at": "2026-09-02T13:29:00.084294+00:00",
-      "id": "3780ec28979e",
-      "location": "Piarco,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "education",
-        "customer support",
-        "marketing",
-        "math",
-        "exec",
-        "ops",
-        "medical"
-      ],
-      "title": "Ramp Attendant",
-      "url": "https://remoteOK.com/remote-jobs/remote-ramp-attendant-swissport-1137140"
-    },
-    {
-      "company": "Carters Inc.",
-      "fetched_at": "2026-09-02T13:29:00.084294+00:00",
-      "id": "5cd7dd1a41a3",
-      "location": "CanÃ³vanas,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "exec",
-        "virtual assistant",
-        "customer support",
-        "marketing",
-        "ops",
-        "sales",
-        "ecommerce",
-        "education",
-        "web dev",
-        "payroll",
-        "excel",
-        "medical",
-        "recruiter"
-      ],
-      "title": "Store Manager",
-      "url": "https://remoteOK.com/remote-jobs/remote-store-manager-carters-inc-1137135"
     }
   ],
-  "updated_at": "2026-09-05T10:21:06.773007+00:00"
+  "updated_at": "2026-09-05T13:47:57.763792+00:00"
 }
