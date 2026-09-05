@@ -7,6 +7,13 @@
       ],
       "last_seen": "2026-09-04T17:30:43.732697+00:00"
     },
+    "Acumentis Group": {
+      "count": 1,
+      "job_ids": [
+        "dd8550c8db61"
+      ],
+      "last_seen": "2026-09-05T16:41:31.145145+00:00"
+    },
     "Aimwear": {
       "count": 1,
       "job_ids": [
@@ -128,17 +135,24 @@
       ],
       "last_seen": "2026-09-03T08:51:03.424048+00:00"
     },
+    "Copa Airlines": {
+      "count": 1,
+      "job_ids": [
+        "03b587da9545"
+      ],
+      "last_seen": "2026-09-05T16:41:31.145145+00:00"
+    },
     "Crackr": {
       "count": 6,
       "job_ids": [
+        "f26236538706",
+        "4aefbef60148",
         "51430efc1e21",
         "1be6e88e759b",
         "a4b95bfa0a77",
-        "82c3910aa154",
-        "cf41dd7e69f2",
-        "0ef890bc6e65"
+        "82c3910aa154"
       ],
-      "last_seen": "2026-09-04T15:00:16+00:00"
+      "last_seen": "2026-09-05T15:00:16+00:00"
     },
     "Crocs, Inc.": {
       "count": 1,
@@ -153,6 +167,13 @@
         "3f4e1af97d62"
       ],
       "last_seen": "2026-09-05T10:21:06.773007+00:00"
+    },
+    "Delta Hotels by Marriott Edinburgh": {
+      "count": 1,
+      "job_ids": [
+        "19dd76245f69"
+      ],
+      "last_seen": "2026-09-05T16:41:31.145145+00:00"
     },
     "Department of Justice and Community Safety, Victoria": {
       "count": 1,
@@ -174,6 +195,13 @@
         "71d7458f08aa"
       ],
       "last_seen": "2026-09-05T13:47:57.763792+00:00"
+    },
+    "Empire Assets": {
+      "count": 1,
+      "job_ids": [
+        "b448eb571a3a"
+      ],
+      "last_seen": "2026-09-05T16:41:31.145145+00:00"
     },
     "Emplyfy": {
       "count": 1,
@@ -302,6 +330,13 @@
       ],
       "last_seen": "2026-09-02T17:47:55.739496+00:00"
     },
+    "Hertz": {
+      "count": 1,
+      "job_ids": [
+        "69f3a8238ed4"
+      ],
+      "last_seen": "2026-09-05T16:41:31.145145+00:00"
+    },
     "Hilton Salwa Beach Resort &amp; Villas": {
       "count": 1,
       "job_ids": [
@@ -316,6 +351,13 @@
         "f3b8267fcb77"
       ],
       "last_seen": "2026-09-05T10:21:06.773007+00:00"
+    },
+    "Hovis Bakeries": {
+      "count": 1,
+      "job_ids": [
+        "6b2c33ff7663"
+      ],
+      "last_seen": "2026-09-05T16:41:31.145145+00:00"
     },
     "ITC Limited": {
       "count": 1,
@@ -383,12 +425,13 @@
       "last_seen": "2026-09-05T00:48:14.295531+00:00"
     },
     "Localiza&amp;Co": {
-      "count": 2,
+      "count": 3,
       "job_ids": [
+        "fc6f8ae81319",
         "89110adaa1f1",
         "0c98dcd56261"
       ],
-      "last_seen": "2026-09-05T13:47:57.763792+00:00"
+      "last_seen": "2026-09-05T16:41:31.145145+00:00"
     },
     "MSC Cruises": {
       "count": 1,
@@ -396,6 +439,13 @@
         "82f155b3795d"
       ],
       "last_seen": "2026-09-03T23:08:41.176206+00:00"
+    },
+    "Marriott International": {
+      "count": 1,
+      "job_ids": [
+        "8fe1b3733596"
+      ],
+      "last_seen": "2026-09-05T16:41:31.145145+00:00"
     },
     "Mr Clutch Autocentres": {
       "count": 1,
@@ -448,8 +498,9 @@
       "last_seen": "2026-09-04T17:30:43.732697+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 22,
+      "count": 23,
       "job_ids": [
+        "ccef9307ad09",
         "c0b9b0f15ca7",
         "badc75680ec8",
         "2beba2c529cc",
@@ -473,7 +524,7 @@
         "a5a744e50297",
         "791049315475"
       ],
-      "last_seen": "2026-09-05T13:18:27+00:00"
+      "last_seen": "2026-09-05T16:09:17+00:00"
     },
     "Radisson Hotel Group": {
       "count": 1,
@@ -530,6 +581,13 @@
         "38276f77e61d"
       ],
       "last_seen": "2026-09-03T20:49:34.414391+00:00"
+    },
+    "St. Regis Hotels &amp; Resorts": {
+      "count": 1,
+      "job_ids": [
+        "2c7a0515e650"
+      ],
+      "last_seen": "2026-09-05T16:41:31.145145+00:00"
     },
     "Stanley Black &amp; Decker, Inc.": {
       "count": 1,
@@ -731,5 +789,5 @@
       "last_seen": "2026-09-04T13:22:04.034891+00:00"
     }
   },
-  "updated_at": "2026-09-05T13:47:57.763792+00:00"
+  "updated_at": "2026-09-05T16:41:31.145145+00:00"
 }
