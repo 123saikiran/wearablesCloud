@@ -1,6 +1,173 @@
 {
   "jobs": [
     {
+      "company": "Brooks Brothers",
+      "fetched_at": "2026-09-05T00:48:14.295531+00:00",
+      "id": "ccf73e620dbb",
+      "location": "Barceloneta,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec",
+        "virtual assistant",
+        "hr",
+        "customer support",
+        "marketing",
+        "travel",
+        "ops",
+        "sales"
+      ],
+      "title": "Assistant Store Manager Puerto Rico Premium Outlets",
+      "url": "https://remoteOK.com/remote-jobs/remote-assistant-store-manager-puerto-rico-premium-outlets-brooks-brothers-1137241"
+    },
+    {
+      "company": "Tap Growth ai",
+      "fetched_at": "2026-09-05T00:48:14.295531+00:00",
+      "id": "0f652df17cde",
+      "location": "Singapore,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "marketing"
+      ],
+      "title": "Job Role",
+      "url": "https://remoteOK.com/remote-jobs/remote-job-role-tap-growth-ai-1137246"
+    },
+    {
+      "company": "Gildan",
+      "fetched_at": "2026-09-05T00:48:14.295531+00:00",
+      "id": "ea3789efa1e5",
+      "location": "Christ Church,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "analyst",
+        "design",
+        "embedded",
+        "sys admin",
+        "education",
+        "technical",
+        "customer support",
+        "dev",
+        "exec",
+        "ops",
+        "digital nomad"
+      ],
+      "title": "Business Analyst IT",
+      "url": "https://remoteOK.com/remote-jobs/remote-business-analyst-it-gildan-1137243"
+    },
+    {
+      "company": "Linsco Ltd",
+      "fetched_at": "2026-09-05T00:48:14.295531+00:00",
+      "id": "26f98e5432be",
+      "location": "Bedford,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "customer support",
+        "marketing",
+        "exec",
+        "finance",
+        "scheme",
+        "medical",
+        "testing",
+        "travel",
+        "mobile",
+        "ops",
+        "engineer",
+        "full time"
+      ],
+      "title": "Plant Fitter",
+      "url": "https://remoteOK.com/remote-jobs/remote-plant-fitter-linsco-ltd-1137259"
+    },
+    {
+      "company": "Radisson Hotel Group",
+      "fetched_at": "2026-09-05T00:48:14.295531+00:00",
+      "id": "bbe58d0dacdb",
+      "location": "Visakhapatnam Rural mandal,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "technical",
+        "marketing",
+        "excel",
+        "sales",
+        "engineer",
+        "recruiter",
+        "full time",
+        "exec",
+        "customer support",
+        "golang"
+      ],
+      "title": "Sales Manager",
+      "url": "https://remoteOK.com/remote-jobs/remote-sales-manager-radisson-hotel-group-1137200"
+    },
+    {
+      "company": "FedEx",
+      "fetched_at": "2026-09-05T00:48:14.295531+00:00",
+      "id": "5f2969c27594",
+      "location": "Pembroke,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "infosec",
+        "testing",
+        "exec",
+        "math",
+        "content writing",
+        "sales"
+      ],
+      "title": "courier",
+      "url": "https://remoteOK.com/remote-jobs/remote-courier-fedex-1137195"
+    },
+    {
+      "company": "Royal Lepage Icon Realty",
+      "fetched_at": "2026-09-05T00:48:14.295531+00:00",
+      "id": "7f166a2a904d",
+      "location": "Prince Albert,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "finance",
+        "education",
+        "medical",
+        "non tech"
+      ],
+      "title": "handyman woman",
+      "url": "https://remoteOK.com/remote-jobs/remote-handyman-woman-royal-lepage-icon-realty-1137196"
+    },
+    {
+      "company": "Stanley Black &amp; Decker, Inc.",
+      "fetched_at": "2026-09-05T00:48:14.295531+00:00",
+      "id": "55ad3d8aceec",
+      "location": "ä¸­å±±å¸,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "marketing",
+        "non tech"
+      ],
+      "title": "åæ",
+      "url": "https://remoteOK.com/remote-jobs/"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-05T00:48:14.295531+00:00",
+      "id": "e7ad81bc502b",
+      "location": "Remote",
+      "posted_at": "2026-09-04T23:26:55+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3jc3"
+    },
+    {
       "company": "Streamline Search",
       "fetched_at": "2026-09-04T22:55:42.824799+00:00",
       "id": "6da040801641",
@@ -2537,118 +2704,7 @@
       ],
       "title": "David Stark: Top High-Paying Roles",
       "url": "https://dev.to/devpulse/david-stark-top-high-paying-roles-3k64"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-02T03:57:04.959100+00:00",
-      "id": "acb6e758f349",
-      "location": "Remote",
-      "posted_at": "2026-09-02T00:10:16+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-174d"
-    },
-    {
-      "company": "Food Basics",
-      "fetched_at": "2026-09-01T23:12:00.951518+00:00",
-      "id": "544014e7a36d",
-      "location": "Waterloo,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "sys admin",
-        "customer support",
-        "education",
-        "exec",
-        "sales",
-        "golang",
-        "recruiter",
-        "full time"
-      ],
-      "title": "Produce Clerk",
-      "url": "https://remoteOK.com/remote-jobs/remote-produce-clerk-food-basics-1137247"
-    },
-    {
-      "company": "Digest Media",
-      "fetched_at": "2026-09-01T23:12:00.951518+00:00",
-      "id": "665fa257e8da",
-      "location": "Newcastle,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "design",
-        "consulting",
-        "exec",
-        "ops",
-        "engineer",
-        "digital nomad",
-        "testing"
-      ],
-      "title": "Test",
-      "url": "https://remoteOK.com/remote-jobs/remote-test-digest-media-1137198"
-    },
-    {
-      "company": "Places for People",
-      "fetched_at": "2026-09-01T23:12:00.951518+00:00",
-      "id": "9fd1fa735d35",
-      "location": "Greater Newcastle Area,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "teaching",
-        "customer support",
-        "finance",
-        "cloud",
-        "scheme",
-        "mobile",
-        "medical",
-        "recruiter",
-        "non tech"
-      ],
-      "title": "Joiner",
-      "url": "https://remoteOK.com/remote-jobs/remote-joiner-places-for-people-1137211"
-    },
-    {
-      "company": "Piramal Pharma Ltd",
-      "fetched_at": "2026-09-01T23:12:00.951518+00:00",
-      "id": "9b4db4d8768d",
-      "location": "Dhar,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "technical"
-      ],
-      "title": "Technical Staff",
-      "url": "https://remoteOK.com/remote-jobs/remote-technical-staff-piramal-pharma-ltd-1137118"
-    },
-    {
-      "company": "Smokemart &amp; GiftBox",
-      "fetched_at": "2026-09-01T23:12:00.951518+00:00",
-      "id": "eeaa62dc6d91",
-      "location": "Darwin,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "accounting",
-        "customer support",
-        "recruiter",
-        "non tech",
-        "virtual assistant",
-        "infosec",
-        "marketing",
-        "exec",
-        "sales",
-        "golang"
-      ],
-      "title": "Smokemart &amp; GiftBox Palmerstone Sales Assistant",
-      "url": "https://remoteOK.com/remote-jobs/remote-smokemart-amp-giftbox-palmerstone-sales-assistant-smokemart-amp-giftbox-1137125"
     }
   ],
-  "updated_at": "2026-09-04T22:55:42.824799+00:00"
+  "updated_at": "2026-09-05T00:48:14.295531+00:00"
 }

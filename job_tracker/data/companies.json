@@ -77,6 +77,13 @@
       ],
       "last_seen": "2026-09-02T03:57:04.959100+00:00"
     },
+    "Brooks Brothers": {
+      "count": 1,
+      "job_ids": [
+        "ccf73e620dbb"
+      ],
+      "last_seen": "2026-09-05T00:48:14.295531+00:00"
+    },
     "Buffalo Wild Wings - Fralich, Inc.": {
       "count": 2,
       "job_ids": [
@@ -204,13 +211,6 @@
       ],
       "last_seen": "2026-09-03T03:56:27.302124+00:00"
     },
-    "Digest Media": {
-      "count": 1,
-      "job_ids": [
-        "665fa257e8da"
-      ],
-      "last_seen": "2026-09-01T23:12:00.951518+00:00"
-    },
     "Elements Recruitment Australia": {
       "count": 1,
       "job_ids": [
@@ -232,19 +232,19 @@
       ],
       "last_seen": "2026-09-03T08:51:03.424048+00:00"
     },
+    "FedEx": {
+      "count": 1,
+      "job_ids": [
+        "5f2969c27594"
+      ],
+      "last_seen": "2026-09-05T00:48:14.295531+00:00"
+    },
     "Fifth Avenue Properties / Fifth Avenue Homes": {
       "count": 1,
       "job_ids": [
         "0ba85f873ea6"
       ],
       "last_seen": "2026-09-04T22:55:42.824799+00:00"
-    },
-    "Food Basics": {
-      "count": 1,
-      "job_ids": [
-        "544014e7a36d"
-      ],
-      "last_seen": "2026-09-01T23:12:00.951518+00:00"
     },
     "Four Seasons": {
       "count": 2,
@@ -267,6 +267,13 @@
         "316b0a8df47a"
       ],
       "last_seen": "2026-09-04T17:30:43.732697+00:00"
+    },
+    "Gildan": {
+      "count": 1,
+      "job_ids": [
+        "ea3789efa1e5"
+      ],
+      "last_seen": "2026-09-05T00:48:14.295531+00:00"
     },
     "Go Auto": {
       "count": 1,
@@ -432,6 +439,13 @@
       ],
       "last_seen": "2026-09-02T08:42:31.472928+00:00"
     },
+    "Linsco Ltd": {
+      "count": 1,
+      "job_ids": [
+        "26f98e5432be"
+      ],
+      "last_seen": "2026-09-05T00:48:14.295531+00:00"
+    },
     "Localiza&amp;Co": {
       "count": 3,
       "job_ids": [
@@ -512,23 +526,10 @@
       ],
       "last_seen": "2026-09-02T06:36:35+00:00"
     },
-    "Piramal Pharma Ltd": {
-      "count": 1,
-      "job_ids": [
-        "9b4db4d8768d"
-      ],
-      "last_seen": "2026-09-01T23:12:00.951518+00:00"
-    },
-    "Places for People": {
-      "count": 1,
-      "job_ids": [
-        "9fd1fa735d35"
-      ],
-      "last_seen": "2026-09-01T23:12:00.951518+00:00"
-    },
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 21,
       "job_ids": [
+        "e7ad81bc502b",
         "5b8e67de50a5",
         "66d19f585d4a",
         "717aa912bd46",
@@ -548,10 +549,16 @@
         "791049315475",
         "a6ae54a9a25c",
         "099c001082d7",
-        "d172753a0dc7",
-        "acb6e758f349"
+        "d172753a0dc7"
       ],
-      "last_seen": "2026-09-04T21:47:10+00:00"
+      "last_seen": "2026-09-04T23:26:55+00:00"
+    },
+    "Radisson Hotel Group": {
+      "count": 1,
+      "job_ids": [
+        "bbe58d0dacdb"
+      ],
+      "last_seen": "2026-09-05T00:48:14.295531+00:00"
     },
     "Reed": {
       "count": 1,
@@ -566,6 +573,13 @@
         "e6beb621a703"
       ],
       "last_seen": "2026-09-04T08:47:06.617520+00:00"
+    },
+    "Royal Lepage Icon Realty": {
+      "count": 1,
+      "job_ids": [
+        "7f166a2a904d"
+      ],
+      "last_seen": "2026-09-05T00:48:14.295531+00:00"
     },
     "Scottish Police Authority": {
       "count": 1,
@@ -602,13 +616,6 @@
       ],
       "last_seen": "2026-09-02T03:57:04.959100+00:00"
     },
-    "Smokemart &amp; GiftBox": {
-      "count": 1,
-      "job_ids": [
-        "eeaa62dc6d91"
-      ],
-      "last_seen": "2026-09-01T23:12:00.951518+00:00"
-    },
     "St. George's University": {
       "count": 1,
       "job_ids": [
@@ -622,6 +629,13 @@
         "2c7a0515e650"
       ],
       "last_seen": "2026-09-02T13:29:00.084294+00:00"
+    },
+    "Stanley Black &amp; Decker, Inc.": {
+      "count": 1,
+      "job_ids": [
+        "55ad3d8aceec"
+      ],
+      "last_seen": "2026-09-05T00:48:14.295531+00:00"
     },
     "Stobart": {
       "count": 1,
@@ -664,6 +678,13 @@
         "19d1a9b3d292"
       ],
       "last_seen": "2026-09-03T13:27:30.195929+00:00"
+    },
+    "Tap Growth ai": {
+      "count": 1,
+      "job_ids": [
+        "0f652df17cde"
+      ],
+      "last_seen": "2026-09-05T00:48:14.295531+00:00"
     },
     "Tesco": {
       "count": 1,
@@ -823,5 +844,5 @@
       "last_seen": "2026-09-04T13:22:04.034891+00:00"
     }
   },
-  "updated_at": "2026-09-04T22:55:42.824799+00:00"
+  "updated_at": "2026-09-05T00:48:14.295531+00:00"
 }
