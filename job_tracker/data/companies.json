@@ -70,13 +70,6 @@
       ],
       "last_seen": "2026-09-03T20:49:34.414391+00:00"
     },
-    "Bosta": {
-      "count": 1,
-      "job_ids": [
-        "722e697b3c21"
-      ],
-      "last_seen": "2026-09-02T03:57:04.959100+00:00"
-    },
     "Brooks Brothers": {
       "count": 1,
       "job_ids": [
@@ -100,10 +93,9 @@
       "last_seen": "2026-09-02T08:42:31.472928+00:00"
     },
     "Canada Post / Postes Canada": {
-      "count": 2,
+      "count": 1,
       "job_ids": [
-        "d71725fdeabd",
-        "931453959ac6"
+        "d71725fdeabd"
       ],
       "last_seen": "2026-09-02T17:47:55.739496+00:00"
     },
@@ -183,20 +175,6 @@
       ],
       "last_seen": "2026-09-04T17:30:43.732697+00:00"
     },
-    "Dart": {
-      "count": 1,
-      "job_ids": [
-        "3f4e1af97d62"
-      ],
-      "last_seen": "2026-09-02T03:57:04.959100+00:00"
-    },
-    "David Stark": {
-      "count": 1,
-      "job_ids": [
-        "cbeb8309b2e4"
-      ],
-      "last_seen": "2026-09-02T02:24:46+00:00"
-    },
     "Delta Hotels by Marriott Edinburgh": {
       "count": 1,
       "job_ids": [
@@ -210,6 +188,13 @@
         "aa2e46d11b9b"
       ],
       "last_seen": "2026-09-03T03:56:27.302124+00:00"
+    },
+    "Digest Media": {
+      "count": 1,
+      "job_ids": [
+        "665fa257e8da"
+      ],
+      "last_seen": "2026-09-05T05:29:03.537553+00:00"
     },
     "Elements Recruitment Australia": {
       "count": 1,
@@ -245,6 +230,13 @@
         "0ba85f873ea6"
       ],
       "last_seen": "2026-09-04T22:55:42.824799+00:00"
+    },
+    "Food Basics": {
+      "count": 1,
+      "job_ids": [
+        "544014e7a36d"
+      ],
+      "last_seen": "2026-09-05T05:29:03.537553+00:00"
     },
     "Four Seasons": {
       "count": 2,
@@ -351,14 +343,6 @@
         "69b63a4922b7"
       ],
       "last_seen": "2026-09-04T17:30:43.732697+00:00"
-    },
-    "Hola Moda": {
-      "count": 2,
-      "job_ids": [
-        "747d0c3de6ad",
-        "f3b8267fcb77"
-      ],
-      "last_seen": "2026-09-02T03:57:04.959100+00:00"
     },
     "Hovis Bakeries": {
       "count": 1,
@@ -529,6 +513,7 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 21,
       "job_ids": [
+        "73d7560c4f56",
         "e7ad81bc502b",
         "5b8e67de50a5",
         "66d19f585d4a",
@@ -548,10 +533,9 @@
         "a5a744e50297",
         "791049315475",
         "a6ae54a9a25c",
-        "099c001082d7",
-        "d172753a0dc7"
+        "099c001082d7"
       ],
-      "last_seen": "2026-09-04T23:26:55+00:00"
+      "last_seen": "2026-09-05T01:14:51+00:00"
     },
     "Radisson Hotel Group": {
       "count": 1,
@@ -559,13 +543,6 @@
         "bbe58d0dacdb"
       ],
       "last_seen": "2026-09-05T00:48:14.295531+00:00"
-    },
-    "Reed": {
-      "count": 1,
-      "job_ids": [
-        "be4245bf6795"
-      ],
-      "last_seen": "2026-09-02T03:57:04.959100+00:00"
     },
     "Royal Caribbean Group": {
       "count": 1,
@@ -608,13 +585,6 @@
         "715b254de673"
       ],
       "last_seen": "2026-09-04T08:47:06.617520+00:00"
-    },
-    "Skechers": {
-      "count": 1,
-      "job_ids": [
-        "679274192e94"
-      ],
-      "last_seen": "2026-09-02T03:57:04.959100+00:00"
     },
     "St. George's University": {
       "count": 1,
@@ -706,13 +676,6 @@
         "916cd2848e14"
       ],
       "last_seen": "2026-09-04T08:47:06.617520+00:00"
-    },
-    "The Butcher Shoppe": {
-      "count": 1,
-      "job_ids": [
-        "e5dc5ef09cb4"
-      ],
-      "last_seen": "2026-09-02T03:57:04.959100+00:00"
     },
     "The Drinks LLAB": {
       "count": 1,
@@ -829,13 +792,6 @@
       ],
       "last_seen": "2026-09-03T20:49:34.414391+00:00"
     },
-    "s1jobs": {
-      "count": 1,
-      "job_ids": [
-        "a0c9bbbdd083"
-      ],
-      "last_seen": "2026-09-02T03:57:04.959100+00:00"
-    },
     "walkr - turn your Google Meet walk-friendly": {
       "count": 1,
       "job_ids": [
@@ -844,5 +800,5 @@
       "last_seen": "2026-09-04T13:22:04.034891+00:00"
     }
   },
-  "updated_at": "2026-09-05T00:48:14.295531+00:00"
+  "updated_at": "2026-09-05T05:29:03.537553+00:00"
 }

@@ -1,6 +1,61 @@
 {
   "jobs": [
     {
+      "company": "Food Basics",
+      "fetched_at": "2026-09-05T05:29:03.537553+00:00",
+      "id": "544014e7a36d",
+      "location": "Waterloo,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "sys admin",
+        "customer support",
+        "education",
+        "exec",
+        "sales",
+        "golang",
+        "recruiter",
+        "full time"
+      ],
+      "title": "Produce Clerk",
+      "url": "https://remoteOK.com/remote-jobs/remote-produce-clerk-food-basics-1137247"
+    },
+    {
+      "company": "Digest Media",
+      "fetched_at": "2026-09-05T05:29:03.537553+00:00",
+      "id": "665fa257e8da",
+      "location": "Newcastle,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "design",
+        "consulting",
+        "exec",
+        "ops",
+        "engineer",
+        "digital nomad",
+        "testing"
+      ],
+      "title": "Test",
+      "url": "https://remoteOK.com/remote-jobs/remote-test-digest-media-1137198"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-05T05:29:03.537553+00:00",
+      "id": "73d7560c4f56",
+      "location": "Remote",
+      "posted_at": "2026-09-05T01:14:51+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3nl0"
+    },
+    {
       "company": "Brooks Brothers",
       "fetched_at": "2026-09-05T00:48:14.295531+00:00",
       "id": "ccf73e620dbb",
@@ -2512,199 +2567,7 @@
       ],
       "title": "Expands EdTech Platforms, Studyville Fuels Baton Rouge Growth",
       "url": "https://dev.to/philip098/expands-edtech-platforms-studyville-fuels-baton-rouge-growth-305e"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-02T08:42:31.472928+00:00",
-      "id": "d172753a0dc7",
-      "location": "Remote",
-      "posted_at": "2026-09-02T04:30:42+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2ehl"
-    },
-    {
-      "company": "Hola Moda",
-      "fetched_at": "2026-09-02T03:57:04.959100+00:00",
-      "id": "747d0c3de6ad",
-      "location": "Valencia,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "exec",
-        "c"
-      ],
-      "title": "Store Manager",
-      "url": "https://remoteOK.com/remote-jobs/remote-store-manager-hola-moda-1137206"
-    },
-    {
-      "company": "Hola Moda",
-      "fetched_at": "2026-09-02T03:57:04.959100+00:00",
-      "id": "f3b8267fcb77",
-      "location": "Valencia,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [],
-      "title": "Visual Merchandiser",
-      "url": "https://remoteOK.com/remote-jobs/remote-visual-merchandiser-hola-moda-1137205"
-    },
-    {
-      "company": "Dart",
-      "fetched_at": "2026-09-02T03:57:04.959100+00:00",
-      "id": "3f4e1af97d62",
-      "location": "George Town,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "sys admin",
-        "education",
-        "technical",
-        "customer support",
-        "marketing",
-        "travel",
-        "medical",
-        "engineer",
-        "full time"
-      ],
-      "title": "Building Maintenance Technician",
-      "url": "https://remoteOK.com/remote-jobs/remote-building-maintenance-technician-dart-1137212"
-    },
-    {
-      "company": "Skechers",
-      "fetched_at": "2026-09-02T03:57:04.959100+00:00",
-      "id": "679274192e94",
-      "location": "Barceloneta,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "exec",
-        "virtual assistant",
-        "customer support",
-        "marketing",
-        "ops",
-        "sales",
-        "ecommerce"
-      ],
-      "title": "Retail Assistant Store Manager",
-      "url": "https://remoteOK.com/remote-jobs/remote-retail-assistant-store-manager-skechers-1137132"
-    },
-    {
-      "company": "Canada Post / Postes Canada",
-      "fetched_at": "2026-09-02T03:57:04.959100+00:00",
-      "id": "931453959ac6",
-      "location": "Allan,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "marketing",
-        "exec",
-        "full time"
-      ],
-      "title": "Rural and Suburban Mail Carrier Allan RR1",
-      "url": "https://remoteOK.com/remote-jobs/remote-rural-and-suburban-mail-carrier-allan-rr1-canada-post-postes-canada-1137126"
-    },
-    {
-      "company": "Bosta",
-      "fetched_at": "2026-09-02T03:57:04.959100+00:00",
-      "id": "722e697b3c21",
-      "location": "Maadi,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "accounting",
-        "customer support",
-        "recruiter",
-        "non tech"
-      ],
-      "title": "AP Accountant",
-      "url": "https://remoteOK.com/remote-jobs/remote-ap-accountant-bosta-1137124"
-    },
-    {
-      "company": "Reed",
-      "fetched_at": "2026-09-02T03:57:04.959100+00:00",
-      "id": "be4245bf6795",
-      "location": "Warrington,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "exec",
-        "customer support",
-        "testing",
-        "finance",
-        "sales",
-        "recruiter",
-        "marketing",
-        "senior",
-        "dev",
-        "c",
-        "microsoft",
-        "excel",
-        "engineer",
-        "full time",
-        "digital nomad"
-      ],
-      "title": "Estimator",
-      "url": "https://remoteOK.com/remote-jobs/remote-estimator-reed-1137146"
-    },
-    {
-      "company": "The Butcher Shoppe",
-      "fetched_at": "2026-09-02T03:57:04.959100+00:00",
-      "id": "e5dc5ef09cb4",
-      "location": "Toronto,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "technical",
-        "marketing",
-        "education",
-        "medical",
-        "ecommerce"
-      ],
-      "title": "Butcher",
-      "url": "https://remoteOK.com/remote-jobs/remote-butcher-the-butcher-shoppe-1137120"
-    },
-    {
-      "company": "s1jobs",
-      "fetched_at": "2026-09-02T03:57:04.959100+00:00",
-      "id": "a0c9bbbdd083",
-      "location": "Glasgow,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "exec",
-        "customer support",
-        "testing",
-        "finance",
-        "sales",
-        "recruiter",
-        "marketing",
-        "senior"
-      ],
-      "title": "Estimator",
-      "url": "https://remoteOK.com/remote-jobs/remote-estimator-s1jobs-1137145"
-    },
-    {
-      "company": "David Stark",
-      "fetched_at": "2026-09-02T03:57:04.959100+00:00",
-      "id": "cbeb8309b2e4",
-      "location": "Remote",
-      "posted_at": "2026-09-02T02:24:46+00:00",
-      "source": "devto",
-      "tags": [
-        "python",
-        "django",
-        "datascience",
-        "jobs"
-      ],
-      "title": "David Stark: Top High-Paying Roles",
-      "url": "https://dev.to/devpulse/david-stark-top-high-paying-roles-3k64"
     }
   ],
-  "updated_at": "2026-09-05T00:48:14.295531+00:00"
+  "updated_at": "2026-09-05T05:29:03.537553+00:00"
 }
