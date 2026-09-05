@@ -14,13 +14,6 @@
       ],
       "last_seen": "2026-09-05T16:41:31.145145+00:00"
     },
-    "Aimwear": {
-      "count": 1,
-      "job_ids": [
-        "abc8e31de8c8"
-      ],
-      "last_seen": "2026-09-02T20:52:13.968276+00:00"
-    },
     "Amazon Web Services (AWS)": {
       "count": 1,
       "job_ids": [
@@ -73,9 +66,9 @@
     "Buffalo Wild Wings - Fralich, Inc.": {
       "count": 1,
       "job_ids": [
-        "1fdac1349f80"
+        "098020254eef"
       ],
-      "last_seen": "2026-09-02T20:52:13.968276+00:00"
+      "last_seen": "2026-09-05T21:03:28.260985+00:00"
     },
     "C2 Group": {
       "count": 1,
@@ -84,19 +77,19 @@
       ],
       "last_seen": "2026-09-05T13:47:57.763792+00:00"
     },
+    "Canada Post / Postes Canada": {
+      "count": 1,
+      "job_ids": [
+        "d71725fdeabd"
+      ],
+      "last_seen": "2026-09-05T21:03:28.260985+00:00"
+    },
     "Carv": {
       "count": 1,
       "job_ids": [
         "c53b1db41795"
       ],
       "last_seen": "2026-09-03T08:51:03.424048+00:00"
-    },
-    "City of York Council": {
-      "count": 1,
-      "job_ids": [
-        "4ec71e3195ed"
-      ],
-      "last_seen": "2026-09-02T20:52:13.968276+00:00"
     },
     "Clutch": {
       "count": 1,
@@ -113,10 +106,9 @@
       "last_seen": "2026-09-04T13:22:04.034891+00:00"
     },
     "Complex Co.": {
-      "count": 2,
+      "count": 1,
       "job_ids": [
-        "f9761e47764b",
-        "bb7ca88ddd4c"
+        "f9761e47764b"
       ],
       "last_seen": "2026-09-04T08:47:06.617520+00:00"
     },
@@ -280,6 +272,13 @@
       ],
       "last_seen": "2026-09-03T20:49:34.414391+00:00"
     },
+    "H&amp;M": {
+      "count": 1,
+      "job_ids": [
+        "459c50495dba"
+      ],
+      "last_seen": "2026-09-05T21:03:28.260985+00:00"
+    },
     "HARTMANN GROUP International": {
       "count": 1,
       "job_ids": [
@@ -300,6 +299,13 @@
         "a6227b62f517"
       ],
       "last_seen": "2026-09-04T13:22:04.034891+00:00"
+    },
+    "Halfords": {
+      "count": 1,
+      "job_ids": [
+        "4cd612bdc5a2"
+      ],
+      "last_seen": "2026-09-05T21:03:28.260985+00:00"
     },
     "Hertz": {
       "count": 1,
@@ -425,33 +431,12 @@
       ],
       "last_seen": "2026-09-03T13:27:30.195929+00:00"
     },
-    "NT Health": {
-      "count": 1,
-      "job_ids": [
-        "2f633a4db665"
-      ],
-      "last_seen": "2026-09-02T20:52:13.968276+00:00"
-    },
-    "Nick Scali Limited": {
-      "count": 1,
-      "job_ids": [
-        "28c3bb23e7db"
-      ],
-      "last_seen": "2026-09-02T20:52:13.968276+00:00"
-    },
     "OrderYOYO": {
       "count": 1,
       "job_ids": [
         "56f90acd7e69"
       ],
       "last_seen": "2026-09-03T17:43:59.205510+00:00"
-    },
-    "PVH Group Inc": {
-      "count": 1,
-      "job_ids": [
-        "ca87e1f7abaf"
-      ],
-      "last_seen": "2026-09-02T20:52:13.968276+00:00"
     },
     "Pembroke School": {
       "count": 1,
@@ -471,6 +456,7 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 23,
       "job_ids": [
+        "e1c8e480a67a",
         "8477d17f7070",
         "ccef9307ad09",
         "c0b9b0f15ca7",
@@ -492,10 +478,9 @@
         "02c7c9487b63",
         "8d9dbc2f8d9e",
         "f8ca1dfcbcc3",
-        "a78f534e71cf",
-        "a5a744e50297"
+        "a78f534e71cf"
       ],
-      "last_seen": "2026-09-05T18:15:07+00:00"
+      "last_seen": "2026-09-05T20:32:12+00:00"
     },
     "Radisson Hotel Group": {
       "count": 1,
@@ -637,6 +622,13 @@
       ],
       "last_seen": "2026-09-04T22:55:42.824799+00:00"
     },
+    "The Russell Inn Hotel &amp; Conference Centre": {
+      "count": 1,
+      "job_ids": [
+        "d7fb8723516b"
+      ],
+      "last_seen": "2026-09-05T21:03:28.260985+00:00"
+    },
     "Thrifty Car and Van Rental": {
       "count": 1,
       "job_ids": [
@@ -753,5 +745,5 @@
       "last_seen": "2026-09-04T13:22:04.034891+00:00"
     }
   },
-  "updated_at": "2026-09-05T18:55:34.896779+00:00"
+  "updated_at": "2026-09-05T21:03:28.260985+00:00"
 }
