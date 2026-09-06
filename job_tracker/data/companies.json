@@ -28,13 +28,6 @@
       ],
       "last_seen": "2026-09-06T16:48:07.570673+00:00"
     },
-    "Astrek Careers": {
-      "count": 1,
-      "job_ids": [
-        "45d631bbd6fd"
-      ],
-      "last_seen": "2026-09-03T20:49:34.414391+00:00"
-    },
     "Atreides": {
       "count": 1,
       "job_ids": [
@@ -48,13 +41,6 @@
         "08991bb5dd0b"
       ],
       "last_seen": "2026-09-04T03:57:54.682789+00:00"
-    },
-    "Blackbird Interactive": {
-      "count": 1,
-      "job_ids": [
-        "63695c1ba827"
-      ],
-      "last_seen": "2026-09-03T20:49:34.414391+00:00"
     },
     "Brooks Brothers": {
       "count": 1,
@@ -180,6 +166,13 @@
       ],
       "last_seen": "2026-09-05T16:41:31.145145+00:00"
     },
+    "Emplyfy": {
+      "count": 1,
+      "job_ids": [
+        "119f31ccd0f6"
+      ],
+      "last_seen": "2026-09-06T21:14:01.444968+00:00"
+    },
     "Ennismore": {
       "count": 1,
       "job_ids": [
@@ -250,13 +243,6 @@
         "a9e8663e1cd3"
       ],
       "last_seen": "2026-09-04T08:47:06.617520+00:00"
-    },
-    "Guardian Electrical Compliance Ltd": {
-      "count": 1,
-      "job_ids": [
-        "98b747ece644"
-      ],
-      "last_seen": "2026-09-03T20:49:34.414391+00:00"
     },
     "H&amp;M": {
       "count": 1,
@@ -394,6 +380,13 @@
       ],
       "last_seen": "2026-09-05T16:41:31.145145+00:00"
     },
+    "Mike Dark": {
+      "count": 1,
+      "job_ids": [
+        "45c4da199985"
+      ],
+      "last_seen": "2026-09-06T19:31:17+00:00"
+    },
     "Mr Clutch Autocentres": {
       "count": 1,
       "job_ids": [
@@ -407,6 +400,13 @@
         "2f633a4db665"
       ],
       "last_seen": "2026-09-05T23:41:34.779989+00:00"
+    },
+    "OrderYOYO": {
+      "count": 1,
+      "job_ids": [
+        "56f90acd7e69"
+      ],
+      "last_seen": "2026-09-06T21:14:01.444968+00:00"
     },
     "PVH Group Inc": {
       "count": 1,
@@ -433,6 +433,7 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 24,
       "job_ids": [
+        "f39e4a96139a",
         "d00b9c673c5f",
         "5e6f93e599c1",
         "f3c4aa00eec3",
@@ -455,10 +456,9 @@
         "755acc514e04",
         "7d85cf69bea8",
         "3e9b9cdee383",
-        "abe944216d81",
-        "e386031de494"
+        "abe944216d81"
       ],
-      "last_seen": "2026-09-06T17:41:08+00:00"
+      "last_seen": "2026-09-06T19:30:48+00:00"
     },
     "Radisson Hotel Group": {
       "count": 1,
@@ -502,13 +502,6 @@
       ],
       "last_seen": "2026-09-04T08:47:06.617520+00:00"
     },
-    "St. George's University": {
-      "count": 1,
-      "job_ids": [
-        "38276f77e61d"
-      ],
-      "last_seen": "2026-09-03T20:49:34.414391+00:00"
-    },
     "St. Regis Hotels &amp; Resorts": {
       "count": 1,
       "job_ids": [
@@ -529,13 +522,6 @@
         "1e81d3ac3a4d"
       ],
       "last_seen": "2026-09-06T16:48:07.570673+00:00"
-    },
-    "Storage King Group": {
-      "count": 1,
-      "job_ids": [
-        "129334ff7ac3"
-      ],
-      "last_seen": "2026-09-03T20:49:34.414391+00:00"
     },
     "Streamline Search": {
       "count": 1,
@@ -564,13 +550,6 @@
         "0f652df17cde"
       ],
       "last_seen": "2026-09-05T00:48:14.295531+00:00"
-    },
-    "Tessera Labs": {
-      "count": 1,
-      "job_ids": [
-        "f18c1fd14d71"
-      ],
-      "last_seen": "2026-09-03T20:49:34.414391+00:00"
     },
     "The AI Whistleblower Initiative": {
       "count": 1,
@@ -636,12 +615,10 @@
       "last_seen": "2026-09-06T13:29:36.818131+00:00"
     },
     "W Hotels": {
-      "count": 4,
+      "count": 2,
       "job_ids": [
         "8bbf75a6d469",
-        "b88670e3de4e",
-        "7b5c65463ee8",
-        "eed48f89c829"
+        "b88670e3de4e"
       ],
       "last_seen": "2026-09-06T09:13:49.518077+00:00"
     },
@@ -658,13 +635,6 @@
         "78fe9a178196"
       ],
       "last_seen": "2026-09-06T16:48:07.570673+00:00"
-    },
-    "Wilco Contractors Northwest Inc.": {
-      "count": 1,
-      "job_ids": [
-        "244d1ee993b2"
-      ],
-      "last_seen": "2026-09-03T20:49:34.414391+00:00"
     },
     "Wipro": {
       "count": 1,
@@ -686,13 +656,6 @@
         "1cb8668b563f"
       ],
       "last_seen": "2026-09-04T17:30:43.732697+00:00"
-    },
-    "WorkaJobs": {
-      "count": 1,
-      "job_ids": [
-        "f69588ecf0e0"
-      ],
-      "last_seen": "2026-09-03T20:49:34.414391+00:00"
     },
     "jidonglab": {
       "count": 1,
@@ -716,5 +679,5 @@
       "last_seen": "2026-09-04T13:22:04.034891+00:00"
     }
   },
-  "updated_at": "2026-09-06T18:58:14.843298+00:00"
+  "updated_at": "2026-09-06T21:14:01.444968+00:00"
 }
