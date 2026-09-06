@@ -21,6 +21,13 @@
       ],
       "last_seen": "2026-09-04T13:22:04.034891+00:00"
     },
+    "Ampol": {
+      "count": 1,
+      "job_ids": [
+        "1cfea869b419"
+      ],
+      "last_seen": "2026-09-06T16:48:07.570673+00:00"
+    },
     "Astrek Careers": {
       "count": 1,
       "job_ids": [
@@ -115,14 +122,14 @@
     "Crackr": {
       "count": 6,
       "job_ids": [
+        "af02066bde72",
+        "8ba97319903a",
         "f26236538706",
         "4aefbef60148",
         "51430efc1e21",
-        "1be6e88e759b",
-        "a4b95bfa0a77",
-        "82c3910aa154"
+        "1be6e88e759b"
       ],
-      "last_seen": "2026-09-05T15:00:16+00:00"
+      "last_seen": "2026-09-06T15:00:16+00:00"
     },
     "Crocs, Inc.": {
       "count": 1,
@@ -394,6 +401,13 @@
       ],
       "last_seen": "2026-09-05T16:41:31.145145+00:00"
     },
+    "Mr Clutch Autocentres": {
+      "count": 1,
+      "job_ids": [
+        "d43d6f2fb706"
+      ],
+      "last_seen": "2026-09-06T16:48:07.570673+00:00"
+    },
     "NT Health": {
       "count": 1,
       "job_ids": [
@@ -433,6 +447,7 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 24,
       "job_ids": [
+        "5e6f93e599c1",
         "f3c4aa00eec3",
         "9f2baad9f816",
         "a3e347151bf8",
@@ -455,10 +470,9 @@
         "3e9b9cdee383",
         "abe944216d81",
         "e386031de494",
-        "d8eed287ea84",
-        "df741fdd6fe2"
+        "d8eed287ea84"
       ],
-      "last_seen": "2026-09-06T12:26:14+00:00"
+      "last_seen": "2026-09-06T15:37:16+00:00"
     },
     "Radisson Hotel Group": {
       "count": 1,
@@ -523,6 +537,13 @@
       ],
       "last_seen": "2026-09-05T00:48:14.295531+00:00"
     },
+    "Stobart": {
+      "count": 1,
+      "job_ids": [
+        "1e81d3ac3a4d"
+      ],
+      "last_seen": "2026-09-06T16:48:07.570673+00:00"
+    },
     "Storage King Group": {
       "count": 1,
       "job_ids": [
@@ -543,6 +564,13 @@
         "cb055b1bced4"
       ],
       "last_seen": "2026-09-04T17:30:43.732697+00:00"
+    },
+    "TRANT ENGINEERING LIMITED": {
+      "count": 1,
+      "job_ids": [
+        "19d1a9b3d292"
+      ],
+      "last_seen": "2026-09-06T16:48:07.570673+00:00"
     },
     "Tap Growth ai": {
       "count": 1,
@@ -578,6 +606,13 @@
         "d7fb8723516b"
       ],
       "last_seen": "2026-09-05T21:03:28.260985+00:00"
+    },
+    "Thrifty Car and Van Rental": {
+      "count": 1,
+      "job_ids": [
+        "172700102f2c"
+      ],
+      "last_seen": "2026-09-06T16:48:07.570673+00:00"
     },
     "U.P.PRO": {
       "count": 1,
@@ -630,6 +665,13 @@
         "b229c41a3801"
       ],
       "last_seen": "2026-09-04T20:36:53.434977+00:00"
+    },
+    "Wellburn Care Homes Ltd": {
+      "count": 1,
+      "job_ids": [
+        "78fe9a178196"
+      ],
+      "last_seen": "2026-09-06T16:48:07.570673+00:00"
     },
     "Wilco Contractors Northwest Inc.": {
       "count": 1,
@@ -688,5 +730,5 @@
       "last_seen": "2026-09-04T13:22:04.034891+00:00"
     }
   },
-  "updated_at": "2026-09-06T13:29:36.818131+00:00"
+  "updated_at": "2026-09-06T16:48:07.570673+00:00"
 }
