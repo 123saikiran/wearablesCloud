@@ -1,6 +1,188 @@
 {
   "jobs": [
     {
+      "company": "WorkaJobs",
+      "fetched_at": "2026-09-06T23:40:23.151325+00:00",
+      "id": "f69588ecf0e0",
+      "location": "Ø¯Ø¨Ù,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "full time"
+      ],
+      "title": "Job Summary",
+      "url": "https://remoteOK.com/remote-jobs/remote-job-summary-workajobs-1137290"
+    },
+    {
+      "company": "St. George's University",
+      "fetched_at": "2026-09-06T23:40:23.151325+00:00",
+      "id": "38276f77e61d",
+      "location": "St. George's,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "sys admin",
+        "teaching",
+        "supervisor",
+        "travel",
+        "exec",
+        "c",
+        "admin",
+        "medical"
+      ],
+      "title": "Driver",
+      "url": "https://remoteOK.com/remote-jobs/remote-driver-st-georges-university-1137289"
+    },
+    {
+      "company": "Astrek Careers",
+      "fetched_at": "2026-09-06T23:40:23.151325+00:00",
+      "id": "45d631bbd6fd",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "non tech",
+        "data entry",
+        "admin",
+        "ops"
+      ],
+      "title": "Data Entry Clerk",
+      "url": "https://remoteOK.com/remote-jobs/remote-data-entry-clerk-astrek-careers-1137286"
+    },
+    {
+      "company": "Wilco Contractors Northwest Inc.",
+      "fetched_at": "2026-09-06T23:40:23.151325+00:00",
+      "id": "244d1ee993b2",
+      "location": "Edmonton,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "math"
+      ],
+      "title": "Grades Person",
+      "url": "https://remoteOK.com/remote-jobs/remote-grades-person-wilco-contractors-northwest-inc-1137293"
+    },
+    {
+      "company": "Guardian Electrical Compliance Ltd",
+      "fetched_at": "2026-09-06T23:40:23.151325+00:00",
+      "id": "98b747ece644",
+      "location": "Oxford,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "microsoft",
+        "testing",
+        "sys admin",
+        "customer support",
+        "dev",
+        "excel",
+        "recruiter",
+        "non tech",
+        "digital nomad"
+      ],
+      "title": "Professional PAT Tester",
+      "url": "https://remoteOK.com/remote-jobs/remote-professional-pat-tester-guardian-electrical-compliance-ltd-1137235"
+    },
+    {
+      "company": "W Hotels",
+      "fetched_at": "2026-09-06T23:40:23.151325+00:00",
+      "id": "7b5c65463ee8",
+      "location": "Albufeira,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "customer support",
+        "finance",
+        "non tech",
+        "supervisor",
+        "c",
+        "exec"
+      ],
+      "title": "Gardener NUSC",
+      "url": "https://remoteOK.com/remote-jobs/remote-gardener-nusc-w-hotels-1137185"
+    },
+    {
+      "company": "W Hotels",
+      "fetched_at": "2026-09-06T23:40:23.151325+00:00",
+      "id": "eed48f89c829",
+      "location": "Albufeira,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "design",
+        "education",
+        "marketing",
+        "travel",
+        "scheme",
+        "ops",
+        "medical",
+        "engineer",
+        "digital nomad",
+        "infosec",
+        "customer support",
+        "exec"
+      ],
+      "title": "Gardener",
+      "url": "https://remoteOK.com/remote-jobs/remote-gardener-w-hotels-1137164"
+    },
+    {
+      "company": "Storage King Group",
+      "fetched_at": "2026-09-06T23:40:23.151325+00:00",
+      "id": "129334ff7ac3",
+      "location": "Rozelle,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec",
+        "virtual assistant",
+        "education",
+        "customer support",
+        "marketing",
+        "travel",
+        "finance",
+        "legal",
+        "sales",
+        "medical",
+        "recruiter",
+        "full time"
+      ],
+      "title": "Assistant Manager",
+      "url": "https://remoteOK.com/remote-jobs/remote-assistant-manager-storage-king-group-1137161"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-06T23:40:23.151325+00:00",
+      "id": "1e2e9547430b",
+      "location": "Remote",
+      "posted_at": "2026-09-06T23:10:30+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3506"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-06T23:40:23.151325+00:00",
+      "id": "04d61bc2ee7a",
+      "location": "Remote",
+      "posted_at": "2026-09-06T21:41:28+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1g6c"
+    },
+    {
       "company": "Emplyfy",
       "fetched_at": "2026-09-06T21:14:01.444968+00:00",
       "id": "119f31ccd0f6",
@@ -2181,58 +2363,7 @@
       ],
       "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-5fmb"
-    },
-    {
-      "company": "Four Seasons",
-      "fetched_at": "2026-09-03T23:08:41.176206+00:00",
-      "id": "4bf724a5e771",
-      "location": "Nassau,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "education",
-        "supervisor",
-        "legal",
-        "non tech"
-      ],
-      "title": "Public Area Attendant",
-      "url": "https://remoteOK.com/remote-jobs/remote-public-area-attendant-four-seasons-1137297"
-    },
-    {
-      "company": "MSC Cruises",
-      "fetched_at": "2026-09-03T23:08:41.176206+00:00",
-      "id": "82f155b3795d",
-      "location": "Rum Cay,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "education",
-        "supervisor",
-        "legal",
-        "non tech",
-        "sys admin",
-        "exec",
-        "engineer"
-      ],
-      "title": "Irrigation Technician",
-      "url": "https://remoteOK.com/remote-jobs/remote-irrigation-technician-msc-cruises-1137298"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-03T23:08:41.176206+00:00",
-      "id": "abe944216d81",
-      "location": "Remote",
-      "posted_at": "2026-09-03T22:23:52+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1p0h"
     }
   ],
-  "updated_at": "2026-09-06T21:14:01.444968+00:00"
+  "updated_at": "2026-09-06T23:40:23.151325+00:00"
 }
