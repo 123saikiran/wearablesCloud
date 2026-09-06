@@ -84,13 +84,6 @@
       ],
       "last_seen": "2026-09-05T21:03:28.260985+00:00"
     },
-    "Carv": {
-      "count": 1,
-      "job_ids": [
-        "c53b1db41795"
-      ],
-      "last_seen": "2026-09-03T08:51:03.424048+00:00"
-    },
     "City of York Council": {
       "count": 1,
       "job_ids": [
@@ -118,13 +111,6 @@
         "f9761e47764b"
       ],
       "last_seen": "2026-09-04T08:47:06.617520+00:00"
-    },
-    "Coogee Chemicals": {
-      "count": 1,
-      "job_ids": [
-        "57d9baa2eec1"
-      ],
-      "last_seen": "2026-09-03T08:51:03.424048+00:00"
     },
     "Copa Airlines": {
       "count": 1,
@@ -166,6 +152,13 @@
       ],
       "last_seen": "2026-09-05T16:41:31.145145+00:00"
     },
+    "Department of Justice and Community Safety, Victoria": {
+      "count": 1,
+      "job_ids": [
+        "aa2e46d11b9b"
+      ],
+      "last_seen": "2026-09-06T09:13:49.518077+00:00"
+    },
     "Digest Media": {
       "count": 1,
       "job_ids": [
@@ -193,13 +186,6 @@
         "119f31ccd0f6"
       ],
       "last_seen": "2026-09-03T17:43:59.205510+00:00"
-    },
-    "Ennismore": {
-      "count": 1,
-      "job_ids": [
-        "136c763436ae"
-      ],
-      "last_seen": "2026-09-03T08:51:03.424048+00:00"
     },
     "FedEx": {
       "count": 1,
@@ -250,6 +236,13 @@
         "ea3789efa1e5"
       ],
       "last_seen": "2026-09-05T00:48:14.295531+00:00"
+    },
+    "Go Auto": {
+      "count": 1,
+      "job_ids": [
+        "5c907233e4f5"
+      ],
+      "last_seen": "2026-09-06T09:13:49.518077+00:00"
     },
     "Greater Pell City Chamber of Commerce": {
       "count": 1,
@@ -336,35 +329,12 @@
       ],
       "last_seen": "2026-09-04T17:30:43.732697+00:00"
     },
-    "Interaction Design Foundation": {
-      "count": 3,
-      "job_ids": [
-        "b68095d25eb0",
-        "4ef5e2cc3787",
-        "6a92d8de124a"
-      ],
-      "last_seen": "2026-09-03T08:51:03.424048+00:00"
-    },
-    "Intuit": {
-      "count": 1,
-      "job_ids": [
-        "72ceedf46d23"
-      ],
-      "last_seen": "2026-09-03T08:51:03.424048+00:00"
-    },
     "JAI HANUMAN UDYOG LIMITED": {
       "count": 1,
       "job_ids": [
         "8438d4420a51"
       ],
       "last_seen": "2026-09-04T08:47:06.617520+00:00"
-    },
-    "JD.COM": {
-      "count": 1,
-      "job_ids": [
-        "e6a0ef256c53"
-      ],
-      "last_seen": "2026-09-03T08:51:03.424048+00:00"
     },
     "JLL": {
       "count": 1,
@@ -461,8 +431,10 @@
       "last_seen": "2026-09-04T17:30:43.732697+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 23,
+      "count": 24,
       "job_ids": [
+        "9f2baad9f816",
+        "a3e347151bf8",
         "4d0721955d06",
         "270c238cd415",
         "e1c8e480a67a",
@@ -484,10 +456,9 @@
         "e386031de494",
         "d8eed287ea84",
         "df741fdd6fe2",
-        "02c7c9487b63",
-        "8d9dbc2f8d9e"
+        "02c7c9487b63"
       ],
-      "last_seen": "2026-09-06T00:02:43+00:00"
+      "last_seen": "2026-09-06T08:53:06+00:00"
     },
     "Radisson Hotel Group": {
       "count": 1,
@@ -517,12 +488,12 @@
       ],
       "last_seen": "2026-09-04T03:57:54.682789+00:00"
     },
-    "Sherborne Schools Group": {
+    "Sigma": {
       "count": 1,
       "job_ids": [
-        "6baf25d55ea4"
+        "d3a9ed230213"
       ],
-      "last_seen": "2026-09-03T08:51:03.424048+00:00"
+      "last_seen": "2026-09-06T09:13:49.518077+00:00"
     },
     "Sisal Hub Albania": {
       "count": 1,
@@ -594,13 +565,6 @@
       ],
       "last_seen": "2026-09-05T00:48:14.295531+00:00"
     },
-    "Tesco": {
-      "count": 1,
-      "job_ids": [
-        "1cfb77c4076e"
-      ],
-      "last_seen": "2026-09-03T08:51:03.424048+00:00"
-    },
     "Tessera Labs": {
       "count": 1,
       "job_ids": [
@@ -664,21 +628,15 @@
       ],
       "last_seen": "2026-09-04T08:47:06.617520+00:00"
     },
-    "Volar Fashion": {
-      "count": 1,
-      "job_ids": [
-        "79c5c777bdb9"
-      ],
-      "last_seen": "2026-09-03T08:51:03.424048+00:00"
-    },
     "W Hotels": {
-      "count": 3,
+      "count": 4,
       "job_ids": [
+        "8bbf75a6d469",
         "b88670e3de4e",
         "7b5c65463ee8",
         "eed48f89c829"
       ],
-      "last_seen": "2026-09-04T22:55:42.824799+00:00"
+      "last_seen": "2026-09-06T09:13:49.518077+00:00"
     },
     "Warehance": {
       "count": 1,
@@ -729,6 +687,13 @@
       ],
       "last_seen": "2026-09-03T20:49:34.414391+00:00"
     },
+    "jidonglab": {
+      "count": 1,
+      "job_ids": [
+        "d885f67452f6"
+      ],
+      "last_seen": "2026-09-06T04:26:43+00:00"
+    },
     "qing": {
       "count": 1,
       "job_ids": [
@@ -744,5 +709,5 @@
       "last_seen": "2026-09-04T13:22:04.034891+00:00"
     }
   },
-  "updated_at": "2026-09-06T04:00:23.645355+00:00"
+  "updated_at": "2026-09-06T09:13:49.518077+00:00"
 }
