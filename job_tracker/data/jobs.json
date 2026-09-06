@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-06T18:58:14.843298+00:00",
+      "id": "d00b9c673c5f",
+      "location": "Remote",
+      "posted_at": "2026-09-06T17:41:08+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-420o"
+    },
+    {
       "company": "Ampol",
       "fetched_at": "2026-09-06T16:48:07.570673+00:00",
       "id": "1cfea869b419",
@@ -2362,58 +2378,7 @@
       ],
       "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3811"
-    },
-    {
-      "company": "Emplyfy",
-      "fetched_at": "2026-09-03T17:43:59.205510+00:00",
-      "id": "119f31ccd0f6",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "customer support",
-        "microsoft",
-        "excel",
-        "sales",
-        "exec"
-      ],
-      "title": "Service Sales Executive",
-      "url": "https://remoteOK.com/remote-jobs/remote-service-sales-executive-emplyfy-1137280"
-    },
-    {
-      "company": "OrderYOYO",
-      "fetched_at": "2026-09-03T17:43:59.205510+00:00",
-      "id": "56f90acd7e69",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "exec",
-        "customer support",
-        "marketing",
-        "scheme",
-        "mobile",
-        "sales"
-      ],
-      "title": "Regional Sales Manager",
-      "url": "https://remoteOK.com/remote-jobs/remote-regional-sales-manager-orderyoyo-1137279"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-03T17:43:59.205510+00:00",
-      "id": "d8eed287ea84",
-      "location": "Remote",
-      "posted_at": "2026-09-03T17:15:06+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4052"
     }
   ],
-  "updated_at": "2026-09-06T16:48:07.570673+00:00"
+  "updated_at": "2026-09-06T18:58:14.843298+00:00"
 }
