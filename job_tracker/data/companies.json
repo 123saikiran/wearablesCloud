@@ -98,6 +98,13 @@
       ],
       "last_seen": "2026-09-05T23:41:34.779989+00:00"
     },
+    "Clutch": {
+      "count": 1,
+      "job_ids": [
+        "7cdd7a0f0a29"
+      ],
+      "last_seen": "2026-09-06T04:00:23.645355+00:00"
+    },
     "Coca-Cola Cambodia Beverage Company Ltd": {
       "count": 1,
       "job_ids": [
@@ -159,13 +166,6 @@
       ],
       "last_seen": "2026-09-05T16:41:31.145145+00:00"
     },
-    "Department of Justice and Community Safety, Victoria": {
-      "count": 1,
-      "job_ids": [
-        "aa2e46d11b9b"
-      ],
-      "last_seen": "2026-09-03T03:56:27.302124+00:00"
-    },
     "Digest Media": {
       "count": 1,
       "job_ids": [
@@ -223,11 +223,12 @@
       "last_seen": "2026-09-05T05:29:03.537553+00:00"
     },
     "Four Seasons": {
-      "count": 1,
+      "count": 2,
       "job_ids": [
+        "61331c618315",
         "4bf724a5e771"
       ],
-      "last_seen": "2026-09-03T23:08:41.176206+00:00"
+      "last_seen": "2026-09-06T04:00:23.645355+00:00"
     },
     "Fronix Services": {
       "count": 1,
@@ -249,13 +250,6 @@
         "ea3789efa1e5"
       ],
       "last_seen": "2026-09-05T00:48:14.295531+00:00"
-    },
-    "Go Auto": {
-      "count": 1,
-      "job_ids": [
-        "5c907233e4f5"
-      ],
-      "last_seen": "2026-09-03T03:56:27.302124+00:00"
     },
     "Greater Pell City Chamber of Commerce": {
       "count": 1,
@@ -469,6 +463,7 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 23,
       "job_ids": [
+        "4d0721955d06",
         "270c238cd415",
         "e1c8e480a67a",
         "8477d17f7070",
@@ -490,10 +485,9 @@
         "d8eed287ea84",
         "df741fdd6fe2",
         "02c7c9487b63",
-        "8d9dbc2f8d9e",
-        "f8ca1dfcbcc3"
+        "8d9dbc2f8d9e"
       ],
-      "last_seen": "2026-09-05T22:15:43+00:00"
+      "last_seen": "2026-09-06T00:02:43+00:00"
     },
     "Radisson Hotel Group": {
       "count": 1,
@@ -529,13 +523,6 @@
         "6baf25d55ea4"
       ],
       "last_seen": "2026-09-03T08:51:03.424048+00:00"
-    },
-    "Sigma": {
-      "count": 1,
-      "job_ids": [
-        "d3a9ed230213"
-      ],
-      "last_seen": "2026-09-03T03:56:27.302124+00:00"
     },
     "Sisal Hub Albania": {
       "count": 1,
@@ -685,12 +672,11 @@
       "last_seen": "2026-09-03T08:51:03.424048+00:00"
     },
     "W Hotels": {
-      "count": 4,
+      "count": 3,
       "job_ids": [
         "b88670e3de4e",
         "7b5c65463ee8",
-        "eed48f89c829",
-        "8bbf75a6d469"
+        "eed48f89c829"
       ],
       "last_seen": "2026-09-04T22:55:42.824799+00:00"
     },
@@ -758,5 +744,5 @@
       "last_seen": "2026-09-04T13:22:04.034891+00:00"
     }
   },
-  "updated_at": "2026-09-05T23:41:34.779989+00:00"
+  "updated_at": "2026-09-06T04:00:23.645355+00:00"
 }

@@ -1,6 +1,69 @@
 {
   "jobs": [
     {
+      "company": "Four Seasons",
+      "fetched_at": "2026-09-06T04:00:23.645355+00:00",
+      "id": "61331c618315",
+      "location": "Nassau,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "payroll",
+        "vfx",
+        "customer support",
+        "dev",
+        "non tech",
+        "digital nomad",
+        "exec",
+        "legal",
+        "engineer"
+      ],
+      "title": "Kitchen Technician",
+      "url": "https://remoteOK.com/remote-jobs/remote-kitchen-technician-four-seasons-1137265"
+    },
+    {
+      "company": "Clutch",
+      "fetched_at": "2026-09-06T04:00:23.645355+00:00",
+      "id": "7cdd7a0f0a29",
+      "location": "Etobicoke,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "customer support",
+        "recruiter",
+        "non tech",
+        "hr",
+        "marketing",
+        "travel",
+        "teaching",
+        "finance",
+        "golang",
+        "medical",
+        "full time",
+        "ops",
+        "sales"
+      ],
+      "title": "Vehicle Detailer",
+      "url": "https://remoteOK.com/remote-jobs/remote-vehicle-detailer-clutch-1137278"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-06T04:00:23.645355+00:00",
+      "id": "4d0721955d06",
+      "location": "Remote",
+      "posted_at": "2026-09-06T00:02:43+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-lal"
+    },
+    {
       "company": "PVH Group Inc",
       "fetched_at": "2026-09-05T23:41:34.779989+00:00",
       "id": "ca87e1f7abaf",
@@ -2361,98 +2424,7 @@
       ],
       "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-19i3"
-    },
-    {
-      "company": "Sigma",
-      "fetched_at": "2026-09-03T03:56:27.302124+00:00",
-      "id": "d3a9ed230213",
-      "location": "Newport,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "infosec",
-        "education",
-        "customer support",
-        "exec",
-        "finance",
-        "medical",
-        "recruiter"
-      ],
-      "title": "Multi Skilled Maintenance Technician",
-      "url": "https://remoteOK.com/remote-jobs/remote-multi-skilled-maintenance-technician-sigma-1137273"
-    },
-    {
-      "company": "W Hotels",
-      "fetched_at": "2026-09-03T03:56:27.302124+00:00",
-      "id": "8bbf75a6d469",
-      "location": "Budapest,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "infosec",
-        "education",
-        "customer support",
-        "exec"
-      ],
-      "title": "Chief Steward",
-      "url": "https://remoteOK.com/remote-jobs/remote-chief-steward-w-hotels-1137272"
-    },
-    {
-      "company": "Department of Justice and Community Safety, Victoria",
-      "fetched_at": "2026-09-03T03:56:27.302124+00:00",
-      "id": "aa2e46d11b9b",
-      "location": "Bendigo,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "infosec",
-        "exec",
-        "medical",
-        "recruiter"
-      ],
-      "title": "Field Officer Bendigo",
-      "url": "https://remoteOK.com/remote-jobs/remote-field-officer-bendigo-department-of-justice-and-community-safety-victoria-1137267"
-    },
-    {
-      "company": "Go Auto",
-      "fetched_at": "2026-09-03T03:56:27.302124+00:00",
-      "id": "5c907233e4f5",
-      "location": "Edmonton,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "education",
-        "customer support",
-        "recruiter",
-        "non tech",
-        "hr",
-        "marketing",
-        "travel",
-        "teaching",
-        "finance",
-        "golang",
-        "medical",
-        "full time"
-      ],
-      "title": "Detailer",
-      "url": "https://remoteOK.com/remote-jobs/remote-detailer-go-auto-1137277"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-03T03:56:27.302124+00:00",
-      "id": "f8ca1dfcbcc3",
-      "location": "Remote",
-      "posted_at": "2026-09-03T00:17:56+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-26ak"
     }
   ],
-  "updated_at": "2026-09-05T23:41:34.779989+00:00"
+  "updated_at": "2026-09-06T04:00:23.645355+00:00"
 }
