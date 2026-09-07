@@ -14,13 +14,6 @@
       ],
       "last_seen": "2026-09-05T16:41:31.145145+00:00"
     },
-    "Amazon Web Services (AWS)": {
-      "count": 1,
-      "job_ids": [
-        "ab36adb3f271"
-      ],
-      "last_seen": "2026-09-04T13:22:04.034891+00:00"
-    },
     "Ampol": {
       "count": 1,
       "job_ids": [
@@ -98,12 +91,12 @@
       ],
       "last_seen": "2026-09-06T04:00:23.645355+00:00"
     },
-    "Coca-Cola Cambodia Beverage Company Ltd": {
+    "Complex Co.": {
       "count": 1,
       "job_ids": [
-        "40925d90d9f8"
+        "f9761e47764b"
       ],
-      "last_seen": "2026-09-04T13:22:04.034891+00:00"
+      "last_seen": "2026-09-07T15:40:57.733417+00:00"
     },
     "Copa Airlines": {
       "count": 1,
@@ -115,14 +108,14 @@
     "Crackr": {
       "count": 6,
       "job_ids": [
+        "d1096b2f7c64",
+        "73c72c63e963",
         "af02066bde72",
         "8ba97319903a",
         "f26236538706",
-        "4aefbef60148",
-        "51430efc1e21",
-        "1be6e88e759b"
+        "4aefbef60148"
       ],
-      "last_seen": "2026-09-06T15:00:16+00:00"
+      "last_seen": "2026-09-07T15:00:16+00:00"
     },
     "Crocs, Inc.": {
       "count": 1,
@@ -244,6 +237,13 @@
       ],
       "last_seen": "2026-09-06T09:13:49.518077+00:00"
     },
+    "Greater Pell City Chamber of Commerce": {
+      "count": 1,
+      "job_ids": [
+        "a9e8663e1cd3"
+      ],
+      "last_seen": "2026-09-07T15:40:57.733417+00:00"
+    },
     "Guardian Electrical Compliance Ltd": {
       "count": 1,
       "job_ids": [
@@ -271,13 +271,6 @@
         "cf5b25c36d15"
       ],
       "last_seen": "2026-09-04T17:30:43.732697+00:00"
-    },
-    "Hacksaw Gaming": {
-      "count": 1,
-      "job_ids": [
-        "a6227b62f517"
-      ],
-      "last_seen": "2026-09-04T13:22:04.034891+00:00"
     },
     "Halfords": {
       "count": 1,
@@ -322,19 +315,19 @@
       ],
       "last_seen": "2026-09-04T17:30:43.732697+00:00"
     },
+    "JAI HANUMAN UDYOG LIMITED": {
+      "count": 1,
+      "job_ids": [
+        "8438d4420a51"
+      ],
+      "last_seen": "2026-09-07T15:40:57.733417+00:00"
+    },
     "JLL": {
       "count": 1,
       "job_ids": [
         "c5b3fc67c73b"
       ],
       "last_seen": "2026-09-04T17:30:43.732697+00:00"
-    },
-    "Jugopetrol AD": {
-      "count": 1,
-      "job_ids": [
-        "96918171a1ed"
-      ],
-      "last_seen": "2026-09-04T13:22:04.034891+00:00"
     },
     "Linsco Ltd": {
       "count": 1,
@@ -426,6 +419,7 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 24,
       "job_ids": [
+        "af2f3b24a728",
         "6e0bafea1a65",
         "55ddab31f559",
         "1e2e9547430b",
@@ -448,10 +442,9 @@
         "e7ad81bc502b",
         "5b8e67de50a5",
         "66d19f585d4a",
-        "717aa912bd46",
-        "98a4f2c4f954"
+        "717aa912bd46"
       ],
-      "last_seen": "2026-09-07T06:04:47+00:00"
+      "last_seen": "2026-09-07T12:25:37+00:00"
     },
     "Radisson Hotel Group": {
       "count": 1,
@@ -459,6 +452,13 @@
         "bbe58d0dacdb"
       ],
       "last_seen": "2026-09-05T00:48:14.295531+00:00"
+    },
+    "Royal Caribbean Group": {
+      "count": 1,
+      "job_ids": [
+        "e6beb621a703"
+      ],
+      "last_seen": "2026-09-07T15:40:57.733417+00:00"
     },
     "Royal Lepage Icon Realty": {
       "count": 1,
@@ -480,6 +480,13 @@
         "d3a9ed230213"
       ],
       "last_seen": "2026-09-06T09:13:49.518077+00:00"
+    },
+    "Sisal Hub Albania": {
+      "count": 1,
+      "job_ids": [
+        "715b254de673"
+      ],
+      "last_seen": "2026-09-07T15:40:57.733417+00:00"
     },
     "St. George's University": {
       "count": 1,
@@ -558,6 +565,13 @@
       ],
       "last_seen": "2026-09-07T09:15:55.973374+00:00"
     },
+    "The AI Whistleblower Initiative": {
+      "count": 1,
+      "job_ids": [
+        "916cd2848e14"
+      ],
+      "last_seen": "2026-09-07T15:40:57.733417+00:00"
+    },
     "The Drinks LLAB": {
       "count": 1,
       "job_ids": [
@@ -579,19 +593,26 @@
       ],
       "last_seen": "2026-09-06T16:48:07.570673+00:00"
     },
-    "U.P.PRO": {
-      "count": 1,
-      "job_ids": [
-        "43fcee87d7e5"
-      ],
-      "last_seen": "2026-09-04T13:22:04.034891+00:00"
-    },
     "Vashi Integrated Solutions": {
       "count": 1,
       "job_ids": [
         "732a27151e8f"
       ],
       "last_seen": "2026-09-04T17:30:43.732697+00:00"
+    },
+    "Vertu Motors plc": {
+      "count": 1,
+      "job_ids": [
+        "6c953a74a85d"
+      ],
+      "last_seen": "2026-09-07T15:40:57.733417+00:00"
+    },
+    "VirtuHire": {
+      "count": 1,
+      "job_ids": [
+        "c1f0f420cfa6"
+      ],
+      "last_seen": "2026-09-07T15:40:57.733417+00:00"
     },
     "Volar Fashion": {
       "count": 1,
@@ -630,6 +651,13 @@
         "244d1ee993b2"
       ],
       "last_seen": "2026-09-06T23:40:23.151325+00:00"
+    },
+    "Wipro": {
+      "count": 1,
+      "job_ids": [
+        "65e8ca7e9245"
+      ],
+      "last_seen": "2026-09-07T15:40:57.733417+00:00"
     },
     "Wonderful": {
       "count": 1,
@@ -672,14 +700,7 @@
         "1d9bb9642d79"
       ],
       "last_seen": "2026-09-05T12:00:08+00:00"
-    },
-    "walkr - turn your Google Meet walk-friendly": {
-      "count": 1,
-      "job_ids": [
-        "124a6c786b66"
-      ],
-      "last_seen": "2026-09-04T13:22:04.034891+00:00"
     }
   },
-  "updated_at": "2026-09-07T09:15:55.973374+00:00"
+  "updated_at": "2026-09-07T15:40:57.733417+00:00"
 }
