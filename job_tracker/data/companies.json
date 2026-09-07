@@ -42,13 +42,6 @@
       ],
       "last_seen": "2026-09-04T22:55:42.824799+00:00"
     },
-    "Benzinga": {
-      "count": 1,
-      "job_ids": [
-        "08991bb5dd0b"
-      ],
-      "last_seen": "2026-09-04T03:57:54.682789+00:00"
-    },
     "Brooks Brothers": {
       "count": 1,
       "job_ids": [
@@ -209,11 +202,12 @@
       "last_seen": "2026-09-05T05:29:03.537553+00:00"
     },
     "Four Seasons": {
-      "count": 1,
+      "count": 2,
       "job_ids": [
+        "4bf724a5e771",
         "61331c618315"
       ],
-      "last_seen": "2026-09-06T04:00:23.645355+00:00"
+      "last_seen": "2026-09-07T03:59:44.889822+00:00"
     },
     "Fronix Services": {
       "count": 1,
@@ -379,6 +373,13 @@
       ],
       "last_seen": "2026-09-05T16:41:31.145145+00:00"
     },
+    "MSC Cruises": {
+      "count": 1,
+      "job_ids": [
+        "82f155b3795d"
+      ],
+      "last_seen": "2026-09-07T03:59:44.889822+00:00"
+    },
     "Marriott International": {
       "count": 1,
       "job_ids": [
@@ -439,6 +440,7 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 25,
       "job_ids": [
+        "55ddab31f559",
         "1e2e9547430b",
         "04d61bc2ee7a",
         "f39e4a96139a",
@@ -462,10 +464,9 @@
         "717aa912bd46",
         "98a4f2c4f954",
         "755acc514e04",
-        "7d85cf69bea8",
-        "3e9b9cdee383"
+        "7d85cf69bea8"
       ],
-      "last_seen": "2026-09-06T23:10:30+00:00"
+      "last_seen": "2026-09-07T01:00:36+00:00"
     },
     "Radisson Hotel Group": {
       "count": 1,
@@ -487,13 +488,6 @@
         "7f166a2a904d"
       ],
       "last_seen": "2026-09-05T00:48:14.295531+00:00"
-    },
-    "Scottish Police Authority": {
-      "count": 1,
-      "job_ids": [
-        "6b875366f962"
-      ],
-      "last_seen": "2026-09-04T03:57:54.682789+00:00"
     },
     "Sigma": {
       "count": 1,
@@ -673,13 +667,6 @@
       ],
       "last_seen": "2026-09-04T08:47:06.617520+00:00"
     },
-    "Wonderful": {
-      "count": 1,
-      "job_ids": [
-        "43e2b2a0b178"
-      ],
-      "last_seen": "2026-09-04T03:57:54.682789+00:00"
-    },
     "Wood": {
       "count": 1,
       "job_ids": [
@@ -693,6 +680,13 @@
         "f69588ecf0e0"
       ],
       "last_seen": "2026-09-06T23:40:23.151325+00:00"
+    },
+    "iMerit Technology": {
+      "count": 1,
+      "job_ids": [
+        "7e56423bc195"
+      ],
+      "last_seen": "2026-09-07T03:59:44.889822+00:00"
     },
     "jidonglab": {
       "count": 1,
@@ -716,5 +710,5 @@
       "last_seen": "2026-09-04T13:22:04.034891+00:00"
     }
   },
-  "updated_at": "2026-09-06T23:40:23.151325+00:00"
+  "updated_at": "2026-09-07T03:59:44.889822+00:00"
 }
