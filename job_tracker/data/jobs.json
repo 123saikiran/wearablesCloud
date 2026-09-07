@@ -1,6 +1,131 @@
 {
   "jobs": [
     {
+      "company": "Scottish Police Authority",
+      "fetched_at": "2026-09-07T09:15:55.973374+00:00",
+      "id": "6b875366f962",
+      "location": "Kirkwall,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "customer support",
+        "recruiter",
+        "non tech"
+      ],
+      "title": "Police Officer",
+      "url": "https://remoteOK.com/remote-jobs/remote-police-officer-scottish-police-authority-1137305"
+    },
+    {
+      "company": "Benzinga",
+      "fetched_at": "2026-09-07T09:15:55.973374+00:00",
+      "id": "08991bb5dd0b",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "golang",
+        "video",
+        "engineer"
+      ],
+      "title": "AI Engineer Data APIs",
+      "url": "https://remoteOK.com/remote-jobs/remote-ai-engineer-data-apis-benzinga-1137224"
+    },
+    {
+      "company": "Wonderful",
+      "fetched_at": "2026-09-07T09:15:55.973374+00:00",
+      "id": "43e2b2a0b178",
+      "location": "Bridgetown,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "saas",
+        "salesforce",
+        "sys admin",
+        "technical",
+        "marketing",
+        "exec",
+        "senior",
+        "sales"
+      ],
+      "title": "GTM",
+      "url": "https://remoteOK.com/remote-jobs/remote-gtm-wonderful-1137225"
+    },
+    {
+      "company": "Blackbird Interactive",
+      "fetched_at": "2026-09-07T09:15:55.973374+00:00",
+      "id": "63695c1ba827",
+      "location": "Vancouver, BC, Canada",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "design",
+        "game dev",
+        "designer",
+        "technical",
+        "customer support",
+        "testing",
+        "content writing",
+        "senior",
+        "engineer",
+        "digital nomad"
+      ],
+      "title": "Senior Level Designer",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-level-designer-blackbird-interactive-1137156"
+    },
+    {
+      "company": "Tessera Labs",
+      "fetched_at": "2026-09-07T09:15:55.973374+00:00",
+      "id": "f18c1fd14d71",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "design",
+        "sys admin",
+        "consulting",
+        "testing",
+        "exec",
+        "cloud",
+        "senior",
+        "ops",
+        "engineer",
+        "ecommerce",
+        "shopify",
+        "full time",
+        "digital nomad"
+      ],
+      "title": "Oracle Fusion Cloud Lead â Logistics & Supply Chain Management",
+      "url": "https://remoteOK.com/remote-jobs/remote-oracle-fusion-cloud-lead-logistics-supply-chain-management-tessera-labs-1137155"
+    },
+    {
+      "company": "Supermercados Mundial",
+      "fetched_at": "2026-09-07T09:15:55.973374+00:00",
+      "id": "18dfc771d38b",
+      "location": "Rio de Janeiro e RegiÃ£o,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [],
+      "title": "Ajudante Geral",
+      "url": "https://remoteOK.com/remote-jobs/remote-ajudante-geral-supermercados-mundial-1137252"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-07T09:15:55.973374+00:00",
+      "id": "6e0bafea1a65",
+      "location": "Remote",
+      "posted_at": "2026-09-07T06:04:47+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1n7e"
+    },
+    {
       "company": "iMerit Technology",
       "fetched_at": "2026-09-07T03:59:44.889822+00:00",
       "id": "7e56423bc195",
@@ -2146,223 +2271,7 @@
       ],
       "title": "Cloud Computing",
       "url": "https://remoteOK.com/remote-jobs/remote-cloud-computing-amazon-web-services-aws-1137231"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-04T13:22:04.034891+00:00",
-      "id": "755acc514e04",
-      "location": "Remote",
-      "posted_at": "2026-09-04T09:02:28+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-28l2"
-    },
-    {
-      "company": "Complex Co.",
-      "fetched_at": "2026-09-04T08:47:06.617520+00:00",
-      "id": "f9761e47764b",
-      "location": "Canberra,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "technical",
-        "customer support",
-        "microsoft",
-        "exec",
-        "junior",
-        "excel",
-        "recruiter"
-      ],
-      "title": "Commercial Building Estimator",
-      "url": "https://remoteOK.com/remote-jobs/remote-commercial-building-estimator-complex-co-1137228"
-    },
-    {
-      "company": "Wipro",
-      "fetched_at": "2026-09-04T08:47:06.617520+00:00",
-      "id": "65e8ca7e9245",
-      "location": "Chennai,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "architecture",
-        "design",
-        "digital nomad"
-      ],
-      "title": "ENTERPRISE ARCHITECT L0",
-      "url": "https://remoteOK.com/remote-jobs/remote-enterprise-architect-l0-wipro-1137226"
-    },
-    {
-      "company": "Vertu Motors plc",
-      "fetched_at": "2026-09-04T08:47:06.617520+00:00",
-      "id": "6c953a74a85d",
-      "location": "Dunfermline,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "exec",
-        "hr",
-        "education",
-        "game dev",
-        "customer support",
-        "dev",
-        "marketing",
-        "finance",
-        "flutter",
-        "medical",
-        "digital nomad",
-        "scheme",
-        "sales"
-      ],
-      "title": "Vehicle Progressor",
-      "url": "https://remoteOK.com/remote-jobs/remote-vehicle-progressor-vertu-motors-plc-1137176"
-    },
-    {
-      "company": "VirtuHire",
-      "fetched_at": "2026-09-04T08:47:06.617520+00:00",
-      "id": "c1f0f420cfa6",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "amazon",
-        "technical",
-        "customer support",
-        "quality assurance",
-        "video",
-        "exec",
-        "senior",
-        "ops",
-        "excel",
-        "full time"
-      ],
-      "title": "Programmatic Campaign Operations Specialist Trader",
-      "url": "https://remoteOK.com/remote-jobs/remote-programmatic-campaign-operations-specialist-trader-virtuhire-1137169"
-    },
-    {
-      "company": "Sisal Hub Albania",
-      "fetched_at": "2026-09-04T08:47:06.617520+00:00",
-      "id": "715b254de673",
-      "location": "Tirana,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "exec",
-        "hr",
-        "education",
-        "game dev",
-        "customer support",
-        "dev",
-        "marketing",
-        "finance",
-        "flutter",
-        "medical",
-        "digital nomad"
-      ],
-      "title": "People Director",
-      "url": "https://remoteOK.com/remote-jobs/remote-people-director-sisal-hub-albania-1137175"
-    },
-    {
-      "company": "JAI HANUMAN UDYOG LIMITED",
-      "fetched_at": "2026-09-04T08:47:06.617520+00:00",
-      "id": "8438d4420a51",
-      "location": "Odisha,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "testing",
-        "non tech",
-        "medical"
-      ],
-      "title": "Health Safety Environment",
-      "url": "https://remoteOK.com/remote-jobs/remote-health-safety-environment-jai-hanuman-udyog-limited-1137180"
-    },
-    {
-      "company": "Royal Caribbean Group",
-      "fetched_at": "2026-09-04T08:47:06.617520+00:00",
-      "id": "e6beb621a703",
-      "location": "Nassau,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "sys admin",
-        "sourcer",
-        "customer support",
-        "dev",
-        "exec",
-        "ops",
-        "marketing",
-        "excel",
-        "golang",
-        "recruiter",
-        "digital nomad"
-      ],
-      "title": "Sourcer Private Destinations",
-      "url": "https://remoteOK.com/remote-jobs/remote-sourcer-private-destinations-royal-caribbean-group-1137172"
-    },
-    {
-      "company": "Larsen &amp; Toubro",
-      "fetched_at": "2026-09-04T08:47:06.617520+00:00",
-      "id": "2a7983a8bc72",
-      "location": "Greater Chennai Area,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "testing",
-        "non tech"
-      ],
-      "title": "Test",
-      "url": "https://remoteOK.com/remote-jobs/remote-test-larsen-amp-toubro-1137178"
-    },
-    {
-      "company": "The AI Whistleblower Initiative",
-      "fetched_at": "2026-09-04T08:47:06.617520+00:00",
-      "id": "916cd2848e14",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "golang",
-        "engineer"
-      ],
-      "title": "Principal Engineer",
-      "url": "https://remoteOK.com/remote-jobs/remote-principal-engineer-the-ai-whistleblower-initiative-1137162"
-    },
-    {
-      "company": "Greater Pell City Chamber of Commerce",
-      "fetched_at": "2026-09-04T08:47:06.617520+00:00",
-      "id": "a9e8663e1cd3",
-      "location": "Lincoln,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "marketing",
-        "non tech"
-      ],
-      "title": "Now Hiring",
-      "url": "https://remoteOK.com/remote-jobs/remote-now-hiring-greater-pell-city-chamber-of-commerce-1137165"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-04T08:47:06.617520+00:00",
-      "id": "7d85cf69bea8",
-      "location": "Remote",
-      "posted_at": "2026-09-04T04:34:38+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4j25"
     }
   ],
-  "updated_at": "2026-09-07T03:59:44.889822+00:00"
+  "updated_at": "2026-09-07T09:15:55.973374+00:00"
 }
