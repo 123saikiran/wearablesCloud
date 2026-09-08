@@ -35,13 +35,6 @@
       ],
       "last_seen": "2026-09-06T23:40:23.151325+00:00"
     },
-    "Atreides": {
-      "count": 1,
-      "job_ids": [
-        "507ba5b74900"
-      ],
-      "last_seen": "2026-09-04T22:55:42.824799+00:00"
-    },
     "Benzinga": {
       "count": 1,
       "job_ids": [
@@ -55,13 +48,6 @@
         "63695c1ba827"
       ],
       "last_seen": "2026-09-07T09:15:55.973374+00:00"
-    },
-    "Brooks Brothers": {
-      "count": 1,
-      "job_ids": [
-        "ccf73e620dbb"
-      ],
-      "last_seen": "2026-09-05T00:48:14.295531+00:00"
     },
     "Buffalo Wild Wings - Fralich, Inc.": {
       "count": 1,
@@ -194,20 +180,6 @@
       ],
       "last_seen": "2026-09-06T13:29:36.818131+00:00"
     },
-    "FedEx": {
-      "count": 1,
-      "job_ids": [
-        "5f2969c27594"
-      ],
-      "last_seen": "2026-09-05T00:48:14.295531+00:00"
-    },
-    "Fifth Avenue Properties / Fifth Avenue Homes": {
-      "count": 1,
-      "job_ids": [
-        "0ba85f873ea6"
-      ],
-      "last_seen": "2026-09-04T22:55:42.824799+00:00"
-    },
     "Food Basics": {
       "count": 1,
       "job_ids": [
@@ -223,26 +195,12 @@
       ],
       "last_seen": "2026-09-07T03:59:44.889822+00:00"
     },
-    "Fronix Services": {
-      "count": 1,
-      "job_ids": [
-        "af34f3a632ef"
-      ],
-      "last_seen": "2026-09-04T22:55:42.824799+00:00"
-    },
     "GAV Resorts": {
       "count": 1,
       "job_ids": [
         "316b0a8df47a"
       ],
       "last_seen": "2026-09-07T22:41:37.306503+00:00"
-    },
-    "Gildan": {
-      "count": 1,
-      "job_ids": [
-        "ea3789efa1e5"
-      ],
-      "last_seen": "2026-09-05T00:48:14.295531+00:00"
     },
     "Go Auto": {
       "count": 1,
@@ -350,13 +308,6 @@
       ],
       "last_seen": "2026-09-07T19:46:07.074584+00:00"
     },
-    "Linsco Ltd": {
-      "count": 1,
-      "job_ids": [
-        "26f98e5432be"
-      ],
-      "last_seen": "2026-09-05T00:48:14.295531+00:00"
-    },
     "Lluc Verdaguer Macias": {
       "count": 1,
       "job_ids": [
@@ -422,13 +373,6 @@
       ],
       "last_seen": "2026-09-05T23:41:34.779989+00:00"
     },
-    "Pembroke School": {
-      "count": 1,
-      "job_ids": [
-        "2fcbbf5c1e1d"
-      ],
-      "last_seen": "2026-09-04T22:55:42.824799+00:00"
-    },
     "Pete's Frootique": {
       "count": 2,
       "job_ids": [
@@ -440,6 +384,7 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 22,
       "job_ids": [
+        "208aaef48214",
         "2a126fde98b1",
         "af2f3b24a728",
         "6e0bafea1a65",
@@ -460,17 +405,9 @@
         "c0b9b0f15ca7",
         "badc75680ec8",
         "2beba2c529cc",
-        "73d7560c4f56",
-        "e7ad81bc502b"
+        "73d7560c4f56"
       ],
-      "last_seen": "2026-09-07T20:49:15+00:00"
-    },
-    "Radisson Hotel Group": {
-      "count": 1,
-      "job_ids": [
-        "bbe58d0dacdb"
-      ],
-      "last_seen": "2026-09-05T00:48:14.295531+00:00"
+      "last_seen": "2026-09-07T23:03:14+00:00"
     },
     "Royal Caribbean Group": {
       "count": 1,
@@ -478,13 +415,6 @@
         "e6beb621a703"
       ],
       "last_seen": "2026-09-07T15:40:57.733417+00:00"
-    },
-    "Royal Lepage Icon Realty": {
-      "count": 1,
-      "job_ids": [
-        "7f166a2a904d"
-      ],
-      "last_seen": "2026-09-05T00:48:14.295531+00:00"
     },
     "Scottish Police Authority": {
       "count": 1,
@@ -521,13 +451,6 @@
       ],
       "last_seen": "2026-09-05T16:41:31.145145+00:00"
     },
-    "Stanley Black &amp; Decker, Inc.": {
-      "count": 1,
-      "job_ids": [
-        "55ad3d8aceec"
-      ],
-      "last_seen": "2026-09-05T00:48:14.295531+00:00"
-    },
     "Stobart": {
       "count": 1,
       "job_ids": [
@@ -541,13 +464,6 @@
         "129334ff7ac3"
       ],
       "last_seen": "2026-09-06T23:40:23.151325+00:00"
-    },
-    "Streamline Search": {
-      "count": 1,
-      "job_ids": [
-        "6da040801641"
-      ],
-      "last_seen": "2026-09-04T22:55:42.824799+00:00"
     },
     "SunnyData": {
       "count": 1,
@@ -570,13 +486,6 @@
       ],
       "last_seen": "2026-09-06T16:48:07.570673+00:00"
     },
-    "Tap Growth ai": {
-      "count": 1,
-      "job_ids": [
-        "0f652df17cde"
-      ],
-      "last_seen": "2026-09-05T00:48:14.295531+00:00"
-    },
     "Tessera Labs": {
       "count": 1,
       "job_ids": [
@@ -590,13 +499,6 @@
         "916cd2848e14"
       ],
       "last_seen": "2026-09-07T15:40:57.733417+00:00"
-    },
-    "The Drinks LLAB": {
-      "count": 1,
-      "job_ids": [
-        "55928a01d258"
-      ],
-      "last_seen": "2026-09-04T22:55:42.824799+00:00"
     },
     "The Russell Inn Hotel &amp; Conference Centre": {
       "count": 1,
@@ -648,14 +550,20 @@
       "last_seen": "2026-09-06T13:29:36.818131+00:00"
     },
     "W Hotels": {
-      "count": 4,
+      "count": 3,
       "job_ids": [
         "7b5c65463ee8",
         "eed48f89c829",
-        "8bbf75a6d469",
-        "b88670e3de4e"
+        "8bbf75a6d469"
       ],
       "last_seen": "2026-09-06T23:40:23.151325+00:00"
+    },
+    "Warehance": {
+      "count": 1,
+      "job_ids": [
+        "b229c41a3801"
+      ],
+      "last_seen": "2026-09-08T01:03:24.341371+00:00"
     },
     "Wellburn Care Homes Ltd": {
       "count": 1,
@@ -728,5 +636,5 @@
       "last_seen": "2026-09-07T19:46:07.074584+00:00"
     }
   },
-  "updated_at": "2026-09-07T22:41:37.306503+00:00"
+  "updated_at": "2026-09-08T01:03:24.341371+00:00"
 }
