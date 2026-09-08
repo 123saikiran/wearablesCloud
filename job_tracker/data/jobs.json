@@ -1,6 +1,77 @@
 {
   "jobs": [
     {
+      "company": "Food Basics",
+      "fetched_at": "2026-09-08T12:46:45.859942+00:00",
+      "id": "544014e7a36d",
+      "location": "Waterloo,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "sys admin",
+        "customer support",
+        "education",
+        "exec",
+        "sales",
+        "golang",
+        "recruiter",
+        "full time"
+      ],
+      "title": "Produce Clerk",
+      "url": "https://remoteOK.com/remote-jobs/remote-produce-clerk-food-basics-1137247"
+    },
+    {
+      "company": "Digest Media",
+      "fetched_at": "2026-09-08T12:46:45.859942+00:00",
+      "id": "665fa257e8da",
+      "location": "Newcastle,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "design",
+        "consulting",
+        "exec",
+        "ops",
+        "engineer",
+        "digital nomad",
+        "testing"
+      ],
+      "title": "Test",
+      "url": "https://remoteOK.com/remote-jobs/remote-test-digest-media-1137198"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-08T12:46:45.859942+00:00",
+      "id": "0a08fa4429c5",
+      "location": "Remote",
+      "posted_at": "2026-09-08T10:35:50+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-464d"
+    },
+    {
+      "company": "Ava Bagherzadeh",
+      "fetched_at": "2026-09-08T12:46:45.859942+00:00",
+      "id": "82477be3df00",
+      "location": "Remote",
+      "posted_at": "2026-09-08T08:48:15+00:00",
+      "source": "devto",
+      "tags": [
+        "career",
+        "jobs",
+        "productivity",
+        "discuss"
+      ],
+      "title": "The counter-intuitive thing job seekers started doing in 2026",
+      "url": "https://dev.to/whateverneveranywhere/the-counter-intuitive-thing-job-seekers-started-doing-in-2026-44aj"
+    },
+    {
       "company": "Brooks Brothers",
       "fetched_at": "2026-09-08T07:08:25.931531+00:00",
       "id": "ccf73e620dbb",
@@ -2274,85 +2345,7 @@
       ],
       "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2l6l"
-    },
-    {
-      "company": "qing",
-      "fetched_at": "2026-09-05T13:47:57.763792+00:00",
-      "id": "1d9bb9642d79",
-      "location": "Remote",
-      "posted_at": "2026-09-05T12:00:08+00:00",
-      "source": "devto",
-      "tags": [
-        "python",
-        "webscraping",
-        "jobs",
-        "automation"
-      ],
-      "title": "Build a Job Board Scraper to Find Remote Opportunities",
-      "url": "https://dev.to/qingluan/build-a-job-board-scraper-to-find-remote-opportunities-351e"
-    },
-    {
-      "company": "Hola Moda",
-      "fetched_at": "2026-09-05T10:21:06.773007+00:00",
-      "id": "747d0c3de6ad",
-      "location": "Valencia,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "exec",
-        "c"
-      ],
-      "title": "Store Manager",
-      "url": "https://remoteOK.com/remote-jobs/remote-store-manager-hola-moda-1137206"
-    },
-    {
-      "company": "Hola Moda",
-      "fetched_at": "2026-09-05T10:21:06.773007+00:00",
-      "id": "f3b8267fcb77",
-      "location": "Valencia,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [],
-      "title": "Visual Merchandiser",
-      "url": "https://remoteOK.com/remote-jobs/remote-visual-merchandiser-hola-moda-1137205"
-    },
-    {
-      "company": "Dart",
-      "fetched_at": "2026-09-05T10:21:06.773007+00:00",
-      "id": "3f4e1af97d62",
-      "location": "George Town,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "sys admin",
-        "education",
-        "technical",
-        "customer support",
-        "marketing",
-        "travel",
-        "medical",
-        "engineer",
-        "full time"
-      ],
-      "title": "Building Maintenance Technician",
-      "url": "https://remoteOK.com/remote-jobs/remote-building-maintenance-technician-dart-1137212"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-05T10:21:06.773007+00:00",
-      "id": "badc75680ec8",
-      "location": "Remote",
-      "posted_at": "2026-09-05T09:58:27+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1i0a"
     }
   ],
-  "updated_at": "2026-09-08T07:08:25.931531+00:00"
+  "updated_at": "2026-09-08T12:46:45.859942+00:00"
 }

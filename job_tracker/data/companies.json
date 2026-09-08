@@ -42,6 +42,13 @@
       ],
       "last_seen": "2026-09-08T07:08:25.931531+00:00"
     },
+    "Ava Bagherzadeh": {
+      "count": 1,
+      "job_ids": [
+        "82477be3df00"
+      ],
+      "last_seen": "2026-09-08T08:48:15+00:00"
+    },
     "Benzinga": {
       "count": 1,
       "job_ids": [
@@ -138,13 +145,6 @@
       ],
       "last_seen": "2026-09-07T22:41:37.306503+00:00"
     },
-    "Dart": {
-      "count": 1,
-      "job_ids": [
-        "3f4e1af97d62"
-      ],
-      "last_seen": "2026-09-05T10:21:06.773007+00:00"
-    },
     "Delta Hotels by Marriott Edinburgh": {
       "count": 1,
       "job_ids": [
@@ -158,6 +158,13 @@
         "aa2e46d11b9b"
       ],
       "last_seen": "2026-09-06T09:13:49.518077+00:00"
+    },
+    "Digest Media": {
+      "count": 1,
+      "job_ids": [
+        "665fa257e8da"
+      ],
+      "last_seen": "2026-09-08T12:46:45.859942+00:00"
     },
     "Elements Recruitment Australia": {
       "count": 1,
@@ -200,6 +207,13 @@
         "0ba85f873ea6"
       ],
       "last_seen": "2026-09-08T07:08:25.931531+00:00"
+    },
+    "Food Basics": {
+      "count": 1,
+      "job_ids": [
+        "544014e7a36d"
+      ],
+      "last_seen": "2026-09-08T12:46:45.859942+00:00"
     },
     "Four Seasons": {
       "count": 2,
@@ -292,14 +306,6 @@
         "69b63a4922b7"
       ],
       "last_seen": "2026-09-07T22:41:37.306503+00:00"
-    },
-    "Hola Moda": {
-      "count": 2,
-      "job_ids": [
-        "747d0c3de6ad",
-        "f3b8267fcb77"
-      ],
-      "last_seen": "2026-09-05T10:21:06.773007+00:00"
     },
     "Hovis Bakeries": {
       "count": 1,
@@ -426,6 +432,7 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 22,
       "job_ids": [
+        "0a08fa4429c5",
         "9041ac5187ec",
         "16a7a5514c84",
         "208aaef48214",
@@ -446,10 +453,9 @@
         "e1c8e480a67a",
         "8477d17f7070",
         "ccef9307ad09",
-        "c0b9b0f15ca7",
-        "badc75680ec8"
+        "c0b9b0f15ca7"
       ],
-      "last_seen": "2026-09-08T05:56:45+00:00"
+      "last_seen": "2026-09-08T10:35:50+00:00"
     },
     "Radisson Hotel Group": {
       "count": 1,
@@ -706,13 +712,6 @@
       ],
       "last_seen": "2026-09-06T04:26:43+00:00"
     },
-    "qing": {
-      "count": 1,
-      "job_ids": [
-        "1d9bb9642d79"
-      ],
-      "last_seen": "2026-09-05T12:00:08+00:00"
-    },
     "walkr - turn your Google Meet walk-friendly": {
       "count": 1,
       "job_ids": [
@@ -721,5 +720,5 @@
       "last_seen": "2026-09-07T19:46:07.074584+00:00"
     }
   },
-  "updated_at": "2026-09-08T07:08:25.931531+00:00"
+  "updated_at": "2026-09-08T12:46:45.859942+00:00"
 }
