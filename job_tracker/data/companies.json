@@ -7,6 +7,13 @@
       ],
       "last_seen": "2026-09-07T22:41:37.306503+00:00"
     },
+    "Acumentis Group": {
+      "count": 1,
+      "job_ids": [
+        "dd8550c8db61"
+      ],
+      "last_seen": "2026-09-08T20:58:56.709721+00:00"
+    },
     "Amazon Web Services (AWS)": {
       "count": 1,
       "job_ids": [
@@ -70,12 +77,26 @@
       ],
       "last_seen": "2026-09-05T21:03:28.260985+00:00"
     },
+    "C2 Group": {
+      "count": 1,
+      "job_ids": [
+        "5054c7640f18"
+      ],
+      "last_seen": "2026-09-08T20:58:56.709721+00:00"
+    },
     "Canada Post / Postes Canada": {
       "count": 1,
       "job_ids": [
         "d71725fdeabd"
       ],
       "last_seen": "2026-09-05T21:03:28.260985+00:00"
+    },
+    "Carv": {
+      "count": 1,
+      "job_ids": [
+        "c53b1db41795"
+      ],
+      "last_seen": "2026-09-08T20:58:56.709721+00:00"
     },
     "City of York Council": {
       "count": 1,
@@ -105,6 +126,13 @@
       ],
       "last_seen": "2026-09-07T15:40:57.733417+00:00"
     },
+    "Copa Airlines": {
+      "count": 1,
+      "job_ids": [
+        "03b587da9545"
+      ],
+      "last_seen": "2026-09-08T20:58:56.709721+00:00"
+    },
     "Crackr": {
       "count": 6,
       "job_ids": [
@@ -131,6 +159,13 @@
       ],
       "last_seen": "2026-09-08T17:11:32.486205+00:00"
     },
+    "Delta Hotels by Marriott Edinburgh": {
+      "count": 1,
+      "job_ids": [
+        "19dd76245f69"
+      ],
+      "last_seen": "2026-09-08T20:58:56.709721+00:00"
+    },
     "Department of Justice and Community Safety, Victoria": {
       "count": 1,
       "job_ids": [
@@ -144,6 +179,20 @@
         "665fa257e8da"
       ],
       "last_seen": "2026-09-08T12:46:45.859942+00:00"
+    },
+    "Elements Recruitment Australia": {
+      "count": 1,
+      "job_ids": [
+        "71d7458f08aa"
+      ],
+      "last_seen": "2026-09-08T20:58:56.709721+00:00"
+    },
+    "Empire Assets": {
+      "count": 1,
+      "job_ids": [
+        "b448eb571a3a"
+      ],
+      "last_seen": "2026-09-08T20:58:56.709721+00:00"
     },
     "Emplyfy": {
       "count": 1,
@@ -258,6 +307,13 @@
       ],
       "last_seen": "2026-09-05T21:03:28.260985+00:00"
     },
+    "Hertz": {
+      "count": 1,
+      "job_ids": [
+        "69f3a8238ed4"
+      ],
+      "last_seen": "2026-09-08T20:58:56.709721+00:00"
+    },
     "Hilton Salwa Beach Resort &amp; Villas": {
       "count": 1,
       "job_ids": [
@@ -272,6 +328,13 @@
         "f3b8267fcb77"
       ],
       "last_seen": "2026-09-08T17:11:32.486205+00:00"
+    },
+    "Hovis Bakeries": {
+      "count": 1,
+      "job_ids": [
+        "6b2c33ff7663"
+      ],
+      "last_seen": "2026-09-08T20:58:56.709721+00:00"
     },
     "ITC Limited": {
       "count": 1,
@@ -315,12 +378,28 @@
       ],
       "last_seen": "2026-09-06T10:31:59+00:00"
     },
+    "Localiza&amp;Co": {
+      "count": 3,
+      "job_ids": [
+        "89110adaa1f1",
+        "0c98dcd56261",
+        "fc6f8ae81319"
+      ],
+      "last_seen": "2026-09-08T20:58:56.709721+00:00"
+    },
     "MSC Cruises": {
       "count": 1,
       "job_ids": [
         "82f155b3795d"
       ],
       "last_seen": "2026-09-07T03:59:44.889822+00:00"
+    },
+    "Marriott International": {
+      "count": 1,
+      "job_ids": [
+        "8fe1b3733596"
+      ],
+      "last_seen": "2026-09-08T20:58:56.709721+00:00"
     },
     "Mike Dark": {
       "count": 1,
@@ -373,8 +452,9 @@
       "last_seen": "2026-09-07T22:41:37.306503+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 21,
+      "count": 20,
       "job_ids": [
+        "3950d21c3a76",
         "1acfdd4aaa7f",
         "0a08fa4429c5",
         "9041ac5187ec",
@@ -393,11 +473,9 @@
         "9f2baad9f816",
         "a3e347151bf8",
         "4d0721955d06",
-        "270c238cd415",
-        "e1c8e480a67a",
-        "8477d17f7070"
+        "270c238cd415"
       ],
-      "last_seen": "2026-09-08T14:46:03+00:00"
+      "last_seen": "2026-09-08T18:09:02+00:00"
     },
     "Radisson Hotel Group": {
       "count": 1,
@@ -447,6 +525,13 @@
         "38276f77e61d"
       ],
       "last_seen": "2026-09-06T23:40:23.151325+00:00"
+    },
+    "St. Regis Hotels &amp; Resorts": {
+      "count": 1,
+      "job_ids": [
+        "2c7a0515e650"
+      ],
+      "last_seen": "2026-09-08T20:58:56.709721+00:00"
     },
     "Stanley Black &amp; Decker, Inc.": {
       "count": 1,
@@ -655,5 +740,5 @@
       "last_seen": "2026-09-07T19:46:07.074584+00:00"
     }
   },
-  "updated_at": "2026-09-08T17:11:32.486205+00:00"
+  "updated_at": "2026-09-08T20:58:56.709721+00:00"
 }
