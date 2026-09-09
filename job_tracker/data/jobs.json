@@ -1,6 +1,121 @@
 {
   "jobs": [
     {
+      "company": "Four Seasons",
+      "fetched_at": "2026-09-09T09:30:11.703599+00:00",
+      "id": "61331c618315",
+      "location": "Nassau,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "payroll",
+        "vfx",
+        "customer support",
+        "dev",
+        "non tech",
+        "digital nomad",
+        "exec",
+        "legal",
+        "engineer"
+      ],
+      "title": "Kitchen Technician",
+      "url": "https://remoteOK.com/remote-jobs/remote-kitchen-technician-four-seasons-1137265"
+    },
+    {
+      "company": "Clutch",
+      "fetched_at": "2026-09-09T09:30:11.703599+00:00",
+      "id": "7cdd7a0f0a29",
+      "location": "Etobicoke,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "customer support",
+        "recruiter",
+        "non tech",
+        "hr",
+        "marketing",
+        "travel",
+        "teaching",
+        "finance",
+        "golang",
+        "medical",
+        "full time",
+        "ops",
+        "sales"
+      ],
+      "title": "Vehicle Detailer",
+      "url": "https://remoteOK.com/remote-jobs/remote-vehicle-detailer-clutch-1137278"
+    },
+    {
+      "company": "PVH Group Inc",
+      "fetched_at": "2026-09-09T09:30:11.703599+00:00",
+      "id": "ca87e1f7abaf",
+      "location": "Bridgetown,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "payroll",
+        "vfx",
+        "customer support",
+        "dev",
+        "non tech",
+        "digital nomad"
+      ],
+      "title": "Payroll Clerk",
+      "url": "https://remoteOK.com/remote-jobs/remote-payroll-clerk-pvh-group-inc-1137264"
+    },
+    {
+      "company": "NT Health",
+      "fetched_at": "2026-09-09T09:30:11.703599+00:00",
+      "id": "2f633a4db665",
+      "location": "Katherine,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "supervisor",
+        "customer support",
+        "medical",
+        "non tech"
+      ],
+      "title": "Domestic",
+      "url": "https://remoteOK.com/remote-jobs/remote-domestic-nt-health-1137261"
+    },
+    {
+      "company": "City of York Council",
+      "fetched_at": "2026-09-09T09:30:11.703599+00:00",
+      "id": "4ec71e3195ed",
+      "location": "York,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "scheme",
+        "medical",
+        "engineer",
+        "customer support",
+        "c",
+        "exec"
+      ],
+      "title": "Joiner",
+      "url": "https://remoteOK.com/remote-jobs/remote-joiner-city-of-york-council-1137263"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-09T09:30:11.703599+00:00",
+      "id": "99247e25278f",
+      "location": "Remote",
+      "posted_at": "2026-09-09T06:10:07+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4dao"
+    },
+    {
       "company": "NOPE",
       "fetched_at": "2026-09-09T04:08:42.917168+00:00",
       "id": "2d6c3bce7fd7",
@@ -2178,130 +2293,7 @@
       ],
       "title": "The 4-paragraph developer cover letter that actually gets read (under 200 words, with a full example)",
       "url": "https://dev.to/lluc_verdaguermacias_a09/the-4-paragraph-developer-cover-letter-that-actually-gets-read-under-200-words-with-a-full-52c7"
-    },
-    {
-      "company": "Sigma",
-      "fetched_at": "2026-09-06T09:13:49.518077+00:00",
-      "id": "d3a9ed230213",
-      "location": "Newport,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "infosec",
-        "education",
-        "customer support",
-        "exec",
-        "finance",
-        "medical",
-        "recruiter"
-      ],
-      "title": "Multi Skilled Maintenance Technician",
-      "url": "https://remoteOK.com/remote-jobs/remote-multi-skilled-maintenance-technician-sigma-1137273"
-    },
-    {
-      "company": "W Hotels",
-      "fetched_at": "2026-09-06T09:13:49.518077+00:00",
-      "id": "8bbf75a6d469",
-      "location": "Budapest,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "infosec",
-        "education",
-        "customer support",
-        "exec"
-      ],
-      "title": "Chief Steward",
-      "url": "https://remoteOK.com/remote-jobs/remote-chief-steward-w-hotels-1137272"
-    },
-    {
-      "company": "Department of Justice and Community Safety, Victoria",
-      "fetched_at": "2026-09-06T09:13:49.518077+00:00",
-      "id": "aa2e46d11b9b",
-      "location": "Bendigo,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "infosec",
-        "exec",
-        "medical",
-        "recruiter"
-      ],
-      "title": "Field Officer Bendigo",
-      "url": "https://remoteOK.com/remote-jobs/remote-field-officer-bendigo-department-of-justice-and-community-safety-victoria-1137267"
-    },
-    {
-      "company": "Go Auto",
-      "fetched_at": "2026-09-06T09:13:49.518077+00:00",
-      "id": "5c907233e4f5",
-      "location": "Edmonton,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "education",
-        "customer support",
-        "recruiter",
-        "non tech",
-        "hr",
-        "marketing",
-        "travel",
-        "teaching",
-        "finance",
-        "golang",
-        "medical",
-        "full time"
-      ],
-      "title": "Detailer",
-      "url": "https://remoteOK.com/remote-jobs/remote-detailer-go-auto-1137277"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-06T09:13:49.518077+00:00",
-      "id": "9f2baad9f816",
-      "location": "Remote",
-      "posted_at": "2026-09-06T08:53:06+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-22kl"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-06T09:13:49.518077+00:00",
-      "id": "a3e347151bf8",
-      "location": "Remote",
-      "posted_at": "2026-09-06T04:33:27+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-40ka"
-    },
-    {
-      "company": "jidonglab",
-      "fetched_at": "2026-09-06T09:13:49.518077+00:00",
-      "id": "d885f67452f6",
-      "location": "Remote",
-      "posted_at": "2026-09-06T04:26:43+00:00",
-      "source": "devto",
-      "tags": [
-        "career",
-        "interview",
-        "jobs",
-        "discuss"
-      ],
-      "title": "Backchannel Reference Checks: The Interview You Never See",
-      "url": "https://dev.to/ji_ai/backchannel-reference-checks-the-interview-you-never-see-3435"
     }
   ],
-  "updated_at": "2026-09-09T04:08:42.917168+00:00"
+  "updated_at": "2026-09-09T09:30:11.703599+00:00"
 }
