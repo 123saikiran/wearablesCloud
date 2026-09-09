@@ -35,6 +35,13 @@
       ],
       "last_seen": "2026-09-09T14:18:21.376965+00:00"
     },
+    "Ampol": {
+      "count": 1,
+      "job_ids": [
+        "1cfea869b419"
+      ],
+      "last_seen": "2026-09-09T21:34:42.360999+00:00"
+    },
     "Astrek Careers": {
       "count": 1,
       "job_ids": [
@@ -119,6 +126,13 @@
         "c53b1db41795"
       ],
       "last_seen": "2026-09-08T20:58:56.709721+00:00"
+    },
+    "Centro Cuesta Nacional": {
+      "count": 1,
+      "job_ids": [
+        "3e769450fbe4"
+      ],
+      "last_seen": "2026-09-09T21:34:42.360999+00:00"
     },
     "City of Kamloops": {
       "count": 1,
@@ -230,13 +244,6 @@
       ],
       "last_seen": "2026-09-08T20:58:56.709721+00:00"
     },
-    "Emplyfy": {
-      "count": 1,
-      "job_ids": [
-        "119f31ccd0f6"
-      ],
-      "last_seen": "2026-09-06T21:14:01.444968+00:00"
-    },
     "Ennismore": {
       "count": 1,
       "job_ids": [
@@ -273,6 +280,13 @@
         "4bf724a5e771"
       ],
       "last_seen": "2026-09-09T14:18:21.376965+00:00"
+    },
+    "Foxconn": {
+      "count": 1,
+      "job_ids": [
+        "8c91c499630c"
+      ],
+      "last_seen": "2026-09-09T21:34:42.360999+00:00"
     },
     "Fronix Services": {
       "count": 1,
@@ -329,6 +343,13 @@
         "b5a6ee26001d"
       ],
       "last_seen": "2026-09-07T22:41:37.306503+00:00"
+    },
+    "HP4 RECRUITMENT LTD": {
+      "count": 1,
+      "job_ids": [
+        "b0f8d84d3207"
+      ],
+      "last_seen": "2026-09-09T21:34:42.360999+00:00"
     },
     "HUGO BOSS": {
       "count": 1,
@@ -416,13 +437,14 @@
       "last_seen": "2026-09-08T07:08:25.931531+00:00"
     },
     "Localiza&amp;Co": {
-      "count": 3,
+      "count": 4,
       "job_ids": [
+        "37b2715f3a1c",
         "89110adaa1f1",
         "0c98dcd56261",
         "fc6f8ae81319"
       ],
-      "last_seen": "2026-09-08T20:58:56.709721+00:00"
+      "last_seen": "2026-09-09T21:34:42.360999+00:00"
     },
     "Lupin Ltd": {
       "count": 1,
@@ -430,6 +452,13 @@
         "5658c68662f1"
       ],
       "last_seen": "2026-09-09T18:25:27.735611+00:00"
+    },
+    "MEPJOBS UK": {
+      "count": 1,
+      "job_ids": [
+        "1fe7ab9da012"
+      ],
+      "last_seen": "2026-09-09T21:34:42.360999+00:00"
     },
     "MSC Cruises": {
       "count": 1,
@@ -445,12 +474,12 @@
       ],
       "last_seen": "2026-09-08T20:58:56.709721+00:00"
     },
-    "Mike Dark": {
+    "Mr Clutch Autocentres": {
       "count": 1,
       "job_ids": [
-        "45c4da199985"
+        "d43d6f2fb706"
       ],
-      "last_seen": "2026-09-06T19:31:17+00:00"
+      "last_seen": "2026-09-09T21:34:42.360999+00:00"
     },
     "NOPE": {
       "count": 1,
@@ -473,19 +502,26 @@
       ],
       "last_seen": "2026-09-09T14:18:21.376965+00:00"
     },
-    "OrderYOYO": {
-      "count": 1,
-      "job_ids": [
-        "56f90acd7e69"
-      ],
-      "last_seen": "2026-09-06T21:14:01.444968+00:00"
-    },
     "PVH Group Inc": {
       "count": 1,
       "job_ids": [
         "ca87e1f7abaf"
       ],
       "last_seen": "2026-09-09T09:30:11.703599+00:00"
+    },
+    "Pandora": {
+      "count": 1,
+      "job_ids": [
+        "ae657adb9cd9"
+      ],
+      "last_seen": "2026-09-09T21:34:42.360999+00:00"
+    },
+    "Parcelforce Worldwide": {
+      "count": 1,
+      "job_ids": [
+        "d962c6e979b2"
+      ],
+      "last_seen": "2026-09-09T21:34:42.360999+00:00"
     },
     "Pembroke School": {
       "count": 1,
@@ -510,8 +546,10 @@
       "last_seen": "2026-09-09T18:25:27.735611+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 19,
+      "count": 20,
       "job_ids": [
+        "ff28f1f1f5b8",
+        "0ef258e89959",
         "f9d42eda4d39",
         "635df99ba625",
         "99247e25278f",
@@ -529,10 +567,9 @@
         "6e0bafea1a65",
         "55ddab31f559",
         "1e2e9547430b",
-        "04d61bc2ee7a",
-        "f39e4a96139a"
+        "04d61bc2ee7a"
       ],
-      "last_seen": "2026-09-09T15:12:53+00:00"
+      "last_seen": "2026-09-09T21:09:22+00:00"
     },
     "Radisson Hotel Group": {
       "count": 1,
@@ -569,12 +606,26 @@
       ],
       "last_seen": "2026-09-09T18:25:27.735611+00:00"
     },
+    "Savegnago Supermercados": {
+      "count": 1,
+      "job_ids": [
+        "684e6c9355a8"
+      ],
+      "last_seen": "2026-09-09T21:34:42.360999+00:00"
+    },
     "Scottish Police Authority": {
       "count": 1,
       "job_ids": [
         "6b875366f962"
       ],
       "last_seen": "2026-09-07T09:15:55.973374+00:00"
+    },
+    "Siemens Energy": {
+      "count": 1,
+      "job_ids": [
+        "46965a9d5a87"
+      ],
+      "last_seen": "2026-09-09T21:34:42.360999+00:00"
     },
     "Sigma": {
       "count": 1,
@@ -618,6 +669,13 @@
       ],
       "last_seen": "2026-09-08T07:08:25.931531+00:00"
     },
+    "Stobart": {
+      "count": 1,
+      "job_ids": [
+        "1e81d3ac3a4d"
+      ],
+      "last_seen": "2026-09-09T21:34:42.360999+00:00"
+    },
     "Storage King Group": {
       "count": 1,
       "job_ids": [
@@ -645,6 +703,13 @@
         "18dfc771d38b"
       ],
       "last_seen": "2026-09-07T09:15:55.973374+00:00"
+    },
+    "TRANT ENGINEERING LIMITED": {
+      "count": 1,
+      "job_ids": [
+        "19d1a9b3d292"
+      ],
+      "last_seen": "2026-09-09T21:34:42.360999+00:00"
     },
     "Tap Growth ai": {
       "count": 1,
@@ -695,6 +760,13 @@
       ],
       "last_seen": "2026-09-09T04:08:42.917168+00:00"
     },
+    "Thrifty Car and Van Rental": {
+      "count": 1,
+      "job_ids": [
+        "172700102f2c"
+      ],
+      "last_seen": "2026-09-09T21:34:42.360999+00:00"
+    },
     "U.P.PRO": {
       "count": 1,
       "job_ids": [
@@ -739,6 +811,20 @@
         "eed48f89c829"
       ],
       "last_seen": "2026-09-09T14:18:21.376965+00:00"
+    },
+    "Walgreens": {
+      "count": 1,
+      "job_ids": [
+        "3bb67077e338"
+      ],
+      "last_seen": "2026-09-09T21:34:42.360999+00:00"
+    },
+    "Walmart": {
+      "count": 1,
+      "job_ids": [
+        "954cb0d69245"
+      ],
+      "last_seen": "2026-09-09T21:34:42.360999+00:00"
     },
     "Warehance": {
       "count": 1,
@@ -804,5 +890,5 @@
       "last_seen": "2026-09-07T19:46:07.074584+00:00"
     }
   },
-  "updated_at": "2026-09-09T18:25:27.735611+00:00"
+  "updated_at": "2026-09-09T21:34:42.360999+00:00"
 }
