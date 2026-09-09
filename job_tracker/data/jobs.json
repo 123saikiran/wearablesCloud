@@ -1,6 +1,246 @@
 {
   "jobs": [
     {
+      "company": "Ocean Hotels Group BARBADOS",
+      "fetched_at": "2026-09-09T14:18:21.376965+00:00",
+      "id": "b89c1401818a",
+      "location": "Christ Church,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "customer support",
+        "testing",
+        "video",
+        "ops",
+        "non tech",
+        "supervisor",
+        "legal",
+        "exec",
+        "junior",
+        "golang"
+      ],
+      "title": "Baker",
+      "url": "https://remoteOK.com/remote-jobs/remote-baker-ocean-hotels-group-barbados-1137318"
+    },
+    {
+      "company": "Royal Caribbean International",
+      "fetched_at": "2026-09-09T14:18:21.376965+00:00",
+      "id": "d34243f9c22e",
+      "location": "Nassau,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "customer support",
+        "testing",
+        "video",
+        "ops",
+        "non tech",
+        "supervisor",
+        "legal",
+        "exec",
+        "junior",
+        "golang",
+        "marketing",
+        "travel",
+        "medical",
+        "virtual assistant",
+        "sys admin",
+        "hr",
+        "technical",
+        "coordinator",
+        "dev",
+        "admin",
+        "engineer",
+        "digital nomad",
+        "infosec",
+        "finance"
+      ],
+      "title": "Security Guard",
+      "url": "https://remoteOK.com/remote-jobs/remote-security-guard-royal-caribbean-international-1137323"
+    },
+    {
+      "company": "Amentum",
+      "fetched_at": "2026-09-09T14:18:21.376965+00:00",
+      "id": "4366a4cd665c",
+      "location": "New Providence,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "customer support",
+        "testing",
+        "video",
+        "ops",
+        "non tech"
+      ],
+      "title": "Diver",
+      "url": "https://remoteOK.com/remote-jobs/remote-diver-amentum-1137316"
+    },
+    {
+      "company": "Bermuda Airport Authority",
+      "fetched_at": "2026-09-09T14:18:21.376965+00:00",
+      "id": "7585cc7d0100",
+      "location": "Saint George's Parish,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "customer support",
+        "testing",
+        "video",
+        "ops",
+        "non tech",
+        "supervisor",
+        "legal",
+        "exec",
+        "junior",
+        "golang",
+        "marketing",
+        "travel",
+        "medical",
+        "virtual assistant",
+        "sys admin",
+        "hr",
+        "technical",
+        "coordinator",
+        "dev",
+        "admin",
+        "engineer",
+        "digital nomad"
+      ],
+      "title": "Air Traffic Engineering Technician",
+      "url": "https://remoteOK.com/remote-jobs/remote-air-traffic-engineering-technician-bermuda-airport-authority-1137322"
+    },
+    {
+      "company": "Four Seasons",
+      "fetched_at": "2026-09-09T14:18:21.376965+00:00",
+      "id": "202cd6709d10",
+      "location": "Nassau,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "customer support",
+        "testing",
+        "video",
+        "ops",
+        "non tech",
+        "supervisor",
+        "legal"
+      ],
+      "title": "Houseman",
+      "url": "https://remoteOK.com/remote-jobs/remote-houseman-four-seasons-1137317"
+    },
+    {
+      "company": "Sigma",
+      "fetched_at": "2026-09-09T14:18:21.376965+00:00",
+      "id": "d3a9ed230213",
+      "location": "Newport,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "infosec",
+        "education",
+        "customer support",
+        "exec",
+        "finance",
+        "medical",
+        "recruiter"
+      ],
+      "title": "Multi Skilled Maintenance Technician",
+      "url": "https://remoteOK.com/remote-jobs/remote-multi-skilled-maintenance-technician-sigma-1137273"
+    },
+    {
+      "company": "W Hotels",
+      "fetched_at": "2026-09-09T14:18:21.376965+00:00",
+      "id": "8bbf75a6d469",
+      "location": "Budapest,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "infosec",
+        "education",
+        "customer support",
+        "exec"
+      ],
+      "title": "Chief Steward",
+      "url": "https://remoteOK.com/remote-jobs/remote-chief-steward-w-hotels-1137272"
+    },
+    {
+      "company": "Department of Justice and Community Safety, Victoria",
+      "fetched_at": "2026-09-09T14:18:21.376965+00:00",
+      "id": "aa2e46d11b9b",
+      "location": "Bendigo,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "infosec",
+        "exec",
+        "medical",
+        "recruiter"
+      ],
+      "title": "Field Officer Bendigo",
+      "url": "https://remoteOK.com/remote-jobs/remote-field-officer-bendigo-department-of-justice-and-community-safety-victoria-1137267"
+    },
+    {
+      "company": "Go Auto",
+      "fetched_at": "2026-09-09T14:18:21.376965+00:00",
+      "id": "5c907233e4f5",
+      "location": "Edmonton,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "customer support",
+        "recruiter",
+        "non tech",
+        "hr",
+        "marketing",
+        "travel",
+        "teaching",
+        "finance",
+        "golang",
+        "medical",
+        "full time"
+      ],
+      "title": "Detailer",
+      "url": "https://remoteOK.com/remote-jobs/remote-detailer-go-auto-1137277"
+    },
+    {
+      "company": "sunny shrama",
+      "fetched_at": "2026-09-09T14:18:21.376965+00:00",
+      "id": "f6c8aef0dfe0",
+      "location": "Remote",
+      "posted_at": "2026-09-09T12:38:33+00:00",
+      "source": "devto",
+      "tags": [
+        "salarite",
+        "jobs",
+        "virtual",
+        "hiring"
+      ],
+      "title": "Field Sales Hiring Platform Scale Your Sales Team Faster in Jaipur",
+      "url": "https://dev.to/sunnyshrama/field-sales-hiring-platform-scale-your-sales-team-faster-in-jaipur-1nkm"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-09T14:18:21.376965+00:00",
+      "id": "635df99ba625",
+      "location": "Remote",
+      "posted_at": "2026-09-09T11:19:10+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-5f41"
+    },
+    {
       "company": "Four Seasons",
       "fetched_at": "2026-09-09T09:30:11.703599+00:00",
       "id": "61331c618315",
@@ -2233,67 +2473,7 @@
       ],
       "title": "Remote SWE Jobs Paying Up to $200k (Sep 6)",
       "url": "https://dev.to/crackr/remote-swe-jobs-paying-up-to-200k-sep-6-1mhk"
-    },
-    {
-      "company": "Volar Fashion",
-      "fetched_at": "2026-09-06T13:29:36.818131+00:00",
-      "id": "79c5c777bdb9",
-      "location": "Agra,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "amazon"
-      ],
-      "title": "Amazon Specialist",
-      "url": "https://remoteOK.com/remote-jobs/remote-amazon-specialist-volar-fashion-1137268"
-    },
-    {
-      "company": "Ennismore",
-      "fetched_at": "2026-09-06T13:29:36.818131+00:00",
-      "id": "136c763436ae",
-      "location": "Singapore,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "education",
-        "exec",
-        "testing"
-      ],
-      "title": "Mapping Test via Sandra",
-      "url": "https://remoteOK.com/remote-jobs/remote-mapping-test-via-sandra-ennismore-1137292"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-06T13:29:36.818131+00:00",
-      "id": "f3c4aa00eec3",
-      "location": "Remote",
-      "posted_at": "2026-09-06T12:26:14+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1oik"
-    },
-    {
-      "company": "Lluc Verdaguer Macias",
-      "fetched_at": "2026-09-06T13:29:36.818131+00:00",
-      "id": "b8e95a2b65ab",
-      "location": "Remote",
-      "posted_at": "2026-09-06T10:31:59+00:00",
-      "source": "devto",
-      "tags": [
-        "career",
-        "beginners",
-        "jobs",
-        "writing"
-      ],
-      "title": "The 4-paragraph developer cover letter that actually gets read (under 200 words, with a full example)",
-      "url": "https://dev.to/lluc_verdaguermacias_a09/the-4-paragraph-developer-cover-letter-that-actually-gets-read-under-200-words-with-a-full-52c7"
     }
   ],
-  "updated_at": "2026-09-09T09:30:11.703599+00:00"
+  "updated_at": "2026-09-09T14:18:21.376965+00:00"
 }

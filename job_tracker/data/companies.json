@@ -21,6 +21,13 @@
       ],
       "last_seen": "2026-09-07T19:46:07.074584+00:00"
     },
+    "Amentum": {
+      "count": 1,
+      "job_ids": [
+        "4366a4cd665c"
+      ],
+      "last_seen": "2026-09-09T14:18:21.376965+00:00"
+    },
     "Ampol": {
       "count": 1,
       "job_ids": [
@@ -55,6 +62,13 @@
         "08991bb5dd0b"
       ],
       "last_seen": "2026-09-07T09:15:55.973374+00:00"
+    },
+    "Bermuda Airport Authority": {
+      "count": 1,
+      "job_ids": [
+        "7585cc7d0100"
+      ],
+      "last_seen": "2026-09-09T14:18:21.376965+00:00"
     },
     "Blackbird Interactive": {
       "count": 1,
@@ -166,6 +180,13 @@
       ],
       "last_seen": "2026-09-08T20:58:56.709721+00:00"
     },
+    "Department of Justice and Community Safety, Victoria": {
+      "count": 1,
+      "job_ids": [
+        "aa2e46d11b9b"
+      ],
+      "last_seen": "2026-09-09T14:18:21.376965+00:00"
+    },
     "Digest Media": {
       "count": 1,
       "job_ids": [
@@ -194,13 +215,6 @@
       ],
       "last_seen": "2026-09-06T21:14:01.444968+00:00"
     },
-    "Ennismore": {
-      "count": 1,
-      "job_ids": [
-        "136c763436ae"
-      ],
-      "last_seen": "2026-09-06T13:29:36.818131+00:00"
-    },
     "FedEx": {
       "count": 1,
       "job_ids": [
@@ -223,12 +237,13 @@
       "last_seen": "2026-09-08T12:46:45.859942+00:00"
     },
     "Four Seasons": {
-      "count": 2,
+      "count": 3,
       "job_ids": [
+        "202cd6709d10",
         "61331c618315",
         "4bf724a5e771"
       ],
-      "last_seen": "2026-09-09T09:30:11.703599+00:00"
+      "last_seen": "2026-09-09T14:18:21.376965+00:00"
     },
     "Fronix Services": {
       "count": 1,
@@ -250,6 +265,13 @@
         "ea3789efa1e5"
       ],
       "last_seen": "2026-09-08T07:08:25.931531+00:00"
+    },
+    "Go Auto": {
+      "count": 1,
+      "job_ids": [
+        "5c907233e4f5"
+      ],
+      "last_seen": "2026-09-09T14:18:21.376965+00:00"
     },
     "Greater Pell City Chamber of Commerce": {
       "count": 1,
@@ -357,13 +379,6 @@
       ],
       "last_seen": "2026-09-08T07:08:25.931531+00:00"
     },
-    "Lluc Verdaguer Macias": {
-      "count": 1,
-      "job_ids": [
-        "b8e95a2b65ab"
-      ],
-      "last_seen": "2026-09-06T10:31:59+00:00"
-    },
     "Localiza&amp;Co": {
       "count": 3,
       "job_ids": [
@@ -415,6 +430,13 @@
       ],
       "last_seen": "2026-09-09T09:30:11.703599+00:00"
     },
+    "Ocean Hotels Group BARBADOS": {
+      "count": 1,
+      "job_ids": [
+        "b89c1401818a"
+      ],
+      "last_seen": "2026-09-09T14:18:21.376965+00:00"
+    },
     "OrderYOYO": {
       "count": 1,
       "job_ids": [
@@ -447,6 +469,7 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 20,
       "job_ids": [
+        "635df99ba625",
         "99247e25278f",
         "211a2bd8c073",
         "d8f2ab9f21b0",
@@ -465,10 +488,9 @@
         "04d61bc2ee7a",
         "f39e4a96139a",
         "d00b9c673c5f",
-        "5e6f93e599c1",
-        "f3c4aa00eec3"
+        "5e6f93e599c1"
       ],
-      "last_seen": "2026-09-09T06:10:07+00:00"
+      "last_seen": "2026-09-09T11:19:10+00:00"
     },
     "Radisson Hotel Group": {
       "count": 1,
@@ -484,6 +506,13 @@
       ],
       "last_seen": "2026-09-07T15:40:57.733417+00:00"
     },
+    "Royal Caribbean International": {
+      "count": 1,
+      "job_ids": [
+        "d34243f9c22e"
+      ],
+      "last_seen": "2026-09-09T14:18:21.376965+00:00"
+    },
     "Royal Lepage Icon Realty": {
       "count": 1,
       "job_ids": [
@@ -497,6 +526,13 @@
         "6b875366f962"
       ],
       "last_seen": "2026-09-07T09:15:55.973374+00:00"
+    },
+    "Sigma": {
+      "count": 1,
+      "job_ids": [
+        "d3a9ed230213"
+      ],
+      "last_seen": "2026-09-09T14:18:21.376965+00:00"
     },
     "Sisal Hub Albania": {
       "count": 1,
@@ -638,21 +674,15 @@
       ],
       "last_seen": "2026-09-07T15:40:57.733417+00:00"
     },
-    "Volar Fashion": {
-      "count": 1,
-      "job_ids": [
-        "79c5c777bdb9"
-      ],
-      "last_seen": "2026-09-06T13:29:36.818131+00:00"
-    },
     "W Hotels": {
-      "count": 3,
+      "count": 4,
       "job_ids": [
+        "8bbf75a6d469",
         "b88670e3de4e",
         "7b5c65463ee8",
         "eed48f89c829"
       ],
-      "last_seen": "2026-09-08T07:08:25.931531+00:00"
+      "last_seen": "2026-09-09T14:18:21.376965+00:00"
     },
     "Warehance": {
       "count": 1,
@@ -710,6 +740,13 @@
       ],
       "last_seen": "2026-09-07T03:59:44.889822+00:00"
     },
+    "sunny shrama": {
+      "count": 1,
+      "job_ids": [
+        "f6c8aef0dfe0"
+      ],
+      "last_seen": "2026-09-09T12:38:33+00:00"
+    },
     "walkr - turn your Google Meet walk-friendly": {
       "count": 1,
       "job_ids": [
@@ -718,5 +755,5 @@
       "last_seen": "2026-09-07T19:46:07.074584+00:00"
     }
   },
-  "updated_at": "2026-09-09T09:30:11.703599+00:00"
+  "updated_at": "2026-09-09T14:18:21.376965+00:00"
 }
