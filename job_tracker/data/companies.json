@@ -7,6 +7,13 @@
       ],
       "last_seen": "2026-09-07T22:41:37.306503+00:00"
     },
+    "AWP Safety": {
+      "count": 1,
+      "job_ids": [
+        "fdc1e6c2e537"
+      ],
+      "last_seen": "2026-09-09T18:25:27.735611+00:00"
+    },
     "Acumentis Group": {
       "count": 1,
       "job_ids": [
@@ -28,13 +35,6 @@
       ],
       "last_seen": "2026-09-09T14:18:21.376965+00:00"
     },
-    "Ampol": {
-      "count": 1,
-      "job_ids": [
-        "1cfea869b419"
-      ],
-      "last_seen": "2026-09-06T16:48:07.570673+00:00"
-    },
     "Astrek Careers": {
       "count": 1,
       "job_ids": [
@@ -48,6 +48,14 @@
         "507ba5b74900"
       ],
       "last_seen": "2026-09-08T07:08:25.931531+00:00"
+    },
+    "Ausdocs Holdings Group": {
+      "count": 2,
+      "job_ids": [
+        "ca5a2f5ab2b6",
+        "3924a73576cc"
+      ],
+      "last_seen": "2026-09-09T18:25:27.735611+00:00"
     },
     "Ava Bagherzadeh": {
       "count": 1,
@@ -69,6 +77,13 @@
         "7585cc7d0100"
       ],
       "last_seen": "2026-09-09T14:18:21.376965+00:00"
+    },
+    "Birla Opus": {
+      "count": 1,
+      "job_ids": [
+        "f5179dc7651d"
+      ],
+      "last_seen": "2026-09-09T18:25:27.735611+00:00"
     },
     "Blackbird Interactive": {
       "count": 1,
@@ -104,6 +119,13 @@
         "c53b1db41795"
       ],
       "last_seen": "2026-09-08T20:58:56.709721+00:00"
+    },
+    "City of Kamloops": {
+      "count": 1,
+      "job_ids": [
+        "0a9e3413248c"
+      ],
+      "last_seen": "2026-09-09T18:25:27.735611+00:00"
     },
     "City of York Council": {
       "count": 1,
@@ -143,14 +165,14 @@
     "Crackr": {
       "count": 6,
       "job_ids": [
+        "0bedc424f264",
+        "0282809e2b21",
         "343cff9afb53",
         "edfb946928c5",
         "d1096b2f7c64",
-        "73c72c63e963",
-        "af02066bde72",
-        "8ba97319903a"
+        "73c72c63e963"
       ],
-      "last_seen": "2026-09-08T15:00:16+00:00"
+      "last_seen": "2026-09-09T15:00:16+00:00"
     },
     "Crocs, Inc.": {
       "count": 1,
@@ -214,6 +236,13 @@
         "119f31ccd0f6"
       ],
       "last_seen": "2026-09-06T21:14:01.444968+00:00"
+    },
+    "Ennismore": {
+      "count": 1,
+      "job_ids": [
+        "136c763436ae"
+      ],
+      "last_seen": "2026-09-09T18:25:27.735611+00:00"
     },
     "FedEx": {
       "count": 1,
@@ -372,6 +401,13 @@
       ],
       "last_seen": "2026-09-07T19:46:07.074584+00:00"
     },
+    "Kapsch Group": {
+      "count": 1,
+      "job_ids": [
+        "bcef96c34f09"
+      ],
+      "last_seen": "2026-09-09T18:25:27.735611+00:00"
+    },
     "Linsco Ltd": {
       "count": 1,
       "job_ids": [
@@ -387,6 +423,13 @@
         "fc6f8ae81319"
       ],
       "last_seen": "2026-09-08T20:58:56.709721+00:00"
+    },
+    "Lupin Ltd": {
+      "count": 1,
+      "job_ids": [
+        "5658c68662f1"
+      ],
+      "last_seen": "2026-09-09T18:25:27.735611+00:00"
     },
     "MSC Cruises": {
       "count": 1,
@@ -408,13 +451,6 @@
         "45c4da199985"
       ],
       "last_seen": "2026-09-06T19:31:17+00:00"
-    },
-    "Mr Clutch Autocentres": {
-      "count": 1,
-      "job_ids": [
-        "d43d6f2fb706"
-      ],
-      "last_seen": "2026-09-06T16:48:07.570673+00:00"
     },
     "NOPE": {
       "count": 1,
@@ -466,9 +502,17 @@
       ],
       "last_seen": "2026-09-07T22:41:37.306503+00:00"
     },
-    "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 20,
+    "Platypus Shoes": {
+      "count": 1,
       "job_ids": [
+        "ac6b8e2918d1"
+      ],
+      "last_seen": "2026-09-09T18:25:27.735611+00:00"
+    },
+    "RAZIX DEVIL NEMESIS (Loki)": {
+      "count": 19,
+      "job_ids": [
+        "f9d42eda4d39",
         "635df99ba625",
         "99247e25278f",
         "211a2bd8c073",
@@ -486,11 +530,9 @@
         "55ddab31f559",
         "1e2e9547430b",
         "04d61bc2ee7a",
-        "f39e4a96139a",
-        "d00b9c673c5f",
-        "5e6f93e599c1"
+        "f39e4a96139a"
       ],
-      "last_seen": "2026-09-09T11:19:10+00:00"
+      "last_seen": "2026-09-09T15:12:53+00:00"
     },
     "Radisson Hotel Group": {
       "count": 1,
@@ -520,6 +562,13 @@
       ],
       "last_seen": "2026-09-08T07:08:25.931531+00:00"
     },
+    "SGF Labs": {
+      "count": 1,
+      "job_ids": [
+        "64e56bde572d"
+      ],
+      "last_seen": "2026-09-09T18:25:27.735611+00:00"
+    },
     "Scottish Police Authority": {
       "count": 1,
       "job_ids": [
@@ -541,6 +590,13 @@
       ],
       "last_seen": "2026-09-07T15:40:57.733417+00:00"
     },
+    "Spendless Shoes": {
+      "count": 1,
+      "job_ids": [
+        "f931601098b7"
+      ],
+      "last_seen": "2026-09-09T18:25:27.735611+00:00"
+    },
     "St. George's University": {
       "count": 1,
       "job_ids": [
@@ -561,13 +617,6 @@
         "55ad3d8aceec"
       ],
       "last_seen": "2026-09-08T07:08:25.931531+00:00"
-    },
-    "Stobart": {
-      "count": 1,
-      "job_ids": [
-        "1e81d3ac3a4d"
-      ],
-      "last_seen": "2026-09-06T16:48:07.570673+00:00"
     },
     "Storage King Group": {
       "count": 1,
@@ -597,13 +646,6 @@
       ],
       "last_seen": "2026-09-07T09:15:55.973374+00:00"
     },
-    "TRANT ENGINEERING LIMITED": {
-      "count": 1,
-      "job_ids": [
-        "19d1a9b3d292"
-      ],
-      "last_seen": "2026-09-06T16:48:07.570673+00:00"
-    },
     "Tap Growth ai": {
       "count": 1,
       "job_ids": [
@@ -625,6 +667,13 @@
       ],
       "last_seen": "2026-09-07T15:40:57.733417+00:00"
     },
+    "The Burger's Priest": {
+      "count": 1,
+      "job_ids": [
+        "66d09bd7d40b"
+      ],
+      "last_seen": "2026-09-09T18:25:27.735611+00:00"
+    },
     "The Drinks LLAB": {
       "count": 1,
       "job_ids": [
@@ -632,19 +681,19 @@
       ],
       "last_seen": "2026-09-08T07:08:25.931531+00:00"
     },
+    "The Home Depot Canada": {
+      "count": 1,
+      "job_ids": [
+        "b85cc820fe63"
+      ],
+      "last_seen": "2026-09-09T18:25:27.735611+00:00"
+    },
     "The Russell Inn Hotel &amp; Conference Centre": {
       "count": 1,
       "job_ids": [
         "d7fb8723516b"
       ],
       "last_seen": "2026-09-09T04:08:42.917168+00:00"
-    },
-    "Thrifty Car and Van Rental": {
-      "count": 1,
-      "job_ids": [
-        "172700102f2c"
-      ],
-      "last_seen": "2026-09-06T16:48:07.570673+00:00"
     },
     "U.P.PRO": {
       "count": 1,
@@ -674,6 +723,13 @@
       ],
       "last_seen": "2026-09-07T15:40:57.733417+00:00"
     },
+    "Volar Fashion": {
+      "count": 1,
+      "job_ids": [
+        "79c5c777bdb9"
+      ],
+      "last_seen": "2026-09-09T18:25:27.735611+00:00"
+    },
     "W Hotels": {
       "count": 4,
       "job_ids": [
@@ -690,13 +746,6 @@
         "b229c41a3801"
       ],
       "last_seen": "2026-09-08T01:03:24.341371+00:00"
-    },
-    "Wellburn Care Homes Ltd": {
-      "count": 1,
-      "job_ids": [
-        "78fe9a178196"
-      ],
-      "last_seen": "2026-09-06T16:48:07.570673+00:00"
     },
     "Wilco Contractors Northwest Inc.": {
       "count": 1,
@@ -755,5 +804,5 @@
       "last_seen": "2026-09-07T19:46:07.074584+00:00"
     }
   },
-  "updated_at": "2026-09-09T14:18:21.376965+00:00"
+  "updated_at": "2026-09-09T18:25:27.735611+00:00"
 }

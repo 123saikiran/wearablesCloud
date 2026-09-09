@@ -1,6 +1,356 @@
 {
   "jobs": [
     {
+      "company": "City of Kamloops",
+      "fetched_at": "2026-09-09T18:25:27.735611+00:00",
+      "id": "0a9e3413248c",
+      "location": "Kamloops,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "testing",
+        "non tech",
+        "exec",
+        "c",
+        "education",
+        "travel",
+        "dba",
+        "medical",
+        "design",
+        "hr",
+        "engineer",
+        "digital nomad"
+      ],
+      "title": "Deputy Corporate Officer",
+      "url": "https://remoteOK.com/remote-jobs/remote-deputy-corporate-officer-city-of-kamloops-1137327"
+    },
+    {
+      "company": "AWP Safety",
+      "fetched_at": "2026-09-09T18:25:27.735611+00:00",
+      "id": "fdc1e6c2e537",
+      "location": "Charlottetown,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "testing",
+        "non tech",
+        "exec",
+        "c",
+        "education",
+        "travel",
+        "dba",
+        "medical"
+      ],
+      "title": "Traffic Control Person",
+      "url": "https://remoteOK.com/remote-jobs/remote-traffic-control-person-awp-safety-1137326"
+    },
+    {
+      "company": "Birla Opus",
+      "fetched_at": "2026-09-09T18:25:27.735611+00:00",
+      "id": "f5179dc7651d",
+      "location": "Madhya Pradesh,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec",
+        "golang",
+        "testing"
+      ],
+      "title": "Campus testing",
+      "url": "https://remoteOK.com/remote-jobs/remote-campus-testing-birla-opus-1137331"
+    },
+    {
+      "company": "Ausdocs Holdings Group",
+      "fetched_at": "2026-09-09T18:25:27.735611+00:00",
+      "id": "ca5a2f5ab2b6",
+      "location": "Cairns,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "customer support",
+        "testing",
+        "microsoft",
+        "exec",
+        "ops",
+        "sys admin",
+        "engineer",
+        "game dev",
+        "medical",
+        "full time"
+      ],
+      "title": "General Practitioner Cairns",
+      "url": "https://remoteOK.com/remote-jobs/remote-general-practitioner-cairns-ausdocs-holdings-group-1137339"
+    },
+    {
+      "company": "Ausdocs Holdings Group",
+      "fetched_at": "2026-09-09T18:25:27.735611+00:00",
+      "id": "3924a73576cc",
+      "location": "Townsville,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "customer support",
+        "testing",
+        "microsoft",
+        "exec",
+        "ops",
+        "sys admin",
+        "engineer",
+        "game dev",
+        "medical",
+        "full time",
+        "marketing",
+        "virtual assistant",
+        "sales"
+      ],
+      "title": "General Practitioner Townsville",
+      "url": "https://remoteOK.com/remote-jobs/remote-general-practitioner-townsville-ausdocs-holdings-group-1137342"
+    },
+    {
+      "company": "The Burger's Priest",
+      "fetched_at": "2026-09-09T18:25:27.735611+00:00",
+      "id": "66d09bd7d40b",
+      "location": "Toronto,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "testing",
+        "non tech",
+        "exec",
+        "c",
+        "education",
+        "travel",
+        "dba",
+        "medical",
+        "design",
+        "hr",
+        "engineer",
+        "digital nomad",
+        "customer support"
+      ],
+      "title": "FOH",
+      "url": "https://remoteOK.com/remote-jobs/remote-foh-the-burgers-priest-1137328"
+    },
+    {
+      "company": "Platypus Shoes",
+      "fetched_at": "2026-09-09T18:25:27.735611+00:00",
+      "id": "ac6b8e2918d1",
+      "location": "Doncaster,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "customer support",
+        "testing",
+        "microsoft",
+        "exec",
+        "ops",
+        "sys admin",
+        "engineer",
+        "game dev",
+        "medical",
+        "full time",
+        "marketing",
+        "virtual assistant",
+        "sales"
+      ],
+      "title": "Platypus Store Manager Doncaster",
+      "url": "https://remoteOK.com/remote-jobs/remote-platypus-store-manager-doncaster-platypus-shoes-1137341"
+    },
+    {
+      "company": "Kapsch Group",
+      "fetched_at": "2026-09-09T18:25:27.735611+00:00",
+      "id": "bcef96c34f09",
+      "location": "Sydney,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "customer support",
+        "testing",
+        "microsoft",
+        "exec",
+        "ops",
+        "sys admin",
+        "engineer",
+        "game dev",
+        "medical",
+        "full time"
+      ],
+      "title": "Maintenance Specialist",
+      "url": "https://remoteOK.com/remote-jobs/remote-maintenance-specialist-kapsch-group-1137340"
+    },
+    {
+      "company": "Spendless Shoes",
+      "fetched_at": "2026-09-09T18:25:27.735611+00:00",
+      "id": "f931601098b7",
+      "location": "Tamworth,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "customer support",
+        "testing",
+        "microsoft",
+        "exec",
+        "ops",
+        "sys admin",
+        "engineer",
+        "game dev",
+        "medical",
+        "full time",
+        "marketing",
+        "virtual assistant",
+        "sales",
+        "finance",
+        "scheme"
+      ],
+      "title": "RETAIL STORE MANAGER TAMWORTH",
+      "url": "https://remoteOK.com/remote-jobs/remote-retail-store-manager-tamworth-spendless-shoes-1137344"
+    },
+    {
+      "company": "SGF Labs",
+      "fetched_at": "2026-09-09T18:25:27.735611+00:00",
+      "id": "64e56bde572d",
+      "location": "Kochi,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec",
+        "golang"
+      ],
+      "title": "Lead Go Getter",
+      "url": "https://remoteOK.com/remote-jobs/remote-lead-go-getter-sgf-labs-1137330"
+    },
+    {
+      "company": "Lupin Ltd",
+      "fetched_at": "2026-09-09T18:25:27.735611+00:00",
+      "id": "5658c68662f1",
+      "location": "Greater Aurangabad Area,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec",
+        "golang",
+        "testing",
+        "virtual assistant",
+        "infosec",
+        "education",
+        "customer support",
+        "marketing",
+        "finance",
+        "senior",
+        "ops",
+        "medical",
+        "engineer"
+      ],
+      "title": "Executive",
+      "url": "https://remoteOK.com/remote-jobs/remote-executive-lupin-ltd-1137333"
+    },
+    {
+      "company": "The Home Depot Canada",
+      "fetched_at": "2026-09-09T18:25:27.735611+00:00",
+      "id": "b85cc820fe63",
+      "location": "Regina,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "testing",
+        "non tech",
+        "exec",
+        "c",
+        "education",
+        "travel",
+        "dba",
+        "medical",
+        "design",
+        "hr",
+        "engineer",
+        "digital nomad",
+        "customer support"
+      ],
+      "title": "Â SUPERVISEUR 26 27",
+      "url": "https://remoteOK.com/remote-jobs/remote-superviseur-26-27-the-home-depot-canada-1137329"
+    },
+    {
+      "company": "Volar Fashion",
+      "fetched_at": "2026-09-09T18:25:27.735611+00:00",
+      "id": "79c5c777bdb9",
+      "location": "Agra,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "amazon"
+      ],
+      "title": "Amazon Specialist",
+      "url": "https://remoteOK.com/remote-jobs/remote-amazon-specialist-volar-fashion-1137268"
+    },
+    {
+      "company": "Ennismore",
+      "fetched_at": "2026-09-09T18:25:27.735611+00:00",
+      "id": "136c763436ae",
+      "location": "Singapore,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "exec",
+        "testing"
+      ],
+      "title": "Mapping Test via Sandra",
+      "url": "https://remoteOK.com/remote-jobs/remote-mapping-test-via-sandra-ennismore-1137292"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-09T18:25:27.735611+00:00",
+      "id": "f9d42eda4d39",
+      "location": "Remote",
+      "posted_at": "2026-09-09T15:12:53+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2262"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-09-09T18:25:27.735611+00:00",
+      "id": "0bedc424f264",
+      "location": "Remote",
+      "posted_at": "2026-09-09T15:00:16+00:00",
+      "source": "devto",
+      "tags": [
+        "beginners",
+        "jobs",
+        "career",
+        "programming"
+      ],
+      "title": "Summer 2026 Internships: 8 New Openings This Week (Sep 9)",
+      "url": "https://dev.to/crackr/summer-2026-internships-8-new-openings-this-week-sep-9-nla"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-09-09T18:25:27.735611+00:00",
+      "id": "0282809e2b21",
+      "location": "Remote",
+      "posted_at": "2026-09-09T15:00:13+00:00",
+      "source": "devto",
+      "tags": [
+        "remotework",
+        "jobs",
+        "webdev",
+        "career"
+      ],
+      "title": "Remote SWE Jobs Paying Up to $200k (Sep 9)",
+      "url": "https://dev.to/crackr/remote-swe-jobs-paying-up-to-200k-sep-9-2eil"
+    },
+    {
       "company": "Ocean Hotels Group BARBADOS",
       "fetched_at": "2026-09-09T14:18:21.376965+00:00",
       "id": "b89c1401818a",
@@ -2275,205 +2625,7 @@
       ],
       "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2k2n"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-06T18:58:14.843298+00:00",
-      "id": "d00b9c673c5f",
-      "location": "Remote",
-      "posted_at": "2026-09-06T17:41:08+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-420o"
-    },
-    {
-      "company": "Ampol",
-      "fetched_at": "2026-09-06T16:48:07.570673+00:00",
-      "id": "1cfea869b419",
-      "location": "Port Macquarie,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "education",
-        "testing",
-        "exec",
-        "full time",
-        "marketing",
-        "finance",
-        "ops",
-        "recruiter"
-      ],
-      "title": "Store Manager Port Macquarie",
-      "url": "https://remoteOK.com/remote-jobs/remote-store-manager-port-macquarie-ampol-1137295"
-    },
-    {
-      "company": "Mr Clutch Autocentres",
-      "fetched_at": "2026-09-06T16:48:07.570673+00:00",
-      "id": "d43d6f2fb706",
-      "location": "Oxford,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "testing",
-        "sys admin",
-        "education",
-        "finance",
-        "scheme",
-        "non tech"
-      ],
-      "title": "MOT Tester",
-      "url": "https://remoteOK.com/remote-jobs/remote-mot-tester-mr-clutch-autocentres-1137218"
-    },
-    {
-      "company": "Stobart",
-      "fetched_at": "2026-09-06T16:48:07.570673+00:00",
-      "id": "1e81d3ac3a4d",
-      "location": "Northampton,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "c",
-        "scheme",
-        "ops",
-        "legal",
-        "medical",
-        "recruiter",
-        "full time",
-        "non tech"
-      ],
-      "title": "Shunter",
-      "url": "https://remoteOK.com/remote-jobs/remote-shunter-stobart-1137216"
-    },
-    {
-      "company": "Thrifty Car and Van Rental",
-      "fetched_at": "2026-09-06T16:48:07.570673+00:00",
-      "id": "172700102f2c",
-      "location": "Exeter,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "testing",
-        "sys admin",
-        "education",
-        "finance",
-        "scheme",
-        "non tech",
-        "customer support",
-        "marketing",
-        "admin",
-        "ops"
-      ],
-      "title": "Customer Service Agent",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-service-agent-thrifty-car-and-van-rental-1137219"
-    },
-    {
-      "company": "Wellburn Care Homes Ltd",
-      "fetched_at": "2026-09-06T16:48:07.570673+00:00",
-      "id": "78fe9a178196",
-      "location": "Berwick-Upon-Tweed,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "c",
-        "scheme",
-        "ops",
-        "legal",
-        "medical",
-        "recruiter",
-        "full time",
-        "non tech",
-        "education",
-        "golang"
-      ],
-      "title": "Handyperson",
-      "url": "https://remoteOK.com/remote-jobs/remote-handyperson-wellburn-care-homes-ltd-1137217"
-    },
-    {
-      "company": "TRANT ENGINEERING LIMITED",
-      "fetched_at": "2026-09-06T16:48:07.570673+00:00",
-      "id": "19d1a9b3d292",
-      "location": "Southampton,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "testing",
-        "sys admin",
-        "education",
-        "finance",
-        "scheme",
-        "non tech",
-        "customer support",
-        "marketing",
-        "admin",
-        "ops",
-        "exec",
-        "virtual assistant",
-        "microsoft",
-        "sales",
-        "design",
-        "technical",
-        "supervisor",
-        "assembly",
-        "engineer",
-        "digital nomad"
-      ],
-      "title": "Wireperson",
-      "url": "https://remoteOK.com/remote-jobs/remote-wireperson-trant-engineering-limited-1137221"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-06T16:48:07.570673+00:00",
-      "id": "5e6f93e599c1",
-      "location": "Remote",
-      "posted_at": "2026-09-06T15:37:16+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2pb0"
-    },
-    {
-      "company": "Crackr",
-      "fetched_at": "2026-09-06T16:48:07.570673+00:00",
-      "id": "af02066bde72",
-      "location": "Remote",
-      "posted_at": "2026-09-06T15:00:16+00:00",
-      "source": "devto",
-      "tags": [
-        "beginners",
-        "jobs",
-        "career",
-        "programming"
-      ],
-      "title": "Summer 2026 Internships: 8 New Openings This Week (Sep 6)",
-      "url": "https://dev.to/crackr/summer-2026-internships-8-new-openings-this-week-sep-6-543e"
-    },
-    {
-      "company": "Crackr",
-      "fetched_at": "2026-09-06T16:48:07.570673+00:00",
-      "id": "8ba97319903a",
-      "location": "Remote",
-      "posted_at": "2026-09-06T15:00:13+00:00",
-      "source": "devto",
-      "tags": [
-        "remotework",
-        "jobs",
-        "webdev",
-        "career"
-      ],
-      "title": "Remote SWE Jobs Paying Up to $200k (Sep 6)",
-      "url": "https://dev.to/crackr/remote-swe-jobs-paying-up-to-200k-sep-6-1mhk"
     }
   ],
-  "updated_at": "2026-09-09T14:18:21.376965+00:00"
+  "updated_at": "2026-09-09T18:25:27.735611+00:00"
 }
