@@ -77,26 +77,19 @@
       ],
       "last_seen": "2026-09-08T20:58:56.709721+00:00"
     },
+    "Canada Post / Postes Canada": {
+      "count": 1,
+      "job_ids": [
+        "d71725fdeabd"
+      ],
+      "last_seen": "2026-09-09T04:08:42.917168+00:00"
+    },
     "Carv": {
       "count": 1,
       "job_ids": [
         "c53b1db41795"
       ],
       "last_seen": "2026-09-08T20:58:56.709721+00:00"
-    },
-    "City of York Council": {
-      "count": 1,
-      "job_ids": [
-        "4ec71e3195ed"
-      ],
-      "last_seen": "2026-09-05T23:41:34.779989+00:00"
-    },
-    "Clutch": {
-      "count": 1,
-      "job_ids": [
-        "7cdd7a0f0a29"
-      ],
-      "last_seen": "2026-09-06T04:00:23.645355+00:00"
     },
     "Coca-Cola Cambodia Beverage Company Ltd": {
       "count": 1,
@@ -144,6 +137,13 @@
         "3f4e1af97d62"
       ],
       "last_seen": "2026-09-08T17:11:32.486205+00:00"
+    },
+    "David Stark": {
+      "count": 1,
+      "job_ids": [
+        "14e42d08a744"
+      ],
+      "last_seen": "2026-09-09T02:25:53+00:00"
     },
     "Delta Hotels by Marriott Edinburgh": {
       "count": 1,
@@ -216,10 +216,9 @@
       "last_seen": "2026-09-08T12:46:45.859942+00:00"
     },
     "Four Seasons": {
-      "count": 2,
+      "count": 1,
       "job_ids": [
-        "4bf724a5e771",
-        "61331c618315"
+        "4bf724a5e771"
       ],
       "last_seen": "2026-09-07T03:59:44.889822+00:00"
     },
@@ -265,6 +264,13 @@
       ],
       "last_seen": "2026-09-06T23:40:23.151325+00:00"
     },
+    "H&amp;M": {
+      "count": 1,
+      "job_ids": [
+        "459c50495dba"
+      ],
+      "last_seen": "2026-09-09T04:08:42.917168+00:00"
+    },
     "HARTMANN GROUP International": {
       "count": 1,
       "job_ids": [
@@ -278,6 +284,13 @@
         "cf5b25c36d15"
       ],
       "last_seen": "2026-09-07T22:41:37.306503+00:00"
+    },
+    "Halfords": {
+      "count": 1,
+      "job_ids": [
+        "4cd612bdc5a2"
+      ],
+      "last_seen": "2026-09-09T04:08:42.917168+00:00"
     },
     "Hertz": {
       "count": 1,
@@ -387,12 +400,12 @@
       ],
       "last_seen": "2026-09-06T16:48:07.570673+00:00"
     },
-    "NT Health": {
+    "NOPE": {
       "count": 1,
       "job_ids": [
-        "2f633a4db665"
+        "2d6c3bce7fd7"
       ],
-      "last_seen": "2026-09-05T23:41:34.779989+00:00"
+      "last_seen": "2026-09-09T04:08:42.917168+00:00"
     },
     "OrderYOYO": {
       "count": 1,
@@ -400,13 +413,6 @@
         "56f90acd7e69"
       ],
       "last_seen": "2026-09-06T21:14:01.444968+00:00"
-    },
-    "PVH Group Inc": {
-      "count": 1,
-      "job_ids": [
-        "ca87e1f7abaf"
-      ],
-      "last_seen": "2026-09-05T23:41:34.779989+00:00"
     },
     "Pembroke School": {
       "count": 1,
@@ -424,8 +430,10 @@
       "last_seen": "2026-09-07T22:41:37.306503+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 20,
+      "count": 21,
       "job_ids": [
+        "211a2bd8c073",
+        "d8f2ab9f21b0",
         "ec639ec13aed",
         "3950d21c3a76",
         "1acfdd4aaa7f",
@@ -444,10 +452,9 @@
         "5e6f93e599c1",
         "f3c4aa00eec3",
         "9f2baad9f816",
-        "a3e347151bf8",
-        "4d0721955d06"
+        "a3e347151bf8"
       ],
-      "last_seen": "2026-09-08T21:07:00+00:00"
+      "last_seen": "2026-09-09T01:19:30+00:00"
     },
     "Radisson Hotel Group": {
       "count": 1,
@@ -582,6 +589,13 @@
       ],
       "last_seen": "2026-09-08T07:08:25.931531+00:00"
     },
+    "The Russell Inn Hotel &amp; Conference Centre": {
+      "count": 1,
+      "job_ids": [
+        "d7fb8723516b"
+      ],
+      "last_seen": "2026-09-09T04:08:42.917168+00:00"
+    },
     "Thrifty Car and Van Rental": {
       "count": 1,
       "job_ids": [
@@ -705,5 +719,5 @@
       "last_seen": "2026-09-07T19:46:07.074584+00:00"
     }
   },
-  "updated_at": "2026-09-08T23:19:54.960251+00:00"
+  "updated_at": "2026-09-09T04:08:42.917168+00:00"
 }

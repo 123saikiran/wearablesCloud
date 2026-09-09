@@ -1,6 +1,155 @@
 {
   "jobs": [
     {
+      "company": "NOPE",
+      "fetched_at": "2026-09-09T04:08:42.917168+00:00",
+      "id": "2d6c3bce7fd7",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "marketing",
+        "education",
+        "technical",
+        "content writing",
+        "social media",
+        "ai",
+        "social"
+      ],
+      "title": "Social Comms",
+      "url": "https://remoteOK.com/remote-jobs/remote-social-comms-nope-1137314"
+    },
+    {
+      "company": "H&amp;M",
+      "fetched_at": "2026-09-09T04:08:42.917168+00:00",
+      "id": "459c50495dba",
+      "location": "BayamÃ³n,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "infosec",
+        "education",
+        "designer",
+        "customer support",
+        "marketing",
+        "dev",
+        "exec",
+        "ops",
+        "legal",
+        "sales",
+        "medical",
+        "recruiter",
+        "digital nomad"
+      ],
+      "title": "H&amp;M Visual Merchandiser Plaza del Sol",
+      "url": "https://remoteOK.com/remote-jobs/remote-hampm-visual-merchandiser-plaza-del-sol-hampm-1137270"
+    },
+    {
+      "company": "Halfords",
+      "fetched_at": "2026-09-09T04:08:42.917168+00:00",
+      "id": "4cd612bdc5a2",
+      "location": "Coventry,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "customer support",
+        "marketing",
+        "exec",
+        "finance",
+        "scheme",
+        "medical",
+        "testing"
+      ],
+      "title": "Vehicle Technician MOT Tester",
+      "url": "https://remoteOK.com/remote-jobs/remote-vehicle-technician-mot-tester-halfords-1137258"
+    },
+    {
+      "company": "The Russell Inn Hotel &amp; Conference Centre",
+      "fetched_at": "2026-09-09T04:08:42.917168+00:00",
+      "id": "d7fb8723516b",
+      "location": "Russell,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "testing",
+        "non tech",
+        "customer support",
+        "education",
+        "medical"
+      ],
+      "title": "handyman woman",
+      "url": "https://remoteOK.com/remote-jobs/remote-handyman-woman-the-russell-inn-hotel-amp-conference-centre-1137282"
+    },
+    {
+      "company": "Canada Post / Postes Canada",
+      "fetched_at": "2026-09-09T04:08:42.917168+00:00",
+      "id": "d71725fdeabd",
+      "location": "Blind River,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "testing",
+        "non tech",
+        "customer support",
+        "education",
+        "medical",
+        "marketing",
+        "exec",
+        "full time"
+      ],
+      "title": "Rural and Suburban Mail Carrier",
+      "url": "https://remoteOK.com/remote-jobs/remote-rural-and-suburban-mail-carrier-canada-post-postes-canada-1137283"
+    },
+    {
+      "company": "David Stark",
+      "fetched_at": "2026-09-09T04:08:42.917168+00:00",
+      "id": "14e42d08a744",
+      "location": "Remote",
+      "posted_at": "2026-09-09T02:25:53+00:00",
+      "source": "devto",
+      "tags": [
+        "python",
+        "django",
+        "datascience",
+        "jobs"
+      ],
+      "title": "David Stark: Top High-Paying Roles",
+      "url": "https://dev.to/devpulse/david-stark-top-high-paying-roles-2pdc"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-09T04:08:42.917168+00:00",
+      "id": "211a2bd8c073",
+      "location": "Remote",
+      "posted_at": "2026-09-09T01:19:30+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4kin"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-09T04:08:42.917168+00:00",
+      "id": "d8f2ab9f21b0",
+      "location": "Remote",
+      "posted_at": "2026-09-08T23:22:21+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-5d98"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-09-08T23:19:54.960251+00:00",
       "id": "ec639ec13aed",
@@ -2152,122 +2301,7 @@
       ],
       "title": "Backchannel Reference Checks: The Interview You Never See",
       "url": "https://dev.to/ji_ai/backchannel-reference-checks-the-interview-you-never-see-3435"
-    },
-    {
-      "company": "Four Seasons",
-      "fetched_at": "2026-09-06T04:00:23.645355+00:00",
-      "id": "61331c618315",
-      "location": "Nassau,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "payroll",
-        "vfx",
-        "customer support",
-        "dev",
-        "non tech",
-        "digital nomad",
-        "exec",
-        "legal",
-        "engineer"
-      ],
-      "title": "Kitchen Technician",
-      "url": "https://remoteOK.com/remote-jobs/remote-kitchen-technician-four-seasons-1137265"
-    },
-    {
-      "company": "Clutch",
-      "fetched_at": "2026-09-06T04:00:23.645355+00:00",
-      "id": "7cdd7a0f0a29",
-      "location": "Etobicoke,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "education",
-        "customer support",
-        "recruiter",
-        "non tech",
-        "hr",
-        "marketing",
-        "travel",
-        "teaching",
-        "finance",
-        "golang",
-        "medical",
-        "full time",
-        "ops",
-        "sales"
-      ],
-      "title": "Vehicle Detailer",
-      "url": "https://remoteOK.com/remote-jobs/remote-vehicle-detailer-clutch-1137278"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-06T04:00:23.645355+00:00",
-      "id": "4d0721955d06",
-      "location": "Remote",
-      "posted_at": "2026-09-06T00:02:43+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-lal"
-    },
-    {
-      "company": "PVH Group Inc",
-      "fetched_at": "2026-09-05T23:41:34.779989+00:00",
-      "id": "ca87e1f7abaf",
-      "location": "Bridgetown,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "payroll",
-        "vfx",
-        "customer support",
-        "dev",
-        "non tech",
-        "digital nomad"
-      ],
-      "title": "Payroll Clerk",
-      "url": "https://remoteOK.com/remote-jobs/remote-payroll-clerk-pvh-group-inc-1137264"
-    },
-    {
-      "company": "NT Health",
-      "fetched_at": "2026-09-05T23:41:34.779989+00:00",
-      "id": "2f633a4db665",
-      "location": "Katherine,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "supervisor",
-        "customer support",
-        "medical",
-        "non tech"
-      ],
-      "title": "Domestic",
-      "url": "https://remoteOK.com/remote-jobs/remote-domestic-nt-health-1137261"
-    },
-    {
-      "company": "City of York Council",
-      "fetched_at": "2026-09-05T23:41:34.779989+00:00",
-      "id": "4ec71e3195ed",
-      "location": "York,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "scheme",
-        "medical",
-        "engineer",
-        "customer support",
-        "c",
-        "exec"
-      ],
-      "title": "Joiner",
-      "url": "https://remoteOK.com/remote-jobs/remote-joiner-city-of-york-council-1137263"
     }
   ],
-  "updated_at": "2026-09-08T23:19:54.960251+00:00"
+  "updated_at": "2026-09-09T04:08:42.917168+00:00"
 }
