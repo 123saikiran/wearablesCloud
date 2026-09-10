@@ -14,13 +14,6 @@
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
     },
-    "AMA Group Ltd": {
-      "count": 1,
-      "job_ids": [
-        "0f3598261bef"
-      ],
-      "last_seen": "2026-09-07T22:41:37.306503+00:00"
-    },
     "AO Garcia Agency": {
       "count": 1,
       "job_ids": [
@@ -314,13 +307,6 @@
       ],
       "last_seen": "2026-09-10T15:00:18+00:00"
     },
-    "Crocs, Inc.": {
-      "count": 1,
-      "job_ids": [
-        "558ebfea0266"
-      ],
-      "last_seen": "2026-09-07T22:41:37.306503+00:00"
-    },
     "Crystalia Glass LLC": {
       "count": 1,
       "job_ids": [
@@ -476,13 +462,6 @@
       ],
       "last_seen": "2026-09-08T07:08:25.931531+00:00"
     },
-    "GAV Resorts": {
-      "count": 1,
-      "job_ids": [
-        "316b0a8df47a"
-      ],
-      "last_seen": "2026-09-07T22:41:37.306503+00:00"
-    },
     "GROW10X": {
       "count": 2,
       "job_ids": [
@@ -526,26 +505,12 @@
       ],
       "last_seen": "2026-09-09T04:08:42.917168+00:00"
     },
-    "HARTMANN GROUP International": {
-      "count": 1,
-      "job_ids": [
-        "b5a6ee26001d"
-      ],
-      "last_seen": "2026-09-07T22:41:37.306503+00:00"
-    },
     "HP4 RECRUITMENT LTD": {
       "count": 1,
       "job_ids": [
         "b0f8d84d3207"
       ],
       "last_seen": "2026-09-09T21:34:42.360999+00:00"
-    },
-    "HUGO BOSS": {
-      "count": 1,
-      "job_ids": [
-        "cf5b25c36d15"
-      ],
-      "last_seen": "2026-09-07T22:41:37.306503+00:00"
     },
     "Halfords": {
       "count": 1,
@@ -581,13 +546,6 @@
         "2be7fb2c7d99"
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
-    },
-    "Hilton Salwa Beach Resort &amp; Villas": {
-      "count": 1,
-      "job_ids": [
-        "69b63a4922b7"
-      ],
-      "last_seen": "2026-09-07T22:41:37.306503+00:00"
     },
     "HiredBuddy": {
       "count": 1,
@@ -625,13 +583,6 @@
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
     },
-    "ITC Limited": {
-      "count": 1,
-      "job_ids": [
-        "4dce23079adb"
-      ],
-      "last_seen": "2026-09-07T22:41:37.306503+00:00"
-    },
     "Interaction Design Foundation": {
       "count": 3,
       "job_ids": [
@@ -640,13 +591,6 @@
         "6a92d8de124a"
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
-    },
-    "JLL": {
-      "count": 1,
-      "job_ids": [
-        "c5b3fc67c73b"
-      ],
-      "last_seen": "2026-09-07T22:41:37.306503+00:00"
     },
     "Job Update": {
       "count": 2,
@@ -870,14 +814,6 @@
       ],
       "last_seen": "2026-09-08T07:08:25.931531+00:00"
     },
-    "Pete's Frootique": {
-      "count": 2,
-      "job_ids": [
-        "371d52efc6db",
-        "2850ed5c2600"
-      ],
-      "last_seen": "2026-09-07T22:41:37.306503+00:00"
-    },
     "Physical Superintelligence": {
       "count": 1,
       "job_ids": [
@@ -923,6 +859,7 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 21,
       "job_ids": [
+        "f61186969217",
         "042d6d36aa43",
         "cf0a4be844eb",
         "8d9ed03cb4ea",
@@ -942,10 +879,9 @@
         "1acfdd4aaa7f",
         "0a08fa4429c5",
         "9041ac5187ec",
-        "16a7a5514c84",
-        "208aaef48214"
+        "16a7a5514c84"
       ],
-      "last_seen": "2026-09-10T20:07:06+00:00"
+      "last_seen": "2026-09-10T22:33:18+00:00"
     },
     "ROAR Organic": {
       "count": 1,
@@ -1153,13 +1089,6 @@
       ],
       "last_seen": "2026-09-08T07:08:25.931531+00:00"
     },
-    "SunnyData": {
-      "count": 1,
-      "job_ids": [
-        "cb055b1bced4"
-      ],
-      "last_seen": "2026-09-07T22:41:37.306503+00:00"
-    },
     "TRANT ENGINEERING LIMITED": {
       "count": 1,
       "job_ids": [
@@ -1258,13 +1187,6 @@
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
     },
-    "Vashi Integrated Solutions": {
-      "count": 1,
-      "job_ids": [
-        "732a27151e8f"
-      ],
-      "last_seen": "2026-09-07T22:41:37.306503+00:00"
-    },
     "Viable Medical Solutions": {
       "count": 1,
       "job_ids": [
@@ -1350,13 +1272,6 @@
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
     },
-    "Wood": {
-      "count": 1,
-      "job_ids": [
-        "1cb8668b563f"
-      ],
-      "last_seen": "2026-09-07T22:41:37.306503+00:00"
-    },
     "XOOMAR": {
       "count": 1,
       "job_ids": [
@@ -1387,5 +1302,5 @@
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
     }
   },
-  "updated_at": "2026-09-10T21:30:12.514507+00:00"
+  "updated_at": "2026-09-10T23:53:54.050417+00:00"
 }
