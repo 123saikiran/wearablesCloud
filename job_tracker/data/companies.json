@@ -288,13 +288,6 @@
       ],
       "last_seen": "2026-09-07T19:46:07.074584+00:00"
     },
-    "Complex Co.": {
-      "count": 1,
-      "job_ids": [
-        "f9761e47764b"
-      ],
-      "last_seen": "2026-09-07T15:40:57.733417+00:00"
-    },
     "Control Shift Video": {
       "count": 1,
       "job_ids": [
@@ -319,14 +312,14 @@
     "Crackr": {
       "count": 6,
       "job_ids": [
+        "6c4ea1e4f32e",
+        "a77fc5264292",
         "0bedc424f264",
         "0282809e2b21",
         "343cff9afb53",
-        "edfb946928c5",
-        "d1096b2f7c64",
-        "73c72c63e963"
+        "edfb946928c5"
       ],
-      "last_seen": "2026-09-09T15:00:16+00:00"
+      "last_seen": "2026-09-10T15:00:18+00:00"
     },
     "Crocs, Inc.": {
       "count": 1,
@@ -526,13 +519,6 @@
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
     },
-    "Greater Pell City Chamber of Commerce": {
-      "count": 1,
-      "job_ids": [
-        "a9e8663e1cd3"
-      ],
-      "last_seen": "2026-09-07T15:40:57.733417+00:00"
-    },
     "H&amp;M": {
       "count": 1,
       "job_ids": [
@@ -640,13 +626,6 @@
         "6a92d8de124a"
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
-    },
-    "JAI HANUMAN UDYOG LIMITED": {
-      "count": 1,
-      "job_ids": [
-        "8438d4420a51"
-      ],
-      "last_seen": "2026-09-07T15:40:57.733417+00:00"
     },
     "JLL": {
       "count": 1,
@@ -907,8 +886,10 @@
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 19,
+      "count": 21,
       "job_ids": [
+        "cf0a4be844eb",
+        "8d9ed03cb4ea",
         "12f33ac9ea05",
         "6b1d4d0915d5",
         "75a048b02516",
@@ -929,7 +910,7 @@
         "208aaef48214",
         "2a126fde98b1"
       ],
-      "last_seen": "2026-09-10T10:39:17+00:00"
+      "last_seen": "2026-09-10T17:51:45+00:00"
     },
     "Radisson Hotel Group": {
       "count": 1,
@@ -974,13 +955,6 @@
         "d3d49e5b6de8"
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
-    },
-    "Royal Caribbean Group": {
-      "count": 1,
-      "job_ids": [
-        "e6beb621a703"
-      ],
-      "last_seen": "2026-09-07T15:40:57.733417+00:00"
     },
     "Royal Caribbean International": {
       "count": 1,
@@ -1051,13 +1025,6 @@
         "d3a9ed230213"
       ],
       "last_seen": "2026-09-09T14:18:21.376965+00:00"
-    },
-    "Sisal Hub Albania": {
-      "count": 1,
-      "job_ids": [
-        "715b254de673"
-      ],
-      "last_seen": "2026-09-07T15:40:57.733417+00:00"
     },
     "Sophie's Flats Inc.": {
       "count": 1,
@@ -1151,13 +1118,6 @@
       ],
       "last_seen": "2026-09-10T14:11:36.155211+00:00"
     },
-    "The AI Whistleblower Initiative": {
-      "count": 1,
-      "job_ids": [
-        "916cd2848e14"
-      ],
-      "last_seen": "2026-09-07T15:40:57.733417+00:00"
-    },
     "The Burger's Priest": {
       "count": 1,
       "job_ids": [
@@ -1235,26 +1195,12 @@
       ],
       "last_seen": "2026-09-07T22:41:37.306503+00:00"
     },
-    "Vertu Motors plc": {
-      "count": 1,
-      "job_ids": [
-        "6c953a74a85d"
-      ],
-      "last_seen": "2026-09-07T15:40:57.733417+00:00"
-    },
     "Viable Medical Solutions": {
       "count": 1,
       "job_ids": [
         "7e462c4c98c4"
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
-    },
-    "VirtuHire": {
-      "count": 1,
-      "job_ids": [
-        "c1f0f420cfa6"
-      ],
-      "last_seen": "2026-09-07T15:40:57.733417+00:00"
     },
     "Volar Fashion": {
       "count": 1,
@@ -1327,13 +1273,6 @@
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
     },
-    "Wipro": {
-      "count": 1,
-      "job_ids": [
-        "65e8ca7e9245"
-      ],
-      "last_seen": "2026-09-07T15:40:57.733417+00:00"
-    },
     "Wood": {
       "count": 1,
       "job_ids": [
@@ -1378,5 +1317,5 @@
       "last_seen": "2026-09-07T19:46:07.074584+00:00"
     }
   },
-  "updated_at": "2026-09-10T14:11:36.155211+00:00"
+  "updated_at": "2026-09-10T18:14:27.754310+00:00"
 }
