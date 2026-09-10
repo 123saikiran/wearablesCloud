@@ -1,6 +1,42 @@
 {
   "jobs": [
     {
+      "company": "Wakacje.pl",
+      "fetched_at": "2026-09-10T04:27:06.801594+00:00",
+      "id": "6db3cc4b9fcc",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "golang",
+        "dev",
+        "travel",
+        "api",
+        "golang",
+        "engineer",
+        "backend",
+        "digital nomad"
+      ],
+      "title": "Software Engineer GO",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-go-wakacje-pl-1135634"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-10T04:27:06.801594+00:00",
+      "id": "75a048b02516",
+      "location": "Remote",
+      "posted_at": "2026-09-10T01:04:43+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-hgb"
+    },
+    {
       "company": "OrderYOYO",
       "fetched_at": "2026-09-09T23:58:20.717756+00:00",
       "id": "56f90acd7e69",
@@ -5168,73 +5204,7 @@
       ],
       "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1n7e"
-    },
-    {
-      "company": "iMerit Technology",
-      "fetched_at": "2026-09-07T03:59:44.889822+00:00",
-      "id": "7e56423bc195",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "content writing",
-        "quality assurance",
-        "ai"
-      ],
-      "title": "AI Response Analyst",
-      "url": "https://remoteOK.com/remote-jobs/remote-ai-response-analyst-imerit-technology-1137309"
-    },
-    {
-      "company": "Four Seasons",
-      "fetched_at": "2026-09-07T03:59:44.889822+00:00",
-      "id": "4bf724a5e771",
-      "location": "Nassau,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "education",
-        "supervisor",
-        "legal",
-        "non tech"
-      ],
-      "title": "Public Area Attendant",
-      "url": "https://remoteOK.com/remote-jobs/remote-public-area-attendant-four-seasons-1137297"
-    },
-    {
-      "company": "MSC Cruises",
-      "fetched_at": "2026-09-07T03:59:44.889822+00:00",
-      "id": "82f155b3795d",
-      "location": "Rum Cay,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "education",
-        "supervisor",
-        "legal",
-        "non tech",
-        "sys admin",
-        "exec",
-        "engineer"
-      ],
-      "title": "Irrigation Technician",
-      "url": "https://remoteOK.com/remote-jobs/remote-irrigation-technician-msc-cruises-1137298"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-07T03:59:44.889822+00:00",
-      "id": "55ddab31f559",
-      "location": "Remote",
-      "posted_at": "2026-09-07T01:00:36+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-56nd"
     }
   ],
-  "updated_at": "2026-09-09T23:58:20.717756+00:00"
+  "updated_at": "2026-09-10T04:27:06.801594+00:00"
 }
