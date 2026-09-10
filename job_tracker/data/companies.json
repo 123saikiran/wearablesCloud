@@ -63,6 +63,13 @@
       ],
       "last_seen": "2026-09-08T20:58:56.709721+00:00"
     },
+    "Adams &amp; Martin Group": {
+      "count": 1,
+      "job_ids": [
+        "50fac4cb9ee6"
+      ],
+      "last_seen": "2026-09-10T21:30:12.514507+00:00"
+    },
     "Adaptive Teams": {
       "count": 1,
       "job_ids": [
@@ -76,13 +83,6 @@
         "33c4529d1405"
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
-    },
-    "Amazon Web Services (AWS)": {
-      "count": 1,
-      "job_ids": [
-        "ab36adb3f271"
-      ],
-      "last_seen": "2026-09-07T19:46:07.074584+00:00"
     },
     "Amentum": {
       "count": 1,
@@ -280,13 +280,6 @@
         "7cdd7a0f0a29"
       ],
       "last_seen": "2026-09-09T09:30:11.703599+00:00"
-    },
-    "Coca-Cola Cambodia Beverage Company Ltd": {
-      "count": 1,
-      "job_ids": [
-        "40925d90d9f8"
-      ],
-      "last_seen": "2026-09-07T19:46:07.074584+00:00"
     },
     "Control Shift Video": {
       "count": 1,
@@ -519,6 +512,13 @@
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
     },
+    "Greenlight Action": {
+      "count": 1,
+      "job_ids": [
+        "9b00e5e6a767"
+      ],
+      "last_seen": "2026-09-10T21:30:12.514507+00:00"
+    },
     "H&amp;M": {
       "count": 1,
       "job_ids": [
@@ -589,6 +589,13 @@
       ],
       "last_seen": "2026-09-07T22:41:37.306503+00:00"
     },
+    "HiredBuddy": {
+      "count": 1,
+      "job_ids": [
+        "68d88ea14819"
+      ],
+      "last_seen": "2026-09-10T21:30:12.514507+00:00"
+    },
     "Hola Moda": {
       "count": 2,
       "job_ids": [
@@ -603,6 +610,13 @@
         "6b2c33ff7663"
       ],
       "last_seen": "2026-09-08T20:58:56.709721+00:00"
+    },
+    "Hustler Marketing": {
+      "count": 1,
+      "job_ids": [
+        "e994aa911cbb"
+      ],
+      "last_seen": "2026-09-10T21:30:12.514507+00:00"
     },
     "INNERGY": {
       "count": 1,
@@ -648,13 +662,6 @@
         "03252034ba51"
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
-    },
-    "Jugopetrol AD": {
-      "count": 1,
-      "job_ids": [
-        "96918171a1ed"
-      ],
-      "last_seen": "2026-09-07T19:46:07.074584+00:00"
     },
     "Kapsch Group": {
       "count": 1,
@@ -743,6 +750,13 @@
       ],
       "last_seen": "2026-09-08T20:58:56.709721+00:00"
     },
+    "Miranda Creative, Inc.": {
+      "count": 1,
+      "job_ids": [
+        "a070fa0d5cd4"
+      ],
+      "last_seen": "2026-09-10T21:30:12.514507+00:00"
+    },
     "Mr Clutch Autocentres": {
       "count": 1,
       "job_ids": [
@@ -756,6 +770,13 @@
         "743ecd197f3b"
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
+    },
+    "MyIntegra": {
+      "count": 1,
+      "job_ids": [
+        "853d43cc4cd3"
+      ],
+      "last_seen": "2026-09-10T21:30:12.514507+00:00"
     },
     "NOPE": {
       "count": 1,
@@ -799,6 +820,13 @@
         "56f90acd7e69"
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
+    },
+    "Oula": {
+      "count": 1,
+      "job_ids": [
+        "9c1b69bf82b6"
+      ],
+      "last_seen": "2026-09-10T21:30:12.514507+00:00"
     },
     "PFAS (Personal Functional Assessment Services)": {
       "count": 1,
@@ -878,6 +906,13 @@
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
     },
+    "PromoGeneration": {
+      "count": 1,
+      "job_ids": [
+        "530a1eb072ab"
+      ],
+      "last_seen": "2026-09-10T21:30:12.514507+00:00"
+    },
     "PulseMediaNL": {
       "count": 1,
       "job_ids": [
@@ -888,6 +923,7 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 21,
       "job_ids": [
+        "042d6d36aa43",
         "cf0a4be844eb",
         "8d9ed03cb4ea",
         "12f33ac9ea05",
@@ -907,10 +943,16 @@
         "0a08fa4429c5",
         "9041ac5187ec",
         "16a7a5514c84",
-        "208aaef48214",
-        "2a126fde98b1"
+        "208aaef48214"
       ],
-      "last_seen": "2026-09-10T17:51:45+00:00"
+      "last_seen": "2026-09-10T20:07:06+00:00"
+    },
+    "ROAR Organic": {
+      "count": 1,
+      "job_ids": [
+        "08c27bd130ab"
+      ],
+      "last_seen": "2026-09-10T21:30:12.514507+00:00"
     },
     "Radisson Hotel Group": {
       "count": 1,
@@ -935,6 +977,13 @@
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
     },
+    "Ready": {
+      "count": 1,
+      "job_ids": [
+        "0909507a7c7f"
+      ],
+      "last_seen": "2026-09-10T21:30:12.514507+00:00"
+    },
     "Resource Guru": {
       "count": 1,
       "job_ids": [
@@ -948,6 +997,13 @@
         "9fc95c20aeb6"
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
+    },
+    "RippedBoxStation": {
+      "count": 1,
+      "job_ids": [
+        "14e8fa4b47cb"
+      ],
+      "last_seen": "2026-09-10T21:30:12.514507+00:00"
     },
     "Rowan": {
       "count": 1,
@@ -1025,6 +1081,20 @@
         "d3a9ed230213"
       ],
       "last_seen": "2026-09-09T14:18:21.376965+00:00"
+    },
+    "Snapscale": {
+      "count": 1,
+      "job_ids": [
+        "2917fa93ddb9"
+      ],
+      "last_seen": "2026-09-10T21:30:12.514507+00:00"
+    },
+    "Snapscale Philippines": {
+      "count": 1,
+      "job_ids": [
+        "b3e4ff181a4d"
+      ],
+      "last_seen": "2026-09-10T21:30:12.514507+00:00"
     },
     "Sophie's Flats Inc.": {
       "count": 1,
@@ -1118,6 +1188,13 @@
       ],
       "last_seen": "2026-09-10T14:11:36.155211+00:00"
     },
+    "The AI Whistleblower Initiative": {
+      "count": 1,
+      "job_ids": [
+        "916cd2848e14"
+      ],
+      "last_seen": "2026-09-10T21:30:12.514507+00:00"
+    },
     "The Burger's Priest": {
       "count": 1,
       "job_ids": [
@@ -1174,13 +1251,6 @@
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
     },
-    "U.P.PRO": {
-      "count": 1,
-      "job_ids": [
-        "43fcee87d7e5"
-      ],
-      "last_seen": "2026-09-07T19:46:07.074584+00:00"
-    },
     "Uchromatic": {
       "count": 1,
       "job_ids": [
@@ -1201,6 +1271,13 @@
         "7e462c4c98c4"
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
+    },
+    "VirtuHire": {
+      "count": 1,
+      "job_ids": [
+        "c1f0f420cfa6"
+      ],
+      "last_seen": "2026-09-10T21:30:12.514507+00:00"
     },
     "Volar Fashion": {
       "count": 1,
@@ -1308,14 +1385,7 @@
         "bfbaf901c569"
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
-    },
-    "walkr - turn your Google Meet walk-friendly": {
-      "count": 1,
-      "job_ids": [
-        "124a6c786b66"
-      ],
-      "last_seen": "2026-09-07T19:46:07.074584+00:00"
     }
   },
-  "updated_at": "2026-09-10T18:14:27.754310+00:00"
+  "updated_at": "2026-09-10T21:30:12.514507+00:00"
 }
