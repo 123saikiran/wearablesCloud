@@ -1,6 +1,171 @@
 {
   "jobs": [
     {
+      "company": "Libertex Group",
+      "fetched_at": "2026-09-10T14:11:36.155211+00:00",
+      "id": "13adf68b920b",
+      "location": "Ù Ø³ÙØ·, Ù Ø³ÙØ· Ù Ø³ÙØ· Ø¹Ù Ø§Ù",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "product manager",
+        "exec",
+        "design",
+        "crypto",
+        "marketing",
+        "finance",
+        "bus dev",
+        "recruiter",
+        "digital nomad"
+      ],
+      "title": "Business Development Manager",
+      "url": "https://remoteOK.com/remote-jobs/remote-business-development-manager-libertex-group-1137373"
+    },
+    {
+      "company": "Thatchers Cider",
+      "fetched_at": "2026-09-10T14:11:36.155211+00:00",
+      "id": "4a59a86ff633",
+      "location": "Greater Newcastle Area,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "marketing",
+        "finance",
+        "exec",
+        "excel",
+        "golang"
+      ],
+      "title": "Quality Dispense Technician North",
+      "url": "https://remoteOK.com/remote-jobs/remote-quality-dispense-technician-north-thatchers-cider-1137374"
+    },
+    {
+      "company": "Benzinga",
+      "fetched_at": "2026-09-10T14:11:36.155211+00:00",
+      "id": "08991bb5dd0b",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "golang",
+        "video",
+        "engineer"
+      ],
+      "title": "AI Engineer Data APIs",
+      "url": "https://remoteOK.com/remote-jobs/remote-ai-engineer-data-apis-benzinga-1137224"
+    },
+    {
+      "company": "Blackbird Interactive",
+      "fetched_at": "2026-09-10T14:11:36.155211+00:00",
+      "id": "63695c1ba827",
+      "location": "Vancouver, BC, Canada",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "design",
+        "game dev",
+        "designer",
+        "technical",
+        "customer support",
+        "testing",
+        "content writing",
+        "senior",
+        "engineer",
+        "digital nomad"
+      ],
+      "title": "Senior Level Designer",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-level-designer-blackbird-interactive-1137156"
+    },
+    {
+      "company": "Tessera Labs",
+      "fetched_at": "2026-09-10T14:11:36.155211+00:00",
+      "id": "f18c1fd14d71",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "design",
+        "sys admin",
+        "consulting",
+        "testing",
+        "exec",
+        "cloud",
+        "senior",
+        "ops",
+        "engineer",
+        "ecommerce",
+        "shopify",
+        "full time",
+        "digital nomad"
+      ],
+      "title": "Oracle Fusion Cloud Lead â Logistics & Supply Chain Management",
+      "url": "https://remoteOK.com/remote-jobs/remote-oracle-fusion-cloud-lead-logistics-supply-chain-management-tessera-labs-1137155"
+    },
+    {
+      "company": "Job Update",
+      "fetched_at": "2026-09-10T14:11:36.155211+00:00",
+      "id": "eb35d1065e34",
+      "location": "Remote",
+      "posted_at": "2026-09-10T12:05:37+00:00",
+      "source": "devto",
+      "tags": [
+        "awn",
+        "jobs",
+        "roundup",
+        "animation"
+      ],
+      "title": "AWN Jobs Roundup: 23 Animation & VFX Openings Worldwide",
+      "url": "https://dev.to/deep_meditation_deb784c26/awn-jobs-roundup-23-animation-vfx-openings-worldwide-3oh2"
+    },
+    {
+      "company": "Job Update",
+      "fetched_at": "2026-09-10T14:11:36.155211+00:00",
+      "id": "b766ef1be1b8",
+      "location": "Remote",
+      "posted_at": "2026-09-10T12:05:36+00:00",
+      "source": "devto",
+      "tags": [
+        "ptc",
+        "jobs",
+        "online",
+        "earn"
+      ],
+      "title": "PTC Jobs Online Earn Money: Realistic Guide for Beginners",
+      "url": "https://dev.to/deep_meditation_deb784c26/ptc-jobs-online-earn-money-realistic-guide-for-beginners-2348"
+    },
+    {
+      "company": "XOOMAR",
+      "fetched_at": "2026-09-10T14:11:36.155211+00:00",
+      "id": "a8a48dc74172",
+      "location": "Remote",
+      "posted_at": "2026-09-10T11:08:31+00:00",
+      "source": "devto",
+      "tags": [
+        "touristtax",
+        "hospitality",
+        "jobs",
+        "localgovernment"
+      ],
+      "title": "English Mayors Plot Uncapped Tourist Tax Amid 33,000 Job Fear",
+      "url": "https://dev.to/xoomar/english-mayors-plot-uncapped-tourist-tax-amid-33000-job-fear-4gpl"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-10T14:11:36.155211+00:00",
+      "id": "12f33ac9ea05",
+      "location": "Remote",
+      "posted_at": "2026-09-10T10:39:17+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-51k3"
+    },
+    {
       "company": "iMerit Technology",
       "fetched_at": "2026-09-10T09:29:29.210642+00:00",
       "id": "7e56423bc195",
@@ -5110,23 +5275,7 @@
       ],
       "title": "8 Remote SWE Jobs You Can Apply to From Anywhere (Sep 7)",
       "url": "https://dev.to/crackr/8-remote-swe-jobs-you-can-apply-to-from-anywhere-sep-7-11mh"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-07T15:40:57.733417+00:00",
-      "id": "af2f3b24a728",
-      "location": "Remote",
-      "posted_at": "2026-09-07T12:25:37+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1jdi"
     }
   ],
-  "updated_at": "2026-09-10T09:29:29.210642+00:00"
+  "updated_at": "2026-09-10T14:11:36.155211+00:00"
 }
