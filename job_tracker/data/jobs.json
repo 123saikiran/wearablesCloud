@@ -1,6 +1,49 @@
 {
   "jobs": [
     {
+      "company": "CertifyOS",
+      "fetched_at": "2026-09-11T04:04:03.284808+00:00",
+      "id": "f973915f7465",
+      "location": "Pune",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "design",
+        "sys admin",
+        "python",
+        "technical",
+        "dev",
+        "testing",
+        "java",
+        "cloud",
+        "git",
+        "api",
+        "ops",
+        "medical",
+        "recruiter",
+        "engineer",
+        "digital nomad"
+      ],
+      "title": "AI Intern",
+      "url": "https://remoteOK.com/remote-jobs/remote-ai-intern-certifyos-1135555"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-11T04:04:03.284808+00:00",
+      "id": "2767afe76339",
+      "location": "Remote",
+      "posted_at": "2026-09-11T00:31:35+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-816"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-09-10T23:53:54.050417+00:00",
       "id": "f61186969217",
@@ -5308,36 +5351,7 @@
       ],
       "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-5cba"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-08T07:08:25.931531+00:00",
-      "id": "16a7a5514c84",
-      "location": "Remote",
-      "posted_at": "2026-09-08T01:10:19+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4n8m"
-    },
-    {
-      "company": "Warehance",
-      "fetched_at": "2026-09-08T01:03:24.341371+00:00",
-      "id": "b229c41a3801",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "customer support"
-      ],
-      "title": "Customer Support & Success Specialist",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-success-specialist-warehance-1137302"
     }
   ],
-  "updated_at": "2026-09-10T23:53:54.050417+00:00"
+  "updated_at": "2026-09-11T04:04:03.284808+00:00"
 }
