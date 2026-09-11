@@ -1,6 +1,69 @@
 {
   "jobs": [
     {
+      "company": "eClinical Solutions",
+      "fetched_at": "2026-09-11T18:18:40.430109+00:00",
+      "id": "24895f61f51e",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "cloud",
+        "exec",
+        "stats"
+      ],
+      "title": "External Data Specialist",
+      "url": "https://remoteOK.com/remote-jobs/remote-external-data-specialist-eclinical-solutions-1137375"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-11T18:18:40.430109+00:00",
+      "id": "662194c39a9f",
+      "location": "Remote",
+      "posted_at": "2026-09-11T17:25:46+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4j97"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-09-11T18:18:40.430109+00:00",
+      "id": "20b17798ad6f",
+      "location": "Remote",
+      "posted_at": "2026-09-11T15:00:17+00:00",
+      "source": "devto",
+      "tags": [
+        "beginners",
+        "jobs",
+        "career",
+        "programming"
+      ],
+      "title": "Where to Find Tech Internships This Summer (Sep 11)",
+      "url": "https://dev.to/crackr/where-to-find-tech-internships-this-summer-sep-11-le4"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-09-11T18:18:40.430109+00:00",
+      "id": "7d6d8ca95947",
+      "location": "Remote",
+      "posted_at": "2026-09-11T15:00:13+00:00",
+      "source": "devto",
+      "tags": [
+        "remotework",
+        "jobs",
+        "webdev",
+        "career"
+      ],
+      "title": "Senior Remote SWE Roles Hiring Now - 3 Pay $150k+ (Sep 11)",
+      "url": "https://dev.to/crackr/senior-remote-swe-roles-hiring-now-3-pay-150k-sep-11-228p"
+    },
+    {
       "company": "DoiT",
       "fetched_at": "2026-09-11T14:10:53.592260+00:00",
       "id": "55ad3d8aceec",
@@ -4964,117 +5027,7 @@
       "tags": [],
       "title": "Don't see a role for you",
       "url": "https://remoteOK.com/remote-jobs/remote-dont-see-a-role-for-you-carv-1137150"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-08T20:58:56.709721+00:00",
-      "id": "3950d21c3a76",
-      "location": "Remote",
-      "posted_at": "2026-09-08T18:09:02+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4h5m"
-    },
-    {
-      "company": "Hola Moda",
-      "fetched_at": "2026-09-08T17:11:32.486205+00:00",
-      "id": "747d0c3de6ad",
-      "location": "Valencia,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "exec",
-        "c"
-      ],
-      "title": "Store Manager",
-      "url": "https://remoteOK.com/remote-jobs/remote-store-manager-hola-moda-1137206"
-    },
-    {
-      "company": "Hola Moda",
-      "fetched_at": "2026-09-08T17:11:32.486205+00:00",
-      "id": "f3b8267fcb77",
-      "location": "Valencia,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [],
-      "title": "Visual Merchandiser",
-      "url": "https://remoteOK.com/remote-jobs/remote-visual-merchandiser-hola-moda-1137205"
-    },
-    {
-      "company": "Dart",
-      "fetched_at": "2026-09-08T17:11:32.486205+00:00",
-      "id": "3f4e1af97d62",
-      "location": "George Town,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "sys admin",
-        "education",
-        "technical",
-        "customer support",
-        "marketing",
-        "travel",
-        "medical",
-        "engineer",
-        "full time"
-      ],
-      "title": "Building Maintenance Technician",
-      "url": "https://remoteOK.com/remote-jobs/remote-building-maintenance-technician-dart-1137212"
-    },
-    {
-      "company": "Crackr",
-      "fetched_at": "2026-09-08T17:11:32.486205+00:00",
-      "id": "343cff9afb53",
-      "location": "Remote",
-      "posted_at": "2026-09-08T15:00:16+00:00",
-      "source": "devto",
-      "tags": [
-        "beginners",
-        "jobs",
-        "career",
-        "programming"
-      ],
-      "title": "Where to Find Tech Internships This Summer (Sep 8)",
-      "url": "https://dev.to/crackr/where-to-find-tech-internships-this-summer-sep-8-367c"
-    },
-    {
-      "company": "Crackr",
-      "fetched_at": "2026-09-08T17:11:32.486205+00:00",
-      "id": "edfb946928c5",
-      "location": "Remote",
-      "posted_at": "2026-09-08T15:00:13+00:00",
-      "source": "devto",
-      "tags": [
-        "remotework",
-        "jobs",
-        "webdev",
-        "career"
-      ],
-      "title": "Senior Remote SWE Roles Hiring Now - 1 Pay $150k+ (Sep 8)",
-      "url": "https://dev.to/crackr/senior-remote-swe-roles-hiring-now-1-pay-150k-sep-8-17do"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-08T17:11:32.486205+00:00",
-      "id": "1acfdd4aaa7f",
-      "location": "Remote",
-      "posted_at": "2026-09-08T14:46:03+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-175m"
     }
   ],
-  "updated_at": "2026-09-11T14:10:53.592260+00:00"
+  "updated_at": "2026-09-11T18:18:40.430109+00:00"
 }
