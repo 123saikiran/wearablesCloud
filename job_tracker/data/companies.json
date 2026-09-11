@@ -105,13 +105,6 @@
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
     },
-    "Atreides": {
-      "count": 1,
-      "job_ids": [
-        "507ba5b74900"
-      ],
-      "last_seen": "2026-09-08T07:08:25.931531+00:00"
-    },
     "Ausdocs Holdings Group": {
       "count": 2,
       "job_ids": [
@@ -123,9 +116,9 @@
     "Ava Bagherzadeh": {
       "count": 1,
       "job_ids": [
-        "82477be3df00"
+        "b46040e4fc7b"
       ],
-      "last_seen": "2026-09-08T08:48:15+00:00"
+      "last_seen": "2026-09-11T07:40:57+00:00"
     },
     "BMWL": {
       "count": 1,
@@ -196,13 +189,6 @@
         "9466505086ce"
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
-    },
-    "Brooks Brothers": {
-      "count": 1,
-      "job_ids": [
-        "ccf73e620dbb"
-      ],
-      "last_seen": "2026-09-08T07:08:25.931531+00:00"
     },
     "Bybit": {
       "count": 1,
@@ -412,20 +398,6 @@
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
     },
-    "FedEx": {
-      "count": 1,
-      "job_ids": [
-        "5f2969c27594"
-      ],
-      "last_seen": "2026-09-08T07:08:25.931531+00:00"
-    },
-    "Fifth Avenue Properties / Fifth Avenue Homes": {
-      "count": 1,
-      "job_ids": [
-        "0ba85f873ea6"
-      ],
-      "last_seen": "2026-09-08T07:08:25.931531+00:00"
-    },
     "FindTutors": {
       "count": 1,
       "job_ids": [
@@ -462,13 +434,6 @@
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
     },
-    "Fronix Services": {
-      "count": 1,
-      "job_ids": [
-        "af34f3a632ef"
-      ],
-      "last_seen": "2026-09-08T07:08:25.931531+00:00"
-    },
     "GROW10X": {
       "count": 2,
       "job_ids": [
@@ -476,13 +441,6 @@
         "3234b98a11bc"
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
-    },
-    "Gildan": {
-      "count": 1,
-      "job_ids": [
-        "ea3789efa1e5"
-      ],
-      "last_seen": "2026-09-08T07:08:25.931531+00:00"
     },
     "Go Auto": {
       "count": 1,
@@ -656,13 +614,6 @@
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
     },
-    "Linsco Ltd": {
-      "count": 1,
-      "job_ids": [
-        "26f98e5432be"
-      ],
-      "last_seen": "2026-09-08T07:08:25.931531+00:00"
-    },
     "Localiza&amp;Co": {
       "count": 4,
       "job_ids": [
@@ -814,13 +765,6 @@
       ],
       "last_seen": "2026-09-09T21:34:42.360999+00:00"
     },
-    "Pembroke School": {
-      "count": 1,
-      "job_ids": [
-        "2fcbbf5c1e1d"
-      ],
-      "last_seen": "2026-09-08T07:08:25.931531+00:00"
-    },
     "Physical Superintelligence": {
       "count": 1,
       "job_ids": [
@@ -866,6 +810,7 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 21,
       "job_ids": [
+        "1846ba1fb24c",
         "2767afe76339",
         "f61186969217",
         "042d6d36aa43",
@@ -885,10 +830,9 @@
         "ec639ec13aed",
         "3950d21c3a76",
         "1acfdd4aaa7f",
-        "0a08fa4429c5",
-        "9041ac5187ec"
+        "0a08fa4429c5"
       ],
-      "last_seen": "2026-09-11T00:31:35+00:00"
+      "last_seen": "2026-09-11T05:13:12+00:00"
     },
     "ROAR Organic": {
       "count": 1,
@@ -896,13 +840,6 @@
         "08c27bd130ab"
       ],
       "last_seen": "2026-09-10T21:30:12.514507+00:00"
-    },
-    "Radisson Hotel Group": {
-      "count": 1,
-      "job_ids": [
-        "bbe58d0dacdb"
-      ],
-      "last_seen": "2026-09-08T07:08:25.931531+00:00"
     },
     "RainFocus": {
       "count": 1,
@@ -961,13 +898,6 @@
         "d34243f9c22e"
       ],
       "last_seen": "2026-09-09T14:18:21.376965+00:00"
-    },
-    "Royal Lepage Icon Realty": {
-      "count": 1,
-      "job_ids": [
-        "7f166a2a904d"
-      ],
-      "last_seen": "2026-09-08T07:08:25.931531+00:00"
     },
     "SEAhub Asia": {
       "count": 1,
@@ -1067,13 +997,6 @@
       ],
       "last_seen": "2026-09-08T20:58:56.709721+00:00"
     },
-    "Stanley Black &amp; Decker, Inc.": {
-      "count": 1,
-      "job_ids": [
-        "55ad3d8aceec"
-      ],
-      "last_seen": "2026-09-08T07:08:25.931531+00:00"
-    },
     "Stobart": {
       "count": 1,
       "job_ids": [
@@ -1089,26 +1012,12 @@
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
     },
-    "Streamline Search": {
-      "count": 1,
-      "job_ids": [
-        "6da040801641"
-      ],
-      "last_seen": "2026-09-08T07:08:25.931531+00:00"
-    },
     "TRANT ENGINEERING LIMITED": {
       "count": 1,
       "job_ids": [
         "19d1a9b3d292"
       ],
       "last_seen": "2026-09-09T21:34:42.360999+00:00"
-    },
-    "Tap Growth ai": {
-      "count": 1,
-      "job_ids": [
-        "0f652df17cde"
-      ],
-      "last_seen": "2026-09-08T07:08:25.931531+00:00"
     },
     "Tessera Labs": {
       "count": 1,
@@ -1137,13 +1046,6 @@
         "66d09bd7d40b"
       ],
       "last_seen": "2026-09-09T18:25:27.735611+00:00"
-    },
-    "The Drinks LLAB": {
-      "count": 1,
-      "job_ids": [
-        "55928a01d258"
-      ],
-      "last_seen": "2026-09-08T07:08:25.931531+00:00"
     },
     "The Home Depot Canada": {
       "count": 1,
@@ -1223,10 +1125,9 @@
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
     },
     "W Hotels": {
-      "count": 2,
+      "count": 1,
       "job_ids": [
-        "8bbf75a6d469",
-        "b88670e3de4e"
+        "8bbf75a6d469"
       ],
       "last_seen": "2026-09-09T14:18:21.376965+00:00"
     },
@@ -1250,6 +1151,13 @@
         "954cb0d69245"
       ],
       "last_seen": "2026-09-09T21:34:42.360999+00:00"
+    },
+    "Warehance": {
+      "count": 1,
+      "job_ids": [
+        "b229c41a3801"
+      ],
+      "last_seen": "2026-09-11T09:27:05.779974+00:00"
     },
     "Webnotics Pvt Ltd": {
       "count": 1,
@@ -1302,5 +1210,5 @@
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
     }
   },
-  "updated_at": "2026-09-11T04:04:03.284808+00:00"
+  "updated_at": "2026-09-11T09:27:05.779974+00:00"
 }
