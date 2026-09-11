@@ -49,13 +49,6 @@
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
     },
-    "Acumentis Group": {
-      "count": 1,
-      "job_ids": [
-        "dd8550c8db61"
-      ],
-      "last_seen": "2026-09-08T20:58:56.709721+00:00"
-    },
     "Adams &amp; Martin Group": {
       "count": 1,
       "job_ids": [
@@ -197,26 +190,12 @@
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
     },
-    "C2 Group": {
-      "count": 1,
-      "job_ids": [
-        "5054c7640f18"
-      ],
-      "last_seen": "2026-09-08T20:58:56.709721+00:00"
-    },
     "Canada Post / Postes Canada": {
       "count": 1,
       "job_ids": [
         "d71725fdeabd"
       ],
       "last_seen": "2026-09-09T04:08:42.917168+00:00"
-    },
-    "Carv": {
-      "count": 1,
-      "job_ids": [
-        "c53b1db41795"
-      ],
-      "last_seen": "2026-09-08T20:58:56.709721+00:00"
     },
     "Centro Cuesta Nacional": {
       "count": 1,
@@ -274,13 +253,6 @@
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
     },
-    "Copa Airlines": {
-      "count": 1,
-      "job_ids": [
-        "03b587da9545"
-      ],
-      "last_seen": "2026-09-08T20:58:56.709721+00:00"
-    },
     "CoverGo": {
       "count": 1,
       "job_ids": [
@@ -321,13 +293,6 @@
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
     },
-    "Delta Hotels by Marriott Edinburgh": {
-      "count": 1,
-      "job_ids": [
-        "19dd76245f69"
-      ],
-      "last_seen": "2026-09-08T20:58:56.709721+00:00"
-    },
     "Department of Justice and Community Safety, Victoria": {
       "count": 1,
       "job_ids": [
@@ -348,20 +313,6 @@
         "8ff5ff432a8f"
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
-    },
-    "Elements Recruitment Australia": {
-      "count": 1,
-      "job_ids": [
-        "71d7458f08aa"
-      ],
-      "last_seen": "2026-09-08T20:58:56.709721+00:00"
-    },
-    "Empire Assets": {
-      "count": 1,
-      "job_ids": [
-        "b448eb571a3a"
-      ],
-      "last_seen": "2026-09-08T20:58:56.709721+00:00"
     },
     "Enable Dental": {
       "count": 1,
@@ -484,13 +435,6 @@
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
     },
-    "Hertz": {
-      "count": 1,
-      "job_ids": [
-        "69f3a8238ed4"
-      ],
-      "last_seen": "2026-09-08T20:58:56.709721+00:00"
-    },
     "HighLevel": {
       "count": 1,
       "job_ids": [
@@ -504,13 +448,6 @@
         "68d88ea14819"
       ],
       "last_seen": "2026-09-10T21:30:12.514507+00:00"
-    },
-    "Hovis Bakeries": {
-      "count": 1,
-      "job_ids": [
-        "6b2c33ff7663"
-      ],
-      "last_seen": "2026-09-08T20:58:56.709721+00:00"
     },
     "Hustler Marketing": {
       "count": 1,
@@ -593,12 +530,9 @@
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
     },
     "Localiza&amp;Co": {
-      "count": 4,
+      "count": 1,
       "job_ids": [
-        "37b2715f3a1c",
-        "89110adaa1f1",
-        "0c98dcd56261",
-        "fc6f8ae81319"
+        "37b2715f3a1c"
       ],
       "last_seen": "2026-09-09T21:34:42.360999+00:00"
     },
@@ -622,13 +556,6 @@
         "1fe7ab9da012"
       ],
       "last_seen": "2026-09-09T21:34:42.360999+00:00"
-    },
-    "Marriott International": {
-      "count": 1,
-      "job_ids": [
-        "8fe1b3733596"
-      ],
-      "last_seen": "2026-09-08T20:58:56.709721+00:00"
     },
     "Miranda Creative, Inc.": {
       "count": 1,
@@ -788,6 +715,7 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 21,
       "job_ids": [
+        "14e63aa2cb52",
         "662194c39a9f",
         "90a1936a0e50",
         "4994d86ee20f",
@@ -807,10 +735,9 @@
         "635df99ba625",
         "99247e25278f",
         "211a2bd8c073",
-        "d8f2ab9f21b0",
-        "ec639ec13aed"
+        "d8f2ab9f21b0"
       ],
-      "last_seen": "2026-09-11T17:25:46+00:00"
+      "last_seen": "2026-09-11T19:54:43+00:00"
     },
     "ROAR Organic": {
       "count": 1,
@@ -968,13 +895,6 @@
       ],
       "last_seen": "2026-09-09T18:25:27.735611+00:00"
     },
-    "St. Regis Hotels &amp; Resorts": {
-      "count": 1,
-      "job_ids": [
-        "2c7a0515e650"
-      ],
-      "last_seen": "2026-09-08T20:58:56.709721+00:00"
-    },
     "Stobart": {
       "count": 1,
       "job_ids": [
@@ -1003,6 +923,13 @@
         "f18c1fd14d71"
       ],
       "last_seen": "2026-09-10T14:11:36.155211+00:00"
+    },
+    "TestGorilla": {
+      "count": 1,
+      "job_ids": [
+        "8bb632e4f51a"
+      ],
+      "last_seen": "2026-09-11T21:37:16.748832+00:00"
     },
     "Thatchers Cider": {
       "count": 1,
@@ -1195,5 +1122,5 @@
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
     }
   },
-  "updated_at": "2026-09-11T18:18:40.430109+00:00"
+  "updated_at": "2026-09-11T21:37:16.748832+00:00"
 }
