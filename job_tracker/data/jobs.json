@@ -1,6 +1,56 @@
 {
   "jobs": [
     {
+      "company": "DoiT",
+      "fetched_at": "2026-09-11T14:10:53.592260+00:00",
+      "id": "55ad3d8aceec",
+      "location": "Remote UK",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "technical",
+        "marketing",
+        "cloud",
+        "microsoft",
+        "exec",
+        "sales"
+      ],
+      "title": "Sales Development Representative Attributeâ",
+      "url": "https://remoteOK.com/remote-jobs/"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-11T14:10:53.592260+00:00",
+      "id": "90a1936a0e50",
+      "location": "Remote",
+      "posted_at": "2026-09-11T13:54:06+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3ph8"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-11T14:10:53.592260+00:00",
+      "id": "4994d86ee20f",
+      "location": "Remote",
+      "posted_at": "2026-09-11T09:42:47+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-158p"
+    },
+    {
       "company": "Warehance",
       "fetched_at": "2026-09-11T09:27:05.779974+00:00",
       "id": "b229c41a3801",
@@ -5024,62 +5074,7 @@
       ],
       "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-175m"
-    },
-    {
-      "company": "Food Basics",
-      "fetched_at": "2026-09-08T12:46:45.859942+00:00",
-      "id": "544014e7a36d",
-      "location": "Waterloo,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "sys admin",
-        "customer support",
-        "education",
-        "exec",
-        "sales",
-        "golang",
-        "recruiter",
-        "full time"
-      ],
-      "title": "Produce Clerk",
-      "url": "https://remoteOK.com/remote-jobs/remote-produce-clerk-food-basics-1137247"
-    },
-    {
-      "company": "Digest Media",
-      "fetched_at": "2026-09-08T12:46:45.859942+00:00",
-      "id": "665fa257e8da",
-      "location": "Newcastle,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "design",
-        "consulting",
-        "exec",
-        "ops",
-        "engineer",
-        "digital nomad",
-        "testing"
-      ],
-      "title": "Test",
-      "url": "https://remoteOK.com/remote-jobs/remote-test-digest-media-1137198"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-08T12:46:45.859942+00:00",
-      "id": "0a08fa4429c5",
-      "location": "Remote",
-      "posted_at": "2026-09-08T10:35:50+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-464d"
     }
   ],
-  "updated_at": "2026-09-11T09:27:05.779974+00:00"
+  "updated_at": "2026-09-11T14:10:53.592260+00:00"
 }
