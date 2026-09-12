@@ -1,6 +1,38 @@
 {
   "jobs": [
     {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-12T05:31:40.461393+00:00",
+      "id": "77d00a0b634f",
+      "location": "Remote",
+      "posted_at": "2026-09-12T04:47:55+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-5147"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-12T05:31:40.461393+00:00",
+      "id": "812fc9dd771a",
+      "location": "Remote",
+      "posted_at": "2026-09-12T00:15:18+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-34j8"
+    },
+    {
       "company": "Harper",
       "fetched_at": "2026-09-12T00:00:55.428707+00:00",
       "id": "3991e551a545",
@@ -4734,140 +4766,7 @@
       ],
       "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4dao"
-    },
-    {
-      "company": "NOPE",
-      "fetched_at": "2026-09-09T04:08:42.917168+00:00",
-      "id": "2d6c3bce7fd7",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "marketing",
-        "education",
-        "technical",
-        "content writing",
-        "social media",
-        "ai",
-        "social"
-      ],
-      "title": "Social Comms",
-      "url": "https://remoteOK.com/remote-jobs/remote-social-comms-nope-1137314"
-    },
-    {
-      "company": "H&amp;M",
-      "fetched_at": "2026-09-09T04:08:42.917168+00:00",
-      "id": "459c50495dba",
-      "location": "BayamÃ³n,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "infosec",
-        "education",
-        "designer",
-        "customer support",
-        "marketing",
-        "dev",
-        "exec",
-        "ops",
-        "legal",
-        "sales",
-        "medical",
-        "recruiter",
-        "digital nomad"
-      ],
-      "title": "H&amp;M Visual Merchandiser Plaza del Sol",
-      "url": "https://remoteOK.com/remote-jobs/remote-hampm-visual-merchandiser-plaza-del-sol-hampm-1137270"
-    },
-    {
-      "company": "Halfords",
-      "fetched_at": "2026-09-09T04:08:42.917168+00:00",
-      "id": "4cd612bdc5a2",
-      "location": "Coventry,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "education",
-        "customer support",
-        "marketing",
-        "exec",
-        "finance",
-        "scheme",
-        "medical",
-        "testing"
-      ],
-      "title": "Vehicle Technician MOT Tester",
-      "url": "https://remoteOK.com/remote-jobs/remote-vehicle-technician-mot-tester-halfords-1137258"
-    },
-    {
-      "company": "The Russell Inn Hotel &amp; Conference Centre",
-      "fetched_at": "2026-09-09T04:08:42.917168+00:00",
-      "id": "d7fb8723516b",
-      "location": "Russell,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "testing",
-        "non tech",
-        "customer support",
-        "education",
-        "medical"
-      ],
-      "title": "handyman woman",
-      "url": "https://remoteOK.com/remote-jobs/remote-handyman-woman-the-russell-inn-hotel-amp-conference-centre-1137282"
-    },
-    {
-      "company": "Canada Post / Postes Canada",
-      "fetched_at": "2026-09-09T04:08:42.917168+00:00",
-      "id": "d71725fdeabd",
-      "location": "Blind River,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "testing",
-        "non tech",
-        "customer support",
-        "education",
-        "medical",
-        "marketing",
-        "exec",
-        "full time"
-      ],
-      "title": "Rural and Suburban Mail Carrier",
-      "url": "https://remoteOK.com/remote-jobs/remote-rural-and-suburban-mail-carrier-canada-post-postes-canada-1137283"
-    },
-    {
-      "company": "David Stark",
-      "fetched_at": "2026-09-09T04:08:42.917168+00:00",
-      "id": "14e42d08a744",
-      "location": "Remote",
-      "posted_at": "2026-09-09T02:25:53+00:00",
-      "source": "devto",
-      "tags": [
-        "python",
-        "django",
-        "datascience",
-        "jobs"
-      ],
-      "title": "David Stark: Top High-Paying Roles",
-      "url": "https://dev.to/devpulse/david-stark-top-high-paying-roles-2pdc"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-09T04:08:42.917168+00:00",
-      "id": "211a2bd8c073",
-      "location": "Remote",
-      "posted_at": "2026-09-09T01:19:30+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4kin"
     }
   ],
-  "updated_at": "2026-09-12T00:00:55.428707+00:00"
+  "updated_at": "2026-09-12T05:31:40.461393+00:00"
 }

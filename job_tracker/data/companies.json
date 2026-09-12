@@ -190,13 +190,6 @@
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
     },
-    "Canada Post / Postes Canada": {
-      "count": 1,
-      "job_ids": [
-        "d71725fdeabd"
-      ],
-      "last_seen": "2026-09-09T04:08:42.917168+00:00"
-    },
     "Centro Cuesta Nacional": {
       "count": 1,
       "job_ids": [
@@ -278,13 +271,6 @@
         "861f5311a11c"
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
-    },
-    "David Stark": {
-      "count": 1,
-      "job_ids": [
-        "14e42d08a744"
-      ],
-      "last_seen": "2026-09-09T02:25:53+00:00"
     },
     "Delinea": {
       "count": 1,
@@ -414,26 +400,12 @@
       ],
       "last_seen": "2026-09-10T21:30:12.514507+00:00"
     },
-    "H&amp;M": {
-      "count": 1,
-      "job_ids": [
-        "459c50495dba"
-      ],
-      "last_seen": "2026-09-09T04:08:42.917168+00:00"
-    },
     "HP4 RECRUITMENT LTD": {
       "count": 1,
       "job_ids": [
         "b0f8d84d3207"
       ],
       "last_seen": "2026-09-09T21:34:42.360999+00:00"
-    },
-    "Halfords": {
-      "count": 1,
-      "job_ids": [
-        "4cd612bdc5a2"
-      ],
-      "last_seen": "2026-09-09T04:08:42.917168+00:00"
     },
     "Harbor": {
       "count": 1,
@@ -606,13 +578,6 @@
       ],
       "last_seen": "2026-09-10T21:30:12.514507+00:00"
     },
-    "NOPE": {
-      "count": 1,
-      "job_ids": [
-        "2d6c3bce7fd7"
-      ],
-      "last_seen": "2026-09-09T04:08:42.917168+00:00"
-    },
     "NT Health": {
       "count": 2,
       "job_ids": [
@@ -734,8 +699,10 @@
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 21,
+      "count": 22,
       "job_ids": [
+        "77d00a0b634f",
+        "812fc9dd771a",
         "aa7c677881e0",
         "14e63aa2cb52",
         "662194c39a9f",
@@ -755,10 +722,9 @@
         "0ef258e89959",
         "f9d42eda4d39",
         "635df99ba625",
-        "99247e25278f",
-        "211a2bd8c073"
+        "99247e25278f"
       ],
-      "last_seen": "2026-09-11T22:08:06+00:00"
+      "last_seen": "2026-09-12T04:47:55+00:00"
     },
     "ROAR Organic": {
       "count": 1,
@@ -980,13 +946,6 @@
       ],
       "last_seen": "2026-09-09T18:25:27.735611+00:00"
     },
-    "The Russell Inn Hotel &amp; Conference Centre": {
-      "count": 1,
-      "job_ids": [
-        "d7fb8723516b"
-      ],
-      "last_seen": "2026-09-09T04:08:42.917168+00:00"
-    },
     "Thrifty Car and Van Rental": {
       "count": 1,
       "job_ids": [
@@ -1143,5 +1102,5 @@
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
     }
   },
-  "updated_at": "2026-09-12T00:00:55.428707+00:00"
+  "updated_at": "2026-09-12T05:31:40.461393+00:00"
 }
