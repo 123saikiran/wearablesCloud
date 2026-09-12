@@ -70,13 +70,6 @@
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
     },
-    "Amentum": {
-      "count": 1,
-      "job_ids": [
-        "4366a4cd665c"
-      ],
-      "last_seen": "2026-09-09T14:18:21.376965+00:00"
-    },
     "American Bureau of Shipping (ABS)": {
       "count": 1,
       "job_ids": [
@@ -140,13 +133,6 @@
         "08991bb5dd0b"
       ],
       "last_seen": "2026-09-10T14:11:36.155211+00:00"
-    },
-    "Bermuda Airport Authority": {
-      "count": 1,
-      "job_ids": [
-        "7585cc7d0100"
-      ],
-      "last_seen": "2026-09-09T14:18:21.376965+00:00"
     },
     "Berni and Mick Ireland": {
       "count": 1,
@@ -249,14 +235,14 @@
     "Crackr": {
       "count": 6,
       "job_ids": [
+        "de1a6de54c70",
+        "9ac3f6027e6e",
         "20b17798ad6f",
         "7d6d8ca95947",
         "6c4ea1e4f32e",
-        "a77fc5264292",
-        "0bedc424f264",
-        "0282809e2b21"
+        "a77fc5264292"
       ],
-      "last_seen": "2026-09-11T15:00:17+00:00"
+      "last_seen": "2026-09-12T15:00:16+00:00"
     },
     "Crystalia Glass LLC": {
       "count": 1,
@@ -271,13 +257,6 @@
         "ec0ec3dc6073"
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
-    },
-    "Department of Justice and Community Safety, Victoria": {
-      "count": 1,
-      "job_ids": [
-        "aa2e46d11b9b"
-      ],
-      "last_seen": "2026-09-09T14:18:21.376965+00:00"
     },
     "DoiT": {
       "count": 1,
@@ -335,13 +314,6 @@
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
     },
-    "Four Seasons": {
-      "count": 1,
-      "job_ids": [
-        "202cd6709d10"
-      ],
-      "last_seen": "2026-09-09T14:18:21.376965+00:00"
-    },
     "Foxconn": {
       "count": 1,
       "job_ids": [
@@ -370,13 +342,6 @@
         "0670c33f2a79"
       ],
       "last_seen": "2026-09-12T00:00:55.428707+00:00"
-    },
-    "Go Auto": {
-      "count": 1,
-      "job_ids": [
-        "5c907233e4f5"
-      ],
-      "last_seen": "2026-09-09T14:18:21.376965+00:00"
     },
     "Grapefruit Health": {
       "count": 1,
@@ -591,13 +556,6 @@
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
     },
-    "Ocean Hotels Group BARBADOS": {
-      "count": 1,
-      "job_ids": [
-        "b89c1401818a"
-      ],
-      "last_seen": "2026-09-09T14:18:21.376965+00:00"
-    },
     "Orca Bio": {
       "count": 1,
       "job_ids": [
@@ -692,6 +650,7 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 22,
       "job_ids": [
+        "2f8d901a99c8",
         "da53d5ace0e3",
         "b7990264bcac",
         "77d00a0b634f",
@@ -712,10 +671,9 @@
         "75a048b02516",
         "611c3d157d30",
         "ff28f1f1f5b8",
-        "0ef258e89959",
-        "f9d42eda4d39"
+        "0ef258e89959"
       ],
-      "last_seen": "2026-09-12T12:30:33+00:00"
+      "last_seen": "2026-09-12T15:48:37+00:00"
     },
     "ROAR Organic": {
       "count": 1,
@@ -775,13 +733,6 @@
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
     },
-    "Royal Caribbean International": {
-      "count": 1,
-      "job_ids": [
-        "d34243f9c22e"
-      ],
-      "last_seen": "2026-09-09T14:18:21.376965+00:00"
-    },
     "SEAhub Asia": {
       "count": 1,
       "job_ids": [
@@ -830,13 +781,6 @@
         "46965a9d5a87"
       ],
       "last_seen": "2026-09-09T21:34:42.360999+00:00"
-    },
-    "Sigma": {
-      "count": 1,
-      "job_ids": [
-        "d3a9ed230213"
-      ],
-      "last_seen": "2026-09-09T14:18:21.376965+00:00"
     },
     "Snapscale": {
       "count": 1,
@@ -1000,13 +944,6 @@
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
     },
-    "W Hotels": {
-      "count": 1,
-      "job_ids": [
-        "8bbf75a6d469"
-      ],
-      "last_seen": "2026-09-09T14:18:21.376965+00:00"
-    },
     "Wakacje.pl": {
       "count": 1,
       "job_ids": [
@@ -1092,5 +1029,5 @@
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
     }
   },
-  "updated_at": "2026-09-12T13:56:23.133891+00:00"
+  "updated_at": "2026-09-12T16:55:37.733731+00:00"
 }

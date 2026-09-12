@@ -2,6 +2,54 @@
   "jobs": [
     {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-12T16:55:37.733731+00:00",
+      "id": "2f8d901a99c8",
+      "location": "Remote",
+      "posted_at": "2026-09-12T15:48:37+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1hbh"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-09-12T16:55:37.733731+00:00",
+      "id": "de1a6de54c70",
+      "location": "Remote",
+      "posted_at": "2026-09-12T15:00:16+00:00",
+      "source": "devto",
+      "tags": [
+        "beginners",
+        "jobs",
+        "career",
+        "programming"
+      ],
+      "title": "Summer 2026 Internships: 8 New Openings This Week (Sep 12)",
+      "url": "https://dev.to/crackr/summer-2026-internships-8-new-openings-this-week-sep-12-1dfa"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-09-12T16:55:37.733731+00:00",
+      "id": "9ac3f6027e6e",
+      "location": "Remote",
+      "posted_at": "2026-09-12T15:00:12+00:00",
+      "source": "devto",
+      "tags": [
+        "remotework",
+        "jobs",
+        "webdev",
+        "career"
+      ],
+      "title": "Remote SWE Jobs Paying Up to $220k (Sep 12)",
+      "url": "https://dev.to/crackr/remote-swe-jobs-paying-up-to-220k-sep-12-45ob"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-09-12T13:56:23.133891+00:00",
       "id": "da53d5ace0e3",
       "location": "Remote",
@@ -4436,263 +4484,7 @@
       ],
       "title": "Mapping Test via Sandra",
       "url": "https://remoteOK.com/remote-jobs/remote-mapping-test-via-sandra-ennismore-1137292"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-09T18:25:27.735611+00:00",
-      "id": "f9d42eda4d39",
-      "location": "Remote",
-      "posted_at": "2026-09-09T15:12:53+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2262"
-    },
-    {
-      "company": "Crackr",
-      "fetched_at": "2026-09-09T18:25:27.735611+00:00",
-      "id": "0bedc424f264",
-      "location": "Remote",
-      "posted_at": "2026-09-09T15:00:16+00:00",
-      "source": "devto",
-      "tags": [
-        "beginners",
-        "jobs",
-        "career",
-        "programming"
-      ],
-      "title": "Summer 2026 Internships: 8 New Openings This Week (Sep 9)",
-      "url": "https://dev.to/crackr/summer-2026-internships-8-new-openings-this-week-sep-9-nla"
-    },
-    {
-      "company": "Crackr",
-      "fetched_at": "2026-09-09T18:25:27.735611+00:00",
-      "id": "0282809e2b21",
-      "location": "Remote",
-      "posted_at": "2026-09-09T15:00:13+00:00",
-      "source": "devto",
-      "tags": [
-        "remotework",
-        "jobs",
-        "webdev",
-        "career"
-      ],
-      "title": "Remote SWE Jobs Paying Up to $200k (Sep 9)",
-      "url": "https://dev.to/crackr/remote-swe-jobs-paying-up-to-200k-sep-9-2eil"
-    },
-    {
-      "company": "Ocean Hotels Group BARBADOS",
-      "fetched_at": "2026-09-09T14:18:21.376965+00:00",
-      "id": "b89c1401818a",
-      "location": "Christ Church,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "education",
-        "customer support",
-        "testing",
-        "video",
-        "ops",
-        "non tech",
-        "supervisor",
-        "legal",
-        "exec",
-        "junior",
-        "golang"
-      ],
-      "title": "Baker",
-      "url": "https://remoteOK.com/remote-jobs/remote-baker-ocean-hotels-group-barbados-1137318"
-    },
-    {
-      "company": "Royal Caribbean International",
-      "fetched_at": "2026-09-09T14:18:21.376965+00:00",
-      "id": "d34243f9c22e",
-      "location": "Nassau,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "education",
-        "customer support",
-        "testing",
-        "video",
-        "ops",
-        "non tech",
-        "supervisor",
-        "legal",
-        "exec",
-        "junior",
-        "golang",
-        "marketing",
-        "travel",
-        "medical",
-        "virtual assistant",
-        "sys admin",
-        "hr",
-        "technical",
-        "coordinator",
-        "dev",
-        "admin",
-        "engineer",
-        "digital nomad",
-        "infosec",
-        "finance"
-      ],
-      "title": "Security Guard",
-      "url": "https://remoteOK.com/remote-jobs/remote-security-guard-royal-caribbean-international-1137323"
-    },
-    {
-      "company": "Amentum",
-      "fetched_at": "2026-09-09T14:18:21.376965+00:00",
-      "id": "4366a4cd665c",
-      "location": "New Providence,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "education",
-        "customer support",
-        "testing",
-        "video",
-        "ops",
-        "non tech"
-      ],
-      "title": "Diver",
-      "url": "https://remoteOK.com/remote-jobs/remote-diver-amentum-1137316"
-    },
-    {
-      "company": "Bermuda Airport Authority",
-      "fetched_at": "2026-09-09T14:18:21.376965+00:00",
-      "id": "7585cc7d0100",
-      "location": "Saint George's Parish,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "education",
-        "customer support",
-        "testing",
-        "video",
-        "ops",
-        "non tech",
-        "supervisor",
-        "legal",
-        "exec",
-        "junior",
-        "golang",
-        "marketing",
-        "travel",
-        "medical",
-        "virtual assistant",
-        "sys admin",
-        "hr",
-        "technical",
-        "coordinator",
-        "dev",
-        "admin",
-        "engineer",
-        "digital nomad"
-      ],
-      "title": "Air Traffic Engineering Technician",
-      "url": "https://remoteOK.com/remote-jobs/remote-air-traffic-engineering-technician-bermuda-airport-authority-1137322"
-    },
-    {
-      "company": "Four Seasons",
-      "fetched_at": "2026-09-09T14:18:21.376965+00:00",
-      "id": "202cd6709d10",
-      "location": "Nassau,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "education",
-        "customer support",
-        "testing",
-        "video",
-        "ops",
-        "non tech",
-        "supervisor",
-        "legal"
-      ],
-      "title": "Houseman",
-      "url": "https://remoteOK.com/remote-jobs/remote-houseman-four-seasons-1137317"
-    },
-    {
-      "company": "Sigma",
-      "fetched_at": "2026-09-09T14:18:21.376965+00:00",
-      "id": "d3a9ed230213",
-      "location": "Newport,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "infosec",
-        "education",
-        "customer support",
-        "exec",
-        "finance",
-        "medical",
-        "recruiter"
-      ],
-      "title": "Multi Skilled Maintenance Technician",
-      "url": "https://remoteOK.com/remote-jobs/remote-multi-skilled-maintenance-technician-sigma-1137273"
-    },
-    {
-      "company": "W Hotels",
-      "fetched_at": "2026-09-09T14:18:21.376965+00:00",
-      "id": "8bbf75a6d469",
-      "location": "Budapest,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "infosec",
-        "education",
-        "customer support",
-        "exec"
-      ],
-      "title": "Chief Steward",
-      "url": "https://remoteOK.com/remote-jobs/remote-chief-steward-w-hotels-1137272"
-    },
-    {
-      "company": "Department of Justice and Community Safety, Victoria",
-      "fetched_at": "2026-09-09T14:18:21.376965+00:00",
-      "id": "aa2e46d11b9b",
-      "location": "Bendigo,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "infosec",
-        "exec",
-        "medical",
-        "recruiter"
-      ],
-      "title": "Field Officer Bendigo",
-      "url": "https://remoteOK.com/remote-jobs/remote-field-officer-bendigo-department-of-justice-and-community-safety-victoria-1137267"
-    },
-    {
-      "company": "Go Auto",
-      "fetched_at": "2026-09-09T14:18:21.376965+00:00",
-      "id": "5c907233e4f5",
-      "location": "Edmonton,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "education",
-        "customer support",
-        "recruiter",
-        "non tech",
-        "hr",
-        "marketing",
-        "travel",
-        "teaching",
-        "finance",
-        "golang",
-        "medical",
-        "full time"
-      ],
-      "title": "Detailer",
-      "url": "https://remoteOK.com/remote-jobs/remote-detailer-go-auto-1137277"
     }
   ],
-  "updated_at": "2026-09-12T13:56:23.133891+00:00"
+  "updated_at": "2026-09-12T16:55:37.733731+00:00"
 }
