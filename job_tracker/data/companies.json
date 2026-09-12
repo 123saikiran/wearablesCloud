@@ -218,13 +218,6 @@
       ],
       "last_seen": "2026-09-09T18:25:27.735611+00:00"
     },
-    "City of York Council": {
-      "count": 1,
-      "job_ids": [
-        "4ec71e3195ed"
-      ],
-      "last_seen": "2026-09-09T09:30:11.703599+00:00"
-    },
     "Clera": {
       "count": 1,
       "job_ids": [
@@ -232,19 +225,19 @@
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
     },
-    "Clutch": {
-      "count": 1,
-      "job_ids": [
-        "7cdd7a0f0a29"
-      ],
-      "last_seen": "2026-09-09T09:30:11.703599+00:00"
-    },
     "Control Shift Video": {
       "count": 1,
       "job_ids": [
         "a21bcc6ded29"
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
+    },
+    "Copenhagen Optimization": {
+      "count": 1,
+      "job_ids": [
+        "f6a2d43e97e9"
+      ],
+      "last_seen": "2026-09-12T10:26:47.737720+00:00"
     },
     "CoverGo": {
       "count": 1,
@@ -343,10 +336,9 @@
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
     },
     "Four Seasons": {
-      "count": 2,
+      "count": 1,
       "job_ids": [
-        "202cd6709d10",
-        "61331c618315"
+        "202cd6709d10"
       ],
       "last_seen": "2026-09-09T14:18:21.376965+00:00"
     },
@@ -578,11 +570,17 @@
       ],
       "last_seen": "2026-09-10T21:30:12.514507+00:00"
     },
-    "NT Health": {
-      "count": 2,
+    "NOPE": {
+      "count": 1,
       "job_ids": [
-        "2108aacaa944",
-        "2f633a4db665"
+        "2d6c3bce7fd7"
+      ],
+      "last_seen": "2026-09-12T10:26:47.737720+00:00"
+    },
+    "NT Health": {
+      "count": 1,
+      "job_ids": [
+        "2108aacaa944"
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
     },
@@ -627,13 +625,6 @@
         "8581d94129b4"
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
-    },
-    "PVH Group Inc": {
-      "count": 1,
-      "job_ids": [
-        "ca87e1f7abaf"
-      ],
-      "last_seen": "2026-09-09T09:30:11.703599+00:00"
     },
     "Pacific Health Group": {
       "count": 1,
@@ -701,6 +692,7 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 22,
       "job_ids": [
+        "b7990264bcac",
         "77d00a0b634f",
         "812fc9dd771a",
         "aa7c677881e0",
@@ -721,10 +713,9 @@
         "ff28f1f1f5b8",
         "0ef258e89959",
         "f9d42eda4d39",
-        "635df99ba625",
-        "99247e25278f"
+        "635df99ba625"
       ],
-      "last_seen": "2026-09-12T04:47:55+00:00"
+      "last_seen": "2026-09-12T08:53:48+00:00"
     },
     "ROAR Organic": {
       "count": 1,
@@ -1102,5 +1093,5 @@
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
     }
   },
-  "updated_at": "2026-09-12T05:31:40.461393+00:00"
+  "updated_at": "2026-09-12T10:26:47.737720+00:00"
 }

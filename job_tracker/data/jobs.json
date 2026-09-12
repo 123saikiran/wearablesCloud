@@ -1,6 +1,63 @@
 {
   "jobs": [
     {
+      "company": "Copenhagen Optimization",
+      "fetched_at": "2026-09-12T10:26:47.737720+00:00",
+      "id": "f6a2d43e97e9",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "virtual assistant",
+        "strategy",
+        "customer support",
+        "dev",
+        "marketing",
+        "exec",
+        "content writing",
+        "ops",
+        "golang",
+        "digital nomad"
+      ],
+      "title": "Marketing Student Assistant",
+      "url": "https://remoteOK.com/remote-jobs/remote-marketing-student-assistant-copenhagen-optimization-1137381"
+    },
+    {
+      "company": "NOPE",
+      "fetched_at": "2026-09-12T10:26:47.737720+00:00",
+      "id": "2d6c3bce7fd7",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "marketing",
+        "education",
+        "technical",
+        "content writing",
+        "social media",
+        "ai",
+        "social"
+      ],
+      "title": "Social Comms",
+      "url": "https://remoteOK.com/remote-jobs/remote-social-comms-nope-1137314"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-12T10:26:47.737720+00:00",
+      "id": "b7990264bcac",
+      "location": "Remote",
+      "posted_at": "2026-09-12T08:53:48+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-45j7"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-09-12T05:31:40.461393+00:00",
       "id": "77d00a0b634f",
@@ -4651,122 +4708,7 @@
       ],
       "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-5f41"
-    },
-    {
-      "company": "Four Seasons",
-      "fetched_at": "2026-09-09T09:30:11.703599+00:00",
-      "id": "61331c618315",
-      "location": "Nassau,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "payroll",
-        "vfx",
-        "customer support",
-        "dev",
-        "non tech",
-        "digital nomad",
-        "exec",
-        "legal",
-        "engineer"
-      ],
-      "title": "Kitchen Technician",
-      "url": "https://remoteOK.com/remote-jobs/remote-kitchen-technician-four-seasons-1137265"
-    },
-    {
-      "company": "Clutch",
-      "fetched_at": "2026-09-09T09:30:11.703599+00:00",
-      "id": "7cdd7a0f0a29",
-      "location": "Etobicoke,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "education",
-        "customer support",
-        "recruiter",
-        "non tech",
-        "hr",
-        "marketing",
-        "travel",
-        "teaching",
-        "finance",
-        "golang",
-        "medical",
-        "full time",
-        "ops",
-        "sales"
-      ],
-      "title": "Vehicle Detailer",
-      "url": "https://remoteOK.com/remote-jobs/remote-vehicle-detailer-clutch-1137278"
-    },
-    {
-      "company": "PVH Group Inc",
-      "fetched_at": "2026-09-09T09:30:11.703599+00:00",
-      "id": "ca87e1f7abaf",
-      "location": "Bridgetown,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "payroll",
-        "vfx",
-        "customer support",
-        "dev",
-        "non tech",
-        "digital nomad"
-      ],
-      "title": "Payroll Clerk",
-      "url": "https://remoteOK.com/remote-jobs/remote-payroll-clerk-pvh-group-inc-1137264"
-    },
-    {
-      "company": "NT Health",
-      "fetched_at": "2026-09-09T09:30:11.703599+00:00",
-      "id": "2f633a4db665",
-      "location": "Katherine,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "supervisor",
-        "customer support",
-        "medical",
-        "non tech"
-      ],
-      "title": "Domestic",
-      "url": "https://remoteOK.com/remote-jobs/remote-domestic-nt-health-1137261"
-    },
-    {
-      "company": "City of York Council",
-      "fetched_at": "2026-09-09T09:30:11.703599+00:00",
-      "id": "4ec71e3195ed",
-      "location": "York,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "scheme",
-        "medical",
-        "engineer",
-        "customer support",
-        "c",
-        "exec"
-      ],
-      "title": "Joiner",
-      "url": "https://remoteOK.com/remote-jobs/remote-joiner-city-of-york-council-1137263"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-09T09:30:11.703599+00:00",
-      "id": "99247e25278f",
-      "location": "Remote",
-      "posted_at": "2026-09-09T06:10:07+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4dao"
     }
   ],
-  "updated_at": "2026-09-12T05:31:40.461393+00:00"
+  "updated_at": "2026-09-12T10:26:47.737720+00:00"
 }
