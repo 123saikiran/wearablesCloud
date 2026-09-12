@@ -1,6 +1,88 @@
 {
   "jobs": [
     {
+      "company": "Harper",
+      "fetched_at": "2026-09-12T00:00:55.428707+00:00",
+      "id": "3991e551a545",
+      "location": "San Francisco",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec",
+        "design",
+        "sys admin",
+        "docker",
+        "technical",
+        "customer support",
+        "dev",
+        "marketing",
+        "video",
+        "finance",
+        "cloud",
+        "medical",
+        "engineer",
+        "digital nomad"
+      ],
+      "title": "Engineering Manager TLM Platform",
+      "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-tlm-platform-harper-1137380"
+    },
+    {
+      "company": "GiveWell",
+      "fetched_at": "2026-09-12T00:00:55.428707+00:00",
+      "id": "0670c33f2a79",
+      "location": "United States",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec",
+        "senior",
+        "medical"
+      ],
+      "title": "Senior Communications Officer Strategic Communications",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-communications-officer-strategic-communications-givewell-1137379"
+    },
+    {
+      "company": "Empire Assets",
+      "fetched_at": "2026-09-12T00:00:55.428707+00:00",
+      "id": "b448eb571a3a",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "part time",
+        "junior",
+        "analyst",
+        "crypto",
+        "other",
+        "web3",
+        "blockchain",
+        "defi",
+        "bitcoin",
+        "ethereum",
+        "remote",
+        "trader",
+        "Binance"
+      ],
+      "title": "Junior Crypto Analyst & Trader",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-empire-assets-1137307"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-12T00:00:55.428707+00:00",
+      "id": "aa7c677881e0",
+      "location": "Remote",
+      "posted_at": "2026-09-11T22:08:06+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-13fj"
+    },
+    {
       "company": "TestGorilla",
       "fetched_at": "2026-09-11T21:37:16.748832+00:00",
       "id": "8bb632e4f51a",
@@ -4785,23 +4867,7 @@
       ],
       "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4kin"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-09T04:08:42.917168+00:00",
-      "id": "d8f2ab9f21b0",
-      "location": "Remote",
-      "posted_at": "2026-09-08T23:22:21+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-5d98"
     }
   ],
-  "updated_at": "2026-09-11T21:37:16.748832+00:00"
+  "updated_at": "2026-09-12T00:00:55.428707+00:00"
 }
