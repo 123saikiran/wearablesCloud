@@ -28,13 +28,6 @@
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
     },
-    "AWP Safety": {
-      "count": 1,
-      "job_ids": [
-        "fdc1e6c2e537"
-      ],
-      "last_seen": "2026-09-09T18:25:27.735611+00:00"
-    },
     "AWeber": {
       "count": 1,
       "job_ids": [
@@ -91,14 +84,6 @@
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
     },
-    "Ausdocs Holdings Group": {
-      "count": 2,
-      "job_ids": [
-        "ca5a2f5ab2b6",
-        "3924a73576cc"
-      ],
-      "last_seen": "2026-09-09T18:25:27.735611+00:00"
-    },
     "Ava Bagherzadeh": {
       "count": 1,
       "job_ids": [
@@ -140,13 +125,6 @@
         "826a8625b6fb"
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
-    },
-    "Birla Opus": {
-      "count": 1,
-      "job_ids": [
-        "f5179dc7651d"
-      ],
-      "last_seen": "2026-09-09T18:25:27.735611+00:00"
     },
     "Bjak": {
       "count": 1,
@@ -196,13 +174,6 @@
         "4190ce763efc"
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
-    },
-    "City of Kamloops": {
-      "count": 1,
-      "job_ids": [
-        "0a9e3413248c"
-      ],
-      "last_seen": "2026-09-09T18:25:27.735611+00:00"
     },
     "Clera": {
       "count": 1,
@@ -292,13 +263,6 @@
         "602eafac0909"
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
-    },
-    "Ennismore": {
-      "count": 1,
-      "job_ids": [
-        "136c763436ae"
-      ],
-      "last_seen": "2026-09-09T18:25:27.735611+00:00"
     },
     "Evolve": {
       "count": 1,
@@ -437,13 +401,6 @@
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
     },
-    "Kapsch Group": {
-      "count": 1,
-      "job_ids": [
-        "bcef96c34f09"
-      ],
-      "last_seen": "2026-09-09T18:25:27.735611+00:00"
-    },
     "Kruger NearShore LLC - Rekluti": {
       "count": 1,
       "job_ids": [
@@ -485,13 +442,6 @@
         "37b2715f3a1c"
       ],
       "last_seen": "2026-09-09T21:34:42.360999+00:00"
-    },
-    "Lupin Ltd": {
-      "count": 1,
-      "job_ids": [
-        "5658c68662f1"
-      ],
-      "last_seen": "2026-09-09T18:25:27.735611+00:00"
     },
     "Lyric": {
       "count": 1,
@@ -619,13 +569,6 @@
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
     },
-    "Platypus Shoes": {
-      "count": 1,
-      "job_ids": [
-        "ac6b8e2918d1"
-      ],
-      "last_seen": "2026-09-09T18:25:27.735611+00:00"
-    },
     "Precision Medicine Group": {
       "count": 1,
       "job_ids": [
@@ -650,6 +593,7 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 22,
       "job_ids": [
+        "3a301c2f4c10",
         "2f8d901a99c8",
         "da53d5ace0e3",
         "b7990264bcac",
@@ -670,10 +614,9 @@
         "6b1d4d0915d5",
         "75a048b02516",
         "611c3d157d30",
-        "ff28f1f1f5b8",
-        "0ef258e89959"
+        "ff28f1f1f5b8"
       ],
-      "last_seen": "2026-09-12T15:48:37+00:00"
+      "last_seen": "2026-09-12T17:53:47+00:00"
     },
     "ROAR Organic": {
       "count": 1,
@@ -740,13 +683,6 @@
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
     },
-    "SGF Labs": {
-      "count": 1,
-      "job_ids": [
-        "64e56bde572d"
-      ],
-      "last_seen": "2026-09-09T18:25:27.735611+00:00"
-    },
     "SLB": {
       "count": 1,
       "job_ids": [
@@ -810,13 +746,6 @@
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
     },
-    "Spendless Shoes": {
-      "count": 1,
-      "job_ids": [
-        "f931601098b7"
-      ],
-      "last_seen": "2026-09-09T18:25:27.735611+00:00"
-    },
     "Stobart": {
       "count": 1,
       "job_ids": [
@@ -867,20 +796,6 @@
       ],
       "last_seen": "2026-09-10T21:30:12.514507+00:00"
     },
-    "The Burger's Priest": {
-      "count": 1,
-      "job_ids": [
-        "66d09bd7d40b"
-      ],
-      "last_seen": "2026-09-09T18:25:27.735611+00:00"
-    },
-    "The Home Depot Canada": {
-      "count": 1,
-      "job_ids": [
-        "b85cc820fe63"
-      ],
-      "last_seen": "2026-09-09T18:25:27.735611+00:00"
-    },
     "Thrifty Car and Van Rental": {
       "count": 1,
       "job_ids": [
@@ -929,13 +844,6 @@
         "c1f0f420cfa6"
       ],
       "last_seen": "2026-09-10T21:30:12.514507+00:00"
-    },
-    "Volar Fashion": {
-      "count": 1,
-      "job_ids": [
-        "79c5c777bdb9"
-      ],
-      "last_seen": "2026-09-09T18:25:27.735611+00:00"
     },
     "Vomela": {
       "count": 1,
@@ -1029,5 +937,5 @@
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
     }
   },
-  "updated_at": "2026-09-12T16:55:37.733731+00:00"
+  "updated_at": "2026-09-12T19:06:38.956417+00:00"
 }
