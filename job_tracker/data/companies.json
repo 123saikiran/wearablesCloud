@@ -70,13 +70,6 @@
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
     },
-    "Ampol": {
-      "count": 1,
-      "job_ids": [
-        "1cfea869b419"
-      ],
-      "last_seen": "2026-09-09T21:34:42.360999+00:00"
-    },
     "Arabian Private Holdings": {
       "count": 1,
       "job_ids": [
@@ -153,13 +146,6 @@
         "6bb11a3b4b93"
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
-    },
-    "Centro Cuesta Nacional": {
-      "count": 1,
-      "job_ids": [
-        "3e769450fbe4"
-      ],
-      "last_seen": "2026-09-09T21:34:42.360999+00:00"
     },
     "CertifyOS": {
       "count": 1,
@@ -278,13 +264,6 @@
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
     },
-    "Foxconn": {
-      "count": 1,
-      "job_ids": [
-        "8c91c499630c"
-      ],
-      "last_seen": "2026-09-09T21:34:42.360999+00:00"
-    },
     "FreedomPay": {
       "count": 1,
       "job_ids": [
@@ -320,13 +299,6 @@
         "9b00e5e6a767"
       ],
       "last_seen": "2026-09-10T21:30:12.514507+00:00"
-    },
-    "HP4 RECRUITMENT LTD": {
-      "count": 1,
-      "job_ids": [
-        "b0f8d84d3207"
-      ],
-      "last_seen": "2026-09-09T21:34:42.360999+00:00"
     },
     "Harbor": {
       "count": 1,
@@ -436,13 +408,6 @@
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
     },
-    "Localiza&amp;Co": {
-      "count": 1,
-      "job_ids": [
-        "37b2715f3a1c"
-      ],
-      "last_seen": "2026-09-09T21:34:42.360999+00:00"
-    },
     "Lyric": {
       "count": 1,
       "job_ids": [
@@ -450,26 +415,12 @@
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
     },
-    "MEPJOBS UK": {
-      "count": 1,
-      "job_ids": [
-        "1fe7ab9da012"
-      ],
-      "last_seen": "2026-09-09T21:34:42.360999+00:00"
-    },
     "Miranda Creative, Inc.": {
       "count": 1,
       "job_ids": [
         "a070fa0d5cd4"
       ],
       "last_seen": "2026-09-10T21:30:12.514507+00:00"
-    },
-    "Mr Clutch Autocentres": {
-      "count": 1,
-      "job_ids": [
-        "d43d6f2fb706"
-      ],
-      "last_seen": "2026-09-09T21:34:42.360999+00:00"
     },
     "MultiplyMii": {
       "count": 1,
@@ -541,20 +492,6 @@
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
     },
-    "Pandora": {
-      "count": 1,
-      "job_ids": [
-        "ae657adb9cd9"
-      ],
-      "last_seen": "2026-09-09T21:34:42.360999+00:00"
-    },
-    "Parcelforce Worldwide": {
-      "count": 1,
-      "job_ids": [
-        "d962c6e979b2"
-      ],
-      "last_seen": "2026-09-09T21:34:42.360999+00:00"
-    },
     "Physical Superintelligence": {
       "count": 1,
       "job_ids": [
@@ -591,8 +528,10 @@
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 22,
+      "count": 23,
       "job_ids": [
+        "fccb2f8c504d",
+        "81f2cc7ab381",
         "3a301c2f4c10",
         "2f8d901a99c8",
         "da53d5ace0e3",
@@ -613,10 +552,9 @@
         "12f33ac9ea05",
         "6b1d4d0915d5",
         "75a048b02516",
-        "611c3d157d30",
-        "ff28f1f1f5b8"
+        "611c3d157d30"
       ],
-      "last_seen": "2026-09-12T17:53:47+00:00"
+      "last_seen": "2026-09-12T21:42:53+00:00"
     },
     "ROAR Organic": {
       "count": 1,
@@ -697,26 +635,12 @@
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
     },
-    "Savegnago Supermercados": {
-      "count": 1,
-      "job_ids": [
-        "684e6c9355a8"
-      ],
-      "last_seen": "2026-09-09T21:34:42.360999+00:00"
-    },
     "Shapr3D": {
       "count": 1,
       "job_ids": [
         "22fdb8ef856c"
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
-    },
-    "Siemens Energy": {
-      "count": 1,
-      "job_ids": [
-        "46965a9d5a87"
-      ],
-      "last_seen": "2026-09-09T21:34:42.360999+00:00"
     },
     "Snapscale": {
       "count": 1,
@@ -746,13 +670,6 @@
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
     },
-    "Stobart": {
-      "count": 1,
-      "job_ids": [
-        "1e81d3ac3a4d"
-      ],
-      "last_seen": "2026-09-09T21:34:42.360999+00:00"
-    },
     "Stone": {
       "count": 2,
       "job_ids": [
@@ -760,13 +677,6 @@
         "625296cb597b"
       ],
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
-    },
-    "TRANT ENGINEERING LIMITED": {
-      "count": 1,
-      "job_ids": [
-        "19d1a9b3d292"
-      ],
-      "last_seen": "2026-09-09T21:34:42.360999+00:00"
     },
     "Tessera Labs": {
       "count": 1,
@@ -795,13 +705,6 @@
         "916cd2848e14"
       ],
       "last_seen": "2026-09-10T21:30:12.514507+00:00"
-    },
-    "Thrifty Car and Van Rental": {
-      "count": 1,
-      "job_ids": [
-        "172700102f2c"
-      ],
-      "last_seen": "2026-09-09T21:34:42.360999+00:00"
     },
     "Total Environmental Concepts Pty ltd": {
       "count": 1,
@@ -858,20 +761,6 @@
         "6db3cc4b9fcc"
       ],
       "last_seen": "2026-09-10T04:27:06.801594+00:00"
-    },
-    "Walgreens": {
-      "count": 1,
-      "job_ids": [
-        "3bb67077e338"
-      ],
-      "last_seen": "2026-09-09T21:34:42.360999+00:00"
-    },
-    "Walmart": {
-      "count": 1,
-      "job_ids": [
-        "954cb0d69245"
-      ],
-      "last_seen": "2026-09-09T21:34:42.360999+00:00"
     },
     "Warehance": {
       "count": 1,
@@ -937,5 +826,5 @@
       "last_seen": "2026-09-09T23:58:20.717756+00:00"
     }
   },
-  "updated_at": "2026-09-12T19:06:38.956417+00:00"
+  "updated_at": "2026-09-12T22:05:29.502820+00:00"
 }
