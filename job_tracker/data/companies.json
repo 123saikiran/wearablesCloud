@@ -514,8 +514,9 @@
       "last_seen": "2026-09-13T05:50:50.595032+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 22,
+      "count": 21,
       "job_ids": [
+        "1267016c990f",
         "e01051c8406c",
         "fccb2f8c504d",
         "81f2cc7ab381",
@@ -535,11 +536,9 @@
         "f61186969217",
         "042d6d36aa43",
         "cf0a4be844eb",
-        "8d9ed03cb4ea",
-        "12f33ac9ea05",
-        "6b1d4d0915d5"
+        "8d9ed03cb4ea"
       ],
-      "last_seen": "2026-09-12T23:27:48+00:00"
+      "last_seen": "2026-09-13T06:23:31+00:00"
     },
     "ROAR Organic": {
       "count": 1,
@@ -710,6 +709,13 @@
       ],
       "last_seen": "2026-09-13T05:50:50.595032+00:00"
     },
+    "Wakacje.pl": {
+      "count": 1,
+      "job_ids": [
+        "6db3cc4b9fcc"
+      ],
+      "last_seen": "2026-09-13T11:29:57.007444+00:00"
+    },
     "Warehance": {
       "count": 1,
       "job_ids": [
@@ -738,13 +744,6 @@
       ],
       "last_seen": "2026-09-13T05:50:50.595032+00:00"
     },
-    "XOOMAR": {
-      "count": 1,
-      "job_ids": [
-        "a8a48dc74172"
-      ],
-      "last_seen": "2026-09-10T11:08:31+00:00"
-    },
     "eClinical Solutions": {
       "count": 1,
       "job_ids": [
@@ -752,26 +751,12 @@
       ],
       "last_seen": "2026-09-11T18:18:40.430109+00:00"
     },
-    "iMerit Technology": {
-      "count": 1,
-      "job_ids": [
-        "7e56423bc195"
-      ],
-      "last_seen": "2026-09-10T09:29:29.210642+00:00"
-    },
     "jamilxt": {
       "count": 1,
       "job_ids": [
         "5e0dc351369e"
       ],
       "last_seen": "2026-09-13T04:25:44+00:00"
-    },
-    "sunny shrama": {
-      "count": 1,
-      "job_ids": [
-        "761b4e68a3b2"
-      ],
-      "last_seen": "2026-09-10T06:17:19+00:00"
     },
     "testacy": {
       "count": 1,
@@ -781,5 +766,5 @@
       "last_seen": "2026-09-13T05:50:50.595032+00:00"
     }
   },
-  "updated_at": "2026-09-13T05:50:50.595032+00:00"
+  "updated_at": "2026-09-13T11:29:57.007444+00:00"
 }

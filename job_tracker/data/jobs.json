@@ -1,6 +1,42 @@
 {
   "jobs": [
     {
+      "company": "Wakacje.pl",
+      "fetched_at": "2026-09-13T11:29:57.007444+00:00",
+      "id": "6db3cc4b9fcc",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "golang",
+        "dev",
+        "travel",
+        "api",
+        "golang",
+        "engineer",
+        "backend",
+        "digital nomad"
+      ],
+      "title": "Software Engineer GO",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-go-wakacje-pl-1135634"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-13T11:29:57.007444+00:00",
+      "id": "1267016c990f",
+      "location": "Remote",
+      "posted_at": "2026-09-13T06:23:31+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1hc6"
+    },
+    {
       "company": "OrderYOYO",
       "fetched_at": "2026-09-13T05:50:50.595032+00:00",
       "id": "56f90acd7e69",
@@ -3211,86 +3247,7 @@
       ],
       "title": "PTC Jobs Online Earn Money: Realistic Guide for Beginners",
       "url": "https://dev.to/deep_meditation_deb784c26/ptc-jobs-online-earn-money-realistic-guide-for-beginners-2348"
-    },
-    {
-      "company": "XOOMAR",
-      "fetched_at": "2026-09-10T14:11:36.155211+00:00",
-      "id": "a8a48dc74172",
-      "location": "Remote",
-      "posted_at": "2026-09-10T11:08:31+00:00",
-      "source": "devto",
-      "tags": [
-        "touristtax",
-        "hospitality",
-        "jobs",
-        "localgovernment"
-      ],
-      "title": "English Mayors Plot Uncapped Tourist Tax Amid 33,000 Job Fear",
-      "url": "https://dev.to/xoomar/english-mayors-plot-uncapped-tourist-tax-amid-33000-job-fear-4gpl"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-10T14:11:36.155211+00:00",
-      "id": "12f33ac9ea05",
-      "location": "Remote",
-      "posted_at": "2026-09-10T10:39:17+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-51k3"
-    },
-    {
-      "company": "iMerit Technology",
-      "fetched_at": "2026-09-10T09:29:29.210642+00:00",
-      "id": "7e56423bc195",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "content writing",
-        "quality assurance",
-        "ai"
-      ],
-      "title": "AI Response Analyst",
-      "url": "https://remoteOK.com/remote-jobs/remote-ai-response-analyst-imerit-technology-1137309"
-    },
-    {
-      "company": "sunny shrama",
-      "fetched_at": "2026-09-10T09:29:29.210642+00:00",
-      "id": "761b4e68a3b2",
-      "location": "Remote",
-      "posted_at": "2026-09-10T06:17:19+00:00",
-      "source": "devto",
-      "tags": [
-        "salarite",
-        "jobs",
-        "hiring",
-        "virtulahiring"
-      ],
-      "title": "Hire Manufacturing Employees Build a Stronger Workforce in Jaipur",
-      "url": "https://dev.to/sunnyshrama/hire-manufacturing-employees-build-a-stronger-workforce-in-jaipur-hb3"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-10T09:29:29.210642+00:00",
-      "id": "6b1d4d0915d5",
-      "location": "Remote",
-      "posted_at": "2026-09-10T05:56:55+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4li2"
     }
   ],
-  "updated_at": "2026-09-13T05:50:50.595032+00:00"
+  "updated_at": "2026-09-13T11:29:57.007444+00:00"
 }
