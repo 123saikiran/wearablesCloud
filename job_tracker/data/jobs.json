@@ -1,6 +1,85 @@
 {
   "jobs": [
     {
+      "company": "Mirantis",
+      "fetched_at": "2026-09-13T15:58:21.985243+00:00",
+      "id": "99e1bd4c692e",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "golang",
+        "dev",
+        "engineer",
+        "digital nomad"
+      ],
+      "title": "Software Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-mirantis-1137387"
+    },
+    {
+      "company": "iMerit Technology",
+      "fetched_at": "2026-09-13T15:58:21.985243+00:00",
+      "id": "7e56423bc195",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "content writing",
+        "quality assurance",
+        "ai"
+      ],
+      "title": "AI Response Analyst",
+      "url": "https://remoteOK.com/remote-jobs/remote-ai-response-analyst-imerit-technology-1137309"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-09-13T15:58:21.985243+00:00",
+      "id": "7a88f7e1f176",
+      "location": "Remote",
+      "posted_at": "2026-09-13T15:00:17+00:00",
+      "source": "devto",
+      "tags": [
+        "beginners",
+        "jobs",
+        "career",
+        "programming"
+      ],
+      "title": "These Companies Want Interns This Summer (Sep 13)",
+      "url": "https://dev.to/crackr/these-companies-want-interns-this-summer-sep-13-2k60"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-09-13T15:58:21.985243+00:00",
+      "id": "0adf22823608",
+      "location": "Remote",
+      "posted_at": "2026-09-13T15:00:12+00:00",
+      "source": "devto",
+      "tags": [
+        "remotework",
+        "jobs",
+        "webdev",
+        "career"
+      ],
+      "title": "8 Remote SWE Jobs You Can Apply to From Anywhere (Sep 13)",
+      "url": "https://dev.to/crackr/8-remote-swe-jobs-you-can-apply-to-from-anywhere-sep-13-26nh"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-13T15:58:21.985243+00:00",
+      "id": "4fff28cecc0f",
+      "location": "Remote",
+      "posted_at": "2026-09-13T12:09:26+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1d4"
+    },
+    {
       "company": "Wakacje.pl",
       "fetched_at": "2026-09-13T11:29:57.007444+00:00",
       "id": "6db3cc4b9fcc",
@@ -3066,188 +3145,7 @@
       ],
       "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-55lk"
-    },
-    {
-      "company": "Crackr",
-      "fetched_at": "2026-09-10T18:14:27.754310+00:00",
-      "id": "6c4ea1e4f32e",
-      "location": "Remote",
-      "posted_at": "2026-09-10T15:00:18+00:00",
-      "source": "devto",
-      "tags": [
-        "beginners",
-        "jobs",
-        "career",
-        "programming"
-      ],
-      "title": "These Companies Want Interns This Summer (Sep 10)",
-      "url": "https://dev.to/crackr/these-companies-want-interns-this-summer-sep-10-51el"
-    },
-    {
-      "company": "Crackr",
-      "fetched_at": "2026-09-10T18:14:27.754310+00:00",
-      "id": "a77fc5264292",
-      "location": "Remote",
-      "posted_at": "2026-09-10T15:00:13+00:00",
-      "source": "devto",
-      "tags": [
-        "remotework",
-        "jobs",
-        "webdev",
-        "career"
-      ],
-      "title": "8 Remote SWE Jobs You Can Apply to From Anywhere (Sep 10)",
-      "url": "https://dev.to/crackr/8-remote-swe-jobs-you-can-apply-to-from-anywhere-sep-10-26kp"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-10T18:14:27.754310+00:00",
-      "id": "8d9ed03cb4ea",
-      "location": "Remote",
-      "posted_at": "2026-09-10T14:38:17+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4m96"
-    },
-    {
-      "company": "Libertex Group",
-      "fetched_at": "2026-09-10T14:11:36.155211+00:00",
-      "id": "13adf68b920b",
-      "location": "Ù Ø³ÙØ·, Ù Ø³ÙØ· Ù Ø³ÙØ· Ø¹Ù Ø§Ù",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "product manager",
-        "exec",
-        "design",
-        "crypto",
-        "marketing",
-        "finance",
-        "bus dev",
-        "recruiter",
-        "digital nomad"
-      ],
-      "title": "Business Development Manager",
-      "url": "https://remoteOK.com/remote-jobs/remote-business-development-manager-libertex-group-1137373"
-    },
-    {
-      "company": "Thatchers Cider",
-      "fetched_at": "2026-09-10T14:11:36.155211+00:00",
-      "id": "4a59a86ff633",
-      "location": "Greater Newcastle Area,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "education",
-        "marketing",
-        "finance",
-        "exec",
-        "excel",
-        "golang"
-      ],
-      "title": "Quality Dispense Technician North",
-      "url": "https://remoteOK.com/remote-jobs/remote-quality-dispense-technician-north-thatchers-cider-1137374"
-    },
-    {
-      "company": "Benzinga",
-      "fetched_at": "2026-09-10T14:11:36.155211+00:00",
-      "id": "08991bb5dd0b",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "golang",
-        "video",
-        "engineer"
-      ],
-      "title": "AI Engineer Data APIs",
-      "url": "https://remoteOK.com/remote-jobs/remote-ai-engineer-data-apis-benzinga-1137224"
-    },
-    {
-      "company": "Blackbird Interactive",
-      "fetched_at": "2026-09-10T14:11:36.155211+00:00",
-      "id": "63695c1ba827",
-      "location": "Vancouver, BC, Canada",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "design",
-        "game dev",
-        "designer",
-        "technical",
-        "customer support",
-        "testing",
-        "content writing",
-        "senior",
-        "engineer",
-        "digital nomad"
-      ],
-      "title": "Senior Level Designer",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-level-designer-blackbird-interactive-1137156"
-    },
-    {
-      "company": "Tessera Labs",
-      "fetched_at": "2026-09-10T14:11:36.155211+00:00",
-      "id": "f18c1fd14d71",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "design",
-        "sys admin",
-        "consulting",
-        "testing",
-        "exec",
-        "cloud",
-        "senior",
-        "ops",
-        "engineer",
-        "ecommerce",
-        "shopify",
-        "full time",
-        "digital nomad"
-      ],
-      "title": "Oracle Fusion Cloud Lead â Logistics & Supply Chain Management",
-      "url": "https://remoteOK.com/remote-jobs/remote-oracle-fusion-cloud-lead-logistics-supply-chain-management-tessera-labs-1137155"
-    },
-    {
-      "company": "Job Update",
-      "fetched_at": "2026-09-10T14:11:36.155211+00:00",
-      "id": "eb35d1065e34",
-      "location": "Remote",
-      "posted_at": "2026-09-10T12:05:37+00:00",
-      "source": "devto",
-      "tags": [
-        "awn",
-        "jobs",
-        "roundup",
-        "animation"
-      ],
-      "title": "AWN Jobs Roundup: 23 Animation & VFX Openings Worldwide",
-      "url": "https://dev.to/deep_meditation_deb784c26/awn-jobs-roundup-23-animation-vfx-openings-worldwide-3oh2"
-    },
-    {
-      "company": "Job Update",
-      "fetched_at": "2026-09-10T14:11:36.155211+00:00",
-      "id": "b766ef1be1b8",
-      "location": "Remote",
-      "posted_at": "2026-09-10T12:05:36+00:00",
-      "source": "devto",
-      "tags": [
-        "ptc",
-        "jobs",
-        "online",
-        "earn"
-      ],
-      "title": "PTC Jobs Online Earn Money: Realistic Guide for Beginners",
-      "url": "https://dev.to/deep_meditation_deb784c26/ptc-jobs-online-earn-money-realistic-guide-for-beginners-2348"
     }
   ],
-  "updated_at": "2026-09-13T11:29:57.007444+00:00"
+  "updated_at": "2026-09-13T15:58:21.985243+00:00"
 }
