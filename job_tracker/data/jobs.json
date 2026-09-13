@@ -1,6 +1,54 @@
 {
   "jobs": [
     {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-13T21:19:55.101350+00:00",
+      "id": "adee7332a8df",
+      "location": "Remote",
+      "posted_at": "2026-09-13T21:09:52+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-b8"
+    },
+    {
+      "company": "Maksim Ilin",
+      "fetched_at": "2026-09-13T21:19:55.101350+00:00",
+      "id": "afc87cde9a70",
+      "location": "Remote",
+      "posted_at": "2026-09-13T20:24:44+00:00",
+      "source": "devto",
+      "tags": [
+        "ai",
+        "career",
+        "machinelearning",
+        "jobs"
+      ],
+      "title": "The AI job market in 2026: who gets hired, what they earn, and which roles are fading",
+      "url": "https://dev.to/ilinmaks/the-ai-job-market-in-2026-who-gets-hired-what-they-earn-and-which-roles-are-fading-3fk2"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-13T21:19:55.101350+00:00",
+      "id": "6c4c76eb02b9",
+      "location": "Remote",
+      "posted_at": "2026-09-13T18:48:24+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2gjg"
+    },
+    {
       "company": "Bjak",
       "fetched_at": "2026-09-13T18:43:59.729721+00:00",
       "id": "5eefc2524a45",
@@ -3253,23 +3301,7 @@
       ],
       "title": "Program Administration Manager",
       "url": "https://remoteOK.com/remote-jobs/remote-program-administration-manager-greenlight-action-1135738"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-10T21:30:12.514507+00:00",
-      "id": "042d6d36aa43",
-      "location": "Remote",
-      "posted_at": "2026-09-10T20:07:06+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4ede"
     }
   ],
-  "updated_at": "2026-09-13T18:43:59.729721+00:00"
+  "updated_at": "2026-09-13T21:19:55.101350+00:00"
 }
