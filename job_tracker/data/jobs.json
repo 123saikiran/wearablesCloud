@@ -1,6 +1,146 @@
 {
   "jobs": [
     {
+      "company": "Bjak",
+      "fetched_at": "2026-09-13T18:43:59.729721+00:00",
+      "id": "5eefc2524a45",
+      "location": "Seoul",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "design",
+        "sys admin",
+        "infosec",
+        "exec",
+        "technical",
+        "finance",
+        "ruby",
+        "mobile",
+        "ops",
+        "engineer",
+        "digital nomad"
+      ],
+      "title": "Technical Product Lead AI Finance App",
+      "url": "https://remoteOK.com/remote-jobs/remote-technical-product-lead-ai-finance-app-bjak-1137388"
+    },
+    {
+      "company": "Libertex Group",
+      "fetched_at": "2026-09-13T18:43:59.729721+00:00",
+      "id": "13adf68b920b",
+      "location": "Ù Ø³ÙØ·, Ù Ø³ÙØ· Ù Ø³ÙØ· Ø¹Ù Ø§Ù",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "product manager",
+        "exec",
+        "design",
+        "crypto",
+        "marketing",
+        "finance",
+        "bus dev",
+        "recruiter",
+        "digital nomad"
+      ],
+      "title": "Business Development Manager",
+      "url": "https://remoteOK.com/remote-jobs/remote-business-development-manager-libertex-group-1137373"
+    },
+    {
+      "company": "Thatchers Cider",
+      "fetched_at": "2026-09-13T18:43:59.729721+00:00",
+      "id": "4a59a86ff633",
+      "location": "Greater Newcastle Area,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "marketing",
+        "finance",
+        "exec",
+        "excel",
+        "golang"
+      ],
+      "title": "Quality Dispense Technician North",
+      "url": "https://remoteOK.com/remote-jobs/remote-quality-dispense-technician-north-thatchers-cider-1137374"
+    },
+    {
+      "company": "Benzinga",
+      "fetched_at": "2026-09-13T18:43:59.729721+00:00",
+      "id": "08991bb5dd0b",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "golang",
+        "video",
+        "engineer"
+      ],
+      "title": "AI Engineer Data APIs",
+      "url": "https://remoteOK.com/remote-jobs/remote-ai-engineer-data-apis-benzinga-1137224"
+    },
+    {
+      "company": "Blackbird Interactive",
+      "fetched_at": "2026-09-13T18:43:59.729721+00:00",
+      "id": "63695c1ba827",
+      "location": "Vancouver, BC, Canada",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "design",
+        "game dev",
+        "designer",
+        "technical",
+        "customer support",
+        "testing",
+        "content writing",
+        "senior",
+        "engineer",
+        "digital nomad"
+      ],
+      "title": "Senior Level Designer",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-level-designer-blackbird-interactive-1137156"
+    },
+    {
+      "company": "Tessera Labs",
+      "fetched_at": "2026-09-13T18:43:59.729721+00:00",
+      "id": "f18c1fd14d71",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "design",
+        "sys admin",
+        "consulting",
+        "testing",
+        "exec",
+        "cloud",
+        "senior",
+        "ops",
+        "engineer",
+        "ecommerce",
+        "shopify",
+        "full time",
+        "digital nomad"
+      ],
+      "title": "Oracle Fusion Cloud Lead â Logistics & Supply Chain Management",
+      "url": "https://remoteOK.com/remote-jobs/remote-oracle-fusion-cloud-lead-logistics-supply-chain-management-tessera-labs-1137155"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-13T18:43:59.729721+00:00",
+      "id": "a87cf67e089f",
+      "location": "Remote",
+      "posted_at": "2026-09-13T16:14:02+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-51nk"
+    },
+    {
       "company": "Mirantis",
       "fetched_at": "2026-09-13T15:58:21.985243+00:00",
       "id": "99e1bd4c692e",
@@ -3129,23 +3269,7 @@
       ],
       "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4ede"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-10T18:14:27.754310+00:00",
-      "id": "cf0a4be844eb",
-      "location": "Remote",
-      "posted_at": "2026-09-10T17:51:45+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-55lk"
     }
   ],
-  "updated_at": "2026-09-13T15:58:21.985243+00:00"
+  "updated_at": "2026-09-13T18:43:59.729721+00:00"
 }
