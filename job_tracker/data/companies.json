@@ -481,6 +481,7 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 19,
       "job_ids": [
+        "333ba7e844ae",
         "1495eb04d81e",
         "83c88b003001",
         "a0c5838be6ee",
@@ -498,10 +499,9 @@
         "da53d5ace0e3",
         "b7990264bcac",
         "77d00a0b634f",
-        "812fc9dd771a",
-        "aa7c677881e0"
+        "812fc9dd771a"
       ],
-      "last_seen": "2026-09-14T18:13:47+00:00"
+      "last_seen": "2026-09-14T21:50:53+00:00"
     },
     "ROAR Organic": {
       "count": 1,
@@ -594,13 +594,6 @@
         "f18c1fd14d71"
       ],
       "last_seen": "2026-09-13T18:43:59.729721+00:00"
-    },
-    "TestGorilla": {
-      "count": 1,
-      "job_ids": [
-        "8bb632e4f51a"
-      ],
-      "last_seen": "2026-09-11T21:37:16.748832+00:00"
     },
     "Thatchers Cider": {
       "count": 1,
@@ -700,6 +693,13 @@
       ],
       "last_seen": "2026-09-13T05:50:50.595032+00:00"
     },
+    "eClinical Solutions": {
+      "count": 1,
+      "job_ids": [
+        "24895f61f51e"
+      ],
+      "last_seen": "2026-09-14T23:47:27.210256+00:00"
+    },
     "iMerit Technology": {
       "count": 1,
       "job_ids": [
@@ -722,5 +722,5 @@
       "last_seen": "2026-09-13T05:50:50.595032+00:00"
     }
   },
-  "updated_at": "2026-09-14T20:50:21.947263+00:00"
+  "updated_at": "2026-09-14T23:47:27.210256+00:00"
 }

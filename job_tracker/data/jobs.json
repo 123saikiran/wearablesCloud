@@ -1,6 +1,37 @@
 {
   "jobs": [
     {
+      "company": "eClinical Solutions",
+      "fetched_at": "2026-09-14T23:47:27.210256+00:00",
+      "id": "24895f61f51e",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "cloud",
+        "exec",
+        "stats"
+      ],
+      "title": "External Data Specialist",
+      "url": "https://remoteOK.com/remote-jobs/remote-external-data-specialist-eclinical-solutions-1137375"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-14T23:47:27.210256+00:00",
+      "id": "333ba7e844ae",
+      "location": "Remote",
+      "posted_at": "2026-09-14T21:50:53+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-131p"
+    },
+    {
       "company": "DoiT",
       "fetched_at": "2026-09-14T20:50:21.947263+00:00",
       "id": "55ad3d8aceec",
@@ -3023,37 +3054,7 @@
       ],
       "title": "Junior Crypto Analyst & Trader",
       "url": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-empire-assets-1137307"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-12T00:00:55.428707+00:00",
-      "id": "aa7c677881e0",
-      "location": "Remote",
-      "posted_at": "2026-09-11T22:08:06+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-13fj"
-    },
-    {
-      "company": "TestGorilla",
-      "fetched_at": "2026-09-11T21:37:16.748832+00:00",
-      "id": "8bb632e4f51a",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "hr",
-        "non tech"
-      ],
-      "title": "Senior People & Talent Operations Partner",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-people-talent-operations-partner-testgorilla-1137378"
     }
   ],
-  "updated_at": "2026-09-14T20:50:21.947263+00:00"
+  "updated_at": "2026-09-14T23:47:27.210256+00:00"
 }
