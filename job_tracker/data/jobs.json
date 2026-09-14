@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-14T10:28:48.264074+00:00",
+      "id": "83c88b003001",
+      "location": "Remote",
+      "posted_at": "2026-09-14T06:14:25+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1l1g"
+    },
+    {
       "company": "VirtuHire",
       "fetched_at": "2026-09-14T04:47:02.289276+00:00",
       "id": "c1f0f420cfa6",
@@ -3071,68 +3087,7 @@
       ],
       "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3ph8"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-11T14:10:53.592260+00:00",
-      "id": "4994d86ee20f",
-      "location": "Remote",
-      "posted_at": "2026-09-11T09:42:47+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-158p"
-    },
-    {
-      "company": "Warehance",
-      "fetched_at": "2026-09-11T09:27:05.779974+00:00",
-      "id": "b229c41a3801",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "customer support"
-      ],
-      "title": "Customer Support & Success Specialist",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-success-specialist-warehance-1137302"
-    },
-    {
-      "company": "Ava Bagherzadeh",
-      "fetched_at": "2026-09-11T09:27:05.779974+00:00",
-      "id": "b46040e4fc7b",
-      "location": "Remote",
-      "posted_at": "2026-09-11T07:40:57+00:00",
-      "source": "devto",
-      "tags": [
-        "career",
-        "jobs",
-        "layoffs",
-        "productivity"
-      ],
-      "title": "Laid off this week? Four clocks started the day you found out",
-      "url": "https://dev.to/whateverneveranywhere/laid-off-this-week-four-clocks-started-the-day-you-found-out-57pn"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-11T09:27:05.779974+00:00",
-      "id": "1846ba1fb24c",
-      "location": "Remote",
-      "posted_at": "2026-09-11T05:13:12+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3fog"
     }
   ],
-  "updated_at": "2026-09-14T04:47:02.289276+00:00"
+  "updated_at": "2026-09-14T10:28:48.264074+00:00"
 }
