@@ -1,6 +1,40 @@
 {
   "jobs": [
     {
+      "company": "DoiT",
+      "fetched_at": "2026-09-14T20:50:21.947263+00:00",
+      "id": "55ad3d8aceec",
+      "location": "Remote UK",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "technical",
+        "marketing",
+        "cloud",
+        "microsoft",
+        "exec",
+        "sales"
+      ],
+      "title": "Sales Development Representative Attributeâ",
+      "url": "https://remoteOK.com/remote-jobs/"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-14T20:50:21.947263+00:00",
+      "id": "1495eb04d81e",
+      "location": "Remote",
+      "posted_at": "2026-09-14T18:13:47+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1l3g"
+    },
+    {
       "company": "Warehance",
       "fetched_at": "2026-09-14T16:53:56.764672+00:00",
       "id": "b229c41a3801",
@@ -3019,54 +3053,7 @@
       ],
       "title": "Senior People & Talent Operations Partner",
       "url": "https://remoteOK.com/remote-jobs/remote-senior-people-talent-operations-partner-testgorilla-1137378"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-11T21:37:16.748832+00:00",
-      "id": "14e63aa2cb52",
-      "location": "Remote",
-      "posted_at": "2026-09-11T19:54:43+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3bh2"
-    },
-    {
-      "company": "eClinical Solutions",
-      "fetched_at": "2026-09-11T18:18:40.430109+00:00",
-      "id": "24895f61f51e",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "cloud",
-        "exec",
-        "stats"
-      ],
-      "title": "External Data Specialist",
-      "url": "https://remoteOK.com/remote-jobs/remote-external-data-specialist-eclinical-solutions-1137375"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-11T18:18:40.430109+00:00",
-      "id": "662194c39a9f",
-      "location": "Remote",
-      "posted_at": "2026-09-11T17:25:46+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4j97"
     }
   ],
-  "updated_at": "2026-09-14T16:53:56.764672+00:00"
+  "updated_at": "2026-09-14T20:50:21.947263+00:00"
 }
