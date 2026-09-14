@@ -21,6 +21,13 @@
       ],
       "last_seen": "2026-09-13T05:50:50.595032+00:00"
     },
+    "Adams &amp; Martin Group": {
+      "count": 1,
+      "job_ids": [
+        "50fac4cb9ee6"
+      ],
+      "last_seen": "2026-09-14T04:47:02.289276+00:00"
+    },
     "Adaptive Teams": {
       "count": 1,
       "job_ids": [
@@ -119,13 +126,6 @@
         "6bb11a3b4b93"
       ],
       "last_seen": "2026-09-13T05:50:50.595032+00:00"
-    },
-    "CertifyOS": {
-      "count": 1,
-      "job_ids": [
-        "f973915f7465"
-      ],
-      "last_seen": "2026-09-11T04:04:03.284808+00:00"
     },
     "Chaos": {
       "count": 1,
@@ -287,6 +287,13 @@
       ],
       "last_seen": "2026-09-13T05:50:50.595032+00:00"
     },
+    "HiredBuddy": {
+      "count": 1,
+      "job_ids": [
+        "68d88ea14819"
+      ],
+      "last_seen": "2026-09-14T04:47:02.289276+00:00"
+    },
     "INNERGY": {
       "count": 1,
       "job_ids": [
@@ -366,6 +373,13 @@
       ],
       "last_seen": "2026-09-13T20:24:44+00:00"
     },
+    "Miranda Creative, Inc.": {
+      "count": 1,
+      "job_ids": [
+        "a070fa0d5cd4"
+      ],
+      "last_seen": "2026-09-14T04:47:02.289276+00:00"
+    },
     "Mirantis": {
       "count": 1,
       "job_ids": [
@@ -422,6 +436,13 @@
       ],
       "last_seen": "2026-09-13T05:50:50.595032+00:00"
     },
+    "Oula": {
+      "count": 1,
+      "job_ids": [
+        "9c1b69bf82b6"
+      ],
+      "last_seen": "2026-09-14T04:47:02.289276+00:00"
+    },
     "PFAS (Personal Functional Assessment Services)": {
       "count": 1,
       "job_ids": [
@@ -467,6 +488,7 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 22,
       "job_ids": [
+        "a0c5838be6ee",
         "8d40a18e5ac4",
         "adee7332a8df",
         "6c4c76eb02b9",
@@ -487,10 +509,16 @@
         "662194c39a9f",
         "90a1936a0e50",
         "4994d86ee20f",
-        "1846ba1fb24c",
-        "2767afe76339"
+        "1846ba1fb24c"
       ],
-      "last_seen": "2026-09-13T23:07:37+00:00"
+      "last_seen": "2026-09-14T01:01:40+00:00"
+    },
+    "ROAR Organic": {
+      "count": 1,
+      "job_ids": [
+        "08c27bd130ab"
+      ],
+      "last_seen": "2026-09-14T04:47:02.289276+00:00"
     },
     "RainFocus": {
       "count": 1,
@@ -498,6 +526,13 @@
         "cbf056ed26a5"
       ],
       "last_seen": "2026-09-13T05:50:50.595032+00:00"
+    },
+    "Ready": {
+      "count": 1,
+      "job_ids": [
+        "0909507a7c7f"
+      ],
+      "last_seen": "2026-09-14T04:47:02.289276+00:00"
     },
     "Resource Guru": {
       "count": 1,
@@ -533,6 +568,20 @@
         "22fdb8ef856c"
       ],
       "last_seen": "2026-09-13T05:50:50.595032+00:00"
+    },
+    "Snapscale": {
+      "count": 1,
+      "job_ids": [
+        "2917fa93ddb9"
+      ],
+      "last_seen": "2026-09-14T04:47:02.289276+00:00"
+    },
+    "Snapscale Philippines": {
+      "count": 1,
+      "job_ids": [
+        "b3e4ff181a4d"
+      ],
+      "last_seen": "2026-09-14T04:47:02.289276+00:00"
     },
     "Sophie's Flats Inc.": {
       "count": 1,
@@ -570,6 +619,13 @@
       ],
       "last_seen": "2026-09-13T18:43:59.729721+00:00"
     },
+    "The AI Whistleblower Initiative": {
+      "count": 1,
+      "job_ids": [
+        "916cd2848e14"
+      ],
+      "last_seen": "2026-09-14T04:47:02.289276+00:00"
+    },
     "Total Environmental Concepts Pty ltd": {
       "count": 1,
       "job_ids": [
@@ -604,6 +660,13 @@
         "7e462c4c98c4"
       ],
       "last_seen": "2026-09-13T05:50:50.595032+00:00"
+    },
+    "VirtuHire": {
+      "count": 1,
+      "job_ids": [
+        "c1f0f420cfa6"
+      ],
+      "last_seen": "2026-09-14T04:47:02.289276+00:00"
     },
     "Vomela": {
       "count": 1,
@@ -676,5 +739,5 @@
       "last_seen": "2026-09-13T05:50:50.595032+00:00"
     }
   },
-  "updated_at": "2026-09-14T00:00:07.970991+00:00"
+  "updated_at": "2026-09-14T04:47:02.289276+00:00"
 }
