@@ -1,6 +1,95 @@
 {
   "jobs": [
     {
+      "company": "Copenhagen Optimization",
+      "fetched_at": "2026-09-15T18:49:42.189337+00:00",
+      "id": "f6a2d43e97e9",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "virtual assistant",
+        "strategy",
+        "customer support",
+        "dev",
+        "marketing",
+        "exec",
+        "content writing",
+        "ops",
+        "golang",
+        "digital nomad"
+      ],
+      "title": "Marketing Student Assistant",
+      "url": "https://remoteOK.com/remote-jobs/remote-marketing-student-assistant-copenhagen-optimization-1137381"
+    },
+    {
+      "company": "NOPE",
+      "fetched_at": "2026-09-15T18:49:42.189337+00:00",
+      "id": "2d6c3bce7fd7",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "marketing",
+        "education",
+        "technical",
+        "content writing",
+        "social media",
+        "ai",
+        "social"
+      ],
+      "title": "Social Comms",
+      "url": "https://remoteOK.com/remote-jobs/remote-social-comms-nope-1137314"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-15T18:49:42.189337+00:00",
+      "id": "f1eee0eb1c2b",
+      "location": "Remote",
+      "posted_at": "2026-09-15T18:23:26+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-oep"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-09-15T18:49:42.189337+00:00",
+      "id": "99392be167fb",
+      "location": "Remote",
+      "posted_at": "2026-09-15T15:00:16+00:00",
+      "source": "devto",
+      "tags": [
+        "beginners",
+        "jobs",
+        "career",
+        "programming"
+      ],
+      "title": "Summer 2026 Internships: 8 New Openings This Week (Sep 15)",
+      "url": "https://dev.to/crackr/summer-2026-internships-8-new-openings-this-week-sep-15-4agm"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-09-15T18:49:42.189337+00:00",
+      "id": "23e059fb3069",
+      "location": "Remote",
+      "posted_at": "2026-09-15T15:00:13+00:00",
+      "source": "devto",
+      "tags": [
+        "remotework",
+        "jobs",
+        "webdev",
+        "career"
+      ],
+      "title": "Remote SWE Jobs Paying Up to $220k (Sep 15)",
+      "url": "https://dev.to/crackr/remote-swe-jobs-paying-up-to-220k-sep-15-3kod"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-09-15T14:47:14.101606+00:00",
       "id": "667413042023",
@@ -3031,71 +3120,7 @@
       ],
       "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-454l"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-12T19:06:38.956417+00:00",
-      "id": "3a301c2f4c10",
-      "location": "Remote",
-      "posted_at": "2026-09-12T17:53:47+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3lpa"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-12T16:55:37.733731+00:00",
-      "id": "2f8d901a99c8",
-      "location": "Remote",
-      "posted_at": "2026-09-12T15:48:37+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1hbh"
-    },
-    {
-      "company": "Crackr",
-      "fetched_at": "2026-09-12T16:55:37.733731+00:00",
-      "id": "de1a6de54c70",
-      "location": "Remote",
-      "posted_at": "2026-09-12T15:00:16+00:00",
-      "source": "devto",
-      "tags": [
-        "beginners",
-        "jobs",
-        "career",
-        "programming"
-      ],
-      "title": "Summer 2026 Internships: 8 New Openings This Week (Sep 12)",
-      "url": "https://dev.to/crackr/summer-2026-internships-8-new-openings-this-week-sep-12-1dfa"
-    },
-    {
-      "company": "Crackr",
-      "fetched_at": "2026-09-12T16:55:37.733731+00:00",
-      "id": "9ac3f6027e6e",
-      "location": "Remote",
-      "posted_at": "2026-09-12T15:00:12+00:00",
-      "source": "devto",
-      "tags": [
-        "remotework",
-        "jobs",
-        "webdev",
-        "career"
-      ],
-      "title": "Remote SWE Jobs Paying Up to $220k (Sep 12)",
-      "url": "https://dev.to/crackr/remote-swe-jobs-paying-up-to-220k-sep-12-45ob"
     }
   ],
-  "updated_at": "2026-09-15T14:47:14.101606+00:00"
+  "updated_at": "2026-09-15T18:49:42.189337+00:00"
 }
