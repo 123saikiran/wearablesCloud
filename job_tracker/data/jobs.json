@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-15T22:01:11.678010+00:00",
+      "id": "f496abecda58",
+      "location": "Remote",
+      "posted_at": "2026-09-15T21:33:22+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2ep"
+    },
+    {
       "company": "Copenhagen Optimization",
       "fetched_at": "2026-09-15T18:49:42.189337+00:00",
       "id": "f6a2d43e97e9",
@@ -3088,39 +3104,7 @@
       ],
       "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-57i1"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-12T22:05:29.502820+00:00",
-      "id": "fccb2f8c504d",
-      "location": "Remote",
-      "posted_at": "2026-09-12T21:42:53+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-17i7"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-12T22:05:29.502820+00:00",
-      "id": "81f2cc7ab381",
-      "location": "Remote",
-      "posted_at": "2026-09-12T19:51:21+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-454l"
     }
   ],
-  "updated_at": "2026-09-15T18:49:42.189337+00:00"
+  "updated_at": "2026-09-15T22:01:11.678010+00:00"
 }
