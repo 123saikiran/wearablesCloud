@@ -188,6 +188,13 @@
       ],
       "last_seen": "2026-09-13T05:50:50.595032+00:00"
     },
+    "Empire Assets": {
+      "count": 1,
+      "job_ids": [
+        "b448eb571a3a"
+      ],
+      "last_seen": "2026-09-15T09:54:12.923497+00:00"
+    },
     "Enable Dental": {
       "count": 1,
       "job_ids": [
@@ -238,6 +245,13 @@
       ],
       "last_seen": "2026-09-13T05:50:50.595032+00:00"
     },
+    "GiveWell": {
+      "count": 1,
+      "job_ids": [
+        "0670c33f2a79"
+      ],
+      "last_seen": "2026-09-15T09:54:12.923497+00:00"
+    },
     "Grapefruit Health": {
       "count": 1,
       "job_ids": [
@@ -251,6 +265,13 @@
         "5f67eddcfa26"
       ],
       "last_seen": "2026-09-13T05:50:50.595032+00:00"
+    },
+    "Harper": {
+      "count": 1,
+      "job_ids": [
+        "3991e551a545"
+      ],
+      "last_seen": "2026-09-15T09:54:12.923497+00:00"
     },
     "Harvey Nash": {
       "count": 1,
@@ -474,6 +495,8 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 19,
       "job_ids": [
+        "c8583f0bc2c2",
+        "bfadee6086ab",
         "e2872fdad522",
         "333ba7e844ae",
         "1495eb04d81e",
@@ -490,11 +513,9 @@
         "81f2cc7ab381",
         "3a301c2f4c10",
         "2f8d901a99c8",
-        "da53d5ace0e3",
-        "b7990264bcac",
-        "77d00a0b634f"
+        "da53d5ace0e3"
       ],
-      "last_seen": "2026-09-15T00:01:43+00:00"
+      "last_seen": "2026-09-15T09:38:53+00:00"
     },
     "ROAR Organic": {
       "count": 1,
@@ -729,5 +750,5 @@
       "last_seen": "2026-09-13T05:50:50.595032+00:00"
     }
   },
-  "updated_at": "2026-09-15T04:23:36.010002+00:00"
+  "updated_at": "2026-09-15T09:54:12.923497+00:00"
 }
