@@ -1,6 +1,104 @@
 {
   "jobs": [
     {
+      "company": "Sleek",
+      "fetched_at": "2026-09-15T04:23:36.010002+00:00",
+      "id": "081ec9073d83",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "payroll",
+        "virtual assistant",
+        "education",
+        "technical",
+        "supervisor",
+        "customer support",
+        "dev",
+        "marketing",
+        "exec",
+        "accounting",
+        "finance",
+        "video",
+        "junior",
+        "ops",
+        "excel",
+        "sys admin",
+        "digital nomad"
+      ],
+      "title": "Junior Payroll Assistant",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-payroll-assistant-sleek-1137391"
+    },
+    {
+      "company": "Prop Firm Match Global â FZCO",
+      "fetched_at": "2026-09-15T04:23:36.010002+00:00",
+      "id": "f0f0bf1b1f8a",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "saas",
+        "hr",
+        "education",
+        "technical",
+        "customer support",
+        "video",
+        "finance",
+        "exec",
+        "ops",
+        "excel",
+        "full time"
+      ],
+      "title": "Customer Experience Representative",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-experience-representative-prop-firm-match-global-fzco-1137390"
+    },
+    {
+      "company": "TestGorilla",
+      "fetched_at": "2026-09-15T04:23:36.010002+00:00",
+      "id": "8bb632e4f51a",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "hr",
+        "non tech"
+      ],
+      "title": "Senior People & Talent Operations Partner",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-people-talent-operations-partner-testgorilla-1137378"
+    },
+    {
+      "company": "FetchSmith",
+      "fetched_at": "2026-09-15T04:23:36.010002+00:00",
+      "id": "876d201e3936",
+      "location": "Remote",
+      "posted_at": "2026-09-15T00:06:19+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "api",
+        "jobs",
+        "javascript"
+      ],
+      "title": "Six ATS job boards publish their jobs as public JSON — and no two agree what a \"job\" is",
+      "url": "https://dev.to/fetchsmith/six-ats-job-boards-publish-their-jobs-as-public-json-and-no-two-agree-what-a-job-is-5e57"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-15T04:23:36.010002+00:00",
+      "id": "e2872fdad522",
+      "location": "Remote",
+      "posted_at": "2026-09-15T00:01:43+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4fe2"
+    },
+    {
       "company": "eClinical Solutions",
       "fetched_at": "2026-09-14T23:47:27.210256+00:00",
       "id": "24895f61f51e",
@@ -2972,89 +3070,7 @@
       ],
       "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-5147"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-12T05:31:40.461393+00:00",
-      "id": "812fc9dd771a",
-      "location": "Remote",
-      "posted_at": "2026-09-12T00:15:18+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-34j8"
-    },
-    {
-      "company": "Harper",
-      "fetched_at": "2026-09-12T00:00:55.428707+00:00",
-      "id": "3991e551a545",
-      "location": "San Francisco",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "exec",
-        "design",
-        "sys admin",
-        "docker",
-        "technical",
-        "customer support",
-        "dev",
-        "marketing",
-        "video",
-        "finance",
-        "cloud",
-        "medical",
-        "engineer",
-        "digital nomad"
-      ],
-      "title": "Engineering Manager TLM Platform",
-      "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-tlm-platform-harper-1137380"
-    },
-    {
-      "company": "GiveWell",
-      "fetched_at": "2026-09-12T00:00:55.428707+00:00",
-      "id": "0670c33f2a79",
-      "location": "United States",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "exec",
-        "senior",
-        "medical"
-      ],
-      "title": "Senior Communications Officer Strategic Communications",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-communications-officer-strategic-communications-givewell-1137379"
-    },
-    {
-      "company": "Empire Assets",
-      "fetched_at": "2026-09-12T00:00:55.428707+00:00",
-      "id": "b448eb571a3a",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "part time",
-        "junior",
-        "analyst",
-        "crypto",
-        "other",
-        "web3",
-        "blockchain",
-        "defi",
-        "bitcoin",
-        "ethereum",
-        "remote",
-        "trader",
-        "Binance"
-      ],
-      "title": "Junior Crypto Analyst & Trader",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-empire-assets-1137307"
     }
   ],
-  "updated_at": "2026-09-14T23:47:27.210256+00:00"
+  "updated_at": "2026-09-15T04:23:36.010002+00:00"
 }
