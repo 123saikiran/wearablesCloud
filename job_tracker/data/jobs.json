@@ -1,6 +1,30 @@
 {
   "jobs": [
     {
+      "company": "ExtraHop",
+      "fetched_at": "2026-09-16T01:12:29.220087+00:00",
+      "id": "31dfd150bb34",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "architecture",
+        "design",
+        "infosec",
+        "python",
+        "technical",
+        "customer support",
+        "javascript",
+        "api",
+        "ops",
+        "marketing",
+        "sales",
+        "digital nomad"
+      ],
+      "title": "Sr Solutions Architect",
+      "url": "https://remoteOK.com/remote-jobs/remote-sr-solutions-architect-extrahop-1137394"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-09-15T22:01:11.678010+00:00",
       "id": "f496abecda58",
@@ -3064,47 +3088,7 @@
       ],
       "title": "Anthropic Modeled the 2030 Economy Three Ways. The Richer the Country Gets, the Worse It Gets for Knowledge Workers",
       "url": "https://dev.to/jamilxt/anthropic-modeled-the-2030-economy-three-ways-the-richer-the-country-gets-the-worse-it-gets-for-2ajd"
-    },
-    {
-      "company": "Law Offices of Sabrina Li",
-      "fetched_at": "2026-09-13T00:44:27.695731+00:00",
-      "id": "b3dd04aaa651",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "hr",
-        "education",
-        "customer support",
-        "marketing",
-        "finance",
-        "c",
-        "exec",
-        "content writing",
-        "ops",
-        "legal",
-        "recruiter",
-        "full time"
-      ],
-      "title": "HR Operations Specialist",
-      "url": "https://remoteOK.com/remote-jobs/remote-hr-operations-specialist-law-offices-of-sabrina-li-1137386"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-13T00:44:27.695731+00:00",
-      "id": "e01051c8406c",
-      "location": "Remote",
-      "posted_at": "2026-09-12T23:27:48+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-57i1"
     }
   ],
-  "updated_at": "2026-09-15T22:01:11.678010+00:00"
+  "updated_at": "2026-09-16T01:12:29.220087+00:00"
 }
