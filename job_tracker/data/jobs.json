@@ -1,6 +1,74 @@
 {
   "jobs": [
     {
+      "company": "Wakacje.pl",
+      "fetched_at": "2026-09-16T18:03:11.301918+00:00",
+      "id": "6db3cc4b9fcc",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "golang",
+        "dev",
+        "travel",
+        "api",
+        "golang",
+        "engineer",
+        "backend",
+        "digital nomad"
+      ],
+      "title": "Software Engineer GO",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-go-wakacje-pl-1135634"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-16T18:03:11.301918+00:00",
+      "id": "2e889154fa28",
+      "location": "Remote",
+      "posted_at": "2026-09-16T16:59:13+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1ao0"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-09-16T18:03:11.301918+00:00",
+      "id": "c082e66d5bc1",
+      "location": "Remote",
+      "posted_at": "2026-09-16T15:00:20+00:00",
+      "source": "devto",
+      "tags": [
+        "beginners",
+        "jobs",
+        "career",
+        "programming"
+      ],
+      "title": "These Companies Want Interns This Summer (Sep 16)",
+      "url": "https://dev.to/crackr/these-companies-want-interns-this-summer-sep-16-3a1o"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-09-16T18:03:11.301918+00:00",
+      "id": "4a7a054e7a19",
+      "location": "Remote",
+      "posted_at": "2026-09-16T15:00:16+00:00",
+      "source": "devto",
+      "tags": [
+        "remotework",
+        "jobs",
+        "webdev",
+        "career"
+      ],
+      "title": "8 Remote SWE Jobs You Can Apply to From Anywhere (Sep 16)",
+      "url": "https://dev.to/crackr/8-remote-swe-jobs-you-can-apply-to-from-anywhere-sep-16-3n2i"
+    },
+    {
       "company": "OrderYOYO",
       "fetched_at": "2026-09-16T13:19:24.528571+00:00",
       "id": "56f90acd7e69",
@@ -2979,86 +3047,7 @@
       ],
       "title": "Oracle Fusion Cloud Lead â Logistics & Supply Chain Management",
       "url": "https://remoteOK.com/remote-jobs/remote-oracle-fusion-cloud-lead-logistics-supply-chain-management-tessera-labs-1137155"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-13T18:43:59.729721+00:00",
-      "id": "a87cf67e089f",
-      "location": "Remote",
-      "posted_at": "2026-09-13T16:14:02+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-51nk"
-    },
-    {
-      "company": "Mirantis",
-      "fetched_at": "2026-09-13T15:58:21.985243+00:00",
-      "id": "99e1bd4c692e",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "golang",
-        "dev",
-        "engineer",
-        "digital nomad"
-      ],
-      "title": "Software Engineer",
-      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-mirantis-1137387"
-    },
-    {
-      "company": "iMerit Technology",
-      "fetched_at": "2026-09-13T15:58:21.985243+00:00",
-      "id": "7e56423bc195",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "content writing",
-        "quality assurance",
-        "ai"
-      ],
-      "title": "AI Response Analyst",
-      "url": "https://remoteOK.com/remote-jobs/remote-ai-response-analyst-imerit-technology-1137309"
-    },
-    {
-      "company": "Crackr",
-      "fetched_at": "2026-09-13T15:58:21.985243+00:00",
-      "id": "7a88f7e1f176",
-      "location": "Remote",
-      "posted_at": "2026-09-13T15:00:17+00:00",
-      "source": "devto",
-      "tags": [
-        "beginners",
-        "jobs",
-        "career",
-        "programming"
-      ],
-      "title": "These Companies Want Interns This Summer (Sep 13)",
-      "url": "https://dev.to/crackr/these-companies-want-interns-this-summer-sep-13-2k60"
-    },
-    {
-      "company": "Crackr",
-      "fetched_at": "2026-09-13T15:58:21.985243+00:00",
-      "id": "0adf22823608",
-      "location": "Remote",
-      "posted_at": "2026-09-13T15:00:12+00:00",
-      "source": "devto",
-      "tags": [
-        "remotework",
-        "jobs",
-        "webdev",
-        "career"
-      ],
-      "title": "8 Remote SWE Jobs You Can Apply to From Anywhere (Sep 13)",
-      "url": "https://dev.to/crackr/8-remote-swe-jobs-you-can-apply-to-from-anywhere-sep-13-26nh"
     }
   ],
-  "updated_at": "2026-09-16T13:19:24.528571+00:00"
+  "updated_at": "2026-09-16T18:03:11.301918+00:00"
 }
