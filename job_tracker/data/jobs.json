@@ -1,6 +1,70 @@
 {
   "jobs": [
     {
+      "company": "Sticker Mule",
+      "fetched_at": "2026-09-17T16:40:48.337338+00:00",
+      "id": "3ae373be1705",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "ai",
+        "golang",
+        "javascript",
+        "typescript"
+      ],
+      "title": "AI agent engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-17T16:40:48.337338+00:00",
+      "id": "0816c810bb62",
+      "location": "Remote",
+      "posted_at": "2026-09-17T15:08:25+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4pbn"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-09-17T16:40:48.337338+00:00",
+      "id": "73b838b6d2c7",
+      "location": "Remote",
+      "posted_at": "2026-09-17T15:00:18+00:00",
+      "source": "devto",
+      "tags": [
+        "beginners",
+        "jobs",
+        "career",
+        "programming"
+      ],
+      "title": "Where to Find Tech Internships This Summer (Sep 17)",
+      "url": "https://dev.to/crackr/where-to-find-tech-internships-this-summer-sep-17-m23"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-09-17T16:40:48.337338+00:00",
+      "id": "3f80a2d343e0",
+      "location": "Remote",
+      "posted_at": "2026-09-17T15:00:14+00:00",
+      "source": "devto",
+      "tags": [
+        "remotework",
+        "jobs",
+        "webdev",
+        "career"
+      ],
+      "title": "Senior Remote SWE Roles Hiring Now - 3 Pay $150k+ (Sep 17)",
+      "url": "https://dev.to/crackr/senior-remote-swe-roles-hiring-now-3-pay-150k-sep-17-4466"
+    },
+    {
       "company": "iMerit Technology",
       "fetched_at": "2026-09-17T11:29:28.402577+00:00",
       "id": "aad0d581511f",
@@ -3041,39 +3105,7 @@
       ],
       "title": "Customer Support & Success Specialist",
       "url": "https://remoteOK.com/remote-jobs/remote-customer-support-success-specialist-warehance-1137302"
-    },
-    {
-      "company": "Crackr",
-      "fetched_at": "2026-09-14T16:53:56.764672+00:00",
-      "id": "033a3e22bd6d",
-      "location": "Remote",
-      "posted_at": "2026-09-14T15:00:16+00:00",
-      "source": "devto",
-      "tags": [
-        "beginners",
-        "jobs",
-        "career",
-        "programming"
-      ],
-      "title": "Where to Find Tech Internships This Summer (Sep 14)",
-      "url": "https://dev.to/crackr/where-to-find-tech-internships-this-summer-sep-14-3b47"
-    },
-    {
-      "company": "Crackr",
-      "fetched_at": "2026-09-14T16:53:56.764672+00:00",
-      "id": "d879f350005f",
-      "location": "Remote",
-      "posted_at": "2026-09-14T15:00:12+00:00",
-      "source": "devto",
-      "tags": [
-        "remotework",
-        "jobs",
-        "webdev",
-        "career"
-      ],
-      "title": "Senior Remote SWE Roles Hiring Now - 3 Pay $150k+ (Sep 14)",
-      "url": "https://dev.to/crackr/senior-remote-swe-roles-hiring-now-3-pay-150k-sep-14-3584"
     }
   ],
-  "updated_at": "2026-09-17T11:29:28.402577+00:00"
+  "updated_at": "2026-09-17T16:40:48.337338+00:00"
 }
