@@ -1,6 +1,35 @@
 {
   "jobs": [
     {
+      "company": "Warehance",
+      "fetched_at": "2026-09-17T23:28:04.234181+00:00",
+      "id": "b229c41a3801",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "customer support"
+      ],
+      "title": "Customer Support & Success Specialist",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-success-specialist-warehance-1137302"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-17T23:28:04.234181+00:00",
+      "id": "36a00ce747b4",
+      "location": "Remote",
+      "posted_at": "2026-09-17T22:03:24+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3f23"
+    },
+    {
       "company": "Arango",
       "fetched_at": "2026-09-17T20:06:41.281824+00:00",
       "id": "0bad7d05c1cb",
@@ -3089,41 +3118,7 @@
       ],
       "title": "External Data Specialist",
       "url": "https://remoteOK.com/remote-jobs/remote-external-data-specialist-eclinical-solutions-1137375"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-14T23:47:27.210256+00:00",
-      "id": "333ba7e844ae",
-      "location": "Remote",
-      "posted_at": "2026-09-14T21:50:53+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-131p"
-    },
-    {
-      "company": "DoiT",
-      "fetched_at": "2026-09-14T20:50:21.947263+00:00",
-      "id": "55ad3d8aceec",
-      "location": "Remote UK",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "technical",
-        "marketing",
-        "cloud",
-        "microsoft",
-        "exec",
-        "sales"
-      ],
-      "title": "Sales Development Representative Attributeâ",
-      "url": "https://remoteOK.com/remote-jobs/"
     }
   ],
-  "updated_at": "2026-09-17T20:06:41.281824+00:00"
+  "updated_at": "2026-09-17T23:28:04.234181+00:00"
 }
