@@ -56,6 +56,13 @@
       ],
       "last_seen": "2026-09-16T13:19:24.528571+00:00"
     },
+    "Arango": {
+      "count": 1,
+      "job_ids": [
+        "0bad7d05c1cb"
+      ],
+      "last_seen": "2026-09-17T20:06:41.281824+00:00"
+    },
     "BMWL": {
       "count": 1,
       "job_ids": [
@@ -495,6 +502,7 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 18,
       "job_ids": [
+        "b0e861480f95",
         "0816c810bb62",
         "91c9008f3ded",
         "4d717ee9f7df",
@@ -511,10 +519,9 @@
         "c8583f0bc2c2",
         "bfadee6086ab",
         "e2872fdad522",
-        "333ba7e844ae",
-        "1495eb04d81e"
+        "333ba7e844ae"
       ],
-      "last_seen": "2026-09-17T15:08:25+00:00"
+      "last_seen": "2026-09-17T19:00:21+00:00"
     },
     "RainFocus": {
       "count": 1,
@@ -678,6 +685,13 @@
       ],
       "last_seen": "2026-09-17T11:29:28.402577+00:00"
     },
+    "Vladimir Stepanenko": {
+      "count": 1,
+      "job_ids": [
+        "c3b291b50ade"
+      ],
+      "last_seen": "2026-09-17T18:17:49+00:00"
+    },
     "Vomela": {
       "count": 1,
       "job_ids": [
@@ -691,13 +705,6 @@
         "6db3cc4b9fcc"
       ],
       "last_seen": "2026-09-16T18:03:11.301918+00:00"
-    },
-    "Warehance": {
-      "count": 1,
-      "job_ids": [
-        "b229c41a3801"
-      ],
-      "last_seen": "2026-09-14T16:53:56.764672+00:00"
     },
     "Webnotics Pvt Ltd": {
       "count": 1,
@@ -750,5 +757,5 @@
       "last_seen": "2026-09-16T13:19:24.528571+00:00"
     }
   },
-  "updated_at": "2026-09-17T16:40:48.337338+00:00"
+  "updated_at": "2026-09-17T20:06:41.281824+00:00"
 }
