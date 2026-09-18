@@ -148,13 +148,6 @@
       ],
       "last_seen": "2026-09-16T13:19:24.528571+00:00"
     },
-    "Copenhagen Optimization": {
-      "count": 1,
-      "job_ids": [
-        "f6a2d43e97e9"
-      ],
-      "last_seen": "2026-09-15T18:49:42.189337+00:00"
-    },
     "Crackr": {
       "count": 6,
       "job_ids": [
@@ -408,13 +401,6 @@
       ],
       "last_seen": "2026-09-16T13:19:24.528571+00:00"
     },
-    "NOPE": {
-      "count": 1,
-      "job_ids": [
-        "2d6c3bce7fd7"
-      ],
-      "last_seen": "2026-09-15T18:49:42.189337+00:00"
-    },
     "NT Health": {
       "count": 1,
       "job_ids": [
@@ -502,6 +488,7 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 18,
       "job_ids": [
+        "9da3d43fcaf3",
         "1f4deb61d465",
         "7ceda936f086",
         "bf3a66327dd0",
@@ -518,10 +505,9 @@
         "86e4dd0995bc",
         "aba375534594",
         "c20044e3d6a0",
-        "f496abecda58",
-        "f1eee0eb1c2b"
+        "f496abecda58"
       ],
-      "last_seen": "2026-09-18T17:13:05+00:00"
+      "last_seen": "2026-09-18T19:37:33+00:00"
     },
     "RainFocus": {
       "count": 1,
@@ -764,5 +750,5 @@
       "last_seen": "2026-09-16T13:19:24.528571+00:00"
     }
   },
-  "updated_at": "2026-09-18T18:13:53.545170+00:00"
+  "updated_at": "2026-09-18T21:32:56.497034+00:00"
 }
