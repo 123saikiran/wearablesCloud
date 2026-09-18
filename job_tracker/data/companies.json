@@ -188,6 +188,13 @@
       ],
       "last_seen": "2026-09-16T13:19:24.528571+00:00"
     },
+    "Dodo Data": {
+      "count": 1,
+      "job_ids": [
+        "aa1e877d879b"
+      ],
+      "last_seen": "2026-09-18T07:50:29+00:00"
+    },
     "DoiT": {
       "count": 1,
       "job_ids": [
@@ -478,13 +485,6 @@
       ],
       "last_seen": "2026-09-16T13:19:24.528571+00:00"
     },
-    "Prop Firm Match Global â FZCO": {
-      "count": 1,
-      "job_ids": [
-        "f0f0bf1b1f8a"
-      ],
-      "last_seen": "2026-09-15T04:23:36.010002+00:00"
-    },
     "PulseMediaNL": {
       "count": 1,
       "job_ids": [
@@ -495,6 +495,7 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 18,
       "job_ids": [
+        "bf3a66327dd0",
         "eee283eede8c",
         "36a00ce747b4",
         "b0e861480f95",
@@ -511,10 +512,9 @@
         "f496abecda58",
         "f1eee0eb1c2b",
         "667413042023",
-        "c8583f0bc2c2",
-        "bfadee6086ab"
+        "c8583f0bc2c2"
       ],
-      "last_seen": "2026-09-18T00:14:35+00:00"
+      "last_seen": "2026-09-18T04:55:54+00:00"
     },
     "RainFocus": {
       "count": 1,
@@ -565,13 +565,6 @@
       ],
       "last_seen": "2026-09-16T13:19:24.528571+00:00"
     },
-    "Sleek": {
-      "count": 1,
-      "job_ids": [
-        "081ec9073d83"
-      ],
-      "last_seen": "2026-09-15T04:23:36.010002+00:00"
-    },
     "Snapscale": {
       "count": 1,
       "job_ids": [
@@ -614,13 +607,6 @@
         "f18c1fd14d71"
       ],
       "last_seen": "2026-09-17T00:21:28.695281+00:00"
-    },
-    "TestGorilla": {
-      "count": 1,
-      "job_ids": [
-        "8bb632e4f51a"
-      ],
-      "last_seen": "2026-09-15T04:23:36.010002+00:00"
     },
     "Thatchers Cider": {
       "count": 1,
@@ -727,6 +713,13 @@
       ],
       "last_seen": "2026-09-16T13:19:24.528571+00:00"
     },
+    "eClinical Solutions": {
+      "count": 1,
+      "job_ids": [
+        "24895f61f51e"
+      ],
+      "last_seen": "2026-09-18T09:31:31.546671+00:00"
+    },
     "every special child usa": {
       "count": 1,
       "job_ids": [
@@ -750,5 +743,5 @@
       "last_seen": "2026-09-16T13:19:24.528571+00:00"
     }
   },
-  "updated_at": "2026-09-18T04:09:45.456134+00:00"
+  "updated_at": "2026-09-18T09:31:31.546671+00:00"
 }

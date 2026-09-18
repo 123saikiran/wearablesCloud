@@ -1,6 +1,53 @@
 {
   "jobs": [
     {
+      "company": "eClinical Solutions",
+      "fetched_at": "2026-09-18T09:31:31.546671+00:00",
+      "id": "24895f61f51e",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "cloud",
+        "exec",
+        "stats"
+      ],
+      "title": "External Data Specialist",
+      "url": "https://remoteOK.com/remote-jobs/remote-external-data-specialist-eclinical-solutions-1137375"
+    },
+    {
+      "company": "Dodo Data",
+      "fetched_at": "2026-09-18T09:31:31.546671+00:00",
+      "id": "aa1e877d879b",
+      "location": "Remote",
+      "posted_at": "2026-09-18T07:50:29+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "api",
+        "jobs",
+        "typescript"
+      ],
+      "title": "Every open job at 500 companies, as JSON, without scraping a single job board",
+      "url": "https://dev.to/dododata/every-open-job-at-500-companies-as-json-without-scraping-a-single-job-board-2431"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-18T09:31:31.546671+00:00",
+      "id": "bf3a66327dd0",
+      "location": "Remote",
+      "posted_at": "2026-09-18T04:55:54+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-m1e"
+    },
+    {
       "company": "DoiT",
       "fetched_at": "2026-09-18T04:09:45.456134+00:00",
       "id": "55ad3d8aceec",
@@ -3023,89 +3070,7 @@
       ],
       "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3505"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-15T09:54:12.923497+00:00",
-      "id": "bfadee6086ab",
-      "location": "Remote",
-      "posted_at": "2026-09-15T04:50:28+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4nll"
-    },
-    {
-      "company": "Sleek",
-      "fetched_at": "2026-09-15T04:23:36.010002+00:00",
-      "id": "081ec9073d83",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "payroll",
-        "virtual assistant",
-        "education",
-        "technical",
-        "supervisor",
-        "customer support",
-        "dev",
-        "marketing",
-        "exec",
-        "accounting",
-        "finance",
-        "video",
-        "junior",
-        "ops",
-        "excel",
-        "sys admin",
-        "digital nomad"
-      ],
-      "title": "Junior Payroll Assistant",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-payroll-assistant-sleek-1137391"
-    },
-    {
-      "company": "Prop Firm Match Global â FZCO",
-      "fetched_at": "2026-09-15T04:23:36.010002+00:00",
-      "id": "f0f0bf1b1f8a",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "saas",
-        "hr",
-        "education",
-        "technical",
-        "customer support",
-        "video",
-        "finance",
-        "exec",
-        "ops",
-        "excel",
-        "full time"
-      ],
-      "title": "Customer Experience Representative",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-experience-representative-prop-firm-match-global-fzco-1137390"
-    },
-    {
-      "company": "TestGorilla",
-      "fetched_at": "2026-09-15T04:23:36.010002+00:00",
-      "id": "8bb632e4f51a",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "hr",
-        "non tech"
-      ],
-      "title": "Senior People & Talent Operations Partner",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-people-talent-operations-partner-testgorilla-1137378"
     }
   ],
-  "updated_at": "2026-09-18T04:09:45.456134+00:00"
+  "updated_at": "2026-09-18T09:31:31.546671+00:00"
 }
