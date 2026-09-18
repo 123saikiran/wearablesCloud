@@ -1,6 +1,120 @@
 {
   "jobs": [
     {
+      "company": "Harper",
+      "fetched_at": "2026-09-18T18:13:53.545170+00:00",
+      "id": "3991e551a545",
+      "location": "San Francisco",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec",
+        "design",
+        "sys admin",
+        "docker",
+        "technical",
+        "customer support",
+        "dev",
+        "marketing",
+        "video",
+        "finance",
+        "cloud",
+        "medical",
+        "engineer",
+        "digital nomad"
+      ],
+      "title": "Engineering Manager TLM Platform",
+      "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-tlm-platform-harper-1137380"
+    },
+    {
+      "company": "GiveWell",
+      "fetched_at": "2026-09-18T18:13:53.545170+00:00",
+      "id": "0670c33f2a79",
+      "location": "United States",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec",
+        "senior",
+        "medical"
+      ],
+      "title": "Senior Communications Officer Strategic Communications",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-communications-officer-strategic-communications-givewell-1137379"
+    },
+    {
+      "company": "Empire Assets",
+      "fetched_at": "2026-09-18T18:13:53.545170+00:00",
+      "id": "b448eb571a3a",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "part time",
+        "junior",
+        "analyst",
+        "crypto",
+        "other",
+        "web3",
+        "blockchain",
+        "defi",
+        "bitcoin",
+        "ethereum",
+        "remote",
+        "trader",
+        "Binance"
+      ],
+      "title": "Junior Crypto Analyst & Trader",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-empire-assets-1137307"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-18T18:13:53.545170+00:00",
+      "id": "1f4deb61d465",
+      "location": "Remote",
+      "posted_at": "2026-09-18T17:13:05+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3jm"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-09-18T18:13:53.545170+00:00",
+      "id": "a06d80f2242e",
+      "location": "Remote",
+      "posted_at": "2026-09-18T15:00:17+00:00",
+      "source": "devto",
+      "tags": [
+        "beginners",
+        "jobs",
+        "career",
+        "programming"
+      ],
+      "title": "Summer 2026 Internships: 8 New Openings This Week (Sep 18)",
+      "url": "https://dev.to/crackr/summer-2026-internships-8-new-openings-this-week-sep-18-2cj3"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-09-18T18:13:53.545170+00:00",
+      "id": "a7ab8c76d294",
+      "location": "Remote",
+      "posted_at": "2026-09-18T15:00:13+00:00",
+      "source": "devto",
+      "tags": [
+        "remotework",
+        "jobs",
+        "webdev",
+        "career"
+      ],
+      "title": "Remote SWE Jobs Paying Up to $250k (Sep 18)",
+      "url": "https://dev.to/crackr/remote-swe-jobs-paying-up-to-250k-sep-18-1c04"
+    },
+    {
       "company": "Sleek",
       "fetched_at": "2026-09-18T14:16:32.205821+00:00",
       "id": "081ec9073d83",
@@ -3022,55 +3136,7 @@
       ],
       "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-oep"
-    },
-    {
-      "company": "Crackr",
-      "fetched_at": "2026-09-15T18:49:42.189337+00:00",
-      "id": "99392be167fb",
-      "location": "Remote",
-      "posted_at": "2026-09-15T15:00:16+00:00",
-      "source": "devto",
-      "tags": [
-        "beginners",
-        "jobs",
-        "career",
-        "programming"
-      ],
-      "title": "Summer 2026 Internships: 8 New Openings This Week (Sep 15)",
-      "url": "https://dev.to/crackr/summer-2026-internships-8-new-openings-this-week-sep-15-4agm"
-    },
-    {
-      "company": "Crackr",
-      "fetched_at": "2026-09-15T18:49:42.189337+00:00",
-      "id": "23e059fb3069",
-      "location": "Remote",
-      "posted_at": "2026-09-15T15:00:13+00:00",
-      "source": "devto",
-      "tags": [
-        "remotework",
-        "jobs",
-        "webdev",
-        "career"
-      ],
-      "title": "Remote SWE Jobs Paying Up to $220k (Sep 15)",
-      "url": "https://dev.to/crackr/remote-swe-jobs-paying-up-to-220k-sep-15-3kod"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-15T14:47:14.101606+00:00",
-      "id": "667413042023",
-      "location": "Remote",
-      "posted_at": "2026-09-15T14:27:35+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1ihb"
     }
   ],
-  "updated_at": "2026-09-18T14:16:32.205821+00:00"
+  "updated_at": "2026-09-18T18:13:53.545170+00:00"
 }

@@ -158,14 +158,14 @@
     "Crackr": {
       "count": 6,
       "job_ids": [
+        "a06d80f2242e",
+        "a7ab8c76d294",
         "73b838b6d2c7",
         "3f80a2d343e0",
         "c082e66d5bc1",
-        "4a7a054e7a19",
-        "99392be167fb",
-        "23e059fb3069"
+        "4a7a054e7a19"
       ],
-      "last_seen": "2026-09-17T15:00:18+00:00"
+      "last_seen": "2026-09-18T15:00:17+00:00"
     },
     "Crystalia Glass LLC": {
       "count": 1,
@@ -215,6 +215,13 @@
         "8ff5ff432a8f"
       ],
       "last_seen": "2026-09-16T13:19:24.528571+00:00"
+    },
+    "Empire Assets": {
+      "count": 1,
+      "job_ids": [
+        "b448eb571a3a"
+      ],
+      "last_seen": "2026-09-18T18:13:53.545170+00:00"
     },
     "Enable Dental": {
       "count": 1,
@@ -266,6 +273,13 @@
       ],
       "last_seen": "2026-09-16T13:19:24.528571+00:00"
     },
+    "GiveWell": {
+      "count": 1,
+      "job_ids": [
+        "0670c33f2a79"
+      ],
+      "last_seen": "2026-09-18T18:13:53.545170+00:00"
+    },
     "Grapefruit Health": {
       "count": 1,
       "job_ids": [
@@ -279,6 +293,13 @@
         "5f67eddcfa26"
       ],
       "last_seen": "2026-09-16T13:19:24.528571+00:00"
+    },
+    "Harper": {
+      "count": 1,
+      "job_ids": [
+        "3991e551a545"
+      ],
+      "last_seen": "2026-09-18T18:13:53.545170+00:00"
     },
     "Harvey Nash": {
       "count": 1,
@@ -481,6 +502,7 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 18,
       "job_ids": [
+        "1f4deb61d465",
         "7ceda936f086",
         "bf3a66327dd0",
         "eee283eede8c",
@@ -497,10 +519,9 @@
         "aba375534594",
         "c20044e3d6a0",
         "f496abecda58",
-        "f1eee0eb1c2b",
-        "667413042023"
+        "f1eee0eb1c2b"
       ],
-      "last_seen": "2026-09-18T13:41:49+00:00"
+      "last_seen": "2026-09-18T17:13:05+00:00"
     },
     "RainFocus": {
       "count": 1,
@@ -743,5 +764,5 @@
       "last_seen": "2026-09-16T13:19:24.528571+00:00"
     }
   },
-  "updated_at": "2026-09-18T14:16:32.205821+00:00"
+  "updated_at": "2026-09-18T18:13:53.545170+00:00"
 }
