@@ -1,6 +1,62 @@
 {
   "jobs": [
     {
+      "company": "ExtraHop",
+      "fetched_at": "2026-09-19T10:40:11.068397+00:00",
+      "id": "31dfd150bb34",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "architecture",
+        "design",
+        "infosec",
+        "python",
+        "technical",
+        "customer support",
+        "javascript",
+        "api",
+        "ops",
+        "marketing",
+        "sales",
+        "digital nomad"
+      ],
+      "title": "Sr Solutions Architect",
+      "url": "https://remoteOK.com/remote-jobs/remote-sr-solutions-architect-extrahop-1137394"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-19T10:40:11.068397+00:00",
+      "id": "2a3e4a18f7bf",
+      "location": "Remote",
+      "posted_at": "2026-09-19T06:35:16+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-12il"
+    },
+    {
+      "company": "Vladimir Stepanenko",
+      "fetched_at": "2026-09-19T10:40:11.068397+00:00",
+      "id": "e506a5957da0",
+      "location": "Remote",
+      "posted_at": "2026-09-19T06:00:08+00:00",
+      "source": "devto",
+      "tags": [
+        "career",
+        "jobs",
+        "europe",
+        "remote"
+      ],
+      "title": "What Employers in the Netherlands Actually Ask For, Skill by Skill",
+      "url": "https://dev.to/newluxjob/what-employers-in-the-netherlands-actually-ask-for-skill-by-skill-1ka1"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-09-19T05:37:50.253814+00:00",
       "id": "8103adee83db",
@@ -3056,47 +3112,7 @@
       ],
       "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-50fb"
-    },
-    {
-      "company": "Law Offices of Sabrina Li",
-      "fetched_at": "2026-09-16T07:29:35.942607+00:00",
-      "id": "b3dd04aaa651",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "hr",
-        "education",
-        "customer support",
-        "marketing",
-        "finance",
-        "c",
-        "exec",
-        "content writing",
-        "ops",
-        "legal",
-        "recruiter",
-        "full time"
-      ],
-      "title": "HR Operations Specialist",
-      "url": "https://remoteOK.com/remote-jobs/remote-hr-operations-specialist-law-offices-of-sabrina-li-1137386"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-16T07:29:35.942607+00:00",
-      "id": "aba375534594",
-      "location": "Remote",
-      "posted_at": "2026-09-16T06:45:46+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4j3l"
     }
   ],
-  "updated_at": "2026-09-19T05:37:50.253814+00:00"
+  "updated_at": "2026-09-19T10:40:11.068397+00:00"
 }

@@ -237,6 +237,13 @@
       ],
       "last_seen": "2026-09-16T13:19:24.528571+00:00"
     },
+    "ExtraHop": {
+      "count": 1,
+      "job_ids": [
+        "31dfd150bb34"
+      ],
+      "last_seen": "2026-09-19T10:40:11.068397+00:00"
+    },
     "FindTutors": {
       "count": 1,
       "job_ids": [
@@ -337,13 +344,6 @@
         "e74fef823751"
       ],
       "last_seen": "2026-09-16T13:19:24.528571+00:00"
-    },
-    "Law Offices of Sabrina Li": {
-      "count": 1,
-      "job_ids": [
-        "b3dd04aaa651"
-      ],
-      "last_seen": "2026-09-16T07:29:35.942607+00:00"
     },
     "Legal Services NYC": {
       "count": 1,
@@ -481,6 +481,7 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 19,
       "job_ids": [
+        "2a3e4a18f7bf",
         "8103adee83db",
         "ee741debf97d",
         "d25b7c07ed2f",
@@ -498,10 +499,9 @@
         "6b8dd03a3872",
         "8dd43359d791",
         "2e889154fa28",
-        "86e4dd0995bc",
-        "aba375534594"
+        "86e4dd0995bc"
       ],
-      "last_seen": "2026-09-19T01:35:13+00:00"
+      "last_seen": "2026-09-19T06:35:16+00:00"
     },
     "RainFocus": {
       "count": 1,
@@ -666,11 +666,12 @@
       "last_seen": "2026-09-17T11:29:28.402577+00:00"
     },
     "Vladimir Stepanenko": {
-      "count": 1,
+      "count": 2,
       "job_ids": [
+        "e506a5957da0",
         "c3b291b50ade"
       ],
-      "last_seen": "2026-09-17T18:17:49+00:00"
+      "last_seen": "2026-09-19T06:00:08+00:00"
     },
     "Vomela": {
       "count": 1,
@@ -744,5 +745,5 @@
       "last_seen": "2026-09-16T13:19:24.528571+00:00"
     }
   },
-  "updated_at": "2026-09-19T05:37:50.253814+00:00"
+  "updated_at": "2026-09-19T10:40:11.068397+00:00"
 }
