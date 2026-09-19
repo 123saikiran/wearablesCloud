@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-19T05:37:50.253814+00:00",
+      "id": "8103adee83db",
+      "location": "Remote",
+      "posted_at": "2026-09-19T01:35:13+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-dmk"
+    },
+    {
       "company": "Copenhagen Optimization",
       "fetched_at": "2026-09-19T00:03:14.619492+00:00",
       "id": "f6a2d43e97e9",
@@ -3080,79 +3096,7 @@
       ],
       "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4j3l"
-    },
-    {
-      "company": "NikitaChristensen2691",
-      "fetched_at": "2026-09-16T07:29:35.942607+00:00",
-      "id": "17c4700df647",
-      "location": "Remote",
-      "posted_at": "2026-09-16T04:50:13+00:00",
-      "source": "devto",
-      "tags": [
-        "pdf",
-        "jobs",
-        "architecture",
-        "reliability"
-      ],
-      "title": "Document Rendering as a Background Job: Page Count Unpredictability and Audit Trails",
-      "url": "https://dev.to/nikitachristensen2691/document-rendering-as-a-background-job-page-count-unpredictability-and-audit-trails-2k3o"
-    },
-    {
-      "company": "David Stark",
-      "fetched_at": "2026-09-16T07:29:35.942607+00:00",
-      "id": "7847a9f8c3ea",
-      "location": "Remote",
-      "posted_at": "2026-09-16T02:26:41+00:00",
-      "source": "devto",
-      "tags": [
-        "python",
-        "django",
-        "datascience",
-        "jobs"
-      ],
-      "title": "David Stark: Top High-Paying Roles",
-      "url": "https://dev.to/devpulse/david-stark-top-high-paying-roles-1p95"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-16T07:29:35.942607+00:00",
-      "id": "c20044e3d6a0",
-      "location": "Remote",
-      "posted_at": "2026-09-16T01:40:18+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2n5h"
-    },
-    {
-      "company": "ExtraHop",
-      "fetched_at": "2026-09-16T01:12:29.220087+00:00",
-      "id": "31dfd150bb34",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "architecture",
-        "design",
-        "infosec",
-        "python",
-        "technical",
-        "customer support",
-        "javascript",
-        "api",
-        "ops",
-        "marketing",
-        "sales",
-        "digital nomad"
-      ],
-      "title": "Sr Solutions Architect",
-      "url": "https://remoteOK.com/remote-jobs/remote-sr-solutions-architect-extrahop-1137394"
     }
   ],
-  "updated_at": "2026-09-19T00:03:14.619492+00:00"
+  "updated_at": "2026-09-19T05:37:50.253814+00:00"
 }
