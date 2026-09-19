@@ -1,6 +1,79 @@
 {
   "jobs": [
     {
+      "company": "Copenhagen Optimization",
+      "fetched_at": "2026-09-19T00:03:14.619492+00:00",
+      "id": "f6a2d43e97e9",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "virtual assistant",
+        "strategy",
+        "customer support",
+        "dev",
+        "marketing",
+        "exec",
+        "content writing",
+        "ops",
+        "golang",
+        "digital nomad"
+      ],
+      "title": "Marketing Student Assistant",
+      "url": "https://remoteOK.com/remote-jobs/remote-marketing-student-assistant-copenhagen-optimization-1137381"
+    },
+    {
+      "company": "NOPE",
+      "fetched_at": "2026-09-19T00:03:14.619492+00:00",
+      "id": "2d6c3bce7fd7",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "marketing",
+        "education",
+        "technical",
+        "content writing",
+        "social media",
+        "ai",
+        "social"
+      ],
+      "title": "Social Comms",
+      "url": "https://remoteOK.com/remote-jobs/remote-social-comms-nope-1137314"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-19T00:03:14.619492+00:00",
+      "id": "ee741debf97d",
+      "location": "Remote",
+      "posted_at": "2026-09-18T23:39:33+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-317f"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-19T00:03:14.619492+00:00",
+      "id": "d25b7c07ed2f",
+      "location": "Remote",
+      "posted_at": "2026-09-18T21:50:35+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-22ki"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-09-18T21:32:56.497034+00:00",
       "id": "9da3d43fcaf3",
@@ -3079,23 +3152,7 @@
       ],
       "title": "Sr Solutions Architect",
       "url": "https://remoteOK.com/remote-jobs/remote-sr-solutions-architect-extrahop-1137394"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-15T22:01:11.678010+00:00",
-      "id": "f496abecda58",
-      "location": "Remote",
-      "posted_at": "2026-09-15T21:33:22+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2ep"
     }
   ],
-  "updated_at": "2026-09-18T21:32:56.497034+00:00"
+  "updated_at": "2026-09-19T00:03:14.619492+00:00"
 }
