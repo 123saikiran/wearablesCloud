@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-19T20:22:51.657121+00:00",
+      "id": "775973608a21",
+      "location": "Remote",
+      "posted_at": "2026-09-19T19:34:32+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3hm9"
+    },
+    {
       "company": "OrderYOYO",
       "fetched_at": "2026-09-19T17:53:07.673663+00:00",
       "id": "56f90acd7e69",
@@ -3061,43 +3077,7 @@
       ],
       "title": "AI Response Analyst",
       "url": "https://remoteOK.com/remote-jobs/remote-ai-response-analyst-imerit-technology-1137309"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-16T21:59:26.010767+00:00",
-      "id": "8dd43359d791",
-      "location": "Remote",
-      "posted_at": "2026-09-16T19:55:16+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2338"
-    },
-    {
-      "company": "Wakacje.pl",
-      "fetched_at": "2026-09-16T18:03:11.301918+00:00",
-      "id": "6db3cc4b9fcc",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "golang",
-        "dev",
-        "travel",
-        "api",
-        "golang",
-        "engineer",
-        "backend",
-        "digital nomad"
-      ],
-      "title": "Software Engineer GO",
-      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-go-wakacje-pl-1135634"
     }
   ],
-  "updated_at": "2026-09-19T17:53:07.673663+00:00"
+  "updated_at": "2026-09-19T20:22:51.657121+00:00"
 }
