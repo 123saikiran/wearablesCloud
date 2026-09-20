@@ -1,6 +1,71 @@
 {
   "jobs": [
     {
+      "company": "Airspace Link",
+      "fetched_at": "2026-09-20T21:21:09.454746+00:00",
+      "id": "d4c4ede5d045",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "golang",
+        "dev",
+        "engineer",
+        "backend",
+        "digital nomad"
+      ],
+      "title": "Backend Software Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-backend-software-engineer-airspace-link-1137409"
+    },
+    {
+      "company": "Sticker Mule",
+      "fetched_at": "2026-09-20T21:21:09.454746+00:00",
+      "id": "3ae373be1705",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "ai",
+        "golang",
+        "javascript",
+        "typescript"
+      ],
+      "title": "AI agent engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-20T21:21:09.454746+00:00",
+      "id": "258a298cc934",
+      "location": "Remote",
+      "posted_at": "2026-09-20T21:05:53+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-5fnj"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-20T21:21:09.454746+00:00",
+      "id": "a6a981f5130e",
+      "location": "Remote",
+      "posted_at": "2026-09-20T18:45:23+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1oe5"
+    },
+    {
       "company": "iMerit Technology",
       "fetched_at": "2026-09-20T18:36:54.877525+00:00",
       "id": "aad0d581511f",
@@ -2952,38 +3017,7 @@
       ],
       "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3f23"
-    },
-    {
-      "company": "Arango",
-      "fetched_at": "2026-09-17T20:06:41.281824+00:00",
-      "id": "0bad7d05c1cb",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "golang",
-        "golang",
-        "engineer"
-      ],
-      "title": "Golang Kubernetes Engineer",
-      "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-17T20:06:41.281824+00:00",
-      "id": "b0e861480f95",
-      "location": "Remote",
-      "posted_at": "2026-09-17T19:00:21+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1ijg"
     }
   ],
-  "updated_at": "2026-09-20T18:36:54.877525+00:00"
+  "updated_at": "2026-09-20T21:21:09.454746+00:00"
 }
