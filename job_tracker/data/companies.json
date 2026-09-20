@@ -459,8 +459,9 @@
       "last_seen": "2026-09-19T17:53:07.673663+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 20,
+      "count": 21,
       "job_ids": [
+        "835b05e9e943",
         "c9330d8b3faa",
         "efe916fc8e01",
         "a301ab270368",
@@ -482,7 +483,7 @@
         "36a00ce747b4",
         "b0e861480f95"
       ],
-      "last_seen": "2026-09-20T12:10:28+00:00"
+      "last_seen": "2026-09-20T16:03:21+00:00"
     },
     "RainFocus": {
       "count": 1,
@@ -490,6 +491,13 @@
         "cbf056ed26a5"
       ],
       "last_seen": "2026-09-19T17:53:07.673663+00:00"
+    },
+    "Ready": {
+      "count": 1,
+      "job_ids": [
+        "0909507a7c7f"
+      ],
+      "last_seen": "2026-09-20T18:36:54.877525+00:00"
     },
     "Resource Guru": {
       "count": 1,
@@ -540,19 +548,19 @@
       ],
       "last_seen": "2026-09-18T14:16:32.205821+00:00"
     },
+    "Snapscale Philippines": {
+      "count": 1,
+      "job_ids": [
+        "b3e4ff181a4d"
+      ],
+      "last_seen": "2026-09-20T18:36:54.877525+00:00"
+    },
     "Sophie's Flats Inc.": {
       "count": 1,
       "job_ids": [
         "0861a6d3cc39"
       ],
       "last_seen": "2026-09-19T17:53:07.673663+00:00"
-    },
-    "Sticker Mule": {
-      "count": 1,
-      "job_ids": [
-        "3ae373be1705"
-      ],
-      "last_seen": "2026-09-17T16:40:48.337338+00:00"
     },
     "Stone": {
       "count": 2,
@@ -582,6 +590,13 @@
         "4a59a86ff633"
       ],
       "last_seen": "2026-09-20T05:56:23.796459+00:00"
+    },
+    "The AI Whistleblower Initiative": {
+      "count": 1,
+      "job_ids": [
+        "916cd2848e14"
+      ],
+      "last_seen": "2026-09-20T18:36:54.877525+00:00"
     },
     "Total Environmental Concepts Pty ltd": {
       "count": 1,
@@ -618,12 +633,18 @@
       ],
       "last_seen": "2026-09-19T17:53:07.673663+00:00"
     },
+    "VirtuHire": {
+      "count": 1,
+      "job_ids": [
+        "c1f0f420cfa6"
+      ],
+      "last_seen": "2026-09-20T18:36:54.877525+00:00"
+    },
     "Vladimir Stepanenko": {
-      "count": 3,
+      "count": 2,
       "job_ids": [
         "fffe4e125223",
-        "e506a5957da0",
-        "c3b291b50ade"
+        "e506a5957da0"
       ],
       "last_seen": "2026-09-20T06:01:30+00:00"
     },
@@ -670,11 +691,12 @@
       "last_seen": "2026-09-18T09:31:31.546671+00:00"
     },
     "iMerit Technology": {
-      "count": 1,
+      "count": 2,
       "job_ids": [
+        "aad0d581511f",
         "7e56423bc195"
       ],
-      "last_seen": "2026-09-20T00:52:54.343413+00:00"
+      "last_seen": "2026-09-20T18:36:54.877525+00:00"
     },
     "testacy": {
       "count": 1,
@@ -684,5 +706,5 @@
       "last_seen": "2026-09-19T17:53:07.673663+00:00"
     }
   },
-  "updated_at": "2026-09-20T15:49:14.283591+00:00"
+  "updated_at": "2026-09-20T18:36:54.877525+00:00"
 }
