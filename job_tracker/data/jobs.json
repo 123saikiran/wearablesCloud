@@ -1,6 +1,69 @@
 {
   "jobs": [
     {
+      "company": "KPI Solutions",
+      "fetched_at": "2026-09-20T11:09:42.860726+00:00",
+      "id": "3c4297a53702",
+      "location": "Cincinnati",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "dev",
+        "design",
+        "sys admin",
+        "education",
+        "consulting",
+        "technical",
+        "customer support",
+        "testing",
+        "quality assurance",
+        "c",
+        "robotics",
+        "exec",
+        "junior",
+        "ops",
+        "golang",
+        "medical",
+        "engineer",
+        "ecommerce",
+        "digital nomad"
+      ],
+      "title": "Software Deployment Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-deployment-engineer-kpi-solutions-1137408"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-20T11:09:42.860726+00:00",
+      "id": "efe916fc8e01",
+      "location": "Remote",
+      "posted_at": "2026-09-20T06:59:25+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1m9l"
+    },
+    {
+      "company": "Vladimir Stepanenko",
+      "fetched_at": "2026-09-20T11:09:42.860726+00:00",
+      "id": "fffe4e125223",
+      "location": "Remote",
+      "posted_at": "2026-09-20T06:01:30+00:00",
+      "source": "devto",
+      "tags": [
+        "career",
+        "jobs",
+        "europe",
+        "remote"
+      ],
+      "title": "What Employers in Italy Actually Ask For, Skill by Skill",
+      "url": "https://dev.to/newluxjob/what-employers-in-italy-actually-ask-for-skill-by-skill-2897"
+    },
+    {
       "company": "DomainTools",
       "fetched_at": "2026-09-20T05:56:23.796459+00:00",
       "id": "88fcf7a684b1",
@@ -3124,23 +3187,7 @@
       ],
       "title": "Healthcare Virtual Assistant Registered Nurse",
       "url": "https://remoteOK.com/remote-jobs/remote-healthcare-virtual-assistant-registered-nurse-snapscale-1135684"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-17T11:29:28.402577+00:00",
-      "id": "91c9008f3ded",
-      "location": "Remote",
-      "posted_at": "2026-09-17T10:24:37+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2cp7"
     }
   ],
-  "updated_at": "2026-09-20T05:56:23.796459+00:00"
+  "updated_at": "2026-09-20T11:09:42.860726+00:00"
 }
