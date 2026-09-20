@@ -14,13 +14,6 @@
       ],
       "last_seen": "2026-09-19T17:53:07.673663+00:00"
     },
-    "Adams &amp; Martin Group": {
-      "count": 1,
-      "job_ids": [
-        "50fac4cb9ee6"
-      ],
-      "last_seen": "2026-09-17T11:29:28.402577+00:00"
-    },
     "Adaptive Teams": {
       "count": 1,
       "job_ids": [
@@ -144,14 +137,14 @@
     "Crackr": {
       "count": 6,
       "job_ids": [
+        "499fcc4b59c1",
+        "90a687baa4e6",
         "b6d51e569102",
         "97c894aabd13",
         "a06d80f2242e",
-        "a7ab8c76d294",
-        "73b838b6d2c7",
-        "3f80a2d343e0"
+        "a7ab8c76d294"
       ],
-      "last_seen": "2026-09-19T15:00:17+00:00"
+      "last_seen": "2026-09-20T15:00:17+00:00"
     },
     "Crystalia Glass LLC": {
       "count": 1,
@@ -295,13 +288,6 @@
       ],
       "last_seen": "2026-09-19T17:53:07.673663+00:00"
     },
-    "HiredBuddy": {
-      "count": 1,
-      "job_ids": [
-        "68d88ea14819"
-      ],
-      "last_seen": "2026-09-17T11:29:28.402577+00:00"
-    },
     "INNERGY": {
       "count": 1,
       "job_ids": [
@@ -381,13 +367,6 @@
       ],
       "last_seen": "2026-09-19T17:53:07.673663+00:00"
     },
-    "Miranda Creative, Inc.": {
-      "count": 1,
-      "job_ids": [
-        "a070fa0d5cd4"
-      ],
-      "last_seen": "2026-09-17T11:29:28.402577+00:00"
-    },
     "Mirantis": {
       "count": 1,
       "job_ids": [
@@ -429,13 +408,6 @@
         "56f90acd7e69"
       ],
       "last_seen": "2026-09-19T17:53:07.673663+00:00"
-    },
-    "Oula": {
-      "count": 1,
-      "job_ids": [
-        "9c1b69bf82b6"
-      ],
-      "last_seen": "2026-09-17T11:29:28.402577+00:00"
     },
     "PFAS (Personal Functional Assessment Services)": {
       "count": 1,
@@ -489,6 +461,7 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 20,
       "job_ids": [
+        "c9330d8b3faa",
         "efe916fc8e01",
         "a301ab270368",
         "0a6c6bd5b694",
@@ -507,10 +480,9 @@
         "bf3a66327dd0",
         "eee283eede8c",
         "36a00ce747b4",
-        "b0e861480f95",
-        "0816c810bb62"
+        "b0e861480f95"
       ],
-      "last_seen": "2026-09-20T06:59:25+00:00"
+      "last_seen": "2026-09-20T12:10:28+00:00"
     },
     "RainFocus": {
       "count": 1,
@@ -518,13 +490,6 @@
         "cbf056ed26a5"
       ],
       "last_seen": "2026-09-19T17:53:07.673663+00:00"
-    },
-    "Ready": {
-      "count": 1,
-      "job_ids": [
-        "0909507a7c7f"
-      ],
-      "last_seen": "2026-09-17T11:29:28.402577+00:00"
     },
     "Resource Guru": {
       "count": 1,
@@ -575,20 +540,6 @@
       ],
       "last_seen": "2026-09-18T14:16:32.205821+00:00"
     },
-    "Snapscale": {
-      "count": 1,
-      "job_ids": [
-        "2917fa93ddb9"
-      ],
-      "last_seen": "2026-09-17T11:29:28.402577+00:00"
-    },
-    "Snapscale Philippines": {
-      "count": 1,
-      "job_ids": [
-        "b3e4ff181a4d"
-      ],
-      "last_seen": "2026-09-17T11:29:28.402577+00:00"
-    },
     "Sophie's Flats Inc.": {
       "count": 1,
       "job_ids": [
@@ -632,13 +583,6 @@
       ],
       "last_seen": "2026-09-20T05:56:23.796459+00:00"
     },
-    "The AI Whistleblower Initiative": {
-      "count": 1,
-      "job_ids": [
-        "916cd2848e14"
-      ],
-      "last_seen": "2026-09-17T11:29:28.402577+00:00"
-    },
     "Total Environmental Concepts Pty ltd": {
       "count": 1,
       "job_ids": [
@@ -673,13 +617,6 @@
         "7e462c4c98c4"
       ],
       "last_seen": "2026-09-19T17:53:07.673663+00:00"
-    },
-    "VirtuHire": {
-      "count": 1,
-      "job_ids": [
-        "c1f0f420cfa6"
-      ],
-      "last_seen": "2026-09-17T11:29:28.402577+00:00"
     },
     "Vladimir Stepanenko": {
       "count": 3,
@@ -733,10 +670,9 @@
       "last_seen": "2026-09-18T09:31:31.546671+00:00"
     },
     "iMerit Technology": {
-      "count": 2,
+      "count": 1,
       "job_ids": [
-        "7e56423bc195",
-        "aad0d581511f"
+        "7e56423bc195"
       ],
       "last_seen": "2026-09-20T00:52:54.343413+00:00"
     },
@@ -748,5 +684,5 @@
       "last_seen": "2026-09-19T17:53:07.673663+00:00"
     }
   },
-  "updated_at": "2026-09-20T11:09:42.860726+00:00"
+  "updated_at": "2026-09-20T15:49:14.283591+00:00"
 }
