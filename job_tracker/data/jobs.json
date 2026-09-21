@@ -1,6 +1,56 @@
 {
   "jobs": [
     {
+      "company": "DoiT",
+      "fetched_at": "2026-09-21T13:48:34.639015+00:00",
+      "id": "55ad3d8aceec",
+      "location": "Remote UK",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "technical",
+        "marketing",
+        "cloud",
+        "microsoft",
+        "exec",
+        "sales"
+      ],
+      "title": "Sales Development Representative Attributeâ",
+      "url": "https://remoteOK.com/remote-jobs/"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-21T13:48:34.639015+00:00",
+      "id": "22fe3e20c461",
+      "location": "Remote",
+      "posted_at": "2026-09-21T13:05:01+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2lb3"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-21T13:48:34.639015+00:00",
+      "id": "dc70e6490aa4",
+      "location": "Remote",
+      "posted_at": "2026-09-21T06:17:43+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-50g0"
+    },
+    {
       "company": "Warehance",
       "fetched_at": "2026-09-21T06:02:18.411764+00:00",
       "id": "b229c41a3801",
@@ -12,6 +62,22 @@
       ],
       "title": "Customer Support & Success Specialist",
       "url": "https://remoteOK.com/remote-jobs/remote-customer-support-success-specialist-warehance-1137302"
+    },
+    {
+      "company": "Vladimir Stepanenko",
+      "fetched_at": "2026-09-21T13:48:34.639015+00:00",
+      "id": "255ad45cd30b",
+      "location": "Remote",
+      "posted_at": "2026-09-21T06:01:09+00:00",
+      "source": "devto",
+      "tags": [
+        "career",
+        "jobs",
+        "europe",
+        "remote"
+      ],
+      "title": "What Jobs in the Netherlands Actually Pay, Role by Role",
+      "url": "https://dev.to/newluxjob/what-jobs-in-the-netherlands-actually-pay-role-by-role-56c3"
     },
     {
       "company": "Dodo Data",
@@ -3067,54 +3133,7 @@
       ],
       "title": "Senior People & Talent Operations Partner",
       "url": "https://remoteOK.com/remote-jobs/remote-senior-people-talent-operations-partner-testgorilla-1137378"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-18T14:16:32.205821+00:00",
-      "id": "7ceda936f086",
-      "location": "Remote",
-      "posted_at": "2026-09-18T13:41:49+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3ed2"
-    },
-    {
-      "company": "eClinical Solutions",
-      "fetched_at": "2026-09-18T09:31:31.546671+00:00",
-      "id": "24895f61f51e",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "cloud",
-        "exec",
-        "stats"
-      ],
-      "title": "External Data Specialist",
-      "url": "https://remoteOK.com/remote-jobs/remote-external-data-specialist-eclinical-solutions-1137375"
-    },
-    {
-      "company": "Dodo Data",
-      "fetched_at": "2026-09-18T09:31:31.546671+00:00",
-      "id": "aa1e877d879b",
-      "location": "Remote",
-      "posted_at": "2026-09-18T07:50:29+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "api",
-        "jobs",
-        "typescript"
-      ],
-      "title": "Every open job at 500 companies, as JSON, without scraping a single job board",
-      "url": "https://dev.to/dododata/every-open-job-at-500-companies-as-json-without-scraping-a-single-job-board-2431"
     }
   ],
-  "updated_at": "2026-09-21T06:02:18.411764+00:00"
+  "updated_at": "2026-09-21T13:48:34.639015+00:00"
 }
