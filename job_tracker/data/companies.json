@@ -145,14 +145,14 @@
     "Crackr": {
       "count": 6,
       "job_ids": [
+        "ea4382ec70b1",
+        "1a7c4d580709",
         "499fcc4b59c1",
         "90a687baa4e6",
         "b6d51e569102",
-        "97c894aabd13",
-        "a06d80f2242e",
-        "a7ab8c76d294"
+        "97c894aabd13"
       ],
-      "last_seen": "2026-09-20T15:00:17+00:00"
+      "last_seen": "2026-09-21T15:00:16+00:00"
     },
     "Crystalia Glass LLC": {
       "count": 1,
@@ -197,13 +197,6 @@
         "8ff5ff432a8f"
       ],
       "last_seen": "2026-09-19T17:53:07.673663+00:00"
-    },
-    "Empire Assets": {
-      "count": 1,
-      "job_ids": [
-        "b448eb571a3a"
-      ],
-      "last_seen": "2026-09-18T18:13:53.545170+00:00"
     },
     "Enable Dental": {
       "count": 1,
@@ -255,13 +248,6 @@
       ],
       "last_seen": "2026-09-19T17:53:07.673663+00:00"
     },
-    "GiveWell": {
-      "count": 1,
-      "job_ids": [
-        "0670c33f2a79"
-      ],
-      "last_seen": "2026-09-18T18:13:53.545170+00:00"
-    },
     "Grapefruit Health": {
       "count": 1,
       "job_ids": [
@@ -275,13 +261,6 @@
         "5f67eddcfa26"
       ],
       "last_seen": "2026-09-19T17:53:07.673663+00:00"
-    },
-    "Harper": {
-      "count": 1,
-      "job_ids": [
-        "3991e551a545"
-      ],
-      "last_seen": "2026-09-18T18:13:53.545170+00:00"
     },
     "Harvey Nash": {
       "count": 1,
@@ -460,13 +439,6 @@
       ],
       "last_seen": "2026-09-19T17:53:07.673663+00:00"
     },
-    "Prop Firm Match Global â FZCO": {
-      "count": 1,
-      "job_ids": [
-        "f0f0bf1b1f8a"
-      ],
-      "last_seen": "2026-09-18T14:16:32.205821+00:00"
-    },
     "PulseMediaNL": {
       "count": 1,
       "job_ids": [
@@ -477,6 +449,7 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 22,
       "job_ids": [
+        "dadaea7b9331",
         "22fe3e20c461",
         "dc70e6490aa4",
         "ce0223ad5fa0",
@@ -497,10 +470,9 @@
         "8103adee83db",
         "ee741debf97d",
         "d25b7c07ed2f",
-        "9da3d43fcaf3",
-        "1f4deb61d465"
+        "9da3d43fcaf3"
       ],
-      "last_seen": "2026-09-21T13:05:01+00:00"
+      "last_seen": "2026-09-21T18:39:41+00:00"
     },
     "RainFocus": {
       "count": 1,
@@ -558,13 +530,6 @@
       ],
       "last_seen": "2026-09-19T17:53:07.673663+00:00"
     },
-    "Sleek": {
-      "count": 1,
-      "job_ids": [
-        "081ec9073d83"
-      ],
-      "last_seen": "2026-09-18T14:16:32.205821+00:00"
-    },
     "Snapscale Philippines": {
       "count": 1,
       "job_ids": [
@@ -600,13 +565,6 @@
         "f18c1fd14d71"
       ],
       "last_seen": "2026-09-20T05:56:23.796459+00:00"
-    },
-    "TestGorilla": {
-      "count": 1,
-      "job_ids": [
-        "8bb632e4f51a"
-      ],
-      "last_seen": "2026-09-18T14:16:32.205821+00:00"
     },
     "Thatchers Cider": {
       "count": 1,
@@ -715,6 +673,13 @@
       ],
       "last_seen": "2026-09-21T03:35:53+00:00"
     },
+    "eClinical Solutions": {
+      "count": 1,
+      "job_ids": [
+        "24895f61f51e"
+      ],
+      "last_seen": "2026-09-21T19:11:27.149921+00:00"
+    },
     "iMerit Technology": {
       "count": 2,
       "job_ids": [
@@ -731,5 +696,5 @@
       "last_seen": "2026-09-19T17:53:07.673663+00:00"
     }
   },
-  "updated_at": "2026-09-21T13:48:34.639015+00:00"
+  "updated_at": "2026-09-21T19:11:27.149921+00:00"
 }

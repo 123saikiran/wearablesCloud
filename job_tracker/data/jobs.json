@@ -1,6 +1,69 @@
 {
   "jobs": [
     {
+      "company": "eClinical Solutions",
+      "fetched_at": "2026-09-21T19:11:27.149921+00:00",
+      "id": "24895f61f51e",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "cloud",
+        "exec",
+        "stats"
+      ],
+      "title": "External Data Specialist",
+      "url": "https://remoteOK.com/remote-jobs/remote-external-data-specialist-eclinical-solutions-1137375"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-21T19:11:27.149921+00:00",
+      "id": "dadaea7b9331",
+      "location": "Remote",
+      "posted_at": "2026-09-21T18:39:41+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3n7o"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-09-21T19:11:27.149921+00:00",
+      "id": "ea4382ec70b1",
+      "location": "Remote",
+      "posted_at": "2026-09-21T15:00:16+00:00",
+      "source": "devto",
+      "tags": [
+        "beginners",
+        "jobs",
+        "career",
+        "programming"
+      ],
+      "title": "Summer 2026 Internships: 8 New Openings This Week (Sep 21)",
+      "url": "https://dev.to/crackr/summer-2026-internships-8-new-openings-this-week-sep-21-46n"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-09-21T19:11:27.149921+00:00",
+      "id": "1a7c4d580709",
+      "location": "Remote",
+      "posted_at": "2026-09-21T15:00:13+00:00",
+      "source": "devto",
+      "tags": [
+        "remotework",
+        "jobs",
+        "webdev",
+        "career"
+      ],
+      "title": "Remote SWE Jobs Paying Up to $250k (Sep 21)",
+      "url": "https://dev.to/crackr/remote-swe-jobs-paying-up-to-250k-sep-21-573"
+    },
+    {
       "company": "DoiT",
       "fetched_at": "2026-09-21T13:48:34.639015+00:00",
       "id": "55ad3d8aceec",
@@ -2953,187 +3016,7 @@
       ],
       "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1f6k"
-    },
-    {
-      "company": "Harper",
-      "fetched_at": "2026-09-18T18:13:53.545170+00:00",
-      "id": "3991e551a545",
-      "location": "San Francisco",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "exec",
-        "design",
-        "sys admin",
-        "docker",
-        "technical",
-        "customer support",
-        "dev",
-        "marketing",
-        "video",
-        "finance",
-        "cloud",
-        "medical",
-        "engineer",
-        "digital nomad"
-      ],
-      "title": "Engineering Manager TLM Platform",
-      "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-tlm-platform-harper-1137380"
-    },
-    {
-      "company": "GiveWell",
-      "fetched_at": "2026-09-18T18:13:53.545170+00:00",
-      "id": "0670c33f2a79",
-      "location": "United States",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "exec",
-        "senior",
-        "medical"
-      ],
-      "title": "Senior Communications Officer Strategic Communications",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-communications-officer-strategic-communications-givewell-1137379"
-    },
-    {
-      "company": "Empire Assets",
-      "fetched_at": "2026-09-18T18:13:53.545170+00:00",
-      "id": "b448eb571a3a",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "part time",
-        "junior",
-        "analyst",
-        "crypto",
-        "other",
-        "web3",
-        "blockchain",
-        "defi",
-        "bitcoin",
-        "ethereum",
-        "remote",
-        "trader",
-        "Binance"
-      ],
-      "title": "Junior Crypto Analyst & Trader",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-empire-assets-1137307"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-18T18:13:53.545170+00:00",
-      "id": "1f4deb61d465",
-      "location": "Remote",
-      "posted_at": "2026-09-18T17:13:05+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3jm"
-    },
-    {
-      "company": "Crackr",
-      "fetched_at": "2026-09-18T18:13:53.545170+00:00",
-      "id": "a06d80f2242e",
-      "location": "Remote",
-      "posted_at": "2026-09-18T15:00:17+00:00",
-      "source": "devto",
-      "tags": [
-        "beginners",
-        "jobs",
-        "career",
-        "programming"
-      ],
-      "title": "Summer 2026 Internships: 8 New Openings This Week (Sep 18)",
-      "url": "https://dev.to/crackr/summer-2026-internships-8-new-openings-this-week-sep-18-2cj3"
-    },
-    {
-      "company": "Crackr",
-      "fetched_at": "2026-09-18T18:13:53.545170+00:00",
-      "id": "a7ab8c76d294",
-      "location": "Remote",
-      "posted_at": "2026-09-18T15:00:13+00:00",
-      "source": "devto",
-      "tags": [
-        "remotework",
-        "jobs",
-        "webdev",
-        "career"
-      ],
-      "title": "Remote SWE Jobs Paying Up to $250k (Sep 18)",
-      "url": "https://dev.to/crackr/remote-swe-jobs-paying-up-to-250k-sep-18-1c04"
-    },
-    {
-      "company": "Sleek",
-      "fetched_at": "2026-09-18T14:16:32.205821+00:00",
-      "id": "081ec9073d83",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "payroll",
-        "virtual assistant",
-        "education",
-        "technical",
-        "supervisor",
-        "customer support",
-        "dev",
-        "marketing",
-        "exec",
-        "accounting",
-        "finance",
-        "video",
-        "junior",
-        "ops",
-        "excel",
-        "sys admin",
-        "digital nomad"
-      ],
-      "title": "Junior Payroll Assistant",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-payroll-assistant-sleek-1137391"
-    },
-    {
-      "company": "Prop Firm Match Global â FZCO",
-      "fetched_at": "2026-09-18T14:16:32.205821+00:00",
-      "id": "f0f0bf1b1f8a",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "saas",
-        "hr",
-        "education",
-        "technical",
-        "customer support",
-        "video",
-        "finance",
-        "exec",
-        "ops",
-        "excel",
-        "full time"
-      ],
-      "title": "Customer Experience Representative",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-experience-representative-prop-firm-match-global-fzco-1137390"
-    },
-    {
-      "company": "TestGorilla",
-      "fetched_at": "2026-09-18T14:16:32.205821+00:00",
-      "id": "8bb632e4f51a",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "hr",
-        "non tech"
-      ],
-      "title": "Senior People & Talent Operations Partner",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-people-talent-operations-partner-testgorilla-1137378"
     }
   ],
-  "updated_at": "2026-09-21T13:48:34.639015+00:00"
+  "updated_at": "2026-09-21T19:11:27.149921+00:00"
 }
