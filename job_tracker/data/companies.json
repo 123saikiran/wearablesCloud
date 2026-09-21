@@ -170,18 +170,13 @@
       "last_seen": "2026-09-20T00:52:54.343413+00:00"
     },
     "Dodo Data": {
-      "count": 1,
+      "count": 3,
       "job_ids": [
+        "1c7e6c1cc024",
+        "45ef3ce78bc3",
         "aa1e877d879b"
       ],
-      "last_seen": "2026-09-18T07:50:29+00:00"
-    },
-    "DoiT": {
-      "count": 1,
-      "job_ids": [
-        "55ad3d8aceec"
-      ],
-      "last_seen": "2026-09-18T04:09:45.456134+00:00"
+      "last_seen": "2026-09-21T05:57:21+00:00"
     },
     "DomainTools": {
       "count": 1,
@@ -474,8 +469,9 @@
       "last_seen": "2026-09-19T17:53:07.673663+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 22,
+      "count": 21,
       "job_ids": [
+        "ce0223ad5fa0",
         "d1eb3332fba4",
         "258a298cc934",
         "a6a981f5130e",
@@ -495,11 +491,9 @@
         "d25b7c07ed2f",
         "9da3d43fcaf3",
         "1f4deb61d465",
-        "7ceda936f086",
-        "bf3a66327dd0",
-        "eee283eede8c"
+        "7ceda936f086"
       ],
-      "last_seen": "2026-09-20T23:13:26+00:00"
+      "last_seen": "2026-09-21T01:07:21+00:00"
     },
     "RainFocus": {
       "count": 1,
@@ -678,6 +672,13 @@
       ],
       "last_seen": "2026-09-19T22:48:44.635897+00:00"
     },
+    "Warehance": {
+      "count": 1,
+      "job_ids": [
+        "b229c41a3801"
+      ],
+      "last_seen": "2026-09-21T06:02:18.411764+00:00"
+    },
     "Webnotics Pvt Ltd": {
       "count": 1,
       "job_ids": [
@@ -698,6 +699,13 @@
         "3a08ab09ded6"
       ],
       "last_seen": "2026-09-19T17:53:07.673663+00:00"
+    },
+    "Zakaria Blefkih": {
+      "count": 1,
+      "job_ids": [
+        "a37680f84df1"
+      ],
+      "last_seen": "2026-09-21T03:35:53+00:00"
     },
     "eClinical Solutions": {
       "count": 1,
@@ -722,5 +730,5 @@
       "last_seen": "2026-09-19T17:53:07.673663+00:00"
     }
   },
-  "updated_at": "2026-09-21T00:00:50.675698+00:00"
+  "updated_at": "2026-09-21T06:02:18.411764+00:00"
 }
