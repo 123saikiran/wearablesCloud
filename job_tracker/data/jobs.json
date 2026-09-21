@@ -1,6 +1,105 @@
 {
   "jobs": [
     {
+      "company": "OkWhen",
+      "fetched_at": "2026-09-21T00:00:50.675698+00:00",
+      "id": "aafea233ce0d",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "dev",
+        "design",
+        "c sharp",
+        "saas",
+        "sys admin",
+        "infosec",
+        "education",
+        "technical",
+        "testing",
+        "web dev",
+        "xamarin",
+        "c",
+        "cloud",
+        "git",
+        "typescript",
+        "angular",
+        "mobile",
+        "exec",
+        "content writing",
+        "senior",
+        "ops",
+        "medical",
+        "engineer",
+        "backend",
+        "digital nomad"
+      ],
+      "title": "Senior .NET Software Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-net-software-engineer-okwhen-1137411"
+    },
+    {
+      "company": "Bjak",
+      "fetched_at": "2026-09-21T00:00:50.675698+00:00",
+      "id": "22294040f070",
+      "location": "Ireland",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "front end",
+        "design",
+        "react",
+        "graphql",
+        "react.js",
+        "technical",
+        "web dev",
+        "javascript",
+        "css",
+        "chatbot",
+        "html",
+        "typescript",
+        "node",
+        "node.js",
+        "exec",
+        "sys admin",
+        "engineer",
+        "backend",
+        "digital nomad"
+      ],
+      "title": "Frontend Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410"
+    },
+    {
+      "company": "Arango",
+      "fetched_at": "2026-09-21T00:00:50.675698+00:00",
+      "id": "0bad7d05c1cb",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "golang",
+        "golang",
+        "engineer"
+      ],
+      "title": "Golang Kubernetes Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-21T00:00:50.675698+00:00",
+      "id": "d1eb3332fba4",
+      "location": "Remote",
+      "posted_at": "2026-09-20T23:13:26+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-38eb"
+    },
+    {
       "company": "Airspace Link",
       "fetched_at": "2026-09-20T21:21:09.454746+00:00",
       "id": "d4c4ede5d045",
@@ -2988,36 +3087,7 @@
       ],
       "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-phm"
-    },
-    {
-      "company": "Warehance",
-      "fetched_at": "2026-09-17T23:28:04.234181+00:00",
-      "id": "b229c41a3801",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "customer support"
-      ],
-      "title": "Customer Support & Success Specialist",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-success-specialist-warehance-1137302"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-17T23:28:04.234181+00:00",
-      "id": "36a00ce747b4",
-      "location": "Remote",
-      "posted_at": "2026-09-17T22:03:24+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3f23"
     }
   ],
-  "updated_at": "2026-09-20T21:21:09.454746+00:00"
+  "updated_at": "2026-09-21T00:00:50.675698+00:00"
 }
