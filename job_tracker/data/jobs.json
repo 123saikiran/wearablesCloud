@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-22T14:33:59.490015+00:00",
+      "id": "f1093c2e3b7f",
+      "location": "Remote",
+      "posted_at": "2026-09-22T10:17:58+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4ppg"
+    },
+    {
       "company": "Copenhagen Optimization",
       "fetched_at": "2026-09-22T09:45:43.234161+00:00",
       "id": "f6a2d43e97e9",
@@ -3012,88 +3028,7 @@
       ],
       "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4lei"
-    },
-    {
-      "company": "Sanctuary Computer",
-      "fetched_at": "2026-09-19T14:15:34.652502+00:00",
-      "id": "14bae49a6471",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "dev",
-        "engineer",
-        "senior",
-        "front end",
-        "shopify"
-      ],
-      "title": "Senior Shopify Developer",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-shopify-developer-sanctuary-computer-1137405"
-    },
-    {
-      "company": "Law Offices of Sabrina Li",
-      "fetched_at": "2026-09-19T14:15:34.652502+00:00",
-      "id": "b3dd04aaa651",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "hr",
-        "education",
-        "customer support",
-        "marketing",
-        "finance",
-        "c",
-        "exec",
-        "content writing",
-        "ops",
-        "legal",
-        "recruiter",
-        "full time"
-      ],
-      "title": "HR Operations Specialist",
-      "url": "https://remoteOK.com/remote-jobs/remote-hr-operations-specialist-law-offices-of-sabrina-li-1137386"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-19T14:15:34.652502+00:00",
-      "id": "7a7f6357ce98",
-      "location": "Remote",
-      "posted_at": "2026-09-19T11:30:00+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-18cj"
-    },
-    {
-      "company": "ExtraHop",
-      "fetched_at": "2026-09-19T10:40:11.068397+00:00",
-      "id": "31dfd150bb34",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "architecture",
-        "design",
-        "infosec",
-        "python",
-        "technical",
-        "customer support",
-        "javascript",
-        "api",
-        "ops",
-        "marketing",
-        "sales",
-        "digital nomad"
-      ],
-      "title": "Sr Solutions Architect",
-      "url": "https://remoteOK.com/remote-jobs/remote-sr-solutions-architect-extrahop-1137394"
     }
   ],
-  "updated_at": "2026-09-22T09:45:43.234161+00:00"
+  "updated_at": "2026-09-22T14:33:59.490015+00:00"
 }
