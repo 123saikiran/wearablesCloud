@@ -135,6 +135,13 @@
       ],
       "last_seen": "2026-09-19T17:53:07.673663+00:00"
     },
+    "Copenhagen Optimization": {
+      "count": 1,
+      "job_ids": [
+        "f6a2d43e97e9"
+      ],
+      "last_seen": "2026-09-22T09:45:43.234161+00:00"
+    },
     "Crackr": {
       "count": 6,
       "job_ids": [
@@ -383,6 +390,13 @@
       ],
       "last_seen": "2026-09-19T17:53:07.673663+00:00"
     },
+    "NOPE": {
+      "count": 1,
+      "job_ids": [
+        "2d6c3bce7fd7"
+      ],
+      "last_seen": "2026-09-22T09:45:43.234161+00:00"
+    },
     "NT Health": {
       "count": 1,
       "job_ids": [
@@ -456,6 +470,7 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 20,
       "job_ids": [
+        "9d4c45328dee",
         "fe394952a026",
         "5db931ca9422",
         "dadaea7b9331",
@@ -474,10 +489,9 @@
         "775973608a21",
         "5cec9084b1d4",
         "f51238d30e1d",
-        "7a7f6357ce98",
-        "2a3e4a18f7bf"
+        "7a7f6357ce98"
       ],
-      "last_seen": "2026-09-22T00:51:10+00:00"
+      "last_seen": "2026-09-22T05:30:38+00:00"
     },
     "RainFocus": {
       "count": 1,
@@ -644,11 +658,11 @@
     "Vladimir Stepanenko": {
       "count": 3,
       "job_ids": [
+        "2b19f3036784",
         "255ad45cd30b",
-        "fffe4e125223",
-        "e506a5957da0"
+        "fffe4e125223"
       ],
-      "last_seen": "2026-09-21T06:01:09+00:00"
+      "last_seen": "2026-09-22T06:00:47+00:00"
     },
     "Wakacje.pl": {
       "count": 1,
@@ -715,5 +729,5 @@
       "last_seen": "2026-09-19T17:53:07.673663+00:00"
     }
   },
-  "updated_at": "2026-09-22T04:19:06.378054+00:00"
+  "updated_at": "2026-09-22T09:45:43.234161+00:00"
 }
