@@ -506,6 +506,7 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 18,
       "job_ids": [
+        "a33c4c0c805b",
         "9de906c5cf2c",
         "66e95f4743ea",
         "79f279b07231",
@@ -522,17 +523,9 @@
         "dc70e6490aa4",
         "ce0223ad5fa0",
         "d1eb3332fba4",
-        "258a298cc934",
-        "a6a981f5130e"
+        "258a298cc934"
       ],
-      "last_seen": "2026-09-23T12:20:17+00:00"
-    },
-    "Ready": {
-      "count": 1,
-      "job_ids": [
-        "0909507a7c7f"
-      ],
-      "last_seen": "2026-09-20T18:36:54.877525+00:00"
+      "last_seen": "2026-09-23T17:18:53+00:00"
     },
     "RedMimicry": {
       "count": 1,
@@ -590,13 +583,6 @@
       ],
       "last_seen": "2026-09-21T23:06:11.418207+00:00"
     },
-    "Snapscale Philippines": {
-      "count": 1,
-      "job_ids": [
-        "b3e4ff181a4d"
-      ],
-      "last_seen": "2026-09-20T18:36:54.877525+00:00"
-    },
     "Sophie's Flats Inc.": {
       "count": 1,
       "job_ids": [
@@ -640,13 +626,6 @@
       ],
       "last_seen": "2026-09-23T16:34:49.256677+00:00"
     },
-    "The AI Whistleblower Initiative": {
-      "count": 1,
-      "job_ids": [
-        "916cd2848e14"
-      ],
-      "last_seen": "2026-09-20T18:36:54.877525+00:00"
-    },
     "Total Environmental Concepts Pty ltd": {
       "count": 1,
       "job_ids": [
@@ -689,13 +668,6 @@
         "7e462c4c98c4"
       ],
       "last_seen": "2026-09-22T21:55:10.597989+00:00"
-    },
-    "VirtuHire": {
-      "count": 1,
-      "job_ids": [
-        "c1f0f420cfa6"
-      ],
-      "last_seen": "2026-09-20T18:36:54.877525+00:00"
     },
     "Vladimir Stepanenko": {
       "count": 3,
@@ -749,10 +721,9 @@
       "last_seen": "2026-09-21T19:11:27.149921+00:00"
     },
     "iMerit Technology": {
-      "count": 2,
+      "count": 1,
       "job_ids": [
-        "7e56423bc195",
-        "aad0d581511f"
+        "7e56423bc195"
       ],
       "last_seen": "2026-09-23T11:13:03.074997+00:00"
     },
@@ -764,5 +735,5 @@
       "last_seen": "2026-09-22T21:55:10.597989+00:00"
     }
   },
-  "updated_at": "2026-09-23T16:34:49.256677+00:00"
+  "updated_at": "2026-09-23T20:04:59.627966+00:00"
 }
