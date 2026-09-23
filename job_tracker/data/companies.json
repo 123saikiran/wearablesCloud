@@ -383,6 +383,20 @@
       ],
       "last_seen": "2026-09-22T21:55:10.597989+00:00"
     },
+    "Magic Eden": {
+      "count": 1,
+      "job_ids": [
+        "b339cea9a854"
+      ],
+      "last_seen": "2026-09-23T00:12:13.829771+00:00"
+    },
+    "Mindrift - Data annotation": {
+      "count": 1,
+      "job_ids": [
+        "27114a112780"
+      ],
+      "last_seen": "2026-09-23T00:12:13.829771+00:00"
+    },
     "Mirantis": {
       "count": 1,
       "job_ids": [
@@ -477,6 +491,7 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 19,
       "job_ids": [
+        "e3ca167cc0be",
         "3c2c18f8f7db",
         "e457bdba9e19",
         "2bda0c1cd460",
@@ -494,10 +509,9 @@
         "835b05e9e943",
         "c9330d8b3faa",
         "efe916fc8e01",
-        "a301ab270368",
-        "0a6c6bd5b694"
+        "a301ab270368"
       ],
-      "last_seen": "2026-09-22T21:42:16+00:00"
+      "last_seen": "2026-09-22T23:50:05+00:00"
     },
     "Ready": {
       "count": 1,
@@ -663,13 +677,6 @@
       ],
       "last_seen": "2026-09-22T06:00:47+00:00"
     },
-    "Wakacje.pl": {
-      "count": 1,
-      "job_ids": [
-        "6db3cc4b9fcc"
-      ],
-      "last_seen": "2026-09-19T22:48:44.635897+00:00"
-    },
     "Warehance": {
       "count": 1,
       "job_ids": [
@@ -728,5 +735,5 @@
       "last_seen": "2026-09-22T21:55:10.597989+00:00"
     }
   },
-  "updated_at": "2026-09-22T21:55:10.597989+00:00"
+  "updated_at": "2026-09-23T00:12:13.829771+00:00"
 }

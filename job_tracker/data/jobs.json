@@ -1,6 +1,63 @@
 {
   "jobs": [
     {
+      "company": "Mindrift - Data annotation",
+      "fetched_at": "2026-09-23T00:12:13.829771+00:00",
+      "id": "27114a112780",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "data annotation",
+        "c"
+      ],
+      "title": "Freelance grabaciÃ³n de tareas cotidianas para proyecto de IA",
+      "url": "https://remoteOK.com/remote-jobs/remote-freelance-grabacion-de-tareas-cotidianas-para-proyecto-de-ia-mindrift-data-annotation-1137415"
+    },
+    {
+      "company": "Magic Eden",
+      "fetched_at": "2026-09-23T00:12:13.829771+00:00",
+      "id": "b339cea9a854",
+      "location": "Melbourne",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "product manager",
+        "marketing",
+        "exec",
+        "design",
+        "crypto",
+        "nft",
+        "game dev",
+        "consulting",
+        "testing",
+        "analyst",
+        "finance",
+        "senior",
+        "golang",
+        "engineer",
+        "digital nomad"
+      ],
+      "title": "Senior Growth Product Manager AI Native",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-growth-product-manager-ai-native-magic-eden-1137414"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-23T00:12:13.829771+00:00",
+      "id": "e3ca167cc0be",
+      "location": "Remote",
+      "posted_at": "2026-09-22T23:50:05+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-bje"
+    },
+    {
       "company": "OrderYOYO",
       "fetched_at": "2026-09-22T21:55:10.597989+00:00",
       "id": "56f90acd7e69",
@@ -3037,43 +3094,7 @@
       ],
       "title": "AI Response Analyst",
       "url": "https://remoteOK.com/remote-jobs/remote-ai-response-analyst-imerit-technology-1137309"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-20T00:52:54.343413+00:00",
-      "id": "0a6c6bd5b694",
-      "location": "Remote",
-      "posted_at": "2026-09-19T23:39:54+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-471l"
-    },
-    {
-      "company": "Wakacje.pl",
-      "fetched_at": "2026-09-19T22:48:44.635897+00:00",
-      "id": "6db3cc4b9fcc",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "golang",
-        "dev",
-        "travel",
-        "api",
-        "golang",
-        "engineer",
-        "backend",
-        "digital nomad"
-      ],
-      "title": "Software Engineer GO",
-      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-go-wakacje-pl-1135634"
     }
   ],
-  "updated_at": "2026-09-22T21:55:10.597989+00:00"
+  "updated_at": "2026-09-23T00:12:13.829771+00:00"
 }
