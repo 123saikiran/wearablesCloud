@@ -1,6 +1,145 @@
 {
   "jobs": [
     {
+      "company": "RedMimicry",
+      "fetched_at": "2026-09-23T11:13:03.074997+00:00",
+      "id": "9d3655f38a93",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "golang",
+        "infosec",
+        "dev",
+        "stats",
+        "full time",
+        "digital nomad"
+      ],
+      "title": "Software Developer Security Analytics",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-developer-security-analytics-redmimicry-1137417"
+    },
+    {
+      "company": "Delinea",
+      "fetched_at": "2026-09-23T11:13:03.074997+00:00",
+      "id": "5dc626541a14",
+      "location": "Redwood City",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "design",
+        "saas",
+        "salesforce",
+        "infosec",
+        "vfx",
+        "dev",
+        "finance",
+        "education",
+        "cloud",
+        "admin",
+        "exec",
+        "ops",
+        "marketing",
+        "sales",
+        "medical",
+        "digital nomad"
+      ],
+      "title": "VP Pricing & Packaging",
+      "url": "https://remoteOK.com/remote-jobs/remote-vp-pricing-packaging-delinea-1137407"
+    },
+    {
+      "company": "JumpCloud",
+      "fetched_at": "2026-09-23T11:13:03.074997+00:00",
+      "id": "000d516055a5",
+      "location": "Mexico City, Mexico - Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "customer support",
+        "exec",
+        "saas",
+        "sys admin",
+        "swift",
+        "infosec",
+        "technical",
+        "marketing",
+        "travel",
+        "speech",
+        "finance",
+        "education",
+        "c",
+        "mobile",
+        "sales",
+        "medical",
+        "recruiter",
+        "engineer"
+      ],
+      "title": "Customer Success Manager Mexico",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-mexico-jumpcloud-1137406"
+    },
+    {
+      "company": "Mirantis",
+      "fetched_at": "2026-09-23T11:13:03.074997+00:00",
+      "id": "99e1bd4c692e",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "golang",
+        "dev",
+        "engineer",
+        "digital nomad"
+      ],
+      "title": "Software Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-mirantis-1137387"
+    },
+    {
+      "company": "iMerit Technology",
+      "fetched_at": "2026-09-23T11:13:03.074997+00:00",
+      "id": "7e56423bc195",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "content writing",
+        "quality assurance",
+        "ai"
+      ],
+      "title": "AI Response Analyst",
+      "url": "https://remoteOK.com/remote-jobs/remote-ai-response-analyst-imerit-technology-1137309"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-23T11:13:03.074997+00:00",
+      "id": "66e95f4743ea",
+      "location": "Remote",
+      "posted_at": "2026-09-23T06:48:21+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-lod"
+    },
+    {
+      "company": "Vladimir Stepanenko",
+      "fetched_at": "2026-09-23T11:13:03.074997+00:00",
+      "id": "44a4ad6c85c8",
+      "location": "Remote",
+      "posted_at": "2026-09-23T06:00:54+00:00",
+      "source": "devto",
+      "tags": [
+        "career",
+        "jobs",
+        "europe",
+        "remote"
+      ],
+      "title": "What Swedish Employers Actually Ask For: Skill by Skill, From Real Job Ads",
+      "url": "https://dev.to/newluxjob/what-swedish-employers-actually-ask-for-skill-by-skill-from-real-job-ads-19i8"
+    },
+    {
       "company": "Dodo Data",
       "fetched_at": "2026-09-23T05:43:19.277702+00:00",
       "id": "288681d91932",
@@ -2857,219 +2996,7 @@
       ],
       "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1bnn"
-    },
-    {
-      "company": "KPI Solutions",
-      "fetched_at": "2026-09-20T11:09:42.860726+00:00",
-      "id": "3c4297a53702",
-      "location": "Cincinnati",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "dev",
-        "design",
-        "sys admin",
-        "education",
-        "consulting",
-        "technical",
-        "customer support",
-        "testing",
-        "quality assurance",
-        "c",
-        "robotics",
-        "exec",
-        "junior",
-        "ops",
-        "golang",
-        "medical",
-        "engineer",
-        "ecommerce",
-        "digital nomad"
-      ],
-      "title": "Software Deployment Engineer",
-      "url": "https://remoteOK.com/remote-jobs/remote-software-deployment-engineer-kpi-solutions-1137408"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-20T11:09:42.860726+00:00",
-      "id": "efe916fc8e01",
-      "location": "Remote",
-      "posted_at": "2026-09-20T06:59:25+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1m9l"
-    },
-    {
-      "company": "Vladimir Stepanenko",
-      "fetched_at": "2026-09-20T11:09:42.860726+00:00",
-      "id": "fffe4e125223",
-      "location": "Remote",
-      "posted_at": "2026-09-20T06:01:30+00:00",
-      "source": "devto",
-      "tags": [
-        "career",
-        "jobs",
-        "europe",
-        "remote"
-      ],
-      "title": "What Employers in Italy Actually Ask For, Skill by Skill",
-      "url": "https://dev.to/newluxjob/what-employers-in-italy-actually-ask-for-skill-by-skill-2897"
-    },
-    {
-      "company": "DomainTools",
-      "fetched_at": "2026-09-20T05:56:23.796459+00:00",
-      "id": "88fcf7a684b1",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "product manager",
-        "exec",
-        "infosec",
-        "marketing",
-        "design",
-        "web dev",
-        "scrum",
-        "cloud",
-        "api",
-        "stats",
-        "sales",
-        "engineer",
-        "digital nomad"
-      ],
-      "title": "Principal Product Manager",
-      "url": "https://remoteOK.com/remote-jobs/remote-principal-product-manager-domaintools-1137396"
-    },
-    {
-      "company": "Bjak",
-      "fetched_at": "2026-09-20T05:56:23.796459+00:00",
-      "id": "5eefc2524a45",
-      "location": "Seoul",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "design",
-        "sys admin",
-        "infosec",
-        "exec",
-        "technical",
-        "finance",
-        "ruby",
-        "mobile",
-        "ops",
-        "engineer",
-        "digital nomad"
-      ],
-      "title": "Technical Product Lead AI Finance App",
-      "url": "https://remoteOK.com/remote-jobs/remote-technical-product-lead-ai-finance-app-bjak-1137388"
-    },
-    {
-      "company": "Libertex Group",
-      "fetched_at": "2026-09-20T05:56:23.796459+00:00",
-      "id": "13adf68b920b",
-      "location": "Ù Ø³ÙØ·, Ù Ø³ÙØ· Ù Ø³ÙØ· Ø¹Ù Ø§Ù",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "product manager",
-        "exec",
-        "design",
-        "crypto",
-        "marketing",
-        "finance",
-        "bus dev",
-        "recruiter",
-        "digital nomad"
-      ],
-      "title": "Business Development Manager",
-      "url": "https://remoteOK.com/remote-jobs/remote-business-development-manager-libertex-group-1137373"
-    },
-    {
-      "company": "Thatchers Cider",
-      "fetched_at": "2026-09-20T05:56:23.796459+00:00",
-      "id": "4a59a86ff633",
-      "location": "Greater Newcastle Area,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "education",
-        "marketing",
-        "finance",
-        "exec",
-        "excel",
-        "golang"
-      ],
-      "title": "Quality Dispense Technician North",
-      "url": "https://remoteOK.com/remote-jobs/remote-quality-dispense-technician-north-thatchers-cider-1137374"
-    },
-    {
-      "company": "Benzinga",
-      "fetched_at": "2026-09-20T05:56:23.796459+00:00",
-      "id": "08991bb5dd0b",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "golang",
-        "video",
-        "engineer"
-      ],
-      "title": "AI Engineer Data APIs",
-      "url": "https://remoteOK.com/remote-jobs/remote-ai-engineer-data-apis-benzinga-1137224"
-    },
-    {
-      "company": "Blackbird Interactive",
-      "fetched_at": "2026-09-20T05:56:23.796459+00:00",
-      "id": "63695c1ba827",
-      "location": "Vancouver, BC, Canada",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "design",
-        "game dev",
-        "designer",
-        "technical",
-        "customer support",
-        "testing",
-        "content writing",
-        "senior",
-        "engineer",
-        "digital nomad"
-      ],
-      "title": "Senior Level Designer",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-level-designer-blackbird-interactive-1137156"
-    },
-    {
-      "company": "Tessera Labs",
-      "fetched_at": "2026-09-20T05:56:23.796459+00:00",
-      "id": "f18c1fd14d71",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "design",
-        "sys admin",
-        "consulting",
-        "testing",
-        "exec",
-        "cloud",
-        "senior",
-        "ops",
-        "engineer",
-        "ecommerce",
-        "shopify",
-        "full time",
-        "digital nomad"
-      ],
-      "title": "Oracle Fusion Cloud Lead â Logistics & Supply Chain Management",
-      "url": "https://remoteOK.com/remote-jobs/remote-oracle-fusion-cloud-lead-logistics-supply-chain-management-tessera-labs-1137155"
     }
   ],
-  "updated_at": "2026-09-23T05:43:19.277702+00:00"
+  "updated_at": "2026-09-23T11:13:03.074997+00:00"
 }

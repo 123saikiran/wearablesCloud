@@ -77,13 +77,6 @@
       ],
       "last_seen": "2026-09-22T21:55:10.597989+00:00"
     },
-    "Benzinga": {
-      "count": 1,
-      "job_ids": [
-        "08991bb5dd0b"
-      ],
-      "last_seen": "2026-09-20T05:56:23.796459+00:00"
-    },
     "Berni and Mick Ireland": {
       "count": 1,
       "job_ids": [
@@ -92,20 +85,12 @@
       "last_seen": "2026-09-22T21:55:10.597989+00:00"
     },
     "Bjak": {
-      "count": 3,
+      "count": 2,
       "job_ids": [
         "68763914ed52",
-        "22294040f070",
-        "5eefc2524a45"
+        "22294040f070"
       ],
       "last_seen": "2026-09-22T21:55:10.597989+00:00"
-    },
-    "Blackbird Interactive": {
-      "count": 1,
-      "job_ids": [
-        "63695c1ba827"
-      ],
-      "last_seen": "2026-09-20T05:56:23.796459+00:00"
     },
     "Bored Panda": {
       "count": 1,
@@ -176,11 +161,12 @@
       "last_seen": "2026-09-23T02:27:19+00:00"
     },
     "Delinea": {
-      "count": 1,
+      "count": 2,
       "job_ids": [
+        "5dc626541a14",
         "ec0ec3dc6073"
       ],
-      "last_seen": "2026-09-22T21:55:10.597989+00:00"
+      "last_seen": "2026-09-23T11:13:03.074997+00:00"
     },
     "Dodo Data": {
       "count": 3,
@@ -197,13 +183,6 @@
         "55ad3d8aceec"
       ],
       "last_seen": "2026-09-21T13:48:34.639015+00:00"
-    },
-    "DomainTools": {
-      "count": 1,
-      "job_ids": [
-        "88fcf7a684b1"
-      ],
-      "last_seen": "2026-09-20T05:56:23.796459+00:00"
     },
     "Dreem Health": {
       "count": 1,
@@ -334,12 +313,12 @@
       ],
       "last_seen": "2026-09-22T21:55:10.597989+00:00"
     },
-    "KPI Solutions": {
+    "JumpCloud": {
       "count": 1,
       "job_ids": [
-        "3c4297a53702"
+        "000d516055a5"
       ],
-      "last_seen": "2026-09-20T11:09:42.860726+00:00"
+      "last_seen": "2026-09-23T11:13:03.074997+00:00"
     },
     "Kruger NearShore LLC - Rekluti": {
       "count": 1,
@@ -361,13 +340,6 @@
         "3212e83df92c"
       ],
       "last_seen": "2026-09-22T21:55:10.597989+00:00"
-    },
-    "Libertex Group": {
-      "count": 1,
-      "job_ids": [
-        "13adf68b920b"
-      ],
-      "last_seen": "2026-09-20T05:56:23.796459+00:00"
     },
     "Liberty Mutual Insurance": {
       "count": 1,
@@ -396,6 +368,13 @@
         "27114a112780"
       ],
       "last_seen": "2026-09-23T00:12:13.829771+00:00"
+    },
+    "Mirantis": {
+      "count": 1,
+      "job_ids": [
+        "99e1bd4c692e"
+      ],
+      "last_seen": "2026-09-23T11:13:03.074997+00:00"
     },
     "MultiplyMii": {
       "count": 1,
@@ -484,6 +463,7 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 19,
       "job_ids": [
+        "66e95f4743ea",
         "79f279b07231",
         "e3ca167cc0be",
         "3c2c18f8f7db",
@@ -501,10 +481,9 @@
         "258a298cc934",
         "a6a981f5130e",
         "835b05e9e943",
-        "c9330d8b3faa",
-        "efe916fc8e01"
+        "c9330d8b3faa"
       ],
-      "last_seen": "2026-09-23T01:51:51+00:00"
+      "last_seen": "2026-09-23T06:48:21+00:00"
     },
     "Ready": {
       "count": 1,
@@ -512,6 +491,13 @@
         "0909507a7c7f"
       ],
       "last_seen": "2026-09-20T18:36:54.877525+00:00"
+    },
+    "RedMimicry": {
+      "count": 1,
+      "job_ids": [
+        "9d3655f38a93"
+      ],
+      "last_seen": "2026-09-23T11:13:03.074997+00:00"
     },
     "Resource Guru": {
       "count": 1,
@@ -591,26 +577,12 @@
       ],
       "last_seen": "2026-09-22T21:55:10.597989+00:00"
     },
-    "Tessera Labs": {
-      "count": 1,
-      "job_ids": [
-        "f18c1fd14d71"
-      ],
-      "last_seen": "2026-09-20T05:56:23.796459+00:00"
-    },
     "TestGorilla": {
       "count": 1,
       "job_ids": [
         "8bb632e4f51a"
       ],
       "last_seen": "2026-09-21T23:06:11.418207+00:00"
-    },
-    "Thatchers Cider": {
-      "count": 1,
-      "job_ids": [
-        "4a59a86ff633"
-      ],
-      "last_seen": "2026-09-20T05:56:23.796459+00:00"
     },
     "The AI Whistleblower Initiative": {
       "count": 1,
@@ -672,11 +644,11 @@
     "Vladimir Stepanenko": {
       "count": 3,
       "job_ids": [
+        "44a4ad6c85c8",
         "2b19f3036784",
-        "255ad45cd30b",
-        "fffe4e125223"
+        "255ad45cd30b"
       ],
-      "last_seen": "2026-09-22T06:00:47+00:00"
+      "last_seen": "2026-09-23T06:00:54+00:00"
     },
     "Warehance": {
       "count": 1,
@@ -721,11 +693,12 @@
       "last_seen": "2026-09-21T19:11:27.149921+00:00"
     },
     "iMerit Technology": {
-      "count": 1,
+      "count": 2,
       "job_ids": [
+        "7e56423bc195",
         "aad0d581511f"
       ],
-      "last_seen": "2026-09-20T18:36:54.877525+00:00"
+      "last_seen": "2026-09-23T11:13:03.074997+00:00"
     },
     "testacy": {
       "count": 1,
@@ -735,5 +708,5 @@
       "last_seen": "2026-09-22T21:55:10.597989+00:00"
     }
   },
-  "updated_at": "2026-09-23T05:43:19.277702+00:00"
+  "updated_at": "2026-09-23T11:13:03.074997+00:00"
 }
