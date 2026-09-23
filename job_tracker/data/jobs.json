@@ -1,6 +1,86 @@
 {
   "jobs": [
     {
+      "company": "Dodo Data",
+      "fetched_at": "2026-09-23T05:43:19.277702+00:00",
+      "id": "288681d91932",
+      "location": "Remote",
+      "posted_at": "2026-09-23T05:34:52+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "api",
+        "python",
+        "jobs"
+      ],
+      "title": "Half the ATS job boards you find by guessing belong to a different company",
+      "url": "https://dev.to/dododata/half-the-ats-job-boards-you-find-by-guessing-belong-to-a-different-company-861"
+    },
+    {
+      "company": "David Stark",
+      "fetched_at": "2026-09-23T05:43:19.277702+00:00",
+      "id": "f60b8457c100",
+      "location": "Remote",
+      "posted_at": "2026-09-23T02:27:19+00:00",
+      "source": "devto",
+      "tags": [
+        "python",
+        "django",
+        "datascience",
+        "jobs"
+      ],
+      "title": "David Stark: Top High-Paying Roles",
+      "url": "https://dev.to/devpulse/david-stark-top-high-paying-roles-1o4h"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-23T05:43:19.277702+00:00",
+      "id": "79f279b07231",
+      "location": "Remote",
+      "posted_at": "2026-09-23T01:51:51+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-16a6"
+    },
+    {
+      "company": "Trent Wade",
+      "fetched_at": "2026-09-23T05:43:19.277702+00:00",
+      "id": "29bbce3522c7",
+      "location": "Remote",
+      "posted_at": "2026-09-23T01:03:36+00:00",
+      "source": "devto",
+      "tags": [
+        "automation",
+        "ai",
+        "opensource",
+        "jobs"
+      ],
+      "title": "Ambiguous submission outcomes should never be retried",
+      "url": "https://dev.to/keel/ambiguous-submission-outcomes-should-never-be-retried-2l19"
+    },
+    {
+      "company": "Trent Wade",
+      "fetched_at": "2026-09-23T05:43:19.277702+00:00",
+      "id": "f55ecd4ae58a",
+      "location": "Remote",
+      "posted_at": "2026-09-23T01:02:40+00:00",
+      "source": "devto",
+      "tags": [
+        "opensource",
+        "automation",
+        "ai",
+        "jobs"
+      ],
+      "title": "What happens when an AI doesn't know the answer?",
+      "url": "https://dev.to/keel/what-happens-when-an-ai-doesnt-know-the-answer-jk6"
+    },
+    {
       "company": "Mindrift - Data annotation",
       "fetched_at": "2026-09-23T00:12:13.829771+00:00",
       "id": "27114a112780",
@@ -2989,112 +3069,7 @@
       ],
       "title": "Oracle Fusion Cloud Lead â Logistics & Supply Chain Management",
       "url": "https://remoteOK.com/remote-jobs/remote-oracle-fusion-cloud-lead-logistics-supply-chain-management-tessera-labs-1137155"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-20T05:56:23.796459+00:00",
-      "id": "a301ab270368",
-      "location": "Remote",
-      "posted_at": "2026-09-20T01:38:20+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4i0k"
-    },
-    {
-      "company": "Delinea",
-      "fetched_at": "2026-09-20T00:52:54.343413+00:00",
-      "id": "5dc626541a14",
-      "location": "Redwood City",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "design",
-        "saas",
-        "salesforce",
-        "infosec",
-        "vfx",
-        "dev",
-        "finance",
-        "education",
-        "cloud",
-        "admin",
-        "exec",
-        "ops",
-        "marketing",
-        "sales",
-        "medical",
-        "digital nomad"
-      ],
-      "title": "VP Pricing & Packaging",
-      "url": "https://remoteOK.com/remote-jobs/remote-vp-pricing-packaging-delinea-1137407"
-    },
-    {
-      "company": "JumpCloud",
-      "fetched_at": "2026-09-20T00:52:54.343413+00:00",
-      "id": "000d516055a5",
-      "location": "Mexico City, Mexico - Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "customer support",
-        "exec",
-        "saas",
-        "sys admin",
-        "swift",
-        "infosec",
-        "technical",
-        "marketing",
-        "travel",
-        "speech",
-        "finance",
-        "education",
-        "c",
-        "mobile",
-        "sales",
-        "medical",
-        "recruiter",
-        "engineer"
-      ],
-      "title": "Customer Success Manager Mexico",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-mexico-jumpcloud-1137406"
-    },
-    {
-      "company": "Mirantis",
-      "fetched_at": "2026-09-20T00:52:54.343413+00:00",
-      "id": "99e1bd4c692e",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "golang",
-        "dev",
-        "engineer",
-        "digital nomad"
-      ],
-      "title": "Software Engineer",
-      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-mirantis-1137387"
-    },
-    {
-      "company": "iMerit Technology",
-      "fetched_at": "2026-09-20T00:52:54.343413+00:00",
-      "id": "7e56423bc195",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "content writing",
-        "quality assurance",
-        "ai"
-      ],
-      "title": "AI Response Analyst",
-      "url": "https://remoteOK.com/remote-jobs/remote-ai-response-analyst-imerit-technology-1137309"
     }
   ],
-  "updated_at": "2026-09-23T00:12:13.829771+00:00"
+  "updated_at": "2026-09-23T05:43:19.277702+00:00"
 }
