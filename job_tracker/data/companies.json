@@ -21,13 +21,6 @@
       ],
       "last_seen": "2026-09-22T21:55:10.597989+00:00"
     },
-    "Airspace Link": {
-      "count": 1,
-      "job_ids": [
-        "d4c4ede5d045"
-      ],
-      "last_seen": "2026-09-20T21:21:09.454746+00:00"
-    },
     "American Bureau of Shipping (ABS)": {
       "count": 1,
       "job_ids": [
@@ -506,6 +499,8 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 18,
       "job_ids": [
+        "c677de7c3f14",
+        "08305e69c11b",
         "a33c4c0c805b",
         "9de906c5cf2c",
         "66e95f4743ea",
@@ -521,11 +516,9 @@
         "dadaea7b9331",
         "22fe3e20c461",
         "dc70e6490aa4",
-        "ce0223ad5fa0",
-        "d1eb3332fba4",
-        "258a298cc934"
+        "ce0223ad5fa0"
       ],
-      "last_seen": "2026-09-23T17:18:53+00:00"
+      "last_seen": "2026-09-23T23:07:26+00:00"
     },
     "RedMimicry": {
       "count": 1,
@@ -590,13 +583,6 @@
       ],
       "last_seen": "2026-09-22T21:55:10.597989+00:00"
     },
-    "Sticker Mule": {
-      "count": 1,
-      "job_ids": [
-        "3ae373be1705"
-      ],
-      "last_seen": "2026-09-20T21:21:09.454746+00:00"
-    },
     "Stone": {
       "count": 2,
       "job_ids": [
@@ -625,6 +611,13 @@
         "4a59a86ff633"
       ],
       "last_seen": "2026-09-23T16:34:49.256677+00:00"
+    },
+    "The AI Whistleblower Initiative": {
+      "count": 1,
+      "job_ids": [
+        "916cd2848e14"
+      ],
+      "last_seen": "2026-09-23T23:30:50.436288+00:00"
     },
     "Total Environmental Concepts Pty ltd": {
       "count": 1,
@@ -668,6 +661,13 @@
         "7e462c4c98c4"
       ],
       "last_seen": "2026-09-22T21:55:10.597989+00:00"
+    },
+    "VirtuHire": {
+      "count": 1,
+      "job_ids": [
+        "c1f0f420cfa6"
+      ],
+      "last_seen": "2026-09-23T23:30:50.436288+00:00"
     },
     "Vladimir Stepanenko": {
       "count": 3,
@@ -721,11 +721,12 @@
       "last_seen": "2026-09-21T19:11:27.149921+00:00"
     },
     "iMerit Technology": {
-      "count": 1,
+      "count": 2,
       "job_ids": [
+        "aad0d581511f",
         "7e56423bc195"
       ],
-      "last_seen": "2026-09-23T11:13:03.074997+00:00"
+      "last_seen": "2026-09-23T23:30:50.436288+00:00"
     },
     "testacy": {
       "count": 1,
@@ -735,5 +736,5 @@
       "last_seen": "2026-09-22T21:55:10.597989+00:00"
     }
   },
-  "updated_at": "2026-09-23T20:04:59.627966+00:00"
+  "updated_at": "2026-09-23T23:30:50.436288+00:00"
 }
