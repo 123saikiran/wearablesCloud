@@ -1,6 +1,137 @@
 {
   "jobs": [
     {
+      "company": "OkWhen",
+      "fetched_at": "2026-09-24T09:48:14.049928+00:00",
+      "id": "aafea233ce0d",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "dev",
+        "design",
+        "c sharp",
+        "saas",
+        "sys admin",
+        "infosec",
+        "education",
+        "technical",
+        "testing",
+        "web dev",
+        "xamarin",
+        "c",
+        "cloud",
+        "git",
+        "typescript",
+        "angular",
+        "mobile",
+        "exec",
+        "content writing",
+        "senior",
+        "ops",
+        "medical",
+        "engineer",
+        "backend",
+        "digital nomad"
+      ],
+      "title": "Senior .NET Software Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-net-software-engineer-okwhen-1137411"
+    },
+    {
+      "company": "Bjak",
+      "fetched_at": "2026-09-24T09:48:14.049928+00:00",
+      "id": "22294040f070",
+      "location": "Ireland",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "front end",
+        "design",
+        "react",
+        "graphql",
+        "react.js",
+        "technical",
+        "web dev",
+        "javascript",
+        "css",
+        "chatbot",
+        "html",
+        "typescript",
+        "node",
+        "node.js",
+        "exec",
+        "sys admin",
+        "engineer",
+        "backend",
+        "digital nomad"
+      ],
+      "title": "Frontend Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410"
+    },
+    {
+      "company": "Arango",
+      "fetched_at": "2026-09-24T09:48:14.049928+00:00",
+      "id": "0bad7d05c1cb",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "golang",
+        "golang",
+        "engineer"
+      ],
+      "title": "Golang Kubernetes Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-24T09:48:14.049928+00:00",
+      "id": "d3153a30028e",
+      "location": "Remote",
+      "posted_at": "2026-09-24T06:19:47+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-d73"
+    },
+    {
+      "company": "Vladimir Stepanenko",
+      "fetched_at": "2026-09-24T09:48:14.049928+00:00",
+      "id": "4317ccaedccc",
+      "location": "Remote",
+      "posted_at": "2026-09-24T06:01:04+00:00",
+      "source": "devto",
+      "tags": [
+        "career",
+        "jobs",
+        "europe",
+        "remote"
+      ],
+      "title": "What Employers Want From Accountant Auditors: A Country-by-Country Skills Breakdown",
+      "url": "https://dev.to/newluxjob/what-employers-want-from-accountant-auditors-a-country-by-country-skills-breakdown-nj8"
+    },
+    {
+      "company": "UMAR ARSHAD",
+      "fetched_at": "2026-09-24T09:48:14.049928+00:00",
+      "id": "d7f57fc6ac42",
+      "location": "Remote",
+      "posted_at": "2026-09-24T04:40:53+00:00",
+      "source": "devto",
+      "tags": [
+        "apify",
+        "webscraping",
+        "pakistan",
+        "jobs"
+      ],
+      "title": "New Apify Actor: Mustakbil Jobs Scraper — Pakistan Jobs API ($1.20/1k)",
+      "url": "https://dev.to/umararshad2/new-apify-actor-mustakbil-jobs-scraper-pakistan-jobs-api-1201k-3coe"
+    },
+    {
       "company": "Bjak",
       "fetched_at": "2026-09-24T04:12:01.752687+00:00",
       "id": "578e1bcc6323",
@@ -2960,68 +3091,7 @@
       ],
       "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2lb3"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-21T13:48:34.639015+00:00",
-      "id": "dc70e6490aa4",
-      "location": "Remote",
-      "posted_at": "2026-09-21T06:17:43+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-50g0"
-    },
-    {
-      "company": "Warehance",
-      "fetched_at": "2026-09-21T06:02:18.411764+00:00",
-      "id": "b229c41a3801",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "customer support"
-      ],
-      "title": "Customer Support & Success Specialist",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-success-specialist-warehance-1137302"
-    },
-    {
-      "company": "Vladimir Stepanenko",
-      "fetched_at": "2026-09-21T13:48:34.639015+00:00",
-      "id": "255ad45cd30b",
-      "location": "Remote",
-      "posted_at": "2026-09-21T06:01:09+00:00",
-      "source": "devto",
-      "tags": [
-        "career",
-        "jobs",
-        "europe",
-        "remote"
-      ],
-      "title": "What Jobs in the Netherlands Actually Pay, Role by Role",
-      "url": "https://dev.to/newluxjob/what-jobs-in-the-netherlands-actually-pay-role-by-role-56c3"
-    },
-    {
-      "company": "Dodo Data",
-      "fetched_at": "2026-09-21T06:02:18.411764+00:00",
-      "id": "1c7e6c1cc024",
-      "location": "Remote",
-      "posted_at": "2026-09-21T05:57:21+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "api",
-        "jobs",
-        "data"
-      ],
-      "title": "5,966 job posts: who actually publishes pay, and who only looks like they don't",
-      "url": "https://dev.to/dododata/5966-job-posts-who-actually-publishes-pay-and-who-only-looks-like-they-dont-1a2c"
     }
   ],
-  "updated_at": "2026-09-24T04:12:01.752687+00:00"
+  "updated_at": "2026-09-24T09:48:14.049928+00:00"
 }
