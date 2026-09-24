@@ -1,6 +1,37 @@
 {
   "jobs": [
     {
+      "company": "iMerit Technology",
+      "fetched_at": "2026-09-24T22:12:21.680790+00:00",
+      "id": "a0b1d92a97dd",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "quality assurance",
+        "ai",
+        "data annotation"
+      ],
+      "title": "Video Data Annotator",
+      "url": "https://remoteOK.com/remote-jobs/remote-video-data-annotator-imerit-technology-1137428"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-24T22:12:21.680790+00:00",
+      "id": "11f351c63d7c",
+      "location": "Remote",
+      "posted_at": "2026-09-24T20:28:35+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-5408"
+    },
+    {
       "company": "DoiT",
       "fetched_at": "2026-09-24T18:56:40.497088+00:00",
       "id": "55ad3d8aceec",
@@ -3105,22 +3136,7 @@
       ],
       "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3mg2"
-    },
-    {
-      "company": "eClinical Solutions",
-      "fetched_at": "2026-09-21T19:11:27.149921+00:00",
-      "id": "24895f61f51e",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "cloud",
-        "exec",
-        "stats"
-      ],
-      "title": "External Data Specialist",
-      "url": "https://remoteOK.com/remote-jobs/remote-external-data-specialist-eclinical-solutions-1137375"
     }
   ],
-  "updated_at": "2026-09-24T18:56:40.497088+00:00"
+  "updated_at": "2026-09-24T22:12:21.680790+00:00"
 }
