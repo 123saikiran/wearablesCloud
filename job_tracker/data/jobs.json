@@ -1,6 +1,72 @@
 {
   "jobs": [
     {
+      "company": "DoiT",
+      "fetched_at": "2026-09-24T18:56:40.497088+00:00",
+      "id": "55ad3d8aceec",
+      "location": "Remote UK",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "technical",
+        "marketing",
+        "cloud",
+        "microsoft",
+        "exec",
+        "sales"
+      ],
+      "title": "Sales Development Representative Attributeâ",
+      "url": "https://remoteOK.com/remote-jobs/"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-24T18:56:40.497088+00:00",
+      "id": "7cea3dd9b97f",
+      "location": "Remote",
+      "posted_at": "2026-09-24T17:06:53+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4d30"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-09-24T18:56:40.497088+00:00",
+      "id": "3d7345af9e04",
+      "location": "Remote",
+      "posted_at": "2026-09-24T15:00:16+00:00",
+      "source": "devto",
+      "tags": [
+        "beginners",
+        "jobs",
+        "career",
+        "programming"
+      ],
+      "title": "Summer 2026 Internships: 8 New Openings This Week (Sep 24)",
+      "url": "https://dev.to/crackr/summer-2026-internships-8-new-openings-this-week-sep-24-1da"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-09-24T18:56:40.497088+00:00",
+      "id": "2f28e332f082",
+      "location": "Remote",
+      "posted_at": "2026-09-24T15:00:13+00:00",
+      "source": "devto",
+      "tags": [
+        "remotework",
+        "jobs",
+        "webdev",
+        "career"
+      ],
+      "title": "Remote SWE Jobs Paying Up to $250k (Sep 24)",
+      "url": "https://dev.to/crackr/remote-swe-jobs-paying-up-to-250k-sep-24-3j2e"
+    },
+    {
       "company": "Prenosis",
       "fetched_at": "2026-09-24T14:47:46.495399+00:00",
       "id": "e9064f4ba338",
@@ -3054,55 +3120,7 @@
       ],
       "title": "External Data Specialist",
       "url": "https://remoteOK.com/remote-jobs/remote-external-data-specialist-eclinical-solutions-1137375"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-21T19:11:27.149921+00:00",
-      "id": "dadaea7b9331",
-      "location": "Remote",
-      "posted_at": "2026-09-21T18:39:41+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3n7o"
-    },
-    {
-      "company": "Crackr",
-      "fetched_at": "2026-09-21T19:11:27.149921+00:00",
-      "id": "ea4382ec70b1",
-      "location": "Remote",
-      "posted_at": "2026-09-21T15:00:16+00:00",
-      "source": "devto",
-      "tags": [
-        "beginners",
-        "jobs",
-        "career",
-        "programming"
-      ],
-      "title": "Summer 2026 Internships: 8 New Openings This Week (Sep 21)",
-      "url": "https://dev.to/crackr/summer-2026-internships-8-new-openings-this-week-sep-21-46n"
-    },
-    {
-      "company": "Crackr",
-      "fetched_at": "2026-09-21T19:11:27.149921+00:00",
-      "id": "1a7c4d580709",
-      "location": "Remote",
-      "posted_at": "2026-09-21T15:00:13+00:00",
-      "source": "devto",
-      "tags": [
-        "remotework",
-        "jobs",
-        "webdev",
-        "career"
-      ],
-      "title": "Remote SWE Jobs Paying Up to $250k (Sep 21)",
-      "url": "https://dev.to/crackr/remote-swe-jobs-paying-up-to-250k-sep-21-573"
     }
   ],
-  "updated_at": "2026-09-24T14:47:46.495399+00:00"
+  "updated_at": "2026-09-24T18:56:40.497088+00:00"
 }
