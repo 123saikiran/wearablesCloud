@@ -1,6 +1,110 @@
 {
   "jobs": [
     {
+      "company": "Bjak",
+      "fetched_at": "2026-09-24T04:12:01.752687+00:00",
+      "id": "578e1bcc6323",
+      "location": "Germany",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "product manager",
+        "exec",
+        "design",
+        "sys admin",
+        "infosec",
+        "technical",
+        "finance",
+        "ruby",
+        "mobile",
+        "ops",
+        "engineer",
+        "digital nomad"
+      ],
+      "title": "Technical Product Manager AI Stockbroking App",
+      "url": "https://remoteOK.com/remote-jobs/remote-technical-product-manager-ai-stockbroking-app-bjak-1137421"
+    },
+    {
+      "company": "Bjak",
+      "fetched_at": "2026-09-24T04:12:01.752687+00:00",
+      "id": "a9076f9b51af",
+      "location": "Singapore",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "front end",
+        "design",
+        "react",
+        "graphql",
+        "react.js",
+        "technical",
+        "web dev",
+        "javascript",
+        "css",
+        "chatbot",
+        "html",
+        "typescript",
+        "node",
+        "node.js",
+        "exec",
+        "sys admin",
+        "engineer",
+        "backend",
+        "digital nomad"
+      ],
+      "title": "Frontend Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420"
+    },
+    {
+      "company": "Airspace Link",
+      "fetched_at": "2026-09-24T04:12:01.752687+00:00",
+      "id": "d4c4ede5d045",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "golang",
+        "dev",
+        "engineer",
+        "backend",
+        "digital nomad"
+      ],
+      "title": "Backend Software Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-backend-software-engineer-airspace-link-1137409"
+    },
+    {
+      "company": "Sticker Mule",
+      "fetched_at": "2026-09-24T04:12:01.752687+00:00",
+      "id": "3ae373be1705",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "ai",
+        "golang",
+        "javascript",
+        "typescript"
+      ],
+      "title": "AI agent engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-24T04:12:01.752687+00:00",
+      "id": "1ff08c1263f0",
+      "location": "Remote",
+      "posted_at": "2026-09-24T01:21:59+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-30kn"
+    },
+    {
       "company": "iMerit Technology",
       "fetched_at": "2026-09-23T23:30:50.436288+00:00",
       "id": "aad0d581511f",
@@ -2917,138 +3021,7 @@
       ],
       "title": "5,966 job posts: who actually publishes pay, and who only looks like they don't",
       "url": "https://dev.to/dododata/5966-job-posts-who-actually-publishes-pay-and-who-only-looks-like-they-dont-1a2c"
-    },
-    {
-      "company": "Zakaria Blefkih",
-      "fetched_at": "2026-09-21T06:02:18.411764+00:00",
-      "id": "a37680f84df1",
-      "location": "Remote",
-      "posted_at": "2026-09-21T03:35:53+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "python",
-        "jobs",
-        "api"
-      ],
-      "title": "How to build a multi job board scraper feed in one Python call",
-      "url": "https://dev.to/7_akariae/how-to-build-a-multi-job-board-scraper-feed-in-one-python-call-1375"
-    },
-    {
-      "company": "Dodo Data",
-      "fetched_at": "2026-09-21T06:02:18.411764+00:00",
-      "id": "45ef3ce78bc3",
-      "location": "Remote",
-      "posted_at": "2026-09-21T03:09:50+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "api",
-        "jobs",
-        "typescript"
-      ],
-      "title": "Scraping Workday career sites without a browser, and the 2,000-job ceiling",
-      "url": "https://dev.to/dododata/scraping-workday-career-sites-without-a-browser-and-the-2000-job-ceiling-h2e"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-21T06:02:18.411764+00:00",
-      "id": "ce0223ad5fa0",
-      "location": "Remote",
-      "posted_at": "2026-09-21T01:07:21+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-8kk"
-    },
-    {
-      "company": "OkWhen",
-      "fetched_at": "2026-09-21T00:00:50.675698+00:00",
-      "id": "aafea233ce0d",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "dev",
-        "design",
-        "c sharp",
-        "saas",
-        "sys admin",
-        "infosec",
-        "education",
-        "technical",
-        "testing",
-        "web dev",
-        "xamarin",
-        "c",
-        "cloud",
-        "git",
-        "typescript",
-        "angular",
-        "mobile",
-        "exec",
-        "content writing",
-        "senior",
-        "ops",
-        "medical",
-        "engineer",
-        "backend",
-        "digital nomad"
-      ],
-      "title": "Senior .NET Software Engineer",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-net-software-engineer-okwhen-1137411"
-    },
-    {
-      "company": "Bjak",
-      "fetched_at": "2026-09-21T00:00:50.675698+00:00",
-      "id": "22294040f070",
-      "location": "Ireland",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "front end",
-        "design",
-        "react",
-        "graphql",
-        "react.js",
-        "technical",
-        "web dev",
-        "javascript",
-        "css",
-        "chatbot",
-        "html",
-        "typescript",
-        "node",
-        "node.js",
-        "exec",
-        "sys admin",
-        "engineer",
-        "backend",
-        "digital nomad"
-      ],
-      "title": "Frontend Engineer",
-      "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410"
-    },
-    {
-      "company": "Arango",
-      "fetched_at": "2026-09-21T00:00:50.675698+00:00",
-      "id": "0bad7d05c1cb",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "golang",
-        "golang",
-        "engineer"
-      ],
-      "title": "Golang Kubernetes Engineer",
-      "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400"
     }
   ],
-  "updated_at": "2026-09-23T23:30:50.436288+00:00"
+  "updated_at": "2026-09-24T04:12:01.752687+00:00"
 }

@@ -21,6 +21,13 @@
       ],
       "last_seen": "2026-09-22T21:55:10.597989+00:00"
     },
+    "Airspace Link": {
+      "count": 1,
+      "job_ids": [
+        "d4c4ede5d045"
+      ],
+      "last_seen": "2026-09-24T04:12:01.752687+00:00"
+    },
     "American Bureau of Shipping (ABS)": {
       "count": 1,
       "job_ids": [
@@ -34,13 +41,6 @@
         "3decd8f0dbf5"
       ],
       "last_seen": "2026-09-22T21:55:10.597989+00:00"
-    },
-    "Arango": {
-      "count": 1,
-      "job_ids": [
-        "0bad7d05c1cb"
-      ],
-      "last_seen": "2026-09-21T00:00:50.675698+00:00"
     },
     "Ashby": {
       "count": 1,
@@ -85,13 +85,14 @@
       "last_seen": "2026-09-22T21:55:10.597989+00:00"
     },
     "Bjak": {
-      "count": 3,
+      "count": 4,
       "job_ids": [
+        "578e1bcc6323",
+        "a9076f9b51af",
         "5eefc2524a45",
-        "68763914ed52",
-        "22294040f070"
+        "68763914ed52"
       ],
-      "last_seen": "2026-09-23T16:34:49.256677+00:00"
+      "last_seen": "2026-09-24T04:12:01.752687+00:00"
     },
     "Blackbird Interactive": {
       "count": 1,
@@ -177,11 +178,10 @@
       "last_seen": "2026-09-23T11:13:03.074997+00:00"
     },
     "Dodo Data": {
-      "count": 3,
+      "count": 2,
       "job_ids": [
         "288681d91932",
-        "1c7e6c1cc024",
-        "45ef3ce78bc3"
+        "1c7e6c1cc024"
       ],
       "last_seen": "2026-09-23T05:34:52+00:00"
     },
@@ -426,13 +426,6 @@
       ],
       "last_seen": "2026-09-22T21:55:10.597989+00:00"
     },
-    "OkWhen": {
-      "count": 1,
-      "job_ids": [
-        "aafea233ce0d"
-      ],
-      "last_seen": "2026-09-21T00:00:50.675698+00:00"
-    },
     "Omega Enterprises": {
       "count": 1,
       "job_ids": [
@@ -499,6 +492,7 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 18,
       "job_ids": [
+        "1ff08c1263f0",
         "c677de7c3f14",
         "08305e69c11b",
         "a33c4c0c805b",
@@ -515,10 +509,9 @@
         "5db931ca9422",
         "dadaea7b9331",
         "22fe3e20c461",
-        "dc70e6490aa4",
-        "ce0223ad5fa0"
+        "dc70e6490aa4"
       ],
-      "last_seen": "2026-09-23T23:07:26+00:00"
+      "last_seen": "2026-09-24T01:21:59+00:00"
     },
     "RedMimicry": {
       "count": 1,
@@ -582,6 +575,13 @@
         "0861a6d3cc39"
       ],
       "last_seen": "2026-09-22T21:55:10.597989+00:00"
+    },
+    "Sticker Mule": {
+      "count": 1,
+      "job_ids": [
+        "3ae373be1705"
+      ],
+      "last_seen": "2026-09-24T04:12:01.752687+00:00"
     },
     "Stone": {
       "count": 2,
@@ -706,13 +706,6 @@
       ],
       "last_seen": "2026-09-22T21:55:10.597989+00:00"
     },
-    "Zakaria Blefkih": {
-      "count": 1,
-      "job_ids": [
-        "a37680f84df1"
-      ],
-      "last_seen": "2026-09-21T03:35:53+00:00"
-    },
     "eClinical Solutions": {
       "count": 1,
       "job_ids": [
@@ -736,5 +729,5 @@
       "last_seen": "2026-09-22T21:55:10.597989+00:00"
     }
   },
-  "updated_at": "2026-09-23T23:30:50.436288+00:00"
+  "updated_at": "2026-09-24T04:12:01.752687+00:00"
 }
