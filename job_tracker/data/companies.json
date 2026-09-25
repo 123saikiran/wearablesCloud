@@ -213,13 +213,6 @@
       ],
       "last_seen": "2026-09-22T21:55:10.597989+00:00"
     },
-    "Empire Assets": {
-      "count": 1,
-      "job_ids": [
-        "b448eb571a3a"
-      ],
-      "last_seen": "2026-09-21T23:06:11.418207+00:00"
-    },
     "Enable Dental": {
       "count": 1,
       "job_ids": [
@@ -270,13 +263,6 @@
       ],
       "last_seen": "2026-09-22T21:55:10.597989+00:00"
     },
-    "GiveWell": {
-      "count": 1,
-      "job_ids": [
-        "0670c33f2a79"
-      ],
-      "last_seen": "2026-09-21T23:06:11.418207+00:00"
-    },
     "Grapefruit Health": {
       "count": 1,
       "job_ids": [
@@ -290,13 +276,6 @@
         "5f67eddcfa26"
       ],
       "last_seen": "2026-09-22T21:55:10.597989+00:00"
-    },
-    "Harper": {
-      "count": 1,
-      "job_ids": [
-        "3991e551a545"
-      ],
-      "last_seen": "2026-09-21T23:06:11.418207+00:00"
     },
     "Harvey Nash": {
       "count": 1,
@@ -355,6 +334,13 @@
         "e74fef823751"
       ],
       "last_seen": "2026-09-22T21:55:10.597989+00:00"
+    },
+    "Launch Gate": {
+      "count": 1,
+      "job_ids": [
+        "0017ea4e147e"
+      ],
+      "last_seen": "2026-09-25T00:21:11+00:00"
     },
     "Law Offices of Sabrina Li": {
       "count": 1,
@@ -511,8 +497,9 @@
       "last_seen": "2026-09-22T21:55:10.597989+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 19,
+      "count": 18,
       "job_ids": [
+        "b74dc31e20f4",
         "11f351c63d7c",
         "7cea3dd9b97f",
         "40f0a2c6c6f2",
@@ -529,11 +516,9 @@
         "e457bdba9e19",
         "2bda0c1cd460",
         "f1093c2e3b7f",
-        "9d4c45328dee",
-        "fe394952a026",
-        "5db931ca9422"
+        "9d4c45328dee"
       ],
-      "last_seen": "2026-09-24T20:28:35+00:00"
+      "last_seen": "2026-09-24T23:25:27+00:00"
     },
     "RedMimicry": {
       "count": 1,
@@ -584,13 +569,6 @@
       ],
       "last_seen": "2026-09-22T21:55:10.597989+00:00"
     },
-    "Sleek": {
-      "count": 1,
-      "job_ids": [
-        "081ec9073d83"
-      ],
-      "last_seen": "2026-09-21T23:06:11.418207+00:00"
-    },
     "Sophie's Flats Inc.": {
       "count": 1,
       "job_ids": [
@@ -619,13 +597,6 @@
         "f18c1fd14d71"
       ],
       "last_seen": "2026-09-23T16:34:49.256677+00:00"
-    },
-    "TestGorilla": {
-      "count": 1,
-      "job_ids": [
-        "8bb632e4f51a"
-      ],
-      "last_seen": "2026-09-21T23:06:11.418207+00:00"
     },
     "Thatchers Cider": {
       "count": 1,
@@ -735,6 +706,20 @@
       ],
       "last_seen": "2026-09-22T21:55:10.597989+00:00"
     },
+    "Workana": {
+      "count": 1,
+      "job_ids": [
+        "9b41c1eeebc9"
+      ],
+      "last_seen": "2026-09-25T01:18:46.161363+00:00"
+    },
+    "eClinical Solutions": {
+      "count": 1,
+      "job_ids": [
+        "24895f61f51e"
+      ],
+      "last_seen": "2026-09-25T01:18:46.161363+00:00"
+    },
     "iMerit Technology": {
       "count": 3,
       "job_ids": [
@@ -752,5 +737,5 @@
       "last_seen": "2026-09-22T21:55:10.597989+00:00"
     }
   },
-  "updated_at": "2026-09-24T22:12:21.680790+00:00"
+  "updated_at": "2026-09-25T01:18:46.161363+00:00"
 }
