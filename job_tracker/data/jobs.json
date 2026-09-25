@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-25T13:30:17.734702+00:00",
+      "id": "58aa43db18aa",
+      "location": "Remote",
+      "posted_at": "2026-09-25T12:11:07+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-5cpl"
+    },
+    {
       "company": "Sleek",
       "fetched_at": "2026-09-25T07:28:20.188268+00:00",
       "id": "081ec9073d83",
@@ -3137,64 +3153,7 @@
       ],
       "title": "8 Remote SWE Jobs You Can Apply to From Anywhere (Sep 22)",
       "url": "https://dev.to/crackr/8-remote-swe-jobs-you-can-apply-to-from-anywhere-sep-22-2knp"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-22T14:33:59.490015+00:00",
-      "id": "f1093c2e3b7f",
-      "location": "Remote",
-      "posted_at": "2026-09-22T10:17:58+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4ppg"
-    },
-    {
-      "company": "Copenhagen Optimization",
-      "fetched_at": "2026-09-22T09:45:43.234161+00:00",
-      "id": "f6a2d43e97e9",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "virtual assistant",
-        "strategy",
-        "customer support",
-        "dev",
-        "marketing",
-        "exec",
-        "content writing",
-        "ops",
-        "golang",
-        "digital nomad"
-      ],
-      "title": "Marketing Student Assistant",
-      "url": "https://remoteOK.com/remote-jobs/remote-marketing-student-assistant-copenhagen-optimization-1137381"
-    },
-    {
-      "company": "NOPE",
-      "fetched_at": "2026-09-22T09:45:43.234161+00:00",
-      "id": "2d6c3bce7fd7",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "marketing",
-        "education",
-        "technical",
-        "content writing",
-        "social media",
-        "ai",
-        "social"
-      ],
-      "title": "Social Comms",
-      "url": "https://remoteOK.com/remote-jobs/remote-social-comms-nope-1137314"
     }
   ],
-  "updated_at": "2026-09-25T07:28:20.188268+00:00"
+  "updated_at": "2026-09-25T13:30:17.734702+00:00"
 }
