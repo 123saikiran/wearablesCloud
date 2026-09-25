@@ -1,6 +1,132 @@
 {
   "jobs": [
     {
+      "company": "Mercier Consultancy Group",
+      "fetched_at": "2026-09-25T18:24:07.220322+00:00",
+      "id": "c4f2e1b28841",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "consulting",
+        "education",
+        "technical",
+        "customer support",
+        "marketing",
+        "travel",
+        "excel",
+        "medical",
+        "recruiter"
+      ],
+      "title": "Danish Speaking Solutions Consultant Work Sofia Bulgaria",
+      "url": "https://remoteOK.com/remote-jobs/remote-danish-speaking-solutions-consultant-work-sofia-bulgaria-mercier-consultancy-group-1137431"
+    },
+    {
+      "company": "Copenhagen Optimization",
+      "fetched_at": "2026-09-25T18:24:07.220322+00:00",
+      "id": "f6a2d43e97e9",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "virtual assistant",
+        "strategy",
+        "customer support",
+        "dev",
+        "marketing",
+        "exec",
+        "content writing",
+        "ops",
+        "golang",
+        "digital nomad"
+      ],
+      "title": "Marketing Student Assistant",
+      "url": "https://remoteOK.com/remote-jobs/remote-marketing-student-assistant-copenhagen-optimization-1137381"
+    },
+    {
+      "company": "NOPE",
+      "fetched_at": "2026-09-25T18:24:07.220322+00:00",
+      "id": "2d6c3bce7fd7",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "marketing",
+        "education",
+        "technical",
+        "content writing",
+        "social media",
+        "ai",
+        "social"
+      ],
+      "title": "Social Comms",
+      "url": "https://remoteOK.com/remote-jobs/remote-social-comms-nope-1137314"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-25T18:24:07.220322+00:00",
+      "id": "c3fa75f71a7e",
+      "location": "Remote",
+      "posted_at": "2026-09-25T17:09:39+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1nbo"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-09-25T18:24:07.220322+00:00",
+      "id": "13cd5a539b4c",
+      "location": "Remote",
+      "posted_at": "2026-09-25T15:00:17+00:00",
+      "source": "devto",
+      "tags": [
+        "beginners",
+        "jobs",
+        "career",
+        "programming"
+      ],
+      "title": "These Companies Want Interns This Summer (Sep 25)",
+      "url": "https://dev.to/crackr/these-companies-want-interns-this-summer-sep-25-2c1j"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-09-25T18:24:07.220322+00:00",
+      "id": "af1cfc62b13c",
+      "location": "Remote",
+      "posted_at": "2026-09-25T15:00:13+00:00",
+      "source": "devto",
+      "tags": [
+        "remotework",
+        "jobs",
+        "webdev",
+        "career"
+      ],
+      "title": "8 Remote SWE Jobs You Can Apply to From Anywhere (Sep 25)",
+      "url": "https://dev.to/crackr/8-remote-swe-jobs-you-can-apply-to-from-anywhere-sep-25-383e"
+    },
+    {
+      "company": "MARU",
+      "fetched_at": "2026-09-25T18:24:07.220322+00:00",
+      "id": "0b1a21a3c6e4",
+      "location": "Remote",
+      "posted_at": "2026-09-25T14:02:02+00:00",
+      "source": "devto",
+      "tags": [
+        "japan",
+        "career",
+        "jobs",
+        "salary"
+      ],
+      "title": "SES in Japan: How to Spot a Body-Shop Before You Sign (From a Japanese Engineer)",
+      "url": "https://dev.to/maru_honnedev_39f51f07cc/ses-in-japan-how-to-spot-a-body-shop-before-you-sign-from-a-japanese-engineer-3lfa"
+    },
+    {
       "company": "RAZIX DEVIL NEMESIS (Loki)",
       "fetched_at": "2026-09-25T13:30:17.734702+00:00",
       "id": "58aa43db18aa",
@@ -3105,55 +3231,7 @@
       ],
       "title": "HR Operations Specialist",
       "url": "https://remoteOK.com/remote-jobs/remote-hr-operations-specialist-law-offices-of-sabrina-li-1137386"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-22T18:40:15.307459+00:00",
-      "id": "2bda0c1cd460",
-      "location": "Remote",
-      "posted_at": "2026-09-22T15:04:11+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-m9l"
-    },
-    {
-      "company": "Crackr",
-      "fetched_at": "2026-09-22T18:40:15.307459+00:00",
-      "id": "5a365f2fc5d2",
-      "location": "Remote",
-      "posted_at": "2026-09-22T15:00:19+00:00",
-      "source": "devto",
-      "tags": [
-        "beginners",
-        "jobs",
-        "career",
-        "programming"
-      ],
-      "title": "These Companies Want Interns This Summer (Sep 22)",
-      "url": "https://dev.to/crackr/these-companies-want-interns-this-summer-sep-22-55ib"
-    },
-    {
-      "company": "Crackr",
-      "fetched_at": "2026-09-22T18:40:15.307459+00:00",
-      "id": "e574e3f92f60",
-      "location": "Remote",
-      "posted_at": "2026-09-22T15:00:15+00:00",
-      "source": "devto",
-      "tags": [
-        "remotework",
-        "jobs",
-        "webdev",
-        "career"
-      ],
-      "title": "8 Remote SWE Jobs You Can Apply to From Anywhere (Sep 22)",
-      "url": "https://dev.to/crackr/8-remote-swe-jobs-you-can-apply-to-from-anywhere-sep-22-2knp"
     }
   ],
-  "updated_at": "2026-09-25T13:30:17.734702+00:00"
+  "updated_at": "2026-09-25T18:24:07.220322+00:00"
 }

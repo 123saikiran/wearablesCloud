@@ -144,17 +144,24 @@
       ],
       "last_seen": "2026-09-22T21:55:10.597989+00:00"
     },
+    "Copenhagen Optimization": {
+      "count": 1,
+      "job_ids": [
+        "f6a2d43e97e9"
+      ],
+      "last_seen": "2026-09-25T18:24:07.220322+00:00"
+    },
     "Crackr": {
       "count": 6,
       "job_ids": [
+        "13cd5a539b4c",
+        "af1cfc62b13c",
         "3d7345af9e04",
         "2f28e332f082",
         "89ddf36159cc",
-        "3a32f6f5e7d5",
-        "5a365f2fc5d2",
-        "e574e3f92f60"
+        "3a32f6f5e7d5"
       ],
-      "last_seen": "2026-09-24T15:00:16+00:00"
+      "last_seen": "2026-09-25T15:00:17+00:00"
     },
     "Crystalia Glass LLC": {
       "count": 1,
@@ -391,12 +398,26 @@
       ],
       "last_seen": "2026-09-22T21:55:10.597989+00:00"
     },
+    "MARU": {
+      "count": 1,
+      "job_ids": [
+        "0b1a21a3c6e4"
+      ],
+      "last_seen": "2026-09-25T14:02:02+00:00"
+    },
     "Magic Eden": {
       "count": 1,
       "job_ids": [
         "b339cea9a854"
       ],
       "last_seen": "2026-09-23T00:12:13.829771+00:00"
+    },
+    "Mercier Consultancy Group": {
+      "count": 1,
+      "job_ids": [
+        "c4f2e1b28841"
+      ],
+      "last_seen": "2026-09-25T18:24:07.220322+00:00"
     },
     "Mindrift - Data annotation": {
       "count": 1,
@@ -418,6 +439,13 @@
         "743ecd197f3b"
       ],
       "last_seen": "2026-09-22T21:55:10.597989+00:00"
+    },
+    "NOPE": {
+      "count": 1,
+      "job_ids": [
+        "2d6c3bce7fd7"
+      ],
+      "last_seen": "2026-09-25T18:24:07.220322+00:00"
     },
     "NT Health": {
       "count": 1,
@@ -506,6 +534,7 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 19,
       "job_ids": [
+        "c3fa75f71a7e",
         "58aa43db18aa",
         "d4f709f40ab4",
         "e82a66472b6f",
@@ -523,10 +552,9 @@
         "79f279b07231",
         "e3ca167cc0be",
         "3c2c18f8f7db",
-        "e457bdba9e19",
-        "2bda0c1cd460"
+        "e457bdba9e19"
       ],
-      "last_seen": "2026-09-25T12:11:07+00:00"
+      "last_seen": "2026-09-25T17:09:39+00:00"
     },
     "RedMimicry": {
       "count": 1,
@@ -760,5 +788,5 @@
       "last_seen": "2026-09-22T21:55:10.597989+00:00"
     }
   },
-  "updated_at": "2026-09-25T13:30:17.734702+00:00"
+  "updated_at": "2026-09-25T18:24:07.220322+00:00"
 }
