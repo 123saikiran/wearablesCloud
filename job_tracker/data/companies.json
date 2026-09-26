@@ -156,13 +156,6 @@
       ],
       "last_seen": "2026-09-26T01:21:12.203208+00:00"
     },
-    "David Stark": {
-      "count": 1,
-      "job_ids": [
-        "f60b8457c100"
-      ],
-      "last_seen": "2026-09-23T02:27:19+00:00"
-    },
     "Delinea": {
       "count": 2,
       "job_ids": [
@@ -170,13 +163,6 @@
         "5dc626541a14"
       ],
       "last_seen": "2026-09-26T01:21:12.203208+00:00"
-    },
-    "Dodo Data": {
-      "count": 1,
-      "job_ids": [
-        "288681d91932"
-      ],
-      "last_seen": "2026-09-23T05:34:52+00:00"
     },
     "DoiT": {
       "count": 1,
@@ -240,6 +226,13 @@
         "711b2ca9a481"
       ],
       "last_seen": "2026-09-26T01:21:12.203208+00:00"
+    },
+    "Founder of SwapLearn": {
+      "count": 1,
+      "job_ids": [
+        "612d5667bde6"
+      ],
+      "last_seen": "2026-09-26T02:32:04+00:00"
     },
     "FreedomPay": {
       "count": 1,
@@ -370,12 +363,26 @@
       ],
       "last_seen": "2026-09-25T14:02:02+00:00"
     },
+    "Magic Eden": {
+      "count": 1,
+      "job_ids": [
+        "b339cea9a854"
+      ],
+      "last_seen": "2026-09-26T07:22:49.198737+00:00"
+    },
     "Mercier Consultancy Group": {
       "count": 1,
       "job_ids": [
         "c4f2e1b28841"
       ],
       "last_seen": "2026-09-25T18:24:07.220322+00:00"
+    },
+    "Mindrift - Data annotation": {
+      "count": 1,
+      "job_ids": [
+        "27114a112780"
+      ],
+      "last_seen": "2026-09-26T07:22:49.198737+00:00"
     },
     "Mirantis": {
       "count": 1,
@@ -478,6 +485,8 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 18,
       "job_ids": [
+        "e98eb468657b",
+        "e4f924e7c141",
         "06467ff9951c",
         "c12a2ced15c9",
         "c3fa75f71a7e",
@@ -493,11 +502,9 @@
         "c677de7c3f14",
         "08305e69c11b",
         "a33c4c0c805b",
-        "9de906c5cf2c",
-        "66e95f4743ea",
-        "79f279b07231"
+        "9de906c5cf2c"
       ],
-      "last_seen": "2026-09-25T23:25:41+00:00"
+      "last_seen": "2026-09-26T06:43:01+00:00"
     },
     "RedMimicry": {
       "count": 1,
@@ -644,11 +651,11 @@
     "Vladimir Stepanenko": {
       "count": 3,
       "job_ids": [
+        "68b2615e24e2",
         "694e33b0b0a3",
-        "4317ccaedccc",
-        "44a4ad6c85c8"
+        "4317ccaedccc"
       ],
-      "last_seen": "2026-09-25T06:00:37+00:00"
+      "last_seen": "2026-09-26T06:01:07+00:00"
     },
     "Warehance": {
       "count": 1,
@@ -702,5 +709,5 @@
       "last_seen": "2026-09-26T01:21:12.203208+00:00"
     }
   },
-  "updated_at": "2026-09-26T01:21:12.203208+00:00"
+  "updated_at": "2026-09-26T07:22:49.198737+00:00"
 }
