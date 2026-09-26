@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-26T22:35:36.945897+00:00",
+      "id": "f0238500c4b1",
+      "location": "Remote",
+      "posted_at": "2026-09-26T21:32:09+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2kkd"
+    },
+    {
       "company": "Omega Enterprises",
       "fetched_at": "2026-09-26T19:44:53.786154+00:00",
       "id": "f27fd8c61f4a",
@@ -2913,23 +2929,7 @@
       ],
       "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-495m"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-23T23:30:50.436288+00:00",
-      "id": "08305e69c11b",
-      "location": "Remote",
-      "posted_at": "2026-09-23T20:33:32+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3e2f"
     }
   ],
-  "updated_at": "2026-09-26T19:44:53.786154+00:00"
+  "updated_at": "2026-09-26T22:35:36.945897+00:00"
 }
