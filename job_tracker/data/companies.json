@@ -314,6 +314,13 @@
       ],
       "last_seen": "2026-09-26T01:21:12.203208+00:00"
     },
+    "Johnson Controls": {
+      "count": 1,
+      "job_ids": [
+        "03252034ba51"
+      ],
+      "last_seen": "2026-09-27T01:14:57.790293+00:00"
+    },
     "Joshua Smith": {
       "count": 1,
       "job_ids": [
@@ -513,6 +520,7 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 19,
       "job_ids": [
+        "6dc7de492c34",
         "f0238500c4b1",
         "eb8cda0c9798",
         "d8db1bd08d39",
@@ -530,10 +538,9 @@
         "7cea3dd9b97f",
         "40f0a2c6c6f2",
         "d3153a30028e",
-        "1ff08c1263f0",
-        "c677de7c3f14"
+        "1ff08c1263f0"
       ],
-      "last_seen": "2026-09-26T21:32:09+00:00"
+      "last_seen": "2026-09-26T23:52:01+00:00"
     },
     "RedMimicry": {
       "count": 1,
@@ -634,13 +641,6 @@
       ],
       "last_seen": "2026-09-26T19:44:53.786154+00:00"
     },
-    "The AI Whistleblower Initiative": {
-      "count": 1,
-      "job_ids": [
-        "916cd2848e14"
-      ],
-      "last_seen": "2026-09-23T23:30:50.436288+00:00"
-    },
     "Transportation Partners &amp; Logistics": {
       "count": 1,
       "job_ids": [
@@ -669,13 +669,6 @@
         "31b562d1b212"
       ],
       "last_seen": "2026-09-25T21:11:19+00:00"
-    },
-    "VirtuHire": {
-      "count": 1,
-      "job_ids": [
-        "c1f0f420cfa6"
-      ],
-      "last_seen": "2026-09-23T23:30:50.436288+00:00"
     },
     "Vladimir Stepanenko": {
       "count": 3,
@@ -722,11 +715,10 @@
       "last_seen": "2026-09-25T01:18:46.161363+00:00"
     },
     "iMerit Technology": {
-      "count": 3,
+      "count": 2,
       "job_ids": [
         "7e56423bc195",
-        "a0b1d92a97dd",
-        "aad0d581511f"
+        "a0b1d92a97dd"
       ],
       "last_seen": "2026-09-26T16:59:35.238299+00:00"
     },
@@ -738,5 +730,5 @@
       "last_seen": "2026-09-26T01:21:12.203208+00:00"
     }
   },
-  "updated_at": "2026-09-26T22:35:36.945897+00:00"
+  "updated_at": "2026-09-27T01:14:57.790293+00:00"
 }
