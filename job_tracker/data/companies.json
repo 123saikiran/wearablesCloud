@@ -42,6 +42,13 @@
       ],
       "last_seen": "2026-09-26T01:21:12.203208+00:00"
     },
+    "Arango": {
+      "count": 1,
+      "job_ids": [
+        "0bad7d05c1cb"
+      ],
+      "last_seen": "2026-09-27T18:12:05.320714+00:00"
+    },
     "Ashby": {
       "count": 1,
       "job_ids": [
@@ -85,14 +92,15 @@
       "last_seen": "2026-09-26T01:21:12.203208+00:00"
     },
     "Bjak": {
-      "count": 4,
+      "count": 5,
       "job_ids": [
+        "22294040f070",
         "578e1bcc6323",
         "a9076f9b51af",
         "5eefc2524a45",
         "68763914ed52"
       ],
-      "last_seen": "2026-09-27T13:45:11.346600+00:00"
+      "last_seen": "2026-09-27T18:12:05.320714+00:00"
     },
     "Blackbird Interactive": {
       "count": 1,
@@ -146,14 +154,14 @@
     "Crackr": {
       "count": 6,
       "job_ids": [
+        "e27c4e8b6a29",
+        "44c5a0514fc7",
         "2a9b3f981a8d",
         "cbfe534624ba",
         "13cd5a539b4c",
-        "af1cfc62b13c",
-        "3d7345af9e04",
-        "2f28e332f082"
+        "af1cfc62b13c"
       ],
-      "last_seen": "2026-09-26T15:00:16+00:00"
+      "last_seen": "2026-09-27T15:00:16+00:00"
     },
     "Crystalia Glass LLC": {
       "count": 1,
@@ -418,6 +426,14 @@
       ],
       "last_seen": "2026-09-26T16:59:35.238299+00:00"
     },
+    "Mitul": {
+      "count": 2,
+      "job_ids": [
+        "9cd782fabe60",
+        "8806df7a8c8d"
+      ],
+      "last_seen": "2026-09-27T16:41:34+00:00"
+    },
     "MultiplyMii": {
       "count": 1,
       "job_ids": [
@@ -438,6 +454,13 @@
         "2108aacaa944"
       ],
       "last_seen": "2026-09-26T01:21:12.203208+00:00"
+    },
+    "OkWhen": {
+      "count": 1,
+      "job_ids": [
+        "aafea233ce0d"
+      ],
+      "last_seen": "2026-09-27T18:12:05.320714+00:00"
     },
     "Omega Enterprises": {
       "count": 1,
@@ -495,13 +518,6 @@
       ],
       "last_seen": "2026-09-26T01:21:12.203208+00:00"
     },
-    "Prenosis": {
-      "count": 1,
-      "job_ids": [
-        "e9064f4ba338"
-      ],
-      "last_seen": "2026-09-24T14:47:46.495399+00:00"
-    },
     "PulseMediaNL": {
       "count": 1,
       "job_ids": [
@@ -512,6 +528,7 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 19,
       "job_ids": [
+        "3a3ee4f5daef",
         "955644b7a139",
         "5463be4af1ed",
         "dd38efb1ca5f",
@@ -529,10 +546,9 @@
         "d4f709f40ab4",
         "e82a66472b6f",
         "b74dc31e20f4",
-        "11f351c63d7c",
-        "7cea3dd9b97f"
+        "11f351c63d7c"
       ],
-      "last_seen": "2026-09-27T13:17:21+00:00"
+      "last_seen": "2026-09-27T17:51:22+00:00"
     },
     "RedMimicry": {
       "count": 1,
@@ -554,6 +570,13 @@
         "cf3117844396"
       ],
       "last_seen": "2026-09-26T01:21:12.203208+00:00"
+    },
+    "SIHO Insurance Services": {
+      "count": 1,
+      "job_ids": [
+        "a3c6466c8e30"
+      ],
+      "last_seen": "2026-09-27T18:12:05.320714+00:00"
     },
     "SLB": {
       "count": 1,
@@ -684,13 +707,6 @@
       ],
       "last_seen": "2026-09-27T06:01:16+00:00"
     },
-    "Warehance": {
-      "count": 1,
-      "job_ids": [
-        "b229c41a3801"
-      ],
-      "last_seen": "2026-09-24T14:47:46.495399+00:00"
-    },
     "Webnotics Pvt Ltd": {
       "count": 1,
       "job_ids": [
@@ -736,5 +752,5 @@
       "last_seen": "2026-09-26T01:21:12.203208+00:00"
     }
   },
-  "updated_at": "2026-09-27T13:45:11.346600+00:00"
+  "updated_at": "2026-09-27T18:12:05.320714+00:00"
 }
