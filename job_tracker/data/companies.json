@@ -528,6 +528,7 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 19,
       "job_ids": [
+        "37ac7eddb060",
         "064730a92e07",
         "c36b6276bf5d",
         "3a3ee4f5daef",
@@ -545,10 +546,9 @@
         "c12a2ced15c9",
         "c3fa75f71a7e",
         "58aa43db18aa",
-        "d4f709f40ab4",
-        "e82a66472b6f"
+        "d4f709f40ab4"
       ],
-      "last_seen": "2026-09-27T23:23:19+00:00"
+      "last_seen": "2026-09-28T01:48:16+00:00"
     },
     "RedMimicry": {
       "count": 1,
@@ -684,13 +684,6 @@
       ],
       "last_seen": "2026-09-26T01:21:12.203208+00:00"
     },
-    "UMAR ARSHAD": {
-      "count": 1,
-      "job_ids": [
-        "6e70ca8ba9a2"
-      ],
-      "last_seen": "2026-09-25T04:36:45+00:00"
-    },
     "ValdemarBlack3817": {
       "count": 1,
       "job_ids": [
@@ -701,11 +694,11 @@
     "Vladimir Stepanenko": {
       "count": 3,
       "job_ids": [
+        "88b1a12e61e2",
         "f7319e2809a2",
-        "68b2615e24e2",
-        "694e33b0b0a3"
+        "68b2615e24e2"
       ],
-      "last_seen": "2026-09-27T06:01:16+00:00"
+      "last_seen": "2026-09-28T06:00:48+00:00"
     },
     "Warehance": {
       "count": 1,
@@ -728,27 +721,14 @@
       ],
       "last_seen": "2026-09-26T01:21:12.203208+00:00"
     },
-    "Workana": {
-      "count": 1,
-      "job_ids": [
-        "9b41c1eeebc9"
-      ],
-      "last_seen": "2026-09-25T01:18:46.161363+00:00"
-    },
-    "eClinical Solutions": {
-      "count": 1,
-      "job_ids": [
-        "24895f61f51e"
-      ],
-      "last_seen": "2026-09-25T01:18:46.161363+00:00"
-    },
     "iMerit Technology": {
-      "count": 2,
+      "count": 3,
       "job_ids": [
+        "a0b1d92a97dd",
         "aad0d581511f",
         "7e56423bc195"
       ],
-      "last_seen": "2026-09-27T07:54:23.817049+00:00"
+      "last_seen": "2026-09-28T06:33:39.843186+00:00"
     },
     "testacy": {
       "count": 1,
@@ -758,5 +738,5 @@
       "last_seen": "2026-09-26T01:21:12.203208+00:00"
     }
   },
-  "updated_at": "2026-09-28T00:31:56.950563+00:00"
+  "updated_at": "2026-09-28T06:33:39.843186+00:00"
 }
