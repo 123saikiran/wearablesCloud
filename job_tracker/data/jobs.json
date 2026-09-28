@@ -1,6 +1,80 @@
 {
   "jobs": [
     {
+      "company": "Workana",
+      "fetched_at": "2026-09-28T15:12:17.959791+00:00",
+      "id": "9b41c1eeebc9",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [],
+      "title": "MecÃ¡nico Automotriz DiagnÃ³stico y Presupuestos",
+      "url": "https://remoteOK.com/remote-jobs/remote-mecanico-automotriz-diagnostico-y-presupuestos-workana-1137429"
+    },
+    {
+      "company": "eClinical Solutions",
+      "fetched_at": "2026-09-28T15:12:17.959791+00:00",
+      "id": "24895f61f51e",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "cloud",
+        "exec",
+        "stats"
+      ],
+      "title": "External Data Specialist",
+      "url": "https://remoteOK.com/remote-jobs/remote-external-data-specialist-eclinical-solutions-1137375"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-09-28T15:12:17.959791+00:00",
+      "id": "2ef034e3e39d",
+      "location": "Remote",
+      "posted_at": "2026-09-28T15:00:17+00:00",
+      "source": "devto",
+      "tags": [
+        "beginners",
+        "jobs",
+        "career",
+        "programming"
+      ],
+      "title": "These Companies Want Interns This Summer (Sep 28)",
+      "url": "https://dev.to/crackr/these-companies-want-interns-this-summer-sep-28-49f4"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-09-28T15:12:17.959791+00:00",
+      "id": "b83b8462ad14",
+      "location": "Remote",
+      "posted_at": "2026-09-28T15:00:13+00:00",
+      "source": "devto",
+      "tags": [
+        "remotework",
+        "jobs",
+        "webdev",
+        "career"
+      ],
+      "title": "8 Remote SWE Jobs You Can Apply to From Anywhere (Sep 28)",
+      "url": "https://dev.to/crackr/8-remote-swe-jobs-you-can-apply-to-from-anywhere-sep-28-5aa2"
+    },
+    {
+      "company": "Mitul",
+      "fetched_at": "2026-09-28T15:12:17.959791+00:00",
+      "id": "e7fd3cf633b6",
+      "location": "Remote",
+      "posted_at": "2026-09-28T14:00:40+00:00",
+      "source": "devto",
+      "tags": [
+        "career",
+        "resume",
+        "jobs",
+        "productivity"
+      ],
+      "title": "The six sections screening software reads first",
+      "url": "https://dev.to/mitulgelani/the-six-sections-screening-software-reads-first-3n3n"
+    },
+    {
       "company": "iMerit Technology",
       "fetched_at": "2026-09-28T06:33:39.843186+00:00",
       "id": "a0b1d92a97dd",
@@ -2786,196 +2860,7 @@
       ],
       "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1nbo"
-    },
-    {
-      "company": "Crackr",
-      "fetched_at": "2026-09-25T18:24:07.220322+00:00",
-      "id": "13cd5a539b4c",
-      "location": "Remote",
-      "posted_at": "2026-09-25T15:00:17+00:00",
-      "source": "devto",
-      "tags": [
-        "beginners",
-        "jobs",
-        "career",
-        "programming"
-      ],
-      "title": "These Companies Want Interns This Summer (Sep 25)",
-      "url": "https://dev.to/crackr/these-companies-want-interns-this-summer-sep-25-2c1j"
-    },
-    {
-      "company": "Crackr",
-      "fetched_at": "2026-09-25T18:24:07.220322+00:00",
-      "id": "af1cfc62b13c",
-      "location": "Remote",
-      "posted_at": "2026-09-25T15:00:13+00:00",
-      "source": "devto",
-      "tags": [
-        "remotework",
-        "jobs",
-        "webdev",
-        "career"
-      ],
-      "title": "8 Remote SWE Jobs You Can Apply to From Anywhere (Sep 25)",
-      "url": "https://dev.to/crackr/8-remote-swe-jobs-you-can-apply-to-from-anywhere-sep-25-383e"
-    },
-    {
-      "company": "MARU",
-      "fetched_at": "2026-09-25T18:24:07.220322+00:00",
-      "id": "0b1a21a3c6e4",
-      "location": "Remote",
-      "posted_at": "2026-09-25T14:02:02+00:00",
-      "source": "devto",
-      "tags": [
-        "japan",
-        "career",
-        "jobs",
-        "salary"
-      ],
-      "title": "SES in Japan: How to Spot a Body-Shop Before You Sign (From a Japanese Engineer)",
-      "url": "https://dev.to/maru_honnedev_39f51f07cc/ses-in-japan-how-to-spot-a-body-shop-before-you-sign-from-a-japanese-engineer-3lfa"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-25T13:30:17.734702+00:00",
-      "id": "58aa43db18aa",
-      "location": "Remote",
-      "posted_at": "2026-09-25T12:11:07+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-5cpl"
-    },
-    {
-      "company": "Sleek",
-      "fetched_at": "2026-09-25T07:28:20.188268+00:00",
-      "id": "081ec9073d83",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "payroll",
-        "virtual assistant",
-        "education",
-        "technical",
-        "supervisor",
-        "customer support",
-        "dev",
-        "marketing",
-        "exec",
-        "accounting",
-        "finance",
-        "video",
-        "junior",
-        "ops",
-        "excel",
-        "sys admin",
-        "digital nomad"
-      ],
-      "title": "Junior Payroll Assistant",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-payroll-assistant-sleek-1137391"
-    },
-    {
-      "company": "Harper",
-      "fetched_at": "2026-09-25T07:28:20.188268+00:00",
-      "id": "3991e551a545",
-      "location": "San Francisco",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "exec",
-        "design",
-        "sys admin",
-        "docker",
-        "technical",
-        "customer support",
-        "dev",
-        "marketing",
-        "video",
-        "finance",
-        "cloud",
-        "medical",
-        "engineer",
-        "digital nomad"
-      ],
-      "title": "Engineering Manager TLM Platform",
-      "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-tlm-platform-harper-1137380"
-    },
-    {
-      "company": "GiveWell",
-      "fetched_at": "2026-09-25T07:28:20.188268+00:00",
-      "id": "0670c33f2a79",
-      "location": "United States",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "exec",
-        "senior",
-        "medical"
-      ],
-      "title": "Senior Communications Officer Strategic Communications",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-communications-officer-strategic-communications-givewell-1137379"
-    },
-    {
-      "company": "TestGorilla",
-      "fetched_at": "2026-09-25T07:28:20.188268+00:00",
-      "id": "8bb632e4f51a",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "hr",
-        "non tech"
-      ],
-      "title": "Senior People & Talent Operations Partner",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-people-talent-operations-partner-testgorilla-1137378"
-    },
-    {
-      "company": "Empire Assets",
-      "fetched_at": "2026-09-25T07:28:20.188268+00:00",
-      "id": "b448eb571a3a",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "part time",
-        "junior",
-        "analyst",
-        "crypto",
-        "other",
-        "web3",
-        "blockchain",
-        "defi",
-        "bitcoin",
-        "ethereum",
-        "remote",
-        "trader",
-        "Binance"
-      ],
-      "title": "Junior Crypto Analyst & Trader",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-empire-assets-1137307"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-25T07:28:20.188268+00:00",
-      "id": "d4f709f40ab4",
-      "location": "Remote",
-      "posted_at": "2026-09-25T06:37:08+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-532p"
     }
   ],
-  "updated_at": "2026-09-28T06:33:39.843186+00:00"
+  "updated_at": "2026-09-28T15:12:17.959791+00:00"
 }

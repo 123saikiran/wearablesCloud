@@ -154,14 +154,14 @@
     "Crackr": {
       "count": 6,
       "job_ids": [
+        "2ef034e3e39d",
+        "b83b8462ad14",
         "e27c4e8b6a29",
         "44c5a0514fc7",
         "2a9b3f981a8d",
-        "cbfe534624ba",
-        "13cd5a539b4c",
-        "af1cfc62b13c"
+        "cbfe534624ba"
       ],
-      "last_seen": "2026-09-27T15:00:16+00:00"
+      "last_seen": "2026-09-28T15:00:17+00:00"
     },
     "Crystalia Glass LLC": {
       "count": 1,
@@ -205,13 +205,6 @@
         "8ff5ff432a8f"
       ],
       "last_seen": "2026-09-26T01:21:12.203208+00:00"
-    },
-    "Empire Assets": {
-      "count": 1,
-      "job_ids": [
-        "b448eb571a3a"
-      ],
-      "last_seen": "2026-09-25T07:28:20.188268+00:00"
     },
     "Enable Dental": {
       "count": 1,
@@ -270,13 +263,6 @@
       ],
       "last_seen": "2026-09-26T01:21:12.203208+00:00"
     },
-    "GiveWell": {
-      "count": 1,
-      "job_ids": [
-        "0670c33f2a79"
-      ],
-      "last_seen": "2026-09-25T07:28:20.188268+00:00"
-    },
     "Grapefruit Health": {
       "count": 1,
       "job_ids": [
@@ -290,13 +276,6 @@
         "5f67eddcfa26"
       ],
       "last_seen": "2026-09-26T01:21:12.203208+00:00"
-    },
-    "Harper": {
-      "count": 1,
-      "job_ids": [
-        "3991e551a545"
-      ],
-      "last_seen": "2026-09-25T07:28:20.188268+00:00"
     },
     "HighLevel": {
       "count": 1,
@@ -384,13 +363,6 @@
       ],
       "last_seen": "2026-09-26T01:21:12.203208+00:00"
     },
-    "MARU": {
-      "count": 1,
-      "job_ids": [
-        "0b1a21a3c6e4"
-      ],
-      "last_seen": "2026-09-25T14:02:02+00:00"
-    },
     "Magic Eden": {
       "count": 1,
       "job_ids": [
@@ -420,12 +392,13 @@
       "last_seen": "2026-09-26T16:59:35.238299+00:00"
     },
     "Mitul": {
-      "count": 2,
+      "count": 3,
       "job_ids": [
+        "e7fd3cf633b6",
         "9cd782fabe60",
         "8806df7a8c8d"
       ],
-      "last_seen": "2026-09-27T16:41:34+00:00"
+      "last_seen": "2026-09-28T14:00:40+00:00"
     },
     "MultiplyMii": {
       "count": 1,
@@ -526,7 +499,7 @@
       "last_seen": "2026-09-26T01:21:12.203208+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 19,
+      "count": 17,
       "job_ids": [
         "37ac7eddb060",
         "064730a92e07",
@@ -544,9 +517,7 @@
         "e4f924e7c141",
         "06467ff9951c",
         "c12a2ced15c9",
-        "c3fa75f71a7e",
-        "58aa43db18aa",
-        "d4f709f40ab4"
+        "c3fa75f71a7e"
       ],
       "last_seen": "2026-09-28T01:48:16+00:00"
     },
@@ -606,13 +577,6 @@
       ],
       "last_seen": "2026-09-26T01:21:12.203208+00:00"
     },
-    "Sleek": {
-      "count": 1,
-      "job_ids": [
-        "081ec9073d83"
-      ],
-      "last_seen": "2026-09-25T07:28:20.188268+00:00"
-    },
     "Sophie's Flats Inc.": {
       "count": 1,
       "job_ids": [
@@ -641,13 +605,6 @@
         "f18c1fd14d71"
       ],
       "last_seen": "2026-09-26T19:44:53.786154+00:00"
-    },
-    "TestGorilla": {
-      "count": 1,
-      "job_ids": [
-        "8bb632e4f51a"
-      ],
-      "last_seen": "2026-09-25T07:28:20.188268+00:00"
     },
     "Thatchers Cider": {
       "count": 1,
@@ -721,6 +678,20 @@
       ],
       "last_seen": "2026-09-26T01:21:12.203208+00:00"
     },
+    "Workana": {
+      "count": 1,
+      "job_ids": [
+        "9b41c1eeebc9"
+      ],
+      "last_seen": "2026-09-28T15:12:17.959791+00:00"
+    },
+    "eClinical Solutions": {
+      "count": 1,
+      "job_ids": [
+        "24895f61f51e"
+      ],
+      "last_seen": "2026-09-28T15:12:17.959791+00:00"
+    },
     "iMerit Technology": {
       "count": 3,
       "job_ids": [
@@ -738,5 +709,5 @@
       "last_seen": "2026-09-26T01:21:12.203208+00:00"
     }
   },
-  "updated_at": "2026-09-28T06:33:39.843186+00:00"
+  "updated_at": "2026-09-28T15:12:17.959791+00:00"
 }
