@@ -185,6 +185,13 @@
       ],
       "last_seen": "2026-09-27T02:49:26+00:00"
     },
+    "DoiT": {
+      "count": 1,
+      "job_ids": [
+        "55ad3d8aceec"
+      ],
+      "last_seen": "2026-09-28T00:31:56.950563+00:00"
+    },
     "DomainTools": {
       "count": 1,
       "job_ids": [
@@ -348,13 +355,6 @@
         "e74fef823751"
       ],
       "last_seen": "2026-09-26T01:21:12.203208+00:00"
-    },
-    "Launch Gate": {
-      "count": 1,
-      "job_ids": [
-        "0017ea4e147e"
-      ],
-      "last_seen": "2026-09-25T00:21:11+00:00"
     },
     "Law Offices of Sabrina Li": {
       "count": 1,
@@ -528,6 +528,7 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 19,
       "job_ids": [
+        "064730a92e07",
         "c36b6276bf5d",
         "3a3ee4f5daef",
         "955644b7a139",
@@ -545,10 +546,9 @@
         "c3fa75f71a7e",
         "58aa43db18aa",
         "d4f709f40ab4",
-        "e82a66472b6f",
-        "b74dc31e20f4"
+        "e82a66472b6f"
       ],
-      "last_seen": "2026-09-27T20:28:45+00:00"
+      "last_seen": "2026-09-27T23:23:19+00:00"
     },
     "RedMimicry": {
       "count": 1,
@@ -743,11 +743,10 @@
       "last_seen": "2026-09-25T01:18:46.161363+00:00"
     },
     "iMerit Technology": {
-      "count": 3,
+      "count": 2,
       "job_ids": [
         "aad0d581511f",
-        "7e56423bc195",
-        "a0b1d92a97dd"
+        "7e56423bc195"
       ],
       "last_seen": "2026-09-27T07:54:23.817049+00:00"
     },
@@ -759,5 +758,5 @@
       "last_seen": "2026-09-26T01:21:12.203208+00:00"
     }
   },
-  "updated_at": "2026-09-27T21:57:21.671125+00:00"
+  "updated_at": "2026-09-28T00:31:56.950563+00:00"
 }

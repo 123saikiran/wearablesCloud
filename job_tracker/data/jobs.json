@@ -1,6 +1,40 @@
 {
   "jobs": [
     {
+      "company": "DoiT",
+      "fetched_at": "2026-09-28T00:31:56.950563+00:00",
+      "id": "55ad3d8aceec",
+      "location": "Remote UK",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "technical",
+        "marketing",
+        "cloud",
+        "microsoft",
+        "exec",
+        "sales"
+      ],
+      "title": "Sales Development Representative Attributeâ",
+      "url": "https://remoteOK.com/remote-jobs/"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-28T00:31:56.950563+00:00",
+      "id": "064730a92e07",
+      "location": "Remote",
+      "posted_at": "2026-09-27T23:23:19+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3044"
+    },
+    {
       "company": "Prenosis",
       "fetched_at": "2026-09-27T21:57:21.671125+00:00",
       "id": "e9064f4ba338",
@@ -2968,54 +3002,7 @@
       ],
       "title": "External Data Specialist",
       "url": "https://remoteOK.com/remote-jobs/remote-external-data-specialist-eclinical-solutions-1137375"
-    },
-    {
-      "company": "Launch Gate",
-      "fetched_at": "2026-09-25T01:18:46.161363+00:00",
-      "id": "0017ea4e147e",
-      "location": "Remote",
-      "posted_at": "2026-09-25T00:21:11+00:00",
-      "source": "devto",
-      "tags": [
-        "career",
-        "resume",
-        "jobs",
-        "beginners"
-      ],
-      "title": "Tailoring a resume to a job description: a 15-minute gap check",
-      "url": "https://dev.to/launchgatecheck/tailoring-a-resume-to-a-job-description-a-15-minute-gap-check-213c"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-25T01:18:46.161363+00:00",
-      "id": "b74dc31e20f4",
-      "location": "Remote",
-      "posted_at": "2026-09-24T23:25:27+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-5ehf"
-    },
-    {
-      "company": "iMerit Technology",
-      "fetched_at": "2026-09-24T22:12:21.680790+00:00",
-      "id": "a0b1d92a97dd",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "quality assurance",
-        "ai",
-        "data annotation"
-      ],
-      "title": "Video Data Annotator",
-      "url": "https://remoteOK.com/remote-jobs/remote-video-data-annotator-imerit-technology-1137428"
     }
   ],
-  "updated_at": "2026-09-27T21:57:21.671125+00:00"
+  "updated_at": "2026-09-28T00:31:56.950563+00:00"
 }
