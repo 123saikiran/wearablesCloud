@@ -144,13 +144,6 @@
       ],
       "last_seen": "2026-09-26T01:21:12.203208+00:00"
     },
-    "Copenhagen Optimization": {
-      "count": 1,
-      "job_ids": [
-        "f6a2d43e97e9"
-      ],
-      "last_seen": "2026-09-25T18:24:07.220322+00:00"
-    },
     "Crackr": {
       "count": 6,
       "job_ids": [
@@ -205,6 +198,13 @@
         "8ff5ff432a8f"
       ],
       "last_seen": "2026-09-26T01:21:12.203208+00:00"
+    },
+    "Empire Assets": {
+      "count": 1,
+      "job_ids": [
+        "b448eb571a3a"
+      ],
+      "last_seen": "2026-09-28T21:45:41.272955+00:00"
     },
     "Enable Dental": {
       "count": 1,
@@ -263,6 +263,13 @@
       ],
       "last_seen": "2026-09-26T01:21:12.203208+00:00"
     },
+    "GiveWell": {
+      "count": 1,
+      "job_ids": [
+        "0670c33f2a79"
+      ],
+      "last_seen": "2026-09-28T21:45:41.272955+00:00"
+    },
     "Grapefruit Health": {
       "count": 1,
       "job_ids": [
@@ -276,6 +283,13 @@
         "5f67eddcfa26"
       ],
       "last_seen": "2026-09-26T01:21:12.203208+00:00"
+    },
+    "Harper": {
+      "count": 1,
+      "job_ids": [
+        "3991e551a545"
+      ],
+      "last_seen": "2026-09-28T21:45:41.272955+00:00"
     },
     "HighLevel": {
       "count": 1,
@@ -370,13 +384,6 @@
       ],
       "last_seen": "2026-09-26T07:22:49.198737+00:00"
     },
-    "Mercier Consultancy Group": {
-      "count": 1,
-      "job_ids": [
-        "c4f2e1b28841"
-      ],
-      "last_seen": "2026-09-25T18:24:07.220322+00:00"
-    },
     "Mindrift - Data annotation": {
       "count": 1,
       "job_ids": [
@@ -406,13 +413,6 @@
         "743ecd197f3b"
       ],
       "last_seen": "2026-09-26T01:21:12.203208+00:00"
-    },
-    "NOPE": {
-      "count": 1,
-      "job_ids": [
-        "2d6c3bce7fd7"
-      ],
-      "last_seen": "2026-09-25T18:24:07.220322+00:00"
     },
     "NT Health": {
       "count": 1,
@@ -499,8 +499,9 @@
       "last_seen": "2026-09-26T01:21:12.203208+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 17,
+      "count": 16,
       "job_ids": [
+        "fb3f7e2eaba2",
         "37ac7eddb060",
         "064730a92e07",
         "c36b6276bf5d",
@@ -515,11 +516,9 @@
         "5e26c60d4479",
         "e98eb468657b",
         "e4f924e7c141",
-        "06467ff9951c",
-        "c12a2ced15c9",
-        "c3fa75f71a7e"
+        "06467ff9951c"
       ],
-      "last_seen": "2026-09-28T01:48:16+00:00"
+      "last_seen": "2026-09-28T16:06:25+00:00"
     },
     "RedMimicry": {
       "count": 1,
@@ -577,6 +576,13 @@
       ],
       "last_seen": "2026-09-26T01:21:12.203208+00:00"
     },
+    "Sleek": {
+      "count": 1,
+      "job_ids": [
+        "081ec9073d83"
+      ],
+      "last_seen": "2026-09-28T21:45:41.272955+00:00"
+    },
     "Sophie's Flats Inc.": {
       "count": 1,
       "job_ids": [
@@ -606,6 +612,13 @@
       ],
       "last_seen": "2026-09-26T19:44:53.786154+00:00"
     },
+    "TestGorilla": {
+      "count": 1,
+      "job_ids": [
+        "8bb632e4f51a"
+      ],
+      "last_seen": "2026-09-28T21:45:41.272955+00:00"
+    },
     "Thatchers Cider": {
       "count": 1,
       "job_ids": [
@@ -621,11 +634,12 @@
       "last_seen": "2026-09-27T07:54:23.817049+00:00"
     },
     "Tim Zinin": {
-      "count": 1,
+      "count": 2,
       "job_ids": [
+        "b881f022e366",
         "6109359dbd40"
       ],
-      "last_seen": "2026-09-27T07:25:03+00:00"
+      "last_seen": "2026-09-28T19:25:03+00:00"
     },
     "Transportation Partners &amp; Logistics": {
       "count": 1,
@@ -640,13 +654,6 @@
         "b7fdb7582e59"
       ],
       "last_seen": "2026-09-26T01:21:12.203208+00:00"
-    },
-    "ValdemarBlack3817": {
-      "count": 1,
-      "job_ids": [
-        "31b562d1b212"
-      ],
-      "last_seen": "2026-09-25T21:11:19+00:00"
     },
     "Vladimir Stepanenko": {
       "count": 3,
@@ -709,5 +716,5 @@
       "last_seen": "2026-09-26T01:21:12.203208+00:00"
     }
   },
-  "updated_at": "2026-09-28T15:12:17.959791+00:00"
+  "updated_at": "2026-09-28T21:45:41.272955+00:00"
 }

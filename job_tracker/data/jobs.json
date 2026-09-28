@@ -1,6 +1,147 @@
 {
   "jobs": [
     {
+      "company": "Sleek",
+      "fetched_at": "2026-09-28T21:45:41.272955+00:00",
+      "id": "081ec9073d83",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "payroll",
+        "virtual assistant",
+        "education",
+        "technical",
+        "supervisor",
+        "customer support",
+        "dev",
+        "marketing",
+        "exec",
+        "accounting",
+        "finance",
+        "video",
+        "junior",
+        "ops",
+        "excel",
+        "sys admin",
+        "digital nomad"
+      ],
+      "title": "Junior Payroll Assistant",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-payroll-assistant-sleek-1137391"
+    },
+    {
+      "company": "Harper",
+      "fetched_at": "2026-09-28T21:45:41.272955+00:00",
+      "id": "3991e551a545",
+      "location": "San Francisco",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec",
+        "design",
+        "sys admin",
+        "docker",
+        "technical",
+        "customer support",
+        "dev",
+        "marketing",
+        "video",
+        "finance",
+        "cloud",
+        "medical",
+        "engineer",
+        "digital nomad"
+      ],
+      "title": "Engineering Manager TLM Platform",
+      "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-tlm-platform-harper-1137380"
+    },
+    {
+      "company": "GiveWell",
+      "fetched_at": "2026-09-28T21:45:41.272955+00:00",
+      "id": "0670c33f2a79",
+      "location": "United States",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec",
+        "senior",
+        "medical"
+      ],
+      "title": "Senior Communications Officer Strategic Communications",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-communications-officer-strategic-communications-givewell-1137379"
+    },
+    {
+      "company": "TestGorilla",
+      "fetched_at": "2026-09-28T21:45:41.272955+00:00",
+      "id": "8bb632e4f51a",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "hr",
+        "non tech"
+      ],
+      "title": "Senior People & Talent Operations Partner",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-people-talent-operations-partner-testgorilla-1137378"
+    },
+    {
+      "company": "Empire Assets",
+      "fetched_at": "2026-09-28T21:45:41.272955+00:00",
+      "id": "b448eb571a3a",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "part time",
+        "junior",
+        "analyst",
+        "crypto",
+        "other",
+        "web3",
+        "blockchain",
+        "defi",
+        "bitcoin",
+        "ethereum",
+        "remote",
+        "trader",
+        "Binance"
+      ],
+      "title": "Junior Crypto Analyst & Trader",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-empire-assets-1137307"
+    },
+    {
+      "company": "Tim Zinin",
+      "fetched_at": "2026-09-28T21:45:41.272955+00:00",
+      "id": "b881f022e366",
+      "location": "Remote",
+      "posted_at": "2026-09-28T19:25:03+00:00",
+      "source": "devto",
+      "tags": [
+        "apify",
+        "webscraping",
+        "api",
+        "jobs"
+      ],
+      "title": "How to Scrape XING Jobs in the DACH Region Without a Paid API",
+      "url": "https://dev.to/timmyzinin/how-to-scrape-xing-jobs-in-the-dach-region-without-a-paid-api-3958"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-28T21:45:41.272955+00:00",
+      "id": "fb3f7e2eaba2",
+      "location": "Remote",
+      "posted_at": "2026-09-28T16:06:25+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-e7m"
+    },
+    {
       "company": "Workana",
       "fetched_at": "2026-09-28T15:12:17.959791+00:00",
       "id": "9b41c1eeebc9",
@@ -2751,116 +2892,7 @@
       ],
       "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3c5"
-    },
-    {
-      "company": "ValdemarBlack3817",
-      "fetched_at": "2026-09-25T22:08:14.334002+00:00",
-      "id": "31b562d1b212",
-      "location": "Remote",
-      "posted_at": "2026-09-25T21:11:19+00:00",
-      "source": "devto",
-      "tags": [
-        "document",
-        "rendering",
-        "jobs"
-      ],
-      "title": "Inline FastAPI vs Document Rendering Job: Choose Jobs for Variable Page Counts",
-      "url": "https://dev.to/valdemarblack3817/inline-fastapi-vs-document-rendering-job-choose-jobs-for-variable-page-counts-25l"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-25T22:08:14.334002+00:00",
-      "id": "c12a2ced15c9",
-      "location": "Remote",
-      "posted_at": "2026-09-25T20:28:27+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4em6"
-    },
-    {
-      "company": "Mercier Consultancy Group",
-      "fetched_at": "2026-09-25T18:24:07.220322+00:00",
-      "id": "c4f2e1b28841",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "consulting",
-        "education",
-        "technical",
-        "customer support",
-        "marketing",
-        "travel",
-        "excel",
-        "medical",
-        "recruiter"
-      ],
-      "title": "Danish Speaking Solutions Consultant Work Sofia Bulgaria",
-      "url": "https://remoteOK.com/remote-jobs/remote-danish-speaking-solutions-consultant-work-sofia-bulgaria-mercier-consultancy-group-1137431"
-    },
-    {
-      "company": "Copenhagen Optimization",
-      "fetched_at": "2026-09-25T18:24:07.220322+00:00",
-      "id": "f6a2d43e97e9",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "virtual assistant",
-        "strategy",
-        "customer support",
-        "dev",
-        "marketing",
-        "exec",
-        "content writing",
-        "ops",
-        "golang",
-        "digital nomad"
-      ],
-      "title": "Marketing Student Assistant",
-      "url": "https://remoteOK.com/remote-jobs/remote-marketing-student-assistant-copenhagen-optimization-1137381"
-    },
-    {
-      "company": "NOPE",
-      "fetched_at": "2026-09-25T18:24:07.220322+00:00",
-      "id": "2d6c3bce7fd7",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "marketing",
-        "education",
-        "technical",
-        "content writing",
-        "social media",
-        "ai",
-        "social"
-      ],
-      "title": "Social Comms",
-      "url": "https://remoteOK.com/remote-jobs/remote-social-comms-nope-1137314"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-25T18:24:07.220322+00:00",
-      "id": "c3fa75f71a7e",
-      "location": "Remote",
-      "posted_at": "2026-09-25T17:09:39+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1nbo"
     }
   ],
-  "updated_at": "2026-09-28T15:12:17.959791+00:00"
+  "updated_at": "2026-09-28T21:45:41.272955+00:00"
 }
