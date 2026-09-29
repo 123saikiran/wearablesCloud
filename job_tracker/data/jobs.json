@@ -1,6 +1,95 @@
 {
   "jobs": [
     {
+      "company": "Mindrift - Data annotation",
+      "fetched_at": "2026-09-29T15:35:39.888268+00:00",
+      "id": "27114a112780",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "data annotation",
+        "c"
+      ],
+      "title": "Freelance grabaciÃ³n de tareas cotidianas para proyecto de IA",
+      "url": "https://remoteOK.com/remote-jobs/remote-freelance-grabacion-de-tareas-cotidianas-para-proyecto-de-ia-mindrift-data-annotation-1137415"
+    },
+    {
+      "company": "Magic Eden",
+      "fetched_at": "2026-09-29T15:35:39.888268+00:00",
+      "id": "b339cea9a854",
+      "location": "Melbourne",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "product manager",
+        "marketing",
+        "exec",
+        "design",
+        "crypto",
+        "nft",
+        "game dev",
+        "consulting",
+        "testing",
+        "analyst",
+        "finance",
+        "senior",
+        "golang",
+        "engineer",
+        "digital nomad"
+      ],
+      "title": "Senior Growth Product Manager AI Native",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-growth-product-manager-ai-native-magic-eden-1137414"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-09-29T15:35:39.888268+00:00",
+      "id": "cdf12f4abc49",
+      "location": "Remote",
+      "posted_at": "2026-09-29T15:00:17+00:00",
+      "source": "devto",
+      "tags": [
+        "beginners",
+        "jobs",
+        "career",
+        "programming"
+      ],
+      "title": "Where to Find Tech Internships This Summer (Sep 29)",
+      "url": "https://dev.to/crackr/where-to-find-tech-internships-this-summer-sep-29-2469"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-09-29T15:35:39.888268+00:00",
+      "id": "6473a59758eb",
+      "location": "Remote",
+      "posted_at": "2026-09-29T15:00:13+00:00",
+      "source": "devto",
+      "tags": [
+        "remotework",
+        "jobs",
+        "webdev",
+        "career"
+      ],
+      "title": "Senior Remote SWE Roles Hiring Now - 4 Pay $150k+ (Sep 29)",
+      "url": "https://dev.to/crackr/senior-remote-swe-roles-hiring-now-4-pay-150k-sep-29-1eg4"
+    },
+    {
+      "company": "Mitul",
+      "fetched_at": "2026-09-29T15:35:39.888268+00:00",
+      "id": "476c00ebaf8f",
+      "location": "Remote",
+      "posted_at": "2026-09-29T14:01:23+00:00",
+      "source": "devto",
+      "tags": [
+        "career",
+        "resume",
+        "jobs",
+        "productivity"
+      ],
+      "title": "Six resume formats that break the software reading them",
+      "url": "https://dev.to/mitulgelani/six-resume-formats-that-break-the-software-reading-them-5cao"
+    },
+    {
       "company": "Ashby",
       "fetched_at": "2026-09-29T08:13:23.262780+00:00",
       "id": "015855af2351",
@@ -2741,87 +2830,7 @@
       ],
       "title": "Voice Over Artist",
       "url": "https://remoteOK.com/remote-jobs/remote-voice-over-artist-bored-panda-1135765"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-26T16:59:35.238299+00:00",
-      "id": "d8db1bd08d39",
-      "location": "Remote",
-      "posted_at": "2026-09-26T15:09:55+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2o26"
-    },
-    {
-      "company": "Crackr",
-      "fetched_at": "2026-09-26T16:59:35.238299+00:00",
-      "id": "2a9b3f981a8d",
-      "location": "Remote",
-      "posted_at": "2026-09-26T15:00:16+00:00",
-      "source": "devto",
-      "tags": [
-        "beginners",
-        "jobs",
-        "career",
-        "programming"
-      ],
-      "title": "Where to Find Tech Internships This Summer (Sep 26)",
-      "url": "https://dev.to/crackr/where-to-find-tech-internships-this-summer-sep-26-39oj"
-    },
-    {
-      "company": "Crackr",
-      "fetched_at": "2026-09-26T16:59:35.238299+00:00",
-      "id": "cbfe534624ba",
-      "location": "Remote",
-      "posted_at": "2026-09-26T15:00:13+00:00",
-      "source": "devto",
-      "tags": [
-        "remotework",
-        "jobs",
-        "webdev",
-        "career"
-      ],
-      "title": "Senior Remote SWE Roles Hiring Now - 4 Pay $150k+ (Sep 26)",
-      "url": "https://dev.to/crackr/senior-remote-swe-roles-hiring-now-4-pay-150k-sep-26-52in"
-    },
-    {
-      "company": "Joshua Smith",
-      "fetched_at": "2026-09-26T16:59:35.238299+00:00",
-      "id": "d68953bf5656",
-      "location": "Remote",
-      "posted_at": "2026-09-26T13:21:34+00:00",
-      "source": "devto",
-      "tags": [
-        "api",
-        "jobs",
-        "automation",
-        "data"
-      ],
-      "title": "A remote jobs API from five public job boards, normalised into one schema",
-      "url": "https://dev.to/josh99smith/a-remote-jobs-api-from-five-public-job-boards-normalised-into-one-schema-3f63"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-26T12:52:47.530934+00:00",
-      "id": "5e26c60d4479",
-      "location": "Remote",
-      "posted_at": "2026-09-26T11:52:35+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-agk"
     }
   ],
-  "updated_at": "2026-09-29T08:13:23.262780+00:00"
+  "updated_at": "2026-09-29T15:35:39.888268+00:00"
 }

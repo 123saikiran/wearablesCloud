@@ -154,14 +154,14 @@
     "Crackr": {
       "count": 6,
       "job_ids": [
+        "cdf12f4abc49",
+        "6473a59758eb",
         "2ef034e3e39d",
         "b83b8462ad14",
         "e27c4e8b6a29",
-        "44c5a0514fc7",
-        "2a9b3f981a8d",
-        "cbfe534624ba"
+        "44c5a0514fc7"
       ],
-      "last_seen": "2026-09-28T15:00:17+00:00"
+      "last_seen": "2026-09-29T15:00:17+00:00"
     },
     "Crystalia Glass LLC": {
       "count": 1,
@@ -312,13 +312,6 @@
       ],
       "last_seen": "2026-09-27T01:14:57.790293+00:00"
     },
-    "Joshua Smith": {
-      "count": 1,
-      "job_ids": [
-        "d68953bf5656"
-      ],
-      "last_seen": "2026-09-26T13:21:34+00:00"
-    },
     "JumpCloud": {
       "count": 1,
       "job_ids": [
@@ -368,12 +361,26 @@
       ],
       "last_seen": "2026-09-29T08:13:23.262780+00:00"
     },
+    "Magic Eden": {
+      "count": 1,
+      "job_ids": [
+        "b339cea9a854"
+      ],
+      "last_seen": "2026-09-29T15:35:39.888268+00:00"
+    },
     "Mercier Consultancy Group": {
       "count": 1,
       "job_ids": [
         "c4f2e1b28841"
       ],
       "last_seen": "2026-09-29T01:41:09.490334+00:00"
+    },
+    "Mindrift - Data annotation": {
+      "count": 1,
+      "job_ids": [
+        "27114a112780"
+      ],
+      "last_seen": "2026-09-29T15:35:39.888268+00:00"
     },
     "Mirantis": {
       "count": 1,
@@ -383,13 +390,14 @@
       "last_seen": "2026-09-26T16:59:35.238299+00:00"
     },
     "Mitul": {
-      "count": 3,
+      "count": 4,
       "job_ids": [
+        "476c00ebaf8f",
         "e7fd3cf633b6",
         "9cd782fabe60",
         "8806df7a8c8d"
       ],
-      "last_seen": "2026-09-28T14:00:40+00:00"
+      "last_seen": "2026-09-29T14:01:23+00:00"
     },
     "MultiplyMii": {
       "count": 1,
@@ -490,7 +498,7 @@
       "last_seen": "2026-09-29T08:13:23.262780+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 14,
+      "count": 12,
       "job_ids": [
         "a583c2445b77",
         "fb3f7e2eaba2",
@@ -503,9 +511,7 @@
         "dd38efb1ca5f",
         "6dc7de492c34",
         "f0238500c4b1",
-        "eb8cda0c9798",
-        "d8db1bd08d39",
-        "5e26c60d4479"
+        "eb8cda0c9798"
       ],
       "last_seen": "2026-09-28T21:57:38+00:00"
     },
@@ -705,5 +711,5 @@
       "last_seen": "2026-09-29T08:13:23.262780+00:00"
     }
   },
-  "updated_at": "2026-09-29T08:13:23.262780+00:00"
+  "updated_at": "2026-09-29T15:35:39.888268+00:00"
 }
