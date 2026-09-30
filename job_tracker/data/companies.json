@@ -298,6 +298,13 @@
       ],
       "last_seen": "2026-09-29T08:13:23.262780+00:00"
     },
+    "Johnson Controls": {
+      "count": 1,
+      "job_ids": [
+        "03252034ba51"
+      ],
+      "last_seen": "2026-09-30T13:30:47.255329+00:00"
+    },
     "JumpCloud": {
       "count": 1,
       "job_ids": [
@@ -383,14 +390,15 @@
       "last_seen": "2026-09-30T00:14:04.885714+00:00"
     },
     "Mitul": {
-      "count": 4,
+      "count": 5,
       "job_ids": [
+        "69b60a3b7dc8",
         "476c00ebaf8f",
         "e7fd3cf633b6",
         "9cd782fabe60",
         "8806df7a8c8d"
       ],
-      "last_seen": "2026-09-29T14:01:23+00:00"
+      "last_seen": "2026-09-30T12:01:45+00:00"
     },
     "MultiplyMii": {
       "count": 1,
@@ -491,19 +499,18 @@
       "last_seen": "2026-09-29T08:13:23.262780+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 9,
+      "count": 8,
       "job_ids": [
+        "b61832c68408",
         "6453860aa423",
         "a583c2445b77",
         "fb3f7e2eaba2",
         "37ac7eddb060",
         "064730a92e07",
         "c36b6276bf5d",
-        "3a3ee4f5daef",
-        "955644b7a139",
-        "5463be4af1ed"
+        "3a3ee4f5daef"
       ],
-      "last_seen": "2026-09-29T23:11:00+00:00"
+      "last_seen": "2026-09-30T08:29:22+00:00"
     },
     "RedMimicry": {
       "count": 1,
@@ -611,20 +618,13 @@
       ],
       "last_seen": "2026-09-30T00:14:04.885714+00:00"
     },
-    "The AI Whistleblower Initiative": {
-      "count": 1,
-      "job_ids": [
-        "916cd2848e14"
-      ],
-      "last_seen": "2026-09-27T07:54:23.817049+00:00"
-    },
     "Tim Zinin": {
       "count": 2,
       "job_ids": [
-        "b881f022e366",
-        "6109359dbd40"
+        "b72d3c44ad46",
+        "b881f022e366"
       ],
-      "last_seen": "2026-09-28T19:25:03+00:00"
+      "last_seen": "2026-09-30T07:25:03+00:00"
     },
     "Transportation Partners &amp; Logistics": {
       "count": 1,
@@ -692,11 +692,10 @@
       "last_seen": "2026-09-28T15:12:17.959791+00:00"
     },
     "iMerit Technology": {
-      "count": 3,
+      "count": 2,
       "job_ids": [
         "7e56423bc195",
-        "a0b1d92a97dd",
-        "aad0d581511f"
+        "a0b1d92a97dd"
       ],
       "last_seen": "2026-09-30T00:14:04.885714+00:00"
     },
@@ -708,5 +707,5 @@
       "last_seen": "2026-09-29T08:13:23.262780+00:00"
     }
   },
-  "updated_at": "2026-09-30T06:30:59.256772+00:00"
+  "updated_at": "2026-09-30T13:30:47.255329+00:00"
 }

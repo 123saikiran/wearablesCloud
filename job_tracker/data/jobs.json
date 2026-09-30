@@ -1,6 +1,108 @@
 {
   "jobs": [
     {
+      "company": "Johnson Controls",
+      "fetched_at": "2026-09-30T13:30:47.255329+00:00",
+      "id": "03252034ba51",
+      "location": "Warana,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "design",
+        "technical",
+        "customer support",
+        "dev",
+        "microsoft",
+        "senior",
+        "ops",
+        "engineer",
+        "digital nomad",
+        "sys admin",
+        "education",
+        "testing",
+        "exec",
+        "excel",
+        "payroll",
+        "medical",
+        "video",
+        "marketing",
+        "travel",
+        "finance",
+        "mobile",
+        "hr",
+        "recruiter",
+        "supervisor",
+        "consulting",
+        "assembly",
+        "saas",
+        "golang",
+        "coordinator",
+        "product manager",
+        "bus dev",
+        "sales",
+        "amazon",
+        "salesforce",
+        "infosec",
+        "embedded",
+        "java",
+        "c",
+        "c plus plus",
+        "cloud",
+        "linux",
+        "speech"
+      ],
+      "title": "BMS Service Technician",
+      "url": "https://remoteOK.com/remote-jobs/remote-bms-service-technician-johnson-controls-1135997"
+    },
+    {
+      "company": "Mitul",
+      "fetched_at": "2026-09-30T13:30:47.255329+00:00",
+      "id": "69b60a3b7dc8",
+      "location": "Remote",
+      "posted_at": "2026-09-30T12:01:45+00:00",
+      "source": "devto",
+      "tags": [
+        "career",
+        "resume",
+        "jobs",
+        "productivity"
+      ],
+      "title": "How to write bullet points with numbers when your job has no numbers",
+      "url": "https://dev.to/mitulgelani/how-to-write-bullet-points-with-numbers-when-your-job-has-no-numbers-1f6i"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-30T13:30:47.255329+00:00",
+      "id": "b61832c68408",
+      "location": "Remote",
+      "posted_at": "2026-09-30T08:29:22+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-gc5"
+    },
+    {
+      "company": "Tim Zinin",
+      "fetched_at": "2026-09-30T13:30:47.255329+00:00",
+      "id": "b72d3c44ad46",
+      "location": "Remote",
+      "posted_at": "2026-09-30T07:25:03+00:00",
+      "source": "devto",
+      "tags": [
+        "apify",
+        "webscraping",
+        "api",
+        "jobs"
+      ],
+      "title": "How to Scrape Computrabajo Job Postings in LatAm Without a Paid API",
+      "url": "https://dev.to/timmyzinin/how-to-scrape-computrabajo-job-postings-in-latam-without-a-paid-api-4kjd"
+    },
+    {
       "company": "Vladimir Stepanenko",
       "fetched_at": "2026-09-30T06:30:59.256772+00:00",
       "id": "6c08e63d485d",
@@ -2689,84 +2791,7 @@
       ],
       "title": "AI agent engineer",
       "url": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-27T13:45:11.346600+00:00",
-      "id": "955644b7a139",
-      "location": "Remote",
-      "posted_at": "2026-09-27T13:17:21+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-21f3"
-    },
-    {
-      "company": "iMerit Technology",
-      "fetched_at": "2026-09-27T07:54:23.817049+00:00",
-      "id": "aad0d581511f",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "ai",
-        "data annotation",
-        "quality assurance"
-      ],
-      "title": "AI Trainer Image QA Evaluator",
-      "url": "https://remoteOK.com/remote-jobs/remote-ai-trainer-image-qa-evaluator-imerit-technology-1137398"
-    },
-    {
-      "company": "The AI Whistleblower Initiative",
-      "fetched_at": "2026-09-27T07:54:23.817049+00:00",
-      "id": "916cd2848e14",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "golang",
-        "engineer"
-      ],
-      "title": "Principal Engineer",
-      "url": "https://remoteOK.com/remote-jobs/remote-principal-engineer-the-ai-whistleblower-initiative-1137162"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-27T07:54:23.817049+00:00",
-      "id": "5463be4af1ed",
-      "location": "Remote",
-      "posted_at": "2026-09-27T07:31:33+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-20f3"
-    },
-    {
-      "company": "Tim Zinin",
-      "fetched_at": "2026-09-27T07:54:23.817049+00:00",
-      "id": "6109359dbd40",
-      "location": "Remote",
-      "posted_at": "2026-09-27T07:25:03+00:00",
-      "source": "devto",
-      "tags": [
-        "apify",
-        "webscraping",
-        "api",
-        "jobs"
-      ],
-      "title": "How to Scrape jobs.ge Postings in Georgia Without a Paid API",
-      "url": "https://dev.to/timmyzinin/how-to-scrape-jobsge-postings-in-georgia-without-a-paid-api-e86"
     }
   ],
-  "updated_at": "2026-09-30T06:30:59.256772+00:00"
+  "updated_at": "2026-09-30T13:30:47.255329+00:00"
 }
