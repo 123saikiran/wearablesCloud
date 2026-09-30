@@ -1,6 +1,99 @@
 {
   "jobs": [
     {
+      "company": "iMerit Technology",
+      "fetched_at": "2026-09-30T19:01:08.628892+00:00",
+      "id": "aad0d581511f",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "ai",
+        "data annotation",
+        "quality assurance"
+      ],
+      "title": "AI Trainer Image QA Evaluator",
+      "url": "https://remoteOK.com/remote-jobs/remote-ai-trainer-image-qa-evaluator-imerit-technology-1137398"
+    },
+    {
+      "company": "The AI Whistleblower Initiative",
+      "fetched_at": "2026-09-30T19:01:08.628892+00:00",
+      "id": "916cd2848e14",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "golang",
+        "engineer"
+      ],
+      "title": "Principal Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-principal-engineer-the-ai-whistleblower-initiative-1137162"
+    },
+    {
+      "company": "Luna (iLands agent)",
+      "fetched_at": "2026-09-30T19:01:08.628892+00:00",
+      "id": "f63be3f2876c",
+      "location": "Remote",
+      "posted_at": "2026-09-30T15:36:07+00:00",
+      "source": "devto",
+      "tags": [
+        "career",
+        "security",
+        "jobs",
+        "cybersecurity"
+      ],
+      "title": "I read the case files on fake job interviews for weeks. They all describe one template.",
+      "url": "https://dev.to/luna-ilands/i-read-the-case-files-on-fake-job-interviews-for-weeks-they-all-describe-one-template-2e22"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-09-30T19:01:08.628892+00:00",
+      "id": "3bca244d8e16",
+      "location": "Remote",
+      "posted_at": "2026-09-30T15:16:15+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-82d"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-09-30T19:01:08.628892+00:00",
+      "id": "a30b7dfcc0aa",
+      "location": "Remote",
+      "posted_at": "2026-09-30T15:00:17+00:00",
+      "source": "devto",
+      "tags": [
+        "beginners",
+        "jobs",
+        "career",
+        "programming"
+      ],
+      "title": "Summer 2026 Internships: 8 New Openings This Week (Sep 30)",
+      "url": "https://dev.to/crackr/summer-2026-internships-8-new-openings-this-week-sep-30-36jj"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-09-30T19:01:08.628892+00:00",
+      "id": "728949e09131",
+      "location": "Remote",
+      "posted_at": "2026-09-30T15:00:13+00:00",
+      "source": "devto",
+      "tags": [
+        "remotework",
+        "jobs",
+        "webdev",
+        "career"
+      ],
+      "title": "Remote SWE Jobs Paying Up to $250k (Sep 30)",
+      "url": "https://dev.to/crackr/remote-swe-jobs-paying-up-to-250k-sep-30-22hl"
+    },
+    {
       "company": "Johnson Controls",
       "fetched_at": "2026-09-30T13:30:47.255329+00:00",
       "id": "03252034ba51",
@@ -2516,282 +2609,7 @@
       ],
       "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-4gd5"
-    },
-    {
-      "company": "SIHO Insurance Services",
-      "fetched_at": "2026-09-27T18:12:05.320714+00:00",
-      "id": "a3c6466c8e30",
-      "location": "SIHO - Columbus, IN",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "exec",
-        "sys admin",
-        "education",
-        "supervisor",
-        "customer support",
-        "quality assurance",
-        "c",
-        "microsoft",
-        "ops",
-        "excel",
-        "legal",
-        "medical"
-      ],
-      "title": "Director Payment Integrity",
-      "url": "https://remoteOK.com/remote-jobs/remote-director-payment-integrity-siho-insurance-services-1137434"
-    },
-    {
-      "company": "OkWhen",
-      "fetched_at": "2026-09-27T18:12:05.320714+00:00",
-      "id": "aafea233ce0d",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "dev",
-        "design",
-        "c sharp",
-        "saas",
-        "sys admin",
-        "infosec",
-        "education",
-        "technical",
-        "testing",
-        "web dev",
-        "xamarin",
-        "c",
-        "cloud",
-        "git",
-        "typescript",
-        "angular",
-        "mobile",
-        "exec",
-        "content writing",
-        "senior",
-        "ops",
-        "medical",
-        "engineer",
-        "backend",
-        "digital nomad"
-      ],
-      "title": "Senior .NET Software Engineer",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-net-software-engineer-okwhen-1137411"
-    },
-    {
-      "company": "Bjak",
-      "fetched_at": "2026-09-27T18:12:05.320714+00:00",
-      "id": "22294040f070",
-      "location": "Ireland",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "front end",
-        "design",
-        "react",
-        "graphql",
-        "react.js",
-        "technical",
-        "web dev",
-        "javascript",
-        "css",
-        "chatbot",
-        "html",
-        "typescript",
-        "node",
-        "node.js",
-        "exec",
-        "sys admin",
-        "engineer",
-        "backend",
-        "digital nomad"
-      ],
-      "title": "Frontend Engineer",
-      "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410"
-    },
-    {
-      "company": "Arango",
-      "fetched_at": "2026-09-27T18:12:05.320714+00:00",
-      "id": "0bad7d05c1cb",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "golang",
-        "golang",
-        "engineer"
-      ],
-      "title": "Golang Kubernetes Engineer",
-      "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-27T18:12:05.320714+00:00",
-      "id": "3a3ee4f5daef",
-      "location": "Remote",
-      "posted_at": "2026-09-27T17:51:22+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-3l37"
-    },
-    {
-      "company": "Mitul",
-      "fetched_at": "2026-09-27T18:12:05.320714+00:00",
-      "id": "9cd782fabe60",
-      "location": "Remote",
-      "posted_at": "2026-09-27T16:41:34+00:00",
-      "source": "devto",
-      "tags": [
-        "career",
-        "resume",
-        "jobs",
-        "productivity"
-      ],
-      "title": "Tailor your resume to one job advert in fifteen minutes",
-      "url": "https://dev.to/mitulgelani/tailor-your-resume-to-one-job-advert-in-fifteen-minutes-3ak4"
-    },
-    {
-      "company": "Mitul",
-      "fetched_at": "2026-09-27T18:12:05.320714+00:00",
-      "id": "8806df7a8c8d",
-      "location": "Remote",
-      "posted_at": "2026-09-27T16:37:10+00:00",
-      "source": "devto",
-      "tags": [
-        "career",
-        "resume",
-        "jobs",
-        "productivity"
-      ],
-      "title": "What actually happens to your resume when you hit submit",
-      "url": "https://dev.to/mitulgelani/what-actually-happens-to-your-resume-when-you-hit-submit-3koo"
-    },
-    {
-      "company": "Crackr",
-      "fetched_at": "2026-09-27T18:12:05.320714+00:00",
-      "id": "e27c4e8b6a29",
-      "location": "Remote",
-      "posted_at": "2026-09-27T15:00:16+00:00",
-      "source": "devto",
-      "tags": [
-        "beginners",
-        "jobs",
-        "career",
-        "programming"
-      ],
-      "title": "Summer 2026 Internships: 8 New Openings This Week (Sep 27)",
-      "url": "https://dev.to/crackr/summer-2026-internships-8-new-openings-this-week-sep-27-2p66"
-    },
-    {
-      "company": "Crackr",
-      "fetched_at": "2026-09-27T18:12:05.320714+00:00",
-      "id": "44c5a0514fc7",
-      "location": "Remote",
-      "posted_at": "2026-09-27T15:00:13+00:00",
-      "source": "devto",
-      "tags": [
-        "remotework",
-        "jobs",
-        "webdev",
-        "career"
-      ],
-      "title": "Remote SWE Jobs Paying Up to $250k (Sep 27)",
-      "url": "https://dev.to/crackr/remote-swe-jobs-paying-up-to-250k-sep-27-4g2k"
-    },
-    {
-      "company": "Bjak",
-      "fetched_at": "2026-09-27T13:45:11.346600+00:00",
-      "id": "578e1bcc6323",
-      "location": "Germany",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "product manager",
-        "exec",
-        "design",
-        "sys admin",
-        "infosec",
-        "technical",
-        "finance",
-        "ruby",
-        "mobile",
-        "ops",
-        "engineer",
-        "digital nomad"
-      ],
-      "title": "Technical Product Manager AI Stockbroking App",
-      "url": "https://remoteOK.com/remote-jobs/remote-technical-product-manager-ai-stockbroking-app-bjak-1137421"
-    },
-    {
-      "company": "Bjak",
-      "fetched_at": "2026-09-27T13:45:11.346600+00:00",
-      "id": "a9076f9b51af",
-      "location": "Singapore",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "front end",
-        "design",
-        "react",
-        "graphql",
-        "react.js",
-        "technical",
-        "web dev",
-        "javascript",
-        "css",
-        "chatbot",
-        "html",
-        "typescript",
-        "node",
-        "node.js",
-        "exec",
-        "sys admin",
-        "engineer",
-        "backend",
-        "digital nomad"
-      ],
-      "title": "Frontend Engineer",
-      "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420"
-    },
-    {
-      "company": "Airspace Link",
-      "fetched_at": "2026-09-27T13:45:11.346600+00:00",
-      "id": "d4c4ede5d045",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "golang",
-        "dev",
-        "engineer",
-        "backend",
-        "digital nomad"
-      ],
-      "title": "Backend Software Engineer",
-      "url": "https://remoteOK.com/remote-jobs/remote-backend-software-engineer-airspace-link-1137409"
-    },
-    {
-      "company": "Sticker Mule",
-      "fetched_at": "2026-09-27T13:45:11.346600+00:00",
-      "id": "3ae373be1705",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "ai",
-        "golang",
-        "javascript",
-        "typescript"
-      ],
-      "title": "AI agent engineer",
-      "url": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399"
     }
   ],
-  "updated_at": "2026-09-30T13:30:47.255329+00:00"
+  "updated_at": "2026-09-30T19:01:08.628892+00:00"
 }

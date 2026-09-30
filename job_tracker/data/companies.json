@@ -21,13 +21,6 @@
       ],
       "last_seen": "2026-09-29T08:13:23.262780+00:00"
     },
-    "Airspace Link": {
-      "count": 1,
-      "job_ids": [
-        "d4c4ede5d045"
-      ],
-      "last_seen": "2026-09-27T13:45:11.346600+00:00"
-    },
     "American Bureau of Shipping (ABS)": {
       "count": 1,
       "job_ids": [
@@ -41,13 +34,6 @@
         "3decd8f0dbf5"
       ],
       "last_seen": "2026-09-29T08:13:23.262780+00:00"
-    },
-    "Arango": {
-      "count": 1,
-      "job_ids": [
-        "0bad7d05c1cb"
-      ],
-      "last_seen": "2026-09-27T18:12:05.320714+00:00"
     },
     "Ashby": {
       "count": 1,
@@ -92,13 +78,10 @@
       "last_seen": "2026-09-29T08:13:23.262780+00:00"
     },
     "Bjak": {
-      "count": 5,
+      "count": 2,
       "job_ids": [
         "5eefc2524a45",
-        "68763914ed52",
-        "22294040f070",
-        "578e1bcc6323",
-        "a9076f9b51af"
+        "68763914ed52"
       ],
       "last_seen": "2026-09-30T00:14:04.885714+00:00"
     },
@@ -154,14 +137,14 @@
     "Crackr": {
       "count": 6,
       "job_ids": [
+        "a30b7dfcc0aa",
+        "728949e09131",
         "cdf12f4abc49",
         "6473a59758eb",
         "2ef034e3e39d",
-        "b83b8462ad14",
-        "e27c4e8b6a29",
-        "44c5a0514fc7"
+        "b83b8462ad14"
       ],
-      "last_seen": "2026-09-29T15:00:17+00:00"
+      "last_seen": "2026-09-30T15:00:17+00:00"
     },
     "Crystalia Glass LLC": {
       "count": 1,
@@ -354,6 +337,13 @@
       ],
       "last_seen": "2026-09-29T08:13:23.262780+00:00"
     },
+    "Luna (iLands agent)": {
+      "count": 1,
+      "job_ids": [
+        "f63be3f2876c"
+      ],
+      "last_seen": "2026-09-30T15:36:07+00:00"
+    },
     "Lyric": {
       "count": 1,
       "job_ids": [
@@ -390,13 +380,11 @@
       "last_seen": "2026-09-30T00:14:04.885714+00:00"
     },
     "Mitul": {
-      "count": 5,
+      "count": 3,
       "job_ids": [
         "69b60a3b7dc8",
         "476c00ebaf8f",
-        "e7fd3cf633b6",
-        "9cd782fabe60",
-        "8806df7a8c8d"
+        "e7fd3cf633b6"
       ],
       "last_seen": "2026-09-30T12:01:45+00:00"
     },
@@ -420,13 +408,6 @@
         "2108aacaa944"
       ],
       "last_seen": "2026-09-29T08:13:23.262780+00:00"
-    },
-    "OkWhen": {
-      "count": 1,
-      "job_ids": [
-        "aafea233ce0d"
-      ],
-      "last_seen": "2026-09-27T18:12:05.320714+00:00"
     },
     "Omega Enterprises": {
       "count": 1,
@@ -501,16 +482,16 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 8,
       "job_ids": [
+        "3bca244d8e16",
         "b61832c68408",
         "6453860aa423",
         "a583c2445b77",
         "fb3f7e2eaba2",
         "37ac7eddb060",
         "064730a92e07",
-        "c36b6276bf5d",
-        "3a3ee4f5daef"
+        "c36b6276bf5d"
       ],
-      "last_seen": "2026-09-30T08:29:22+00:00"
+      "last_seen": "2026-09-30T15:16:15+00:00"
     },
     "RedMimicry": {
       "count": 1,
@@ -532,13 +513,6 @@
         "cf3117844396"
       ],
       "last_seen": "2026-09-29T08:13:23.262780+00:00"
-    },
-    "SIHO Insurance Services": {
-      "count": 1,
-      "job_ids": [
-        "a3c6466c8e30"
-      ],
-      "last_seen": "2026-09-27T18:12:05.320714+00:00"
     },
     "SLB": {
       "count": 1,
@@ -582,13 +556,6 @@
       ],
       "last_seen": "2026-09-29T08:13:23.262780+00:00"
     },
-    "Sticker Mule": {
-      "count": 1,
-      "job_ids": [
-        "3ae373be1705"
-      ],
-      "last_seen": "2026-09-27T13:45:11.346600+00:00"
-    },
     "Stone": {
       "count": 2,
       "job_ids": [
@@ -617,6 +584,13 @@
         "4a59a86ff633"
       ],
       "last_seen": "2026-09-30T00:14:04.885714+00:00"
+    },
+    "The AI Whistleblower Initiative": {
+      "count": 1,
+      "job_ids": [
+        "916cd2848e14"
+      ],
+      "last_seen": "2026-09-30T19:01:08.628892+00:00"
     },
     "Tim Zinin": {
       "count": 2,
@@ -692,12 +666,13 @@
       "last_seen": "2026-09-28T15:12:17.959791+00:00"
     },
     "iMerit Technology": {
-      "count": 2,
+      "count": 3,
       "job_ids": [
+        "aad0d581511f",
         "7e56423bc195",
         "a0b1d92a97dd"
       ],
-      "last_seen": "2026-09-30T00:14:04.885714+00:00"
+      "last_seen": "2026-09-30T19:01:08.628892+00:00"
     },
     "testacy": {
       "count": 1,
@@ -707,5 +682,5 @@
       "last_seen": "2026-09-29T08:13:23.262780+00:00"
     }
   },
-  "updated_at": "2026-09-30T13:30:47.255329+00:00"
+  "updated_at": "2026-09-30T19:01:08.628892+00:00"
 }
