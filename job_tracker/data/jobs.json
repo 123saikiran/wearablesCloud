@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "company": "Vladimir Stepanenko",
+      "fetched_at": "2026-09-30T06:30:59.256772+00:00",
+      "id": "6c08e63d485d",
+      "location": "Remote",
+      "posted_at": "2026-09-30T06:00:47+00:00",
+      "source": "devto",
+      "tags": [
+        "career",
+        "jobs",
+        "europe",
+        "remote"
+      ],
+      "title": "What Finance Employers Across Europe Actually Ask For, Country by Country",
+      "url": "https://dev.to/newluxjob/what-finance-employers-across-europe-actually-ask-for-country-by-country-372p"
+    },
+    {
       "company": "Omega Enterprises",
       "fetched_at": "2026-09-30T00:14:04.885714+00:00",
       "id": "f27fd8c61f4a",
@@ -2750,109 +2766,7 @@
       ],
       "title": "How to Scrape jobs.ge Postings in Georgia Without a Paid API",
       "url": "https://dev.to/timmyzinin/how-to-scrape-jobsge-postings-in-georgia-without-a-paid-api-e86"
-    },
-    {
-      "company": "Vladimir Stepanenko",
-      "fetched_at": "2026-09-27T07:54:23.817049+00:00",
-      "id": "f7319e2809a2",
-      "location": "Remote",
-      "posted_at": "2026-09-27T06:01:16+00:00",
-      "source": "devto",
-      "tags": [
-        "career",
-        "jobs",
-        "europe",
-        "remote"
-      ],
-      "title": "What European Employers Ask Data Analyst Candidates to Know, by Country",
-      "url": "https://dev.to/newluxjob/what-european-employers-ask-data-analyst-candidates-to-know-by-country-360d"
-    },
-    {
-      "company": "Dodo Data",
-      "fetched_at": "2026-09-27T07:54:23.817049+00:00",
-      "id": "30caa887d733",
-      "location": "Remote",
-      "posted_at": "2026-09-27T02:49:26+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "api",
-        "javascript",
-        "jobs"
-      ],
-      "title": "The paging token an API hands you is not always the one it accepts",
-      "url": "https://dev.to/dododata/the-paging-token-an-api-hands-you-is-not-always-the-one-it-accepts-28nl"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-27T07:54:23.817049+00:00",
-      "id": "dd38efb1ca5f",
-      "location": "Remote",
-      "posted_at": "2026-09-27T01:55:54+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-53f"
-    },
-    {
-      "company": "Johnson Controls",
-      "fetched_at": "2026-09-27T01:14:57.790293+00:00",
-      "id": "03252034ba51",
-      "location": "Warana,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "design",
-        "technical",
-        "customer support",
-        "dev",
-        "microsoft",
-        "senior",
-        "ops",
-        "engineer",
-        "digital nomad",
-        "sys admin",
-        "education",
-        "testing",
-        "exec",
-        "excel",
-        "payroll",
-        "medical",
-        "video",
-        "marketing",
-        "travel",
-        "finance",
-        "mobile",
-        "hr",
-        "recruiter",
-        "supervisor",
-        "consulting",
-        "assembly",
-        "saas",
-        "golang",
-        "coordinator",
-        "product manager",
-        "bus dev",
-        "sales",
-        "amazon",
-        "salesforce",
-        "infosec",
-        "embedded",
-        "java",
-        "c",
-        "c plus plus",
-        "cloud",
-        "linux",
-        "speech"
-      ],
-      "title": "BMS Service Technician",
-      "url": "https://remoteOK.com/remote-jobs/remote-bms-service-technician-johnson-controls-1135997"
     }
   ],
-  "updated_at": "2026-09-30T00:14:04.885714+00:00"
+  "updated_at": "2026-09-30T06:30:59.256772+00:00"
 }
