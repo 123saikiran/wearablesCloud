@@ -154,14 +154,14 @@
     "Crackr": {
       "count": 6,
       "job_ids": [
+        "58768e054057",
+        "2516c53b483b",
         "a30b7dfcc0aa",
         "728949e09131",
         "cdf12f4abc49",
-        "6473a59758eb",
-        "2ef034e3e39d",
-        "b83b8462ad14"
+        "6473a59758eb"
       ],
-      "last_seen": "2026-09-30T15:00:17+00:00"
+      "last_seen": "2026-10-01T15:00:19+00:00"
     },
     "Crystalia Glass LLC": {
       "count": 1,
@@ -399,11 +399,11 @@
     "Mitul": {
       "count": 3,
       "job_ids": [
+        "957cc96726ba",
         "69b60a3b7dc8",
-        "476c00ebaf8f",
-        "e7fd3cf633b6"
+        "476c00ebaf8f"
       ],
-      "last_seen": "2026-09-30T12:01:45+00:00"
+      "last_seen": "2026-10-01T14:02:36+00:00"
     },
     "MultiplyMii": {
       "count": 1,
@@ -506,6 +506,7 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 9,
       "job_ids": [
+        "99ff20ea8bba",
         "29c9c3960a10",
         "82022d6c7b1d",
         "564c26a85d70",
@@ -513,10 +514,9 @@
         "3bca244d8e16",
         "b61832c68408",
         "6453860aa423",
-        "a583c2445b77",
-        "fb3f7e2eaba2"
+        "a583c2445b77"
       ],
-      "last_seen": "2026-10-01T09:24:41+00:00"
+      "last_seen": "2026-10-01T16:35:32+00:00"
     },
     "RedMimicry": {
       "count": 1,
@@ -617,6 +617,13 @@
       ],
       "last_seen": "2026-09-29T08:13:23.262780+00:00"
     },
+    "Temitayo": {
+      "count": 1,
+      "job_ids": [
+        "f235eb9a91dd"
+      ],
+      "last_seen": "2026-10-01T18:26:13+00:00"
+    },
     "Tessera Labs": {
       "count": 1,
       "job_ids": [
@@ -653,12 +660,21 @@
       "last_seen": "2026-10-01T02:00:51+00:00"
     },
     "Tim Zinin": {
-      "count": 2,
+      "count": 3,
       "job_ids": [
+        "8e141f08db46",
         "b72d3c44ad46",
         "b881f022e366"
       ],
-      "last_seen": "2026-09-30T07:25:03+00:00"
+      "last_seen": "2026-10-01T16:25:04+00:00"
+    },
+    "Toptal": {
+      "count": 2,
+      "job_ids": [
+        "c53e67d7e3a5",
+        "756fdf8dcb2c"
+      ],
+      "last_seen": "2026-10-01T18:45:39.887698+00:00"
     },
     "Transportation Partners &amp; Logistics": {
       "count": 1,
@@ -718,27 +734,14 @@
       ],
       "last_seen": "2026-09-29T08:13:23.262780+00:00"
     },
-    "Workana": {
-      "count": 1,
-      "job_ids": [
-        "9b41c1eeebc9"
-      ],
-      "last_seen": "2026-09-28T15:12:17.959791+00:00"
-    },
-    "eClinical Solutions": {
-      "count": 1,
-      "job_ids": [
-        "24895f61f51e"
-      ],
-      "last_seen": "2026-09-28T15:12:17.959791+00:00"
-    },
     "iMerit Technology": {
-      "count": 2,
+      "count": 3,
       "job_ids": [
+        "a0b1d92a97dd",
         "aad0d581511f",
         "7e56423bc195"
       ],
-      "last_seen": "2026-09-30T19:01:08.628892+00:00"
+      "last_seen": "2026-10-01T18:45:39.887698+00:00"
     },
     "testacy": {
       "count": 1,
@@ -748,5 +751,5 @@
       "last_seen": "2026-09-29T08:13:23.262780+00:00"
     }
   },
-  "updated_at": "2026-10-01T12:51:30.855887+00:00"
+  "updated_at": "2026-10-01T18:45:39.887698+00:00"
 }
