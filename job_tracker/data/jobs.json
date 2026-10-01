@@ -1,6 +1,83 @@
 {
   "jobs": [
     {
+      "company": "Prenosis",
+      "fetched_at": "2026-10-01T05:16:31.590720+00:00",
+      "id": "e9064f4ba338",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "golang",
+        "dev",
+        "engineer",
+        "digital nomad"
+      ],
+      "title": "Software Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-prenosis-1137427"
+    },
+    {
+      "company": "Warehance",
+      "fetched_at": "2026-10-01T05:16:31.590720+00:00",
+      "id": "b229c41a3801",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "customer support"
+      ],
+      "title": "Customer Support & Success Specialist",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-success-specialist-warehance-1137302"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-10-01T05:16:31.590720+00:00",
+      "id": "82022d6c7b1d",
+      "location": "Remote",
+      "posted_at": "2026-10-01T02:31:15+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-m85"
+    },
+    {
+      "company": "Tidy Tools",
+      "fetched_at": "2026-10-01T05:16:31.590720+00:00",
+      "id": "f59313e6e881",
+      "location": "Remote",
+      "posted_at": "2026-10-01T02:00:51+00:00",
+      "source": "devto",
+      "tags": [
+        "api",
+        "jobs",
+        "datascience",
+        "automation"
+      ],
+      "title": "3,141 jobs from 30 career sites: which ATS actually shows the salary?",
+      "url": "https://dev.to/tidytools/3141-jobs-from-30-career-sites-which-ats-actually-shows-the-salary-4ep8"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-10-01T05:16:31.590720+00:00",
+      "id": "564c26a85d70",
+      "location": "Remote",
+      "posted_at": "2026-09-30T23:46:40+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-367i"
+    },
+    {
       "company": "SIHO Insurance Services",
       "fetched_at": "2026-09-30T23:35:58.794681+00:00",
       "id": "a3c6466c8e30",
@@ -2740,41 +2817,7 @@
       ],
       "title": "What Employers Want From Driver and Logistics Staff, Country by Country",
       "url": "https://dev.to/newluxjob/what-employers-want-from-driver-and-logistics-staff-country-by-country-1l3n"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-28T06:33:39.843186+00:00",
-      "id": "37ac7eddb060",
-      "location": "Remote",
-      "posted_at": "2026-09-28T01:48:16+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2dog"
-    },
-    {
-      "company": "DoiT",
-      "fetched_at": "2026-09-28T00:31:56.950563+00:00",
-      "id": "55ad3d8aceec",
-      "location": "Remote UK",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "technical",
-        "marketing",
-        "cloud",
-        "microsoft",
-        "exec",
-        "sales"
-      ],
-      "title": "Sales Development Representative Attributeâ",
-      "url": "https://remoteOK.com/remote-jobs/"
     }
   ],
-  "updated_at": "2026-09-30T23:35:58.794681+00:00"
+  "updated_at": "2026-10-01T05:16:31.590720+00:00"
 }
