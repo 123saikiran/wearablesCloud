@@ -1,6 +1,64 @@
 {
   "jobs": [
     {
+      "company": "Workana",
+      "fetched_at": "2026-10-01T23:02:51.985101+00:00",
+      "id": "9b41c1eeebc9",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [],
+      "title": "MecÃ¡nico Automotriz DiagnÃ³stico y Presupuestos",
+      "url": "https://remoteOK.com/remote-jobs/remote-mecanico-automotriz-diagnostico-y-presupuestos-workana-1137429"
+    },
+    {
+      "company": "eClinical Solutions",
+      "fetched_at": "2026-10-01T23:02:51.985101+00:00",
+      "id": "24895f61f51e",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "cloud",
+        "exec",
+        "stats"
+      ],
+      "title": "External Data Specialist",
+      "url": "https://remoteOK.com/remote-jobs/remote-external-data-specialist-eclinical-solutions-1137375"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-10-01T23:02:51.985101+00:00",
+      "id": "bc8717e41f13",
+      "location": "Remote",
+      "posted_at": "2026-10-01T21:19:20+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-32gh"
+    },
+    {
+      "company": "Tim Zinin",
+      "fetched_at": "2026-10-01T23:02:51.985101+00:00",
+      "id": "375406e5a80b",
+      "location": "Remote",
+      "posted_at": "2026-10-01T19:25:04+00:00",
+      "source": "devto",
+      "tags": [
+        "apify",
+        "webscraping",
+        "api",
+        "jobs"
+      ],
+      "title": "How to See Which Companies Are Hiring Right Now Without a Paid API",
+      "url": "https://dev.to/timmyzinin/how-to-see-which-companies-are-hiring-right-now-without-a-paid-api-22ei"
+    },
+    {
       "company": "Toptal",
       "fetched_at": "2026-10-01T18:45:39.887698+00:00",
       "id": "c53e67d7e3a5",
@@ -2792,148 +2850,7 @@
       ],
       "title": "Social Comms",
       "url": "https://remoteOK.com/remote-jobs/remote-social-comms-nope-1137314"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-29T01:41:09.490334+00:00",
-      "id": "a583c2445b77",
-      "location": "Remote",
-      "posted_at": "2026-09-28T21:57:38+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-fo"
-    },
-    {
-      "company": "Sleek",
-      "fetched_at": "2026-09-28T21:45:41.272955+00:00",
-      "id": "081ec9073d83",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "payroll",
-        "virtual assistant",
-        "education",
-        "technical",
-        "supervisor",
-        "customer support",
-        "dev",
-        "marketing",
-        "exec",
-        "accounting",
-        "finance",
-        "video",
-        "junior",
-        "ops",
-        "excel",
-        "sys admin",
-        "digital nomad"
-      ],
-      "title": "Junior Payroll Assistant",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-payroll-assistant-sleek-1137391"
-    },
-    {
-      "company": "Harper",
-      "fetched_at": "2026-09-28T21:45:41.272955+00:00",
-      "id": "3991e551a545",
-      "location": "San Francisco",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "exec",
-        "design",
-        "sys admin",
-        "docker",
-        "technical",
-        "customer support",
-        "dev",
-        "marketing",
-        "video",
-        "finance",
-        "cloud",
-        "medical",
-        "engineer",
-        "digital nomad"
-      ],
-      "title": "Engineering Manager TLM Platform",
-      "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-tlm-platform-harper-1137380"
-    },
-    {
-      "company": "GiveWell",
-      "fetched_at": "2026-09-28T21:45:41.272955+00:00",
-      "id": "0670c33f2a79",
-      "location": "United States",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "exec",
-        "senior",
-        "medical"
-      ],
-      "title": "Senior Communications Officer Strategic Communications",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-communications-officer-strategic-communications-givewell-1137379"
-    },
-    {
-      "company": "TestGorilla",
-      "fetched_at": "2026-09-28T21:45:41.272955+00:00",
-      "id": "8bb632e4f51a",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "hr",
-        "non tech"
-      ],
-      "title": "Senior People & Talent Operations Partner",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-people-talent-operations-partner-testgorilla-1137378"
-    },
-    {
-      "company": "Empire Assets",
-      "fetched_at": "2026-09-28T21:45:41.272955+00:00",
-      "id": "b448eb571a3a",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "part time",
-        "junior",
-        "analyst",
-        "crypto",
-        "other",
-        "web3",
-        "blockchain",
-        "defi",
-        "bitcoin",
-        "ethereum",
-        "remote",
-        "trader",
-        "Binance"
-      ],
-      "title": "Junior Crypto Analyst & Trader",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-empire-assets-1137307"
-    },
-    {
-      "company": "Tim Zinin",
-      "fetched_at": "2026-09-28T21:45:41.272955+00:00",
-      "id": "b881f022e366",
-      "location": "Remote",
-      "posted_at": "2026-09-28T19:25:03+00:00",
-      "source": "devto",
-      "tags": [
-        "apify",
-        "webscraping",
-        "api",
-        "jobs"
-      ],
-      "title": "How to Scrape XING Jobs in the DACH Region Without a Paid API",
-      "url": "https://dev.to/timmyzinin/how-to-scrape-xing-jobs-in-the-dach-region-without-a-paid-api-3958"
     }
   ],
-  "updated_at": "2026-10-01T18:45:39.887698+00:00"
+  "updated_at": "2026-10-01T23:02:51.985101+00:00"
 }

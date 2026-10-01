@@ -199,13 +199,6 @@
       ],
       "last_seen": "2026-09-29T08:13:23.262780+00:00"
     },
-    "Empire Assets": {
-      "count": 1,
-      "job_ids": [
-        "b448eb571a3a"
-      ],
-      "last_seen": "2026-09-28T21:45:41.272955+00:00"
-    },
     "Enable Dental": {
       "count": 1,
       "job_ids": [
@@ -256,13 +249,6 @@
       ],
       "last_seen": "2026-09-29T08:13:23.262780+00:00"
     },
-    "GiveWell": {
-      "count": 1,
-      "job_ids": [
-        "0670c33f2a79"
-      ],
-      "last_seen": "2026-09-28T21:45:41.272955+00:00"
-    },
     "Grapefruit Health": {
       "count": 1,
       "job_ids": [
@@ -276,13 +262,6 @@
         "5f67eddcfa26"
       ],
       "last_seen": "2026-09-29T08:13:23.262780+00:00"
-    },
-    "Harper": {
-      "count": 1,
-      "job_ids": [
-        "3991e551a545"
-      ],
-      "last_seen": "2026-09-28T21:45:41.272955+00:00"
     },
     "HighLevel": {
       "count": 1,
@@ -506,6 +485,7 @@
     "RAZIX DEVIL NEMESIS (Loki)": {
       "count": 9,
       "job_ids": [
+        "bc8717e41f13",
         "99ff20ea8bba",
         "29c9c3960a10",
         "82022d6c7b1d",
@@ -513,10 +493,9 @@
         "1812193248ea",
         "3bca244d8e16",
         "b61832c68408",
-        "6453860aa423",
-        "a583c2445b77"
+        "6453860aa423"
       ],
-      "last_seen": "2026-10-01T16:35:32+00:00"
+      "last_seen": "2026-10-01T21:19:20+00:00"
     },
     "RedMimicry": {
       "count": 1,
@@ -588,13 +567,6 @@
       ],
       "last_seen": "2026-10-01T08:54:11+00:00"
     },
-    "Sleek": {
-      "count": 1,
-      "job_ids": [
-        "081ec9073d83"
-      ],
-      "last_seen": "2026-09-28T21:45:41.272955+00:00"
-    },
     "Sophie's Flats Inc.": {
       "count": 1,
       "job_ids": [
@@ -631,13 +603,6 @@
       ],
       "last_seen": "2026-09-30T00:14:04.885714+00:00"
     },
-    "TestGorilla": {
-      "count": 1,
-      "job_ids": [
-        "8bb632e4f51a"
-      ],
-      "last_seen": "2026-09-28T21:45:41.272955+00:00"
-    },
     "Thatchers Cider": {
       "count": 1,
       "job_ids": [
@@ -662,11 +627,11 @@
     "Tim Zinin": {
       "count": 3,
       "job_ids": [
+        "375406e5a80b",
         "8e141f08db46",
-        "b72d3c44ad46",
-        "b881f022e366"
+        "b72d3c44ad46"
       ],
-      "last_seen": "2026-10-01T16:25:04+00:00"
+      "last_seen": "2026-10-01T19:25:04+00:00"
     },
     "Toptal": {
       "count": 2,
@@ -734,6 +699,20 @@
       ],
       "last_seen": "2026-09-29T08:13:23.262780+00:00"
     },
+    "Workana": {
+      "count": 1,
+      "job_ids": [
+        "9b41c1eeebc9"
+      ],
+      "last_seen": "2026-10-01T23:02:51.985101+00:00"
+    },
+    "eClinical Solutions": {
+      "count": 1,
+      "job_ids": [
+        "24895f61f51e"
+      ],
+      "last_seen": "2026-10-01T23:02:51.985101+00:00"
+    },
     "iMerit Technology": {
       "count": 3,
       "job_ids": [
@@ -751,5 +730,5 @@
       "last_seen": "2026-09-29T08:13:23.262780+00:00"
     }
   },
-  "updated_at": "2026-10-01T18:45:39.887698+00:00"
+  "updated_at": "2026-10-01T23:02:51.985101+00:00"
 }
