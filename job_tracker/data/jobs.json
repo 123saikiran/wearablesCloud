@@ -1,6 +1,106 @@
 {
   "jobs": [
     {
+      "company": "DoiT",
+      "fetched_at": "2026-10-01T12:51:30.855887+00:00",
+      "id": "55ad3d8aceec",
+      "location": "Remote UK",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "technical",
+        "marketing",
+        "cloud",
+        "microsoft",
+        "exec",
+        "sales"
+      ],
+      "title": "Sales Development Representative Attributeâ",
+      "url": "https://remoteOK.com/remote-jobs/"
+    },
+    {
+      "company": "Viable Medical Solutions",
+      "fetched_at": "2026-10-01T12:51:30.855887+00:00",
+      "id": "7e462c4c98c4",
+      "location": "Greater Orlando",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "design",
+        "music",
+        "customer support",
+        "travel",
+        "video",
+        "exec",
+        "content writing",
+        "ops",
+        "marketing",
+        "ads",
+        "digital nomad",
+        "hr",
+        "dev",
+        "consulting",
+        "technical",
+        "testing",
+        "payroll",
+        "education",
+        "virtual assistant",
+        "sales",
+        "medical",
+        "full time"
+      ],
+      "title": "Administrative Assistant",
+      "url": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-viable-medical-solutions-1135697"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-10-01T12:51:30.855887+00:00",
+      "id": "29c9c3960a10",
+      "location": "Remote",
+      "posted_at": "2026-10-01T09:24:41+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2936"
+    },
+    {
+      "company": "Siftwright",
+      "fetched_at": "2026-10-01T12:51:30.855887+00:00",
+      "id": "df6ce2f6bead",
+      "location": "Remote",
+      "posted_at": "2026-10-01T08:54:11+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "python",
+        "api",
+        "jobs"
+      ],
+      "title": "One schema for Greenhouse, Lever, Ashby and more: pulling job postings without writing five parsers",
+      "url": "https://dev.to/siftwright/one-schema-for-greenhouse-lever-ashby-and-more-pulling-job-postings-without-writing-five-parsers-4mhm"
+    },
+    {
+      "company": "Vladimir Stepanenko",
+      "fetched_at": "2026-10-01T12:51:30.855887+00:00",
+      "id": "e5b7c6f75769",
+      "location": "Remote",
+      "posted_at": "2026-10-01T06:00:53+00:00",
+      "source": "devto",
+      "tags": [
+        "career",
+        "jobs",
+        "europe",
+        "remote"
+      ],
+      "title": "What European Employers Actually Ask For in Manager Roles, Country by Country",
+      "url": "https://dev.to/newluxjob/what-european-employers-actually-ask-for-in-manager-roles-country-by-country-3f6"
+    },
+    {
       "company": "Prenosis",
       "fetched_at": "2026-10-01T05:16:31.590720+00:00",
       "id": "e9064f4ba338",
@@ -2786,38 +2886,7 @@
       ],
       "title": "The six sections screening software reads first",
       "url": "https://dev.to/mitulgelani/the-six-sections-screening-software-reads-first-3n3n"
-    },
-    {
-      "company": "iMerit Technology",
-      "fetched_at": "2026-09-28T06:33:39.843186+00:00",
-      "id": "a0b1d92a97dd",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "quality assurance",
-        "ai",
-        "data annotation"
-      ],
-      "title": "Video Data Annotator",
-      "url": "https://remoteOK.com/remote-jobs/remote-video-data-annotator-imerit-technology-1137428"
-    },
-    {
-      "company": "Vladimir Stepanenko",
-      "fetched_at": "2026-09-28T06:33:39.843186+00:00",
-      "id": "88b1a12e61e2",
-      "location": "Remote",
-      "posted_at": "2026-09-28T06:00:48+00:00",
-      "source": "devto",
-      "tags": [
-        "career",
-        "jobs",
-        "europe",
-        "remote"
-      ],
-      "title": "What Employers Want From Driver and Logistics Staff, Country by Country",
-      "url": "https://dev.to/newluxjob/what-employers-want-from-driver-and-logistics-staff-country-by-country-1l3n"
     }
   ],
-  "updated_at": "2026-10-01T05:16:31.590720+00:00"
+  "updated_at": "2026-10-01T12:51:30.855887+00:00"
 }
