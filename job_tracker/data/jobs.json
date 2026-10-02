@@ -1,6 +1,79 @@
 {
   "jobs": [
     {
+      "company": "Mindrift - Data annotation",
+      "fetched_at": "2026-10-02T22:52:35.455290+00:00",
+      "id": "27114a112780",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "data annotation",
+        "c"
+      ],
+      "title": "Freelance grabaciÃ³n de tareas cotidianas para proyecto de IA",
+      "url": "https://remoteOK.com/remote-jobs/remote-freelance-grabacion-de-tareas-cotidianas-para-proyecto-de-ia-mindrift-data-annotation-1137415"
+    },
+    {
+      "company": "Magic Eden",
+      "fetched_at": "2026-10-02T22:52:35.455290+00:00",
+      "id": "b339cea9a854",
+      "location": "Melbourne",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "product manager",
+        "marketing",
+        "exec",
+        "design",
+        "crypto",
+        "nft",
+        "game dev",
+        "consulting",
+        "testing",
+        "analyst",
+        "finance",
+        "senior",
+        "golang",
+        "engineer",
+        "digital nomad"
+      ],
+      "title": "Senior Growth Product Manager AI Native",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-growth-product-manager-ai-native-magic-eden-1137414"
+    },
+    {
+      "company": "Hay Equipos",
+      "fetched_at": "2026-10-02T22:52:35.455290+00:00",
+      "id": "22afc3279f08",
+      "location": "Remote",
+      "posted_at": "2026-10-02T21:27:15+00:00",
+      "source": "devto",
+      "tags": [
+        "jobs",
+        "recruiting",
+        "api",
+        "python"
+      ],
+      "title": "How to get all open jobs from Greenhouse, Lever and Ashby career pages",
+      "url": "https://dev.to/hay_equipos/how-to-get-all-open-jobs-from-greenhouse-lever-and-ashby-career-pages-4gc4"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-10-02T22:52:35.455290+00:00",
+      "id": "54beb13188fb",
+      "location": "Remote",
+      "posted_at": "2026-10-02T18:33:52+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-28e1"
+    },
+    {
       "company": "Ashby",
       "fetched_at": "2026-10-02T18:17:37.161250+00:00",
       "id": "015855af2351",
@@ -2825,61 +2898,7 @@
       ],
       "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
       "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-1o5l"
-    },
-    {
-      "company": "WestJet",
-      "fetched_at": "2026-09-29T20:36:31.981650+00:00",
-      "id": "8fb243323c6f",
-      "location": "Mississauga,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "exec",
-        "infosec",
-        "customer support",
-        "testing",
-        "marketing",
-        "travel",
-        "finance",
-        "education",
-        "microsoft",
-        "mobile",
-        "senior",
-        "ops",
-        "excel",
-        "recruiter"
-      ],
-      "title": "Regional General Manager Airports",
-      "url": "https://remoteOK.com/remote-jobs/remote-regional-general-manager-airports-westjet-1135745"
-    },
-    {
-      "company": "Lyric",
-      "fetched_at": "2026-09-29T20:36:31.981650+00:00",
-      "id": "a2fb1f2dc01f",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "marketing",
-        "design",
-        "embedded",
-        "technical",
-        "strategy",
-        "customer support",
-        "dev",
-        "travel",
-        "finance",
-        "exec",
-        "content writing",
-        "senior",
-        "ops",
-        "sales",
-        "golang",
-        "digital nomad"
-      ],
-      "title": "Growth Strategist",
-      "url": "https://remoteOK.com/remote-jobs/remote-growth-strategist-lyric-1135681"
     }
   ],
-  "updated_at": "2026-10-02T18:17:37.161250+00:00"
+  "updated_at": "2026-10-02T22:52:35.455290+00:00"
 }
