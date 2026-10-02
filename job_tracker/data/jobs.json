@@ -1,6 +1,105 @@
 {
   "jobs": [
     {
+      "company": "Sleek",
+      "fetched_at": "2026-10-02T05:04:36.740381+00:00",
+      "id": "081ec9073d83",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "payroll",
+        "virtual assistant",
+        "education",
+        "technical",
+        "supervisor",
+        "customer support",
+        "dev",
+        "marketing",
+        "exec",
+        "accounting",
+        "finance",
+        "video",
+        "junior",
+        "ops",
+        "excel",
+        "sys admin",
+        "digital nomad"
+      ],
+      "title": "Junior Payroll Assistant",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-payroll-assistant-sleek-1137391"
+    },
+    {
+      "company": "GiveWell",
+      "fetched_at": "2026-10-02T05:04:36.740381+00:00",
+      "id": "0670c33f2a79",
+      "location": "United States",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec",
+        "senior",
+        "medical"
+      ],
+      "title": "Senior Communications Officer Strategic Communications",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-communications-officer-strategic-communications-givewell-1137379"
+    },
+    {
+      "company": "TestGorilla",
+      "fetched_at": "2026-10-02T05:04:36.740381+00:00",
+      "id": "8bb632e4f51a",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "hr",
+        "non tech"
+      ],
+      "title": "Senior People & Talent Operations Partner",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-people-talent-operations-partner-testgorilla-1137378"
+    },
+    {
+      "company": "Empire Assets",
+      "fetched_at": "2026-10-02T05:04:36.740381+00:00",
+      "id": "b448eb571a3a",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "part time",
+        "junior",
+        "analyst",
+        "crypto",
+        "other",
+        "web3",
+        "blockchain",
+        "defi",
+        "bitcoin",
+        "ethereum",
+        "remote",
+        "trader",
+        "Binance"
+      ],
+      "title": "Junior Crypto Analyst & Trader",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-empire-assets-1137307"
+    },
+    {
+      "company": "RAZIX DEVIL NEMESIS (Loki)",
+      "fetched_at": "2026-10-02T05:04:36.740381+00:00",
+      "id": "5ef9251362a8",
+      "location": "Remote",
+      "posted_at": "2026-10-02T00:57:34+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "jobs",
+        "python",
+        "tutorial"
+      ],
+      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
+      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-51nn"
+    },
+    {
       "company": "Workana",
       "fetched_at": "2026-10-01T23:02:51.985101+00:00",
       "id": "9b41c1eeebc9",
@@ -2788,69 +2887,7 @@
       ],
       "title": "What European Employers Really Ask Engineers For, Country by Country",
       "url": "https://dev.to/newluxjob/what-european-employers-really-ask-engineers-for-country-by-country-2alb"
-    },
-    {
-      "company": "Mercier Consultancy Group",
-      "fetched_at": "2026-09-29T01:41:09.490334+00:00",
-      "id": "c4f2e1b28841",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "consulting",
-        "education",
-        "technical",
-        "customer support",
-        "marketing",
-        "travel",
-        "excel",
-        "medical",
-        "recruiter"
-      ],
-      "title": "Danish Speaking Solutions Consultant Work Sofia Bulgaria",
-      "url": "https://remoteOK.com/remote-jobs/remote-danish-speaking-solutions-consultant-work-sofia-bulgaria-mercier-consultancy-group-1137431"
-    },
-    {
-      "company": "Copenhagen Optimization",
-      "fetched_at": "2026-09-29T01:41:09.490334+00:00",
-      "id": "f6a2d43e97e9",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "virtual assistant",
-        "strategy",
-        "customer support",
-        "dev",
-        "marketing",
-        "exec",
-        "content writing",
-        "ops",
-        "golang",
-        "digital nomad"
-      ],
-      "title": "Marketing Student Assistant",
-      "url": "https://remoteOK.com/remote-jobs/remote-marketing-student-assistant-copenhagen-optimization-1137381"
-    },
-    {
-      "company": "NOPE",
-      "fetched_at": "2026-09-29T01:41:09.490334+00:00",
-      "id": "2d6c3bce7fd7",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "marketing",
-        "education",
-        "technical",
-        "content writing",
-        "social media",
-        "ai",
-        "social"
-      ],
-      "title": "Social Comms",
-      "url": "https://remoteOK.com/remote-jobs/remote-social-comms-nope-1137314"
     }
   ],
-  "updated_at": "2026-10-01T23:02:51.985101+00:00"
+  "updated_at": "2026-10-02T05:04:36.740381+00:00"
 }
