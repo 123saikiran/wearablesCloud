@@ -21,13 +21,6 @@
       ],
       "last_seen": "2026-10-02T18:17:37.161250+00:00"
     },
-    "Airspace Link": {
-      "count": 1,
-      "job_ids": [
-        "d4c4ede5d045"
-      ],
-      "last_seen": "2026-09-30T23:35:58.794681+00:00"
-    },
     "American Bureau of Shipping (ABS)": {
       "count": 1,
       "job_ids": [
@@ -41,13 +34,6 @@
         "3decd8f0dbf5"
       ],
       "last_seen": "2026-10-02T18:17:37.161250+00:00"
-    },
-    "Arango": {
-      "count": 1,
-      "job_ids": [
-        "0bad7d05c1cb"
-      ],
-      "last_seen": "2026-09-30T23:35:58.794681+00:00"
     },
     "Ashby": {
       "count": 1,
@@ -92,12 +78,9 @@
       "last_seen": "2026-10-02T18:17:37.161250+00:00"
     },
     "Bjak": {
-      "count": 4,
+      "count": 1,
       "job_ids": [
-        "5eefc2524a45",
-        "578e1bcc6323",
-        "a9076f9b51af",
-        "22294040f070"
+        "5eefc2524a45"
       ],
       "last_seen": "2026-10-03T07:51:53.750694+00:00"
     },
@@ -412,13 +395,6 @@
       ],
       "last_seen": "2026-10-02T18:17:37.161250+00:00"
     },
-    "OkWhen": {
-      "count": 1,
-      "job_ids": [
-        "aafea233ce0d"
-      ],
-      "last_seen": "2026-09-30T23:35:58.794681+00:00"
-    },
     "Omega Enterprises": {
       "count": 1,
       "job_ids": [
@@ -525,13 +501,6 @@
       ],
       "last_seen": "2026-10-02T18:17:37.161250+00:00"
     },
-    "SIHO Insurance Services": {
-      "count": 1,
-      "job_ids": [
-        "a3c6466c8e30"
-      ],
-      "last_seen": "2026-09-30T23:35:58.794681+00:00"
-    },
     "SLB": {
       "count": 1,
       "job_ids": [
@@ -581,13 +550,6 @@
       ],
       "last_seen": "2026-10-02T18:17:37.161250+00:00"
     },
-    "Sticker Mule": {
-      "count": 1,
-      "job_ids": [
-        "3ae373be1705"
-      ],
-      "last_seen": "2026-09-30T23:35:58.794681+00:00"
-    },
     "Stone": {
       "count": 2,
       "job_ids": [
@@ -623,6 +585,13 @@
         "4a59a86ff633"
       ],
       "last_seen": "2026-10-03T07:51:53.750694+00:00"
+    },
+    "The AI Whistleblower Initiative": {
+      "count": 1,
+      "job_ids": [
+        "916cd2848e14"
+      ],
+      "last_seen": "2026-10-03T23:41:59.640818+00:00"
     },
     "Tidy Tools": {
       "count": 1,
@@ -720,13 +689,14 @@
       "last_seen": "2026-10-01T23:02:51.985101+00:00"
     },
     "iMerit Technology": {
-      "count": 2,
+      "count": 3,
       "job_ids": [
+        "aad0d581511f",
         "7e56423bc195",
         "a0b1d92a97dd"
       ],
-      "last_seen": "2026-10-03T07:51:53.750694+00:00"
+      "last_seen": "2026-10-03T23:41:59.640818+00:00"
     }
   },
-  "updated_at": "2026-10-03T20:52:09.336229+00:00"
+  "updated_at": "2026-10-03T23:41:59.640818+00:00"
 }
