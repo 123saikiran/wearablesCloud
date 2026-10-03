@@ -1,6 +1,54 @@
 {
   "jobs": [
     {
+      "company": "Crackr",
+      "fetched_at": "2026-10-03T17:51:04.656196+00:00",
+      "id": "020288c3a369",
+      "location": "Remote",
+      "posted_at": "2026-10-03T15:00:17+00:00",
+      "source": "devto",
+      "tags": [
+        "beginners",
+        "jobs",
+        "career",
+        "programming"
+      ],
+      "title": "Summer 2026 Internships: 8 New Openings This Week (Oct 3)",
+      "url": "https://dev.to/crackr/summer-2026-internships-8-new-openings-this-week-oct-3-3eol"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-10-03T17:51:04.656196+00:00",
+      "id": "a2345205e243",
+      "location": "Remote",
+      "posted_at": "2026-10-03T15:00:13+00:00",
+      "source": "devto",
+      "tags": [
+        "remotework",
+        "jobs",
+        "webdev",
+        "career"
+      ],
+      "title": "Remote SWE Jobs Paying Up to $250k (Oct 3)",
+      "url": "https://dev.to/crackr/remote-swe-jobs-paying-up-to-250k-oct-3-14a8"
+    },
+    {
+      "company": "Mitul",
+      "fetched_at": "2026-10-03T17:51:04.656196+00:00",
+      "id": "140909e3d7e5",
+      "location": "Remote",
+      "posted_at": "2026-10-03T14:01:31+00:00",
+      "source": "devto",
+      "tags": [
+        "career",
+        "resume",
+        "jobs",
+        "productivity"
+      ],
+      "title": "Career changer: describing experience from a different industry",
+      "url": "https://dev.to/mitulgelani/career-changer-describing-experience-from-a-different-industry-401c"
+    },
+    {
       "company": "Empire Assets",
       "fetched_at": "2026-10-03T13:12:39.276371+00:00",
       "id": "4e9a75d2d6eb",
@@ -2799,125 +2847,7 @@
       ],
       "title": "Principal Engineer",
       "url": "https://remoteOK.com/remote-jobs/remote-principal-engineer-the-ai-whistleblower-initiative-1137162"
-    },
-    {
-      "company": "Luna (iLands agent)",
-      "fetched_at": "2026-09-30T19:01:08.628892+00:00",
-      "id": "f63be3f2876c",
-      "location": "Remote",
-      "posted_at": "2026-09-30T15:36:07+00:00",
-      "source": "devto",
-      "tags": [
-        "career",
-        "security",
-        "jobs",
-        "cybersecurity"
-      ],
-      "title": "I read the case files on fake job interviews for weeks. They all describe one template.",
-      "url": "https://dev.to/luna-ilands/i-read-the-case-files-on-fake-job-interviews-for-weeks-they-all-describe-one-template-2e22"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-30T19:01:08.628892+00:00",
-      "id": "3bca244d8e16",
-      "location": "Remote",
-      "posted_at": "2026-09-30T15:16:15+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-82d"
-    },
-    {
-      "company": "Crackr",
-      "fetched_at": "2026-09-30T19:01:08.628892+00:00",
-      "id": "a30b7dfcc0aa",
-      "location": "Remote",
-      "posted_at": "2026-09-30T15:00:17+00:00",
-      "source": "devto",
-      "tags": [
-        "beginners",
-        "jobs",
-        "career",
-        "programming"
-      ],
-      "title": "Summer 2026 Internships: 8 New Openings This Week (Sep 30)",
-      "url": "https://dev.to/crackr/summer-2026-internships-8-new-openings-this-week-sep-30-36jj"
-    },
-    {
-      "company": "Crackr",
-      "fetched_at": "2026-09-30T19:01:08.628892+00:00",
-      "id": "728949e09131",
-      "location": "Remote",
-      "posted_at": "2026-09-30T15:00:13+00:00",
-      "source": "devto",
-      "tags": [
-        "remotework",
-        "jobs",
-        "webdev",
-        "career"
-      ],
-      "title": "Remote SWE Jobs Paying Up to $250k (Sep 30)",
-      "url": "https://dev.to/crackr/remote-swe-jobs-paying-up-to-250k-sep-30-22hl"
-    },
-    {
-      "company": "Johnson Controls",
-      "fetched_at": "2026-09-30T13:30:47.255329+00:00",
-      "id": "03252034ba51",
-      "location": "Warana,",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "design",
-        "technical",
-        "customer support",
-        "dev",
-        "microsoft",
-        "senior",
-        "ops",
-        "engineer",
-        "digital nomad",
-        "sys admin",
-        "education",
-        "testing",
-        "exec",
-        "excel",
-        "payroll",
-        "medical",
-        "video",
-        "marketing",
-        "travel",
-        "finance",
-        "mobile",
-        "hr",
-        "recruiter",
-        "supervisor",
-        "consulting",
-        "assembly",
-        "saas",
-        "golang",
-        "coordinator",
-        "product manager",
-        "bus dev",
-        "sales",
-        "amazon",
-        "salesforce",
-        "infosec",
-        "embedded",
-        "java",
-        "c",
-        "c plus plus",
-        "cloud",
-        "linux",
-        "speech"
-      ],
-      "title": "BMS Service Technician",
-      "url": "https://remoteOK.com/remote-jobs/remote-bms-service-technician-johnson-controls-1135997"
     }
   ],
-  "updated_at": "2026-10-03T13:12:39.276371+00:00"
+  "updated_at": "2026-10-03T17:51:04.656196+00:00"
 }
