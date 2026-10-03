@@ -298,6 +298,13 @@
       ],
       "last_seen": "2026-10-02T18:17:37.161250+00:00"
     },
+    "Johnson Controls": {
+      "count": 1,
+      "job_ids": [
+        "03252034ba51"
+      ],
+      "last_seen": "2026-10-03T20:52:09.336229+00:00"
+    },
     "JumpCloud": {
       "count": 1,
       "job_ids": [
@@ -483,7 +490,7 @@
       "last_seen": "2026-10-02T18:17:37.161250+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 10,
+      "count": 9,
       "job_ids": [
         "54beb13188fb",
         "5c3a9d5d1cc2",
@@ -493,8 +500,7 @@
         "99ff20ea8bba",
         "29c9c3960a10",
         "82022d6c7b1d",
-        "564c26a85d70",
-        "1812193248ea"
+        "564c26a85d70"
       ],
       "last_seen": "2026-10-02T18:33:52+00:00"
     },
@@ -511,13 +517,6 @@
         "066efc7f9f1f"
       ],
       "last_seen": "2026-10-02T18:17:37.161250+00:00"
-    },
-    "Rojgar Suvidha": {
-      "count": 1,
-      "job_ids": [
-        "2e64b06d7ad3"
-      ],
-      "last_seen": "2026-09-30T19:30:35+00:00"
     },
     "SEAhub Asia": {
       "count": 1,
@@ -625,13 +624,6 @@
       ],
       "last_seen": "2026-10-03T07:51:53.750694+00:00"
     },
-    "The AI Whistleblower Initiative": {
-      "count": 1,
-      "job_ids": [
-        "916cd2848e14"
-      ],
-      "last_seen": "2026-09-30T19:01:08.628892+00:00"
-    },
     "Tidy Tools": {
       "count": 1,
       "job_ids": [
@@ -728,14 +720,13 @@
       "last_seen": "2026-10-01T23:02:51.985101+00:00"
     },
     "iMerit Technology": {
-      "count": 3,
+      "count": 2,
       "job_ids": [
         "7e56423bc195",
-        "a0b1d92a97dd",
-        "aad0d581511f"
+        "a0b1d92a97dd"
       ],
       "last_seen": "2026-10-03T07:51:53.750694+00:00"
     }
   },
-  "updated_at": "2026-10-03T17:51:04.656196+00:00"
+  "updated_at": "2026-10-03T20:52:09.336229+00:00"
 }
