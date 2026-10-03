@@ -1,6 +1,35 @@
 {
   "jobs": [
     {
+      "company": "Empire Assets",
+      "fetched_at": "2026-10-03T13:12:39.276371+00:00",
+      "id": "4e9a75d2d6eb",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "crypto",
+        "finance",
+        "trader",
+        "remote",
+        "part time",
+        "full time",
+        "web3",
+        "bitcoin",
+        "ethereum",
+        "blockchain",
+        "defi",
+        "work from home",
+        "Anywhere",
+        "junior",
+        "analyst",
+        "exec",
+        "ops"
+      ],
+      "title": "Junior Crypto Analyst & Trader",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-empire-assets-1137460"
+    },
+    {
       "company": "Omega Enterprises",
       "fetched_at": "2026-10-03T07:51:53.750694+00:00",
       "id": "f27fd8c61f4a",
@@ -2888,39 +2917,7 @@
       ],
       "title": "BMS Service Technician",
       "url": "https://remoteOK.com/remote-jobs/remote-bms-service-technician-johnson-controls-1135997"
-    },
-    {
-      "company": "Mitul",
-      "fetched_at": "2026-09-30T13:30:47.255329+00:00",
-      "id": "69b60a3b7dc8",
-      "location": "Remote",
-      "posted_at": "2026-09-30T12:01:45+00:00",
-      "source": "devto",
-      "tags": [
-        "career",
-        "resume",
-        "jobs",
-        "productivity"
-      ],
-      "title": "How to write bullet points with numbers when your job has no numbers",
-      "url": "https://dev.to/mitulgelani/how-to-write-bullet-points-with-numbers-when-your-job-has-no-numbers-1f6i"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-09-30T13:30:47.255329+00:00",
-      "id": "b61832c68408",
-      "location": "Remote",
-      "posted_at": "2026-09-30T08:29:22+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-gc5"
     }
   ],
-  "updated_at": "2026-10-03T07:51:53.750694+00:00"
+  "updated_at": "2026-10-03T13:12:39.276371+00:00"
 }
