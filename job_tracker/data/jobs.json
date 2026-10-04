@@ -1,6 +1,38 @@
 {
   "jobs": [
     {
+      "company": "Crackr",
+      "fetched_at": "2026-10-04T17:23:25.323447+00:00",
+      "id": "25c705ad388d",
+      "location": "Remote",
+      "posted_at": "2026-10-04T15:00:17+00:00",
+      "source": "devto",
+      "tags": [
+        "beginners",
+        "jobs",
+        "career",
+        "programming"
+      ],
+      "title": "These Companies Want Interns This Summer (Oct 4)",
+      "url": "https://dev.to/crackr/these-companies-want-interns-this-summer-oct-4-3h9n"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-10-04T17:23:25.323447+00:00",
+      "id": "16fcbcc01c88",
+      "location": "Remote",
+      "posted_at": "2026-10-04T15:00:13+00:00",
+      "source": "devto",
+      "tags": [
+        "remotework",
+        "jobs",
+        "webdev",
+        "career"
+      ],
+      "title": "8 Remote SWE Jobs You Can Apply to From Anywhere (Oct 4)",
+      "url": "https://dev.to/crackr/8-remote-swe-jobs-you-can-apply-to-from-anywhere-oct-4-4io6"
+    },
+    {
       "company": "Prenosis",
       "fetched_at": "2026-10-04T12:06:44.322549+00:00",
       "id": "e9064f4ba338",
@@ -2661,139 +2693,7 @@
       ],
       "title": "50% off selected Tayoca services, plus a referral deal",
       "url": "https://dev.to/temitayocharles/50-off-selected-tayoca-services-plus-a-referral-deal-1hl2"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-10-01T18:45:39.887698+00:00",
-      "id": "99ff20ea8bba",
-      "location": "Remote",
-      "posted_at": "2026-10-01T16:35:32+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-50hk"
-    },
-    {
-      "company": "Tim Zinin",
-      "fetched_at": "2026-10-01T18:45:39.887698+00:00",
-      "id": "8e141f08db46",
-      "location": "Remote",
-      "posted_at": "2026-10-01T16:25:04+00:00",
-      "source": "devto",
-      "tags": [
-        "apify",
-        "webscraping",
-        "api",
-        "jobs"
-      ],
-      "title": "How to Query Himalayas Remote Jobs as an API Without a Paid Plan",
-      "url": "https://dev.to/timmyzinin/how-to-query-himalayas-remote-jobs-as-an-api-without-a-paid-plan-1fkb"
-    },
-    {
-      "company": "Crackr",
-      "fetched_at": "2026-10-01T18:45:39.887698+00:00",
-      "id": "58768e054057",
-      "location": "Remote",
-      "posted_at": "2026-10-01T15:00:19+00:00",
-      "source": "devto",
-      "tags": [
-        "beginners",
-        "jobs",
-        "career",
-        "programming"
-      ],
-      "title": "These Companies Want Interns This Summer (Oct 1)",
-      "url": "https://dev.to/crackr/these-companies-want-interns-this-summer-oct-1-20e6"
-    },
-    {
-      "company": "Crackr",
-      "fetched_at": "2026-10-01T18:45:39.887698+00:00",
-      "id": "2516c53b483b",
-      "location": "Remote",
-      "posted_at": "2026-10-01T15:00:14+00:00",
-      "source": "devto",
-      "tags": [
-        "remotework",
-        "jobs",
-        "webdev",
-        "career"
-      ],
-      "title": "8 Remote SWE Jobs You Can Apply to From Anywhere (Oct 1)",
-      "url": "https://dev.to/crackr/8-remote-swe-jobs-you-can-apply-to-from-anywhere-oct-1-8ma"
-    },
-    {
-      "company": "Mitul",
-      "fetched_at": "2026-10-01T18:45:39.887698+00:00",
-      "id": "957cc96726ba",
-      "location": "Remote",
-      "posted_at": "2026-10-01T14:02:36+00:00",
-      "source": "devto",
-      "tags": [
-        "career",
-        "resume",
-        "jobs",
-        "productivity"
-      ],
-      "title": "No experience, no problem: what a student resume should actually contain",
-      "url": "https://dev.to/mitulgelani/no-experience-no-problem-what-a-student-resume-should-actually-contain-mha"
-    },
-    {
-      "company": "DoiT",
-      "fetched_at": "2026-10-01T12:51:30.855887+00:00",
-      "id": "55ad3d8aceec",
-      "location": "Remote UK",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "technical",
-        "marketing",
-        "cloud",
-        "microsoft",
-        "exec",
-        "sales"
-      ],
-      "title": "Sales Development Representative Attributeâ",
-      "url": "https://remoteOK.com/remote-jobs/"
-    },
-    {
-      "company": "Viable Medical Solutions",
-      "fetched_at": "2026-10-01T12:51:30.855887+00:00",
-      "id": "7e462c4c98c4",
-      "location": "Greater Orlando",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "design",
-        "music",
-        "customer support",
-        "travel",
-        "video",
-        "exec",
-        "content writing",
-        "ops",
-        "marketing",
-        "ads",
-        "digital nomad",
-        "hr",
-        "dev",
-        "consulting",
-        "technical",
-        "testing",
-        "payroll",
-        "education",
-        "virtual assistant",
-        "sales",
-        "medical",
-        "full time"
-      ],
-      "title": "Administrative Assistant",
-      "url": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-viable-medical-solutions-1135697"
     }
   ],
-  "updated_at": "2026-10-04T12:06:44.322549+00:00"
+  "updated_at": "2026-10-04T17:23:25.323447+00:00"
 }
