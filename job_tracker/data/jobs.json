@@ -1,6 +1,233 @@
 {
   "jobs": [
     {
+      "company": "SIHO Insurance Services",
+      "fetched_at": "2026-10-04T05:20:29.877183+00:00",
+      "id": "a3c6466c8e30",
+      "location": "SIHO - Columbus, IN",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec",
+        "sys admin",
+        "education",
+        "supervisor",
+        "customer support",
+        "quality assurance",
+        "c",
+        "microsoft",
+        "ops",
+        "excel",
+        "legal",
+        "medical"
+      ],
+      "title": "Director Payment Integrity",
+      "url": "https://remoteOK.com/remote-jobs/remote-director-payment-integrity-siho-insurance-services-1137434"
+    },
+    {
+      "company": "Bjak",
+      "fetched_at": "2026-10-04T05:20:29.877183+00:00",
+      "id": "578e1bcc6323",
+      "location": "Germany",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "product manager",
+        "exec",
+        "design",
+        "sys admin",
+        "infosec",
+        "technical",
+        "finance",
+        "ruby",
+        "mobile",
+        "ops",
+        "engineer",
+        "digital nomad"
+      ],
+      "title": "Technical Product Manager AI Stockbroking App",
+      "url": "https://remoteOK.com/remote-jobs/remote-technical-product-manager-ai-stockbroking-app-bjak-1137421"
+    },
+    {
+      "company": "Bjak",
+      "fetched_at": "2026-10-04T05:20:29.877183+00:00",
+      "id": "a9076f9b51af",
+      "location": "Singapore",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "front end",
+        "design",
+        "react",
+        "graphql",
+        "react.js",
+        "technical",
+        "web dev",
+        "javascript",
+        "css",
+        "chatbot",
+        "html",
+        "typescript",
+        "node",
+        "node.js",
+        "exec",
+        "sys admin",
+        "engineer",
+        "backend",
+        "digital nomad"
+      ],
+      "title": "Frontend Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420"
+    },
+    {
+      "company": "OkWhen",
+      "fetched_at": "2026-10-04T05:20:29.877183+00:00",
+      "id": "aafea233ce0d",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "dev",
+        "design",
+        "c sharp",
+        "saas",
+        "sys admin",
+        "infosec",
+        "education",
+        "technical",
+        "testing",
+        "web dev",
+        "xamarin",
+        "c",
+        "cloud",
+        "git",
+        "typescript",
+        "angular",
+        "mobile",
+        "exec",
+        "content writing",
+        "senior",
+        "ops",
+        "medical",
+        "engineer",
+        "backend",
+        "digital nomad"
+      ],
+      "title": "Senior .NET Software Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-net-software-engineer-okwhen-1137411"
+    },
+    {
+      "company": "Bjak",
+      "fetched_at": "2026-10-04T05:20:29.877183+00:00",
+      "id": "22294040f070",
+      "location": "Ireland",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "front end",
+        "design",
+        "react",
+        "graphql",
+        "react.js",
+        "technical",
+        "web dev",
+        "javascript",
+        "css",
+        "chatbot",
+        "html",
+        "typescript",
+        "node",
+        "node.js",
+        "exec",
+        "sys admin",
+        "engineer",
+        "backend",
+        "digital nomad"
+      ],
+      "title": "Frontend Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410"
+    },
+    {
+      "company": "Arango",
+      "fetched_at": "2026-10-04T05:20:29.877183+00:00",
+      "id": "0bad7d05c1cb",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "golang",
+        "golang",
+        "engineer"
+      ],
+      "title": "Golang Kubernetes Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400"
+    },
+    {
+      "company": "Sticker Mule",
+      "fetched_at": "2026-10-04T05:20:29.877183+00:00",
+      "id": "3ae373be1705",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "ai",
+        "golang",
+        "javascript",
+        "typescript"
+      ],
+      "title": "AI agent engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399"
+    },
+    {
+      "company": "Uchromatic",
+      "fetched_at": "2026-10-04T05:20:29.877183+00:00",
+      "id": "0dc329040409",
+      "location": "Time,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "dev",
+        "speech",
+        "finance",
+        "exec",
+        "ops",
+        "golang",
+        "digital nomad",
+        "illustrator",
+        "customer support",
+        "video",
+        "content writing",
+        "product manager",
+        "saas",
+        "technical",
+        "sales",
+        "full time",
+        "design",
+        "designer",
+        "marketing",
+        "photoshop",
+        "medical"
+      ],
+      "title": "Graphic Designer",
+      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-uchromatic-1135767"
+    },
+    {
+      "company": "MARU",
+      "fetched_at": "2026-10-04T05:20:29.877183+00:00",
+      "id": "4f90e12e9d12",
+      "location": "Remote",
+      "posted_at": "2026-10-04T03:19:19+00:00",
+      "source": "devto",
+      "tags": [
+        "japan",
+        "career",
+        "jobs",
+        "salary"
+      ],
+      "title": "How Much Do Software Engineers Really Earn in Japan? (Official Data + What Offers Don't Tell You)",
+      "url": "https://dev.to/maru_honnedev_39f51f07cc/how-much-do-software-engineers-really-earn-in-japan-official-data-what-offers-dont-tell-you-2fl7"
+    },
+    {
       "company": "iMerit Technology",
       "fetched_at": "2026-10-03T23:41:59.640818+00:00",
       "id": "aad0d581511f",
@@ -2598,84 +2825,7 @@
       ],
       "title": "What European Employers Actually Ask For in Manager Roles, Country by Country",
       "url": "https://dev.to/newluxjob/what-european-employers-actually-ask-for-in-manager-roles-country-by-country-3f6"
-    },
-    {
-      "company": "Prenosis",
-      "fetched_at": "2026-10-01T05:16:31.590720+00:00",
-      "id": "e9064f4ba338",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "golang",
-        "dev",
-        "engineer",
-        "digital nomad"
-      ],
-      "title": "Software Engineer",
-      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-prenosis-1137427"
-    },
-    {
-      "company": "Warehance",
-      "fetched_at": "2026-10-01T05:16:31.590720+00:00",
-      "id": "b229c41a3801",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "customer support"
-      ],
-      "title": "Customer Support & Success Specialist",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-success-specialist-warehance-1137302"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-10-01T05:16:31.590720+00:00",
-      "id": "82022d6c7b1d",
-      "location": "Remote",
-      "posted_at": "2026-10-01T02:31:15+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-m85"
-    },
-    {
-      "company": "Tidy Tools",
-      "fetched_at": "2026-10-01T05:16:31.590720+00:00",
-      "id": "f59313e6e881",
-      "location": "Remote",
-      "posted_at": "2026-10-01T02:00:51+00:00",
-      "source": "devto",
-      "tags": [
-        "api",
-        "jobs",
-        "datascience",
-        "automation"
-      ],
-      "title": "3,141 jobs from 30 career sites: which ATS actually shows the salary?",
-      "url": "https://dev.to/tidytools/3141-jobs-from-30-career-sites-which-ats-actually-shows-the-salary-4ep8"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-10-01T05:16:31.590720+00:00",
-      "id": "564c26a85d70",
-      "location": "Remote",
-      "posted_at": "2026-09-30T23:46:40+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-367i"
     }
   ],
-  "updated_at": "2026-10-03T23:41:59.640818+00:00"
+  "updated_at": "2026-10-04T05:20:29.877183+00:00"
 }
