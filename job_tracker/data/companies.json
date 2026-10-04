@@ -170,6 +170,13 @@
       ],
       "last_seen": "2026-10-03T07:51:53.750694+00:00"
     },
+    "DoiT": {
+      "count": 1,
+      "job_ids": [
+        "55ad3d8aceec"
+      ],
+      "last_seen": "2026-10-04T21:07:52.168108+00:00"
+    },
     "DomainTools": {
       "count": 1,
       "job_ids": [
@@ -325,6 +332,13 @@
         "3212e83df92c"
       ],
       "last_seen": "2026-10-02T18:17:37.161250+00:00"
+    },
+    "Leverage Live Local": {
+      "count": 1,
+      "job_ids": [
+        "2584703aae88"
+      ],
+      "last_seen": "2026-10-04T21:07:52.168108+00:00"
     },
     "Libertex Group": {
       "count": 1,
@@ -577,13 +591,6 @@
       ],
       "last_seen": "2026-10-02T18:17:37.161250+00:00"
     },
-    "Temitayo": {
-      "count": 1,
-      "job_ids": [
-        "f235eb9a91dd"
-      ],
-      "last_seen": "2026-10-01T18:26:13+00:00"
-    },
     "Tessera Labs": {
       "count": 1,
       "job_ids": [
@@ -612,21 +619,6 @@
       ],
       "last_seen": "2026-10-03T23:41:59.640818+00:00"
     },
-    "Tim Zinin": {
-      "count": 1,
-      "job_ids": [
-        "375406e5a80b"
-      ],
-      "last_seen": "2026-10-01T19:25:04+00:00"
-    },
-    "Toptal": {
-      "count": 2,
-      "job_ids": [
-        "c53e67d7e3a5",
-        "756fdf8dcb2c"
-      ],
-      "last_seen": "2026-10-01T18:45:39.887698+00:00"
-    },
     "Transportation Partners &amp; Logistics": {
       "count": 1,
       "job_ids": [
@@ -647,6 +639,13 @@
         "0dc329040409"
       ],
       "last_seen": "2026-10-04T05:20:29.877183+00:00"
+    },
+    "Viable Medical Solutions": {
+      "count": 1,
+      "job_ids": [
+        "7e462c4c98c4"
+      ],
+      "last_seen": "2026-10-04T21:07:52.168108+00:00"
     },
     "Vladimir Stepanenko": {
       "count": 2,
@@ -692,14 +691,13 @@
       "last_seen": "2026-10-01T23:02:51.985101+00:00"
     },
     "iMerit Technology": {
-      "count": 3,
+      "count": 2,
       "job_ids": [
         "aad0d581511f",
-        "7e56423bc195",
-        "a0b1d92a97dd"
+        "7e56423bc195"
       ],
       "last_seen": "2026-10-03T23:41:59.640818+00:00"
     }
   },
-  "updated_at": "2026-10-04T17:23:25.323447+00:00"
+  "updated_at": "2026-10-04T21:07:52.168108+00:00"
 }
