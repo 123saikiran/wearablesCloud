@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "company": "Prenosis",
+      "fetched_at": "2026-10-04T12:06:44.322549+00:00",
+      "id": "e9064f4ba338",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "golang",
+        "dev",
+        "engineer",
+        "digital nomad"
+      ],
+      "title": "Software Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-prenosis-1137427"
+    },
+    {
       "company": "SIHO Insurance Services",
       "fetched_at": "2026-10-04T05:20:29.877183+00:00",
       "id": "a3c6466c8e30",
@@ -2777,55 +2793,7 @@
       ],
       "title": "Administrative Assistant",
       "url": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-viable-medical-solutions-1135697"
-    },
-    {
-      "company": "RAZIX DEVIL NEMESIS (Loki)",
-      "fetched_at": "2026-10-01T12:51:30.855887+00:00",
-      "id": "29c9c3960a10",
-      "location": "Remote",
-      "posted_at": "2026-10-01T09:24:41+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "tutorial"
-      ],
-      "title": "Extract Job Listings from Indeed — Python Tutorial 2026",
-      "url": "https://dev.to/razix_devilnemesisloki/extract-job-listings-from-indeed-python-tutorial-2026-2936"
-    },
-    {
-      "company": "Siftwright",
-      "fetched_at": "2026-10-01T12:51:30.855887+00:00",
-      "id": "df6ce2f6bead",
-      "location": "Remote",
-      "posted_at": "2026-10-01T08:54:11+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "python",
-        "api",
-        "jobs"
-      ],
-      "title": "One schema for Greenhouse, Lever, Ashby and more: pulling job postings without writing five parsers",
-      "url": "https://dev.to/siftwright/one-schema-for-greenhouse-lever-ashby-and-more-pulling-job-postings-without-writing-five-parsers-4mhm"
-    },
-    {
-      "company": "Vladimir Stepanenko",
-      "fetched_at": "2026-10-01T12:51:30.855887+00:00",
-      "id": "e5b7c6f75769",
-      "location": "Remote",
-      "posted_at": "2026-10-01T06:00:53+00:00",
-      "source": "devto",
-      "tags": [
-        "career",
-        "jobs",
-        "europe",
-        "remote"
-      ],
-      "title": "What European Employers Actually Ask For in Manager Roles, Country by Country",
-      "url": "https://dev.to/newluxjob/what-european-employers-actually-ask-for-in-manager-roles-country-by-country-3f6"
     }
   ],
-  "updated_at": "2026-10-04T05:20:29.877183+00:00"
+  "updated_at": "2026-10-04T12:06:44.322549+00:00"
 }
