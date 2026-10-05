@@ -496,13 +496,12 @@
       "last_seen": "2026-10-02T18:17:37.161250+00:00"
     },
     "RAZIX DEVIL NEMESIS (Loki)": {
-      "count": 5,
+      "count": 4,
       "job_ids": [
         "54beb13188fb",
         "5c3a9d5d1cc2",
         "baa9890989c2",
-        "5ef9251362a8",
-        "bc8717e41f13"
+        "5ef9251362a8"
       ],
       "last_seen": "2026-10-02T18:33:52+00:00"
     },
@@ -619,6 +618,14 @@
       ],
       "last_seen": "2026-10-03T23:41:59.640818+00:00"
     },
+    "Toptal": {
+      "count": 2,
+      "job_ids": [
+        "c53e67d7e3a5",
+        "756fdf8dcb2c"
+      ],
+      "last_seen": "2026-10-05T00:37:40.177827+00:00"
+    },
     "Transportation Partners &amp; Logistics": {
       "count": 1,
       "job_ids": [
@@ -676,28 +683,15 @@
       ],
       "last_seen": "2026-10-02T18:17:37.161250+00:00"
     },
-    "Workana": {
-      "count": 1,
-      "job_ids": [
-        "9b41c1eeebc9"
-      ],
-      "last_seen": "2026-10-01T23:02:51.985101+00:00"
-    },
-    "eClinical Solutions": {
-      "count": 1,
-      "job_ids": [
-        "24895f61f51e"
-      ],
-      "last_seen": "2026-10-01T23:02:51.985101+00:00"
-    },
     "iMerit Technology": {
-      "count": 2,
+      "count": 3,
       "job_ids": [
+        "a0b1d92a97dd",
         "aad0d581511f",
         "7e56423bc195"
       ],
-      "last_seen": "2026-10-03T23:41:59.640818+00:00"
+      "last_seen": "2026-10-05T00:37:40.177827+00:00"
     }
   },
-  "updated_at": "2026-10-04T21:07:52.168108+00:00"
+  "updated_at": "2026-10-05T00:37:40.177827+00:00"
 }
