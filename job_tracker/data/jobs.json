@@ -1,6 +1,458 @@
 {
   "jobs": [
     {
+      "company": "RedMimicry",
+      "fetched_at": "2026-10-06T16:41:13.737114+00:00",
+      "id": "f72500a20c52",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "golang",
+        "infosec",
+        "engineer",
+        "part time"
+      ],
+      "title": "Platform and Integration Engineer Security Telemetry",
+      "url": "https://remoteOK.com/remote-jobs/remote-platform-and-integration-engineer-security-telemetry-redmimicry-1137465"
+    },
+    {
+      "company": "Omega Enterprises",
+      "fetched_at": "2026-10-06T16:41:13.737114+00:00",
+      "id": "f27fd8c61f4a",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "other",
+        "crypto",
+        "remote",
+        "education",
+        "web3",
+        "bitcoin",
+        "ethereum",
+        "part time",
+        "finance",
+        "blockchain",
+        "defi",
+        "junior",
+        "analyst",
+        "ops"
+      ],
+      "title": "Junior Digital Assets Operations Analyst",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-digital-assets-operations-analyst-omega-enterprises-1137418"
+    },
+    {
+      "company": "RedMimicry",
+      "fetched_at": "2026-10-06T16:41:13.737114+00:00",
+      "id": "9d3655f38a93",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "golang",
+        "infosec",
+        "dev",
+        "stats",
+        "full time",
+        "digital nomad"
+      ],
+      "title": "Software Developer Security Analytics",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-developer-security-analytics-redmimicry-1137417"
+    },
+    {
+      "company": "KPI Solutions",
+      "fetched_at": "2026-10-06T16:41:13.737114+00:00",
+      "id": "3c4297a53702",
+      "location": "Cincinnati",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "dev",
+        "design",
+        "sys admin",
+        "education",
+        "consulting",
+        "technical",
+        "customer support",
+        "testing",
+        "quality assurance",
+        "c",
+        "robotics",
+        "exec",
+        "junior",
+        "ops",
+        "golang",
+        "medical",
+        "engineer",
+        "ecommerce",
+        "digital nomad"
+      ],
+      "title": "Software Deployment Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-deployment-engineer-kpi-solutions-1137408"
+    },
+    {
+      "company": "Delinea",
+      "fetched_at": "2026-10-06T16:41:13.737114+00:00",
+      "id": "5dc626541a14",
+      "location": "Redwood City",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "design",
+        "saas",
+        "salesforce",
+        "infosec",
+        "vfx",
+        "dev",
+        "finance",
+        "education",
+        "cloud",
+        "admin",
+        "exec",
+        "ops",
+        "marketing",
+        "sales",
+        "medical",
+        "digital nomad"
+      ],
+      "title": "VP Pricing & Packaging",
+      "url": "https://remoteOK.com/remote-jobs/remote-vp-pricing-packaging-delinea-1137407"
+    },
+    {
+      "company": "JumpCloud",
+      "fetched_at": "2026-10-06T16:41:13.737114+00:00",
+      "id": "000d516055a5",
+      "location": "Mexico City, Mexico - Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "customer support",
+        "exec",
+        "saas",
+        "sys admin",
+        "swift",
+        "infosec",
+        "technical",
+        "marketing",
+        "travel",
+        "speech",
+        "finance",
+        "education",
+        "c",
+        "mobile",
+        "sales",
+        "medical",
+        "recruiter",
+        "engineer"
+      ],
+      "title": "Customer Success Manager Mexico",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-mexico-jumpcloud-1137406"
+    },
+    {
+      "company": "DomainTools",
+      "fetched_at": "2026-10-06T16:41:13.737114+00:00",
+      "id": "88fcf7a684b1",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "product manager",
+        "exec",
+        "infosec",
+        "marketing",
+        "design",
+        "web dev",
+        "scrum",
+        "cloud",
+        "api",
+        "stats",
+        "sales",
+        "engineer",
+        "digital nomad"
+      ],
+      "title": "Principal Product Manager",
+      "url": "https://remoteOK.com/remote-jobs/remote-principal-product-manager-domaintools-1137396"
+    },
+    {
+      "company": "Bjak",
+      "fetched_at": "2026-10-06T16:41:13.737114+00:00",
+      "id": "5eefc2524a45",
+      "location": "Seoul",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "design",
+        "sys admin",
+        "infosec",
+        "exec",
+        "technical",
+        "finance",
+        "ruby",
+        "mobile",
+        "ops",
+        "engineer",
+        "digital nomad"
+      ],
+      "title": "Technical Product Lead AI Finance App",
+      "url": "https://remoteOK.com/remote-jobs/remote-technical-product-lead-ai-finance-app-bjak-1137388"
+    },
+    {
+      "company": "Mirantis",
+      "fetched_at": "2026-10-06T16:41:13.737114+00:00",
+      "id": "99e1bd4c692e",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "golang",
+        "dev",
+        "engineer",
+        "digital nomad"
+      ],
+      "title": "Software Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-mirantis-1137387"
+    },
+    {
+      "company": "Libertex Group",
+      "fetched_at": "2026-10-06T16:41:13.737114+00:00",
+      "id": "13adf68b920b",
+      "location": "Ù Ø³ÙØ·, Ù Ø³ÙØ· Ù Ø³ÙØ· Ø¹Ù Ø§Ù",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "product manager",
+        "exec",
+        "design",
+        "crypto",
+        "marketing",
+        "finance",
+        "bus dev",
+        "recruiter",
+        "digital nomad"
+      ],
+      "title": "Business Development Manager",
+      "url": "https://remoteOK.com/remote-jobs/remote-business-development-manager-libertex-group-1137373"
+    },
+    {
+      "company": "Thatchers Cider",
+      "fetched_at": "2026-10-06T16:41:13.737114+00:00",
+      "id": "4a59a86ff633",
+      "location": "Greater Newcastle Area,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "education",
+        "marketing",
+        "finance",
+        "exec",
+        "excel",
+        "golang"
+      ],
+      "title": "Quality Dispense Technician North",
+      "url": "https://remoteOK.com/remote-jobs/remote-quality-dispense-technician-north-thatchers-cider-1137374"
+    },
+    {
+      "company": "iMerit Technology",
+      "fetched_at": "2026-10-06T16:41:13.737114+00:00",
+      "id": "7e56423bc195",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "content writing",
+        "quality assurance",
+        "ai"
+      ],
+      "title": "AI Response Analyst",
+      "url": "https://remoteOK.com/remote-jobs/remote-ai-response-analyst-imerit-technology-1137309"
+    },
+    {
+      "company": "Benzinga",
+      "fetched_at": "2026-10-06T16:41:13.737114+00:00",
+      "id": "08991bb5dd0b",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "golang",
+        "video",
+        "engineer"
+      ],
+      "title": "AI Engineer Data APIs",
+      "url": "https://remoteOK.com/remote-jobs/remote-ai-engineer-data-apis-benzinga-1137224"
+    },
+    {
+      "company": "Blackbird Interactive",
+      "fetched_at": "2026-10-06T16:41:13.737114+00:00",
+      "id": "63695c1ba827",
+      "location": "Vancouver, BC, Canada",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "design",
+        "game dev",
+        "designer",
+        "technical",
+        "customer support",
+        "testing",
+        "content writing",
+        "senior",
+        "engineer",
+        "digital nomad"
+      ],
+      "title": "Senior Level Designer",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-level-designer-blackbird-interactive-1137156"
+    },
+    {
+      "company": "Tessera Labs",
+      "fetched_at": "2026-10-06T16:41:13.737114+00:00",
+      "id": "f18c1fd14d71",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "design",
+        "sys admin",
+        "consulting",
+        "testing",
+        "exec",
+        "cloud",
+        "senior",
+        "ops",
+        "engineer",
+        "ecommerce",
+        "shopify",
+        "full time",
+        "digital nomad"
+      ],
+      "title": "Oracle Fusion Cloud Lead â Logistics & Supply Chain Management",
+      "url": "https://remoteOK.com/remote-jobs/remote-oracle-fusion-cloud-lead-logistics-supply-chain-management-tessera-labs-1137155"
+    },
+    {
+      "company": "BMWL",
+      "fetched_at": "2026-10-06T16:41:13.737114+00:00",
+      "id": "041f6fabd63b",
+      "location": "California, California, United States",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "design",
+        "amazon",
+        "designer",
+        "customer support",
+        "video",
+        "exec",
+        "junior",
+        "marketing",
+        "ecommerce",
+        "digital nomad",
+        "art direction",
+        "consulting",
+        "ads",
+        "content writing"
+      ],
+      "title": "Freelance Creative Director",
+      "url": "https://remoteOK.com/remote-jobs/remote-freelance-creative-director-bmwl-1135901"
+    },
+    {
+      "company": "Pacific Health Group",
+      "fetched_at": "2026-10-06T16:41:13.737114+00:00",
+      "id": "8edc97b915c5",
+      "location": "San Diego, San Diego, California, United States",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "hr",
+        "sys admin",
+        "education",
+        "recruiter",
+        "coordinator",
+        "customer support",
+        "marketing",
+        "exec",
+        "payroll",
+        "finance",
+        "ops",
+        "medical",
+        "internship",
+        "full time"
+      ],
+      "title": "Human Resources Coordinator",
+      "url": "https://remoteOK.com/remote-jobs/remote-human-resources-coordinator-pacific-health-group-1135783"
+    },
+    {
+      "company": "Bored Panda",
+      "fetched_at": "2026-10-06T16:41:13.737114+00:00",
+      "id": "9466505086ce",
+      "location": "Vilnius, Vilnius, Vilniaus, Lithuania",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "dev",
+        "speech",
+        "finance",
+        "exec",
+        "ops",
+        "golang",
+        "digital nomad",
+        "illustrator",
+        "customer support",
+        "video",
+        "content writing"
+      ],
+      "title": "Voice Over Artist",
+      "url": "https://remoteOK.com/remote-jobs/remote-voice-over-artist-bored-panda-1135765"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-10-06T16:41:13.737114+00:00",
+      "id": "3ab8cfdd2edd",
+      "location": "Remote",
+      "posted_at": "2026-10-06T15:00:16+00:00",
+      "source": "devto",
+      "tags": [
+        "beginners",
+        "jobs",
+        "career",
+        "programming"
+      ],
+      "title": "Summer 2026 Internships: 8 New Openings This Week (Oct 6)",
+      "url": "https://dev.to/crackr/summer-2026-internships-8-new-openings-this-week-oct-6-46fi"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-10-06T16:41:13.737114+00:00",
+      "id": "344c39ccabc3",
+      "location": "Remote",
+      "posted_at": "2026-10-06T15:00:13+00:00",
+      "source": "devto",
+      "tags": [
+        "remotework",
+        "jobs",
+        "webdev",
+        "career"
+      ],
+      "title": "Remote SWE Jobs Paying Up to $250k (Oct 6)",
+      "url": "https://dev.to/crackr/remote-swe-jobs-paying-up-to-250k-oct-6-1e71"
+    },
+    {
+      "company": "Mitul",
+      "fetched_at": "2026-10-06T16:41:13.737114+00:00",
+      "id": "7bf70c70dbc8",
+      "location": "Remote",
+      "posted_at": "2026-10-06T14:03:40+00:00",
+      "source": "devto",
+      "tags": [
+        "career",
+        "resume",
+        "jobs",
+        "productivity"
+      ],
+      "title": "The cover letter is optional now. Here is what replaced it",
+      "url": "https://dev.to/mitulgelani/the-cover-letter-is-optional-now-here-is-what-replaced-it-4bgh"
+    },
+    {
       "company": "Mindrift - Data annotation",
       "fetched_at": "2026-10-06T09:59:02.953161+00:00",
       "id": "27114a112780",
@@ -2116,84 +2568,7 @@
       ],
       "title": "BMS Service Technician",
       "url": "https://remoteOK.com/remote-jobs/remote-bms-service-technician-johnson-controls-1135997"
-    },
-    {
-      "company": "Crackr",
-      "fetched_at": "2026-10-03T17:51:04.656196+00:00",
-      "id": "020288c3a369",
-      "location": "Remote",
-      "posted_at": "2026-10-03T15:00:17+00:00",
-      "source": "devto",
-      "tags": [
-        "beginners",
-        "jobs",
-        "career",
-        "programming"
-      ],
-      "title": "Summer 2026 Internships: 8 New Openings This Week (Oct 3)",
-      "url": "https://dev.to/crackr/summer-2026-internships-8-new-openings-this-week-oct-3-3eol"
-    },
-    {
-      "company": "Crackr",
-      "fetched_at": "2026-10-03T17:51:04.656196+00:00",
-      "id": "a2345205e243",
-      "location": "Remote",
-      "posted_at": "2026-10-03T15:00:13+00:00",
-      "source": "devto",
-      "tags": [
-        "remotework",
-        "jobs",
-        "webdev",
-        "career"
-      ],
-      "title": "Remote SWE Jobs Paying Up to $250k (Oct 3)",
-      "url": "https://dev.to/crackr/remote-swe-jobs-paying-up-to-250k-oct-3-14a8"
-    },
-    {
-      "company": "Mitul",
-      "fetched_at": "2026-10-03T17:51:04.656196+00:00",
-      "id": "140909e3d7e5",
-      "location": "Remote",
-      "posted_at": "2026-10-03T14:01:31+00:00",
-      "source": "devto",
-      "tags": [
-        "career",
-        "resume",
-        "jobs",
-        "productivity"
-      ],
-      "title": "Career changer: describing experience from a different industry",
-      "url": "https://dev.to/mitulgelani/career-changer-describing-experience-from-a-different-industry-401c"
-    },
-    {
-      "company": "Empire Assets",
-      "fetched_at": "2026-10-03T13:12:39.276371+00:00",
-      "id": "4e9a75d2d6eb",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "crypto",
-        "finance",
-        "trader",
-        "remote",
-        "part time",
-        "full time",
-        "web3",
-        "bitcoin",
-        "ethereum",
-        "blockchain",
-        "defi",
-        "work from home",
-        "Anywhere",
-        "junior",
-        "analyst",
-        "exec",
-        "ops"
-      ],
-      "title": "Junior Crypto Analyst & Trader",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-empire-assets-1137460"
     }
   ],
-  "updated_at": "2026-10-06T09:59:02.953161+00:00"
+  "updated_at": "2026-10-06T16:41:13.737114+00:00"
 }
