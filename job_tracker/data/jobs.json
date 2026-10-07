@@ -1,6 +1,76 @@
 {
   "jobs": [
     {
+      "company": "Johnson Controls",
+      "fetched_at": "2026-10-07T01:20:21.563172+00:00",
+      "id": "03252034ba51",
+      "location": "Warana,",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "design",
+        "technical",
+        "customer support",
+        "dev",
+        "microsoft",
+        "senior",
+        "ops",
+        "engineer",
+        "digital nomad",
+        "sys admin",
+        "education",
+        "testing",
+        "exec",
+        "excel",
+        "payroll",
+        "medical",
+        "video",
+        "marketing",
+        "travel",
+        "finance",
+        "mobile",
+        "hr",
+        "recruiter",
+        "supervisor",
+        "consulting",
+        "assembly",
+        "saas",
+        "golang",
+        "coordinator",
+        "product manager",
+        "bus dev",
+        "sales",
+        "amazon",
+        "salesforce",
+        "infosec",
+        "embedded",
+        "java",
+        "c",
+        "c plus plus",
+        "cloud",
+        "linux",
+        "speech"
+      ],
+      "title": "BMS Service Technician",
+      "url": "https://remoteOK.com/remote-jobs/remote-bms-service-technician-johnson-controls-1135997"
+    },
+    {
+      "company": "quiethand098",
+      "fetched_at": "2026-10-07T01:20:21.563172+00:00",
+      "id": "0a0ce622f89b",
+      "location": "Remote",
+      "posted_at": "2026-10-06T23:14:40+00:00",
+      "source": "devto",
+      "tags": [
+        "api",
+        "jobs",
+        "webdev",
+        "tutorial"
+      ],
+      "title": "Pulling remote jobs from 5 free sources into one deduplicated feed",
+      "url": "https://dev.to/quiethand098/pulling-remote-jobs-from-5-free-sources-into-one-deduplicated-feed-2hcb"
+    },
+    {
       "company": "Empire Assets",
       "fetched_at": "2026-10-06T21:31:25.386735+00:00",
       "id": "4e9a75d2d6eb",
@@ -2514,36 +2584,7 @@
       ],
       "title": "How Much Do Software Engineers Really Earn in Japan? (Official Data + What Offers Don't Tell You)",
       "url": "https://dev.to/maru_honnedev_39f51f07cc/how-much-do-software-engineers-really-earn-in-japan-official-data-what-offers-dont-tell-you-2fl7"
-    },
-    {
-      "company": "iMerit Technology",
-      "fetched_at": "2026-10-03T23:41:59.640818+00:00",
-      "id": "aad0d581511f",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "ai",
-        "data annotation",
-        "quality assurance"
-      ],
-      "title": "AI Trainer Image QA Evaluator",
-      "url": "https://remoteOK.com/remote-jobs/remote-ai-trainer-image-qa-evaluator-imerit-technology-1137398"
-    },
-    {
-      "company": "The AI Whistleblower Initiative",
-      "fetched_at": "2026-10-03T23:41:59.640818+00:00",
-      "id": "916cd2848e14",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "golang",
-        "engineer"
-      ],
-      "title": "Principal Engineer",
-      "url": "https://remoteOK.com/remote-jobs/remote-principal-engineer-the-ai-whistleblower-initiative-1137162"
     }
   ],
-  "updated_at": "2026-10-06T21:31:25.386735+00:00"
+  "updated_at": "2026-10-07T01:20:21.563172+00:00"
 }
