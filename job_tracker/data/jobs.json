@@ -1,6 +1,55 @@
 {
   "jobs": [
     {
+      "company": "Spiralyze",
+      "fetched_at": "2026-10-07T21:51:52.871116+00:00",
+      "id": "3ab349eb039c",
+      "location": "Worldwide",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "project manager",
+        "exec",
+        "ops",
+        "marketing",
+        "cro"
+      ],
+      "title": "Project Manager",
+      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-spiralyze-1137466"
+    },
+    {
+      "company": "Prenosis",
+      "fetched_at": "2026-10-07T21:51:52.871116+00:00",
+      "id": "e9064f4ba338",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "golang",
+        "dev",
+        "engineer",
+        "digital nomad"
+      ],
+      "title": "Software Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-prenosis-1137427"
+    },
+    {
+      "company": "CleanScrape",
+      "fetched_at": "2026-10-07T21:51:52.871116+00:00",
+      "id": "b6576f7cd696",
+      "location": "Remote",
+      "posted_at": "2026-10-07T18:31:59+00:00",
+      "source": "devto",
+      "tags": [
+        "datascience",
+        "jobs",
+        "webscraping",
+        "python"
+      ],
+      "title": "What a data analyst earns in New York, Chicago and Austin, from 150 Google Jobs listings",
+      "url": "https://dev.to/cleanscrape/what-a-data-analyst-earns-in-new-york-chicago-and-austin-from-150-google-jobs-listings-48ke"
+    },
+    {
       "company": "SIHO Insurance Services",
       "fetched_at": "2026-10-07T16:15:27.351349+00:00",
       "id": "a3c6466c8e30",
@@ -2497,74 +2546,7 @@
       ],
       "title": "Video Data Annotator",
       "url": "https://remoteOK.com/remote-jobs/remote-video-data-annotator-imerit-technology-1137428"
-    },
-    {
-      "company": "Leverage Live Local",
-      "fetched_at": "2026-10-04T21:07:52.168108+00:00",
-      "id": "2584703aae88",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "non tech",
-        "ops",
-        "exec"
-      ],
-      "title": "Head of Operations",
-      "url": "https://remoteOK.com/remote-jobs/remote-head-of-operations-leverage-live-local-1137461"
-    },
-    {
-      "company": "DoiT",
-      "fetched_at": "2026-10-04T21:07:52.168108+00:00",
-      "id": "55ad3d8aceec",
-      "location": "Remote UK",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "technical",
-        "marketing",
-        "cloud",
-        "microsoft",
-        "exec",
-        "sales"
-      ],
-      "title": "Sales Development Representative Attributeâ",
-      "url": "https://remoteOK.com/remote-jobs/"
-    },
-    {
-      "company": "Viable Medical Solutions",
-      "fetched_at": "2026-10-04T21:07:52.168108+00:00",
-      "id": "7e462c4c98c4",
-      "location": "Greater Orlando",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "design",
-        "music",
-        "customer support",
-        "travel",
-        "video",
-        "exec",
-        "content writing",
-        "ops",
-        "marketing",
-        "ads",
-        "digital nomad",
-        "hr",
-        "dev",
-        "consulting",
-        "technical",
-        "testing",
-        "payroll",
-        "education",
-        "virtual assistant",
-        "sales",
-        "medical",
-        "full time"
-      ],
-      "title": "Administrative Assistant",
-      "url": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-viable-medical-solutions-1135697"
     }
   ],
-  "updated_at": "2026-10-07T16:15:27.351349+00:00"
+  "updated_at": "2026-10-07T21:51:52.871116+00:00"
 }

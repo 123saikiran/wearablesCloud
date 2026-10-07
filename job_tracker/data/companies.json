@@ -122,6 +122,13 @@
       ],
       "last_seen": "2026-10-06T02:49:09.391401+00:00"
     },
+    "CleanScrape": {
+      "count": 1,
+      "job_ids": [
+        "b6576f7cd696"
+      ],
+      "last_seen": "2026-10-07T18:31:59+00:00"
+    },
     "Clera": {
       "count": 1,
       "job_ids": [
@@ -169,13 +176,6 @@
         "ec0ec3dc6073"
       ],
       "last_seen": "2026-10-06T16:41:13.737114+00:00"
-    },
-    "DoiT": {
-      "count": 1,
-      "job_ids": [
-        "55ad3d8aceec"
-      ],
-      "last_seen": "2026-10-04T21:07:52.168108+00:00"
     },
     "DomainTools": {
       "count": 1,
@@ -339,13 +339,6 @@
       ],
       "last_seen": "2026-10-06T02:49:09.391401+00:00"
     },
-    "Leverage Live Local": {
-      "count": 1,
-      "job_ids": [
-        "2584703aae88"
-      ],
-      "last_seen": "2026-10-04T21:07:52.168108+00:00"
-    },
     "Libertex Group": {
       "count": 1,
       "job_ids": [
@@ -473,6 +466,13 @@
       ],
       "last_seen": "2026-10-06T02:49:09.391401+00:00"
     },
+    "Prenosis": {
+      "count": 1,
+      "job_ids": [
+        "e9064f4ba338"
+      ],
+      "last_seen": "2026-10-07T21:51:52.871116+00:00"
+    },
     "PulseMediaNL": {
       "count": 1,
       "job_ids": [
@@ -551,6 +551,13 @@
       ],
       "last_seen": "2026-10-06T02:49:09.391401+00:00"
     },
+    "Spiralyze": {
+      "count": 1,
+      "job_ids": [
+        "3ab349eb039c"
+      ],
+      "last_seen": "2026-10-07T21:51:52.871116+00:00"
+    },
     "Sticker Mule": {
       "count": 1,
       "job_ids": [
@@ -616,13 +623,6 @@
       ],
       "last_seen": "2026-10-06T02:49:09.391401+00:00"
     },
-    "Viable Medical Solutions": {
-      "count": 1,
-      "job_ids": [
-        "7e462c4c98c4"
-      ],
-      "last_seen": "2026-10-04T21:07:52.168108+00:00"
-    },
     "Webnotics Pvt Ltd": {
       "count": 1,
       "job_ids": [
@@ -675,5 +675,5 @@
       "last_seen": "2026-10-06T23:14:40+00:00"
     }
   },
-  "updated_at": "2026-10-07T16:15:27.351349+00:00"
+  "updated_at": "2026-10-07T21:51:52.871116+00:00"
 }
