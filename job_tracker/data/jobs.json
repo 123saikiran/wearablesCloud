@@ -1,6 +1,232 @@
 {
   "jobs": [
     {
+      "company": "SIHO Insurance Services",
+      "fetched_at": "2026-10-07T16:15:27.351349+00:00",
+      "id": "a3c6466c8e30",
+      "location": "SIHO - Columbus, IN",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec",
+        "sys admin",
+        "education",
+        "supervisor",
+        "customer support",
+        "quality assurance",
+        "c",
+        "microsoft",
+        "ops",
+        "excel",
+        "legal",
+        "medical"
+      ],
+      "title": "Director Payment Integrity",
+      "url": "https://remoteOK.com/remote-jobs/remote-director-payment-integrity-siho-insurance-services-1137434"
+    },
+    {
+      "company": "Bjak",
+      "fetched_at": "2026-10-07T16:15:27.351349+00:00",
+      "id": "578e1bcc6323",
+      "location": "Germany",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "product manager",
+        "exec",
+        "design",
+        "sys admin",
+        "infosec",
+        "technical",
+        "finance",
+        "ruby",
+        "mobile",
+        "ops",
+        "engineer",
+        "digital nomad"
+      ],
+      "title": "Technical Product Manager AI Stockbroking App",
+      "url": "https://remoteOK.com/remote-jobs/remote-technical-product-manager-ai-stockbroking-app-bjak-1137421"
+    },
+    {
+      "company": "Bjak",
+      "fetched_at": "2026-10-07T16:15:27.351349+00:00",
+      "id": "a9076f9b51af",
+      "location": "Singapore",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "front end",
+        "design",
+        "react",
+        "graphql",
+        "react.js",
+        "technical",
+        "web dev",
+        "javascript",
+        "css",
+        "chatbot",
+        "html",
+        "typescript",
+        "node",
+        "node.js",
+        "exec",
+        "sys admin",
+        "engineer",
+        "backend",
+        "digital nomad"
+      ],
+      "title": "Frontend Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420"
+    },
+    {
+      "company": "OkWhen",
+      "fetched_at": "2026-10-07T16:15:27.351349+00:00",
+      "id": "aafea233ce0d",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "dev",
+        "design",
+        "c sharp",
+        "saas",
+        "sys admin",
+        "infosec",
+        "education",
+        "technical",
+        "testing",
+        "web dev",
+        "xamarin",
+        "c",
+        "cloud",
+        "git",
+        "typescript",
+        "angular",
+        "mobile",
+        "exec",
+        "content writing",
+        "senior",
+        "ops",
+        "medical",
+        "engineer",
+        "backend",
+        "digital nomad"
+      ],
+      "title": "Senior .NET Software Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-net-software-engineer-okwhen-1137411"
+    },
+    {
+      "company": "Bjak",
+      "fetched_at": "2026-10-07T16:15:27.351349+00:00",
+      "id": "22294040f070",
+      "location": "Ireland",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "front end",
+        "design",
+        "react",
+        "graphql",
+        "react.js",
+        "technical",
+        "web dev",
+        "javascript",
+        "css",
+        "chatbot",
+        "html",
+        "typescript",
+        "node",
+        "node.js",
+        "exec",
+        "sys admin",
+        "engineer",
+        "backend",
+        "digital nomad"
+      ],
+      "title": "Frontend Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410"
+    },
+    {
+      "company": "Arango",
+      "fetched_at": "2026-10-07T16:15:27.351349+00:00",
+      "id": "0bad7d05c1cb",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "golang",
+        "golang",
+        "engineer"
+      ],
+      "title": "Golang Kubernetes Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400"
+    },
+    {
+      "company": "Sticker Mule",
+      "fetched_at": "2026-10-07T16:15:27.351349+00:00",
+      "id": "3ae373be1705",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "ai",
+        "golang",
+        "javascript",
+        "typescript"
+      ],
+      "title": "AI agent engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-10-07T16:15:27.351349+00:00",
+      "id": "fa92027574d3",
+      "location": "Remote",
+      "posted_at": "2026-10-07T15:00:18+00:00",
+      "source": "devto",
+      "tags": [
+        "beginners",
+        "jobs",
+        "career",
+        "programming"
+      ],
+      "title": "These Companies Want Interns This Summer (Oct 7)",
+      "url": "https://dev.to/crackr/these-companies-want-interns-this-summer-oct-7-1kf5"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-10-07T16:15:27.351349+00:00",
+      "id": "5659f218ace9",
+      "location": "Remote",
+      "posted_at": "2026-10-07T15:00:15+00:00",
+      "source": "devto",
+      "tags": [
+        "remotework",
+        "jobs",
+        "webdev",
+        "career"
+      ],
+      "title": "8 Remote SWE Jobs You Can Apply to From Anywhere (Oct 7)",
+      "url": "https://dev.to/crackr/8-remote-swe-jobs-you-can-apply-to-from-anywhere-oct-7-1alj"
+    },
+    {
+      "company": "Mitul",
+      "fetched_at": "2026-10-07T16:15:27.351349+00:00",
+      "id": "1d4b9c3c6844",
+      "location": "Remote",
+      "posted_at": "2026-10-07T14:02:04+00:00",
+      "source": "devto",
+      "tags": [
+        "career",
+        "resume",
+        "jobs",
+        "productivity"
+      ],
+      "title": "How to read a job advert the way a recruiter wrote it",
+      "url": "https://dev.to/mitulgelani/how-to-read-a-job-advert-the-way-a-recruiter-wrote-it-3598"
+    },
+    {
       "company": "iMerit Technology",
       "fetched_at": "2026-10-07T08:25:32.130064+00:00",
       "id": "aad0d581511f",
@@ -2338,55 +2564,7 @@
       ],
       "title": "Administrative Assistant",
       "url": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-viable-medical-solutions-1135697"
-    },
-    {
-      "company": "Crackr",
-      "fetched_at": "2026-10-04T17:23:25.323447+00:00",
-      "id": "25c705ad388d",
-      "location": "Remote",
-      "posted_at": "2026-10-04T15:00:17+00:00",
-      "source": "devto",
-      "tags": [
-        "beginners",
-        "jobs",
-        "career",
-        "programming"
-      ],
-      "title": "These Companies Want Interns This Summer (Oct 4)",
-      "url": "https://dev.to/crackr/these-companies-want-interns-this-summer-oct-4-3h9n"
-    },
-    {
-      "company": "Crackr",
-      "fetched_at": "2026-10-04T17:23:25.323447+00:00",
-      "id": "16fcbcc01c88",
-      "location": "Remote",
-      "posted_at": "2026-10-04T15:00:13+00:00",
-      "source": "devto",
-      "tags": [
-        "remotework",
-        "jobs",
-        "webdev",
-        "career"
-      ],
-      "title": "8 Remote SWE Jobs You Can Apply to From Anywhere (Oct 4)",
-      "url": "https://dev.to/crackr/8-remote-swe-jobs-you-can-apply-to-from-anywhere-oct-4-4io6"
-    },
-    {
-      "company": "Prenosis",
-      "fetched_at": "2026-10-04T12:06:44.322549+00:00",
-      "id": "e9064f4ba338",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "golang",
-        "dev",
-        "engineer",
-        "digital nomad"
-      ],
-      "title": "Software Engineer",
-      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-prenosis-1137427"
     }
   ],
-  "updated_at": "2026-10-07T08:25:32.130064+00:00"
+  "updated_at": "2026-10-07T16:15:27.351349+00:00"
 }
