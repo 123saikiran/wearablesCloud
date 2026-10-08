@@ -177,6 +177,13 @@
       ],
       "last_seen": "2026-10-06T16:41:13.737114+00:00"
     },
+    "DoiT": {
+      "count": 1,
+      "job_ids": [
+        "55ad3d8aceec"
+      ],
+      "last_seen": "2026-10-08T01:40:46.099239+00:00"
+    },
     "DomainTools": {
       "count": 1,
       "job_ids": [
@@ -338,6 +345,13 @@
         "3212e83df92c"
       ],
       "last_seen": "2026-10-06T02:49:09.391401+00:00"
+    },
+    "Leverage Live Local": {
+      "count": 1,
+      "job_ids": [
+        "2584703aae88"
+      ],
+      "last_seen": "2026-10-08T01:40:46.099239+00:00"
     },
     "Libertex Group": {
       "count": 1,
@@ -601,14 +615,6 @@
       ],
       "last_seen": "2026-10-07T08:25:32.130064+00:00"
     },
-    "Toptal": {
-      "count": 2,
-      "job_ids": [
-        "c53e67d7e3a5",
-        "756fdf8dcb2c"
-      ],
-      "last_seen": "2026-10-05T00:37:40.177827+00:00"
-    },
     "Transportation Partners &amp; Logistics": {
       "count": 1,
       "job_ids": [
@@ -658,12 +664,18 @@
       ],
       "last_seen": "2026-10-05T06:44:50.639831+00:00"
     },
+    "hiver": {
+      "count": 1,
+      "job_ids": [
+        "974b553feb72"
+      ],
+      "last_seen": "2026-10-07T23:15:31+00:00"
+    },
     "iMerit Technology": {
-      "count": 3,
+      "count": 2,
       "job_ids": [
         "aad0d581511f",
-        "7e56423bc195",
-        "a0b1d92a97dd"
+        "7e56423bc195"
       ],
       "last_seen": "2026-10-07T08:25:32.130064+00:00"
     },
@@ -675,5 +687,5 @@
       "last_seen": "2026-10-06T23:14:40+00:00"
     }
   },
-  "updated_at": "2026-10-07T21:51:52.871116+00:00"
+  "updated_at": "2026-10-08T01:40:46.099239+00:00"
 }
