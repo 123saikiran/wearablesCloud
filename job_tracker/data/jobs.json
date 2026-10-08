@@ -1,6 +1,109 @@
 {
   "jobs": [
     {
+      "company": "Tierarzt Plus Partner",
+      "fetched_at": "2026-10-08T16:16:42.967951+00:00",
+      "id": "af126e4346b4",
+      "location": "Neuruppin",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "medical"
+      ],
+      "title": "Telefondienst fÃ¼r Tierarztpraxis Neuruppin o",
+      "url": "https://remoteOK.com/remote-jobs/remote-telefondienst-fur-tierarztpraxis-neuruppin-o-tierarzt-plus-partner-1137469"
+    },
+    {
+      "company": "Workana",
+      "fetched_at": "2026-10-08T16:16:42.967951+00:00",
+      "id": "9b41c1eeebc9",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [],
+      "title": "MecÃ¡nico Automotriz DiagnÃ³stico y Presupuestos",
+      "url": "https://remoteOK.com/remote-jobs/remote-mecanico-automotriz-diagnostico-y-presupuestos-workana-1137429"
+    },
+    {
+      "company": "eClinical Solutions",
+      "fetched_at": "2026-10-08T16:16:42.967951+00:00",
+      "id": "24895f61f51e",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "cloud",
+        "exec",
+        "stats"
+      ],
+      "title": "External Data Specialist",
+      "url": "https://remoteOK.com/remote-jobs/remote-external-data-specialist-eclinical-solutions-1137375"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-10-08T16:16:42.967951+00:00",
+      "id": "bb89e465326d",
+      "location": "Remote",
+      "posted_at": "2026-10-08T15:00:17+00:00",
+      "source": "devto",
+      "tags": [
+        "beginners",
+        "jobs",
+        "career",
+        "programming"
+      ],
+      "title": "Where to Find Tech Internships This Summer (Oct 8)",
+      "url": "https://dev.to/crackr/where-to-find-tech-internships-this-summer-oct-8-3e2o"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-10-08T16:16:42.967951+00:00",
+      "id": "be023e7bfb7b",
+      "location": "Remote",
+      "posted_at": "2026-10-08T15:00:13+00:00",
+      "source": "devto",
+      "tags": [
+        "remotework",
+        "jobs",
+        "webdev",
+        "career"
+      ],
+      "title": "Senior Remote SWE Roles Hiring Now - 4 Pay $150k+ (Oct 8)",
+      "url": "https://dev.to/crackr/senior-remote-swe-roles-hiring-now-4-pay-150k-oct-8-3197"
+    },
+    {
+      "company": "Mitul",
+      "fetched_at": "2026-10-08T16:16:42.967951+00:00",
+      "id": "573098b66b2e",
+      "location": "Remote",
+      "posted_at": "2026-10-08T14:02:10+00:00",
+      "source": "devto",
+      "tags": [
+        "career",
+        "resume",
+        "jobs",
+        "productivity"
+      ],
+      "title": "Ten interview questions you will actually be asked",
+      "url": "https://dev.to/mitulgelani/ten-interview-questions-you-will-actually-be-asked-5blk"
+    },
+    {
+      "company": "Zebin Wang",
+      "fetched_at": "2026-10-08T16:16:42.967951+00:00",
+      "id": "0c737a571ceb",
+      "location": "Remote",
+      "posted_at": "2026-10-08T09:27:38+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "python",
+        "jobs",
+        "automation"
+      ],
+      "title": "How to Scrape Job Listings from Workday Career Sites (Without Writing a Scraper)",
+      "url": "https://dev.to/wenwu_dev/how-to-scrape-job-listings-from-workday-career-sites-without-writing-a-scraper-43cg"
+    },
+    {
       "company": "Toptal",
       "fetched_at": "2026-10-08T08:41:11.000576+00:00",
       "id": "c53e67d7e3a5",
@@ -2479,97 +2582,7 @@
       ],
       "title": "Postgres Cron Worker Errors: Cohort-Aware Capture Across Background Job Retries",
       "url": "https://dev.to/elvrythn486209/postgres-cron-worker-errors-cohort-aware-capture-across-background-job-retries-3o2f"
-    },
-    {
-      "company": "Sleek",
-      "fetched_at": "2026-10-05T15:46:10.243800+00:00",
-      "id": "081ec9073d83",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "payroll",
-        "virtual assistant",
-        "education",
-        "technical",
-        "supervisor",
-        "customer support",
-        "dev",
-        "marketing",
-        "exec",
-        "accounting",
-        "finance",
-        "video",
-        "junior",
-        "ops",
-        "excel",
-        "sys admin",
-        "digital nomad"
-      ],
-      "title": "Junior Payroll Assistant",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-payroll-assistant-sleek-1137391"
-    },
-    {
-      "company": "GiveWell",
-      "fetched_at": "2026-10-05T15:46:10.243800+00:00",
-      "id": "0670c33f2a79",
-      "location": "United States",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "exec",
-        "senior",
-        "medical"
-      ],
-      "title": "Senior Communications Officer Strategic Communications",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-communications-officer-strategic-communications-givewell-1137379"
-    },
-    {
-      "company": "TestGorilla",
-      "fetched_at": "2026-10-05T15:46:10.243800+00:00",
-      "id": "8bb632e4f51a",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "hr",
-        "non tech"
-      ],
-      "title": "Senior People & Talent Operations Partner",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-people-talent-operations-partner-testgorilla-1137378"
-    },
-    {
-      "company": "Crackr",
-      "fetched_at": "2026-10-05T15:46:10.243800+00:00",
-      "id": "a95d37b40daf",
-      "location": "Remote",
-      "posted_at": "2026-10-05T15:00:20+00:00",
-      "source": "devto",
-      "tags": [
-        "beginners",
-        "jobs",
-        "career",
-        "programming"
-      ],
-      "title": "Where to Find Tech Internships This Summer (Oct 5)",
-      "url": "https://dev.to/crackr/where-to-find-tech-internships-this-summer-oct-5-3cjp"
-    },
-    {
-      "company": "Crackr",
-      "fetched_at": "2026-10-05T15:46:10.243800+00:00",
-      "id": "0df1718b1d8a",
-      "location": "Remote",
-      "posted_at": "2026-10-05T15:00:15+00:00",
-      "source": "devto",
-      "tags": [
-        "remotework",
-        "jobs",
-        "webdev",
-        "career"
-      ],
-      "title": "Senior Remote SWE Roles Hiring Now - 4 Pay $150k+ (Oct 5)",
-      "url": "https://dev.to/crackr/senior-remote-swe-roles-hiring-now-4-pay-150k-oct-5-33p1"
     }
   ],
-  "updated_at": "2026-10-08T08:41:11.000576+00:00"
+  "updated_at": "2026-10-08T16:16:42.967951+00:00"
 }

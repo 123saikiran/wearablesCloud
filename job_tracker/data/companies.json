@@ -153,14 +153,14 @@
     "Crackr": {
       "count": 6,
       "job_ids": [
+        "bb89e465326d",
+        "be023e7bfb7b",
         "fa92027574d3",
         "5659f218ace9",
         "3ab8cfdd2edd",
-        "344c39ccabc3",
-        "a95d37b40daf",
-        "0df1718b1d8a"
+        "344c39ccabc3"
       ],
-      "last_seen": "2026-10-07T15:00:18+00:00"
+      "last_seen": "2026-10-08T15:00:17+00:00"
     },
     "Crystalia Glass LLC": {
       "count": 1,
@@ -268,13 +268,6 @@
         "3234b98a11bc"
       ],
       "last_seen": "2026-10-06T02:49:09.391401+00:00"
-    },
-    "GiveWell": {
-      "count": 1,
-      "job_ids": [
-        "0670c33f2a79"
-      ],
-      "last_seen": "2026-10-05T15:46:10.243800+00:00"
     },
     "Grapefruit Health": {
       "count": 1,
@@ -403,12 +396,13 @@
       "last_seen": "2026-10-06T16:41:13.737114+00:00"
     },
     "Mitul": {
-      "count": 2,
+      "count": 3,
       "job_ids": [
+        "573098b66b2e",
         "1d4b9c3c6844",
         "7bf70c70dbc8"
       ],
-      "last_seen": "2026-10-07T14:02:04+00:00"
+      "last_seen": "2026-10-08T14:02:10+00:00"
     },
     "MultiplyMii": {
       "count": 1,
@@ -551,13 +545,6 @@
       ],
       "last_seen": "2026-10-06T02:49:09.391401+00:00"
     },
-    "Sleek": {
-      "count": 1,
-      "job_ids": [
-        "081ec9073d83"
-      ],
-      "last_seen": "2026-10-05T15:46:10.243800+00:00"
-    },
     "Sophie's Flats Inc.": {
       "count": 1,
       "job_ids": [
@@ -594,13 +581,6 @@
       ],
       "last_seen": "2026-10-06T16:41:13.737114+00:00"
     },
-    "TestGorilla": {
-      "count": 1,
-      "job_ids": [
-        "8bb632e4f51a"
-      ],
-      "last_seen": "2026-10-05T15:46:10.243800+00:00"
-    },
     "Thatchers Cider": {
       "count": 1,
       "job_ids": [
@@ -614,6 +594,13 @@
         "916cd2848e14"
       ],
       "last_seen": "2026-10-07T08:25:32.130064+00:00"
+    },
+    "Tierarzt Plus Partner": {
+      "count": 1,
+      "job_ids": [
+        "af126e4346b4"
+      ],
+      "last_seen": "2026-10-08T16:16:42.967951+00:00"
     },
     "Toptal": {
       "count": 2,
@@ -658,6 +645,27 @@
       ],
       "last_seen": "2026-10-06T02:49:09.391401+00:00"
     },
+    "Workana": {
+      "count": 1,
+      "job_ids": [
+        "9b41c1eeebc9"
+      ],
+      "last_seen": "2026-10-08T16:16:42.967951+00:00"
+    },
+    "Zebin Wang": {
+      "count": 1,
+      "job_ids": [
+        "0c737a571ceb"
+      ],
+      "last_seen": "2026-10-08T09:27:38+00:00"
+    },
+    "eClinical Solutions": {
+      "count": 1,
+      "job_ids": [
+        "24895f61f51e"
+      ],
+      "last_seen": "2026-10-08T16:16:42.967951+00:00"
+    },
     "hiver": {
       "count": 1,
       "job_ids": [
@@ -682,5 +690,5 @@
       "last_seen": "2026-10-06T23:14:40+00:00"
     }
   },
-  "updated_at": "2026-10-08T08:41:11.000576+00:00"
+  "updated_at": "2026-10-08T16:16:42.967951+00:00"
 }
