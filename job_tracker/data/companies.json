@@ -143,13 +143,6 @@
       ],
       "last_seen": "2026-10-06T02:49:09.391401+00:00"
     },
-    "Copenhagen Optimization": {
-      "count": 1,
-      "job_ids": [
-        "f6a2d43e97e9"
-      ],
-      "last_seen": "2026-10-05T22:26:27.657254+00:00"
-    },
     "Crackr": {
       "count": 6,
       "job_ids": [
@@ -239,13 +232,6 @@
         "711b2ca9a481"
       ],
       "last_seen": "2026-10-06T02:49:09.391401+00:00"
-    },
-    "Fortanix": {
-      "count": 1,
-      "job_ids": [
-        "229019fcbf5f"
-      ],
-      "last_seen": "2026-10-05T22:26:27.657254+00:00"
     },
     "FreedomPay": {
       "count": 1,
@@ -373,13 +359,6 @@
         "b339cea9a854"
       ],
       "last_seen": "2026-10-06T09:59:02.953161+00:00"
-    },
-    "Mercier Consultancy Group": {
-      "count": 1,
-      "job_ids": [
-        "c4f2e1b28841"
-      ],
-      "last_seen": "2026-10-05T22:26:27.657254+00:00"
     },
     "Mindrift - Data annotation": {
       "count": 1,
@@ -704,5 +683,5 @@
       "last_seen": "2026-10-06T23:14:40+00:00"
     }
   },
-  "updated_at": "2026-10-08T21:55:17.885875+00:00"
+  "updated_at": "2026-10-09T01:54:34.765849+00:00"
 }
