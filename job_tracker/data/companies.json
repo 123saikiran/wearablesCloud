@@ -35,13 +35,6 @@
       ],
       "last_seen": "2026-10-09T16:00:53.996006+00:00"
     },
-    "Arango": {
-      "count": 1,
-      "job_ids": [
-        "0bad7d05c1cb"
-      ],
-      "last_seen": "2026-10-07T16:15:27.351349+00:00"
-    },
     "Ashby": {
       "count": 1,
       "job_ids": [
@@ -78,12 +71,9 @@
       "last_seen": "2026-10-09T16:00:53.996006+00:00"
     },
     "Bjak": {
-      "count": 4,
+      "count": 1,
       "job_ids": [
-        "5eefc2524a45",
-        "578e1bcc6323",
-        "a9076f9b51af",
-        "22294040f070"
+        "5eefc2524a45"
       ],
       "last_seen": "2026-10-10T01:35:54.015670+00:00"
     },
@@ -114,13 +104,6 @@
         "4190ce763efc"
       ],
       "last_seen": "2026-10-09T16:00:53.996006+00:00"
-    },
-    "CleanScrape": {
-      "count": 1,
-      "job_ids": [
-        "b6576f7cd696"
-      ],
-      "last_seen": "2026-10-07T18:31:59+00:00"
     },
     "Clera": {
       "count": 1,
@@ -438,13 +421,6 @@
       ],
       "last_seen": "2026-10-09T16:00:53.996006+00:00"
     },
-    "OkWhen": {
-      "count": 1,
-      "job_ids": [
-        "aafea233ce0d"
-      ],
-      "last_seen": "2026-10-07T16:15:27.351349+00:00"
-    },
     "Omega Enterprises": {
       "count": 1,
       "job_ids": [
@@ -530,13 +506,6 @@
       ],
       "last_seen": "2026-10-09T16:00:53.996006+00:00"
     },
-    "SIHO Insurance Services": {
-      "count": 1,
-      "job_ids": [
-        "a3c6466c8e30"
-      ],
-      "last_seen": "2026-10-07T16:15:27.351349+00:00"
-    },
     "SLB": {
       "count": 1,
       "job_ids": [
@@ -586,13 +555,6 @@
       ],
       "last_seen": "2026-10-07T21:51:52.871116+00:00"
     },
-    "Sticker Mule": {
-      "count": 1,
-      "job_ids": [
-        "3ae373be1705"
-      ],
-      "last_seen": "2026-10-07T16:15:27.351349+00:00"
-    },
     "Stone": {
       "count": 2,
       "job_ids": [
@@ -621,6 +583,13 @@
         "4a59a86ff633"
       ],
       "last_seen": "2026-10-10T01:35:54.015670+00:00"
+    },
+    "The AI Whistleblower Initiative": {
+      "count": 1,
+      "job_ids": [
+        "916cd2848e14"
+      ],
+      "last_seen": "2026-10-10T19:55:16.465218+00:00"
     },
     "Tierarzt Plus Partner": {
       "count": 1,
@@ -708,11 +677,12 @@
       "last_seen": "2026-10-07T23:15:31+00:00"
     },
     "iMerit Technology": {
-      "count": 1,
+      "count": 2,
       "job_ids": [
+        "aad0d581511f",
         "a0b1d92a97dd"
       ],
-      "last_seen": "2026-10-08T08:41:11.000576+00:00"
+      "last_seen": "2026-10-10T19:55:16.465218+00:00"
     },
     "northloopworks": {
       "count": 1,
@@ -729,5 +699,5 @@
       "last_seen": "2026-10-09T07:29:31+00:00"
     }
   },
-  "updated_at": "2026-10-10T15:09:15.413291+00:00"
+  "updated_at": "2026-10-10T19:55:16.465218+00:00"
 }
