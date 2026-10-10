@@ -146,14 +146,14 @@
     "Crackr": {
       "count": 6,
       "job_ids": [
+        "929fc1baa3c4",
+        "13929765b7a5",
         "9cf8404cc300",
         "c6ccbacbb0d2",
         "bb89e465326d",
-        "be023e7bfb7b",
-        "fa92027574d3",
-        "5659f218ace9"
+        "be023e7bfb7b"
       ],
-      "last_seen": "2026-10-09T15:00:17+00:00"
+      "last_seen": "2026-10-10T15:00:16+00:00"
     },
     "Crystalia Glass LLC": {
       "count": 1,
@@ -269,6 +269,13 @@
       ],
       "last_seen": "2026-10-08T21:55:17.885875+00:00"
     },
+    "Govtpvt": {
+      "count": 1,
+      "job_ids": [
+        "dee196533429"
+      ],
+      "last_seen": "2026-10-10T11:12:56+00:00"
+    },
     "Grapefruit Health": {
       "count": 1,
       "job_ids": [
@@ -346,6 +353,13 @@
       ],
       "last_seen": "2026-10-09T16:00:53.996006+00:00"
     },
+    "Lemon.io": {
+      "count": 1,
+      "job_ids": [
+        "aaa1ec1c3d12"
+      ],
+      "last_seen": "2026-10-10T15:09:15.413291+00:00"
+    },
     "Leverage Live Local": {
       "count": 1,
       "job_ids": [
@@ -403,11 +417,10 @@
       "last_seen": "2026-10-10T01:35:54.015670+00:00"
     },
     "Mitul": {
-      "count": 3,
+      "count": 2,
       "job_ids": [
         "a3a3aa649500",
-        "573098b66b2e",
-        "1d4b9c3c6844"
+        "573098b66b2e"
       ],
       "last_seen": "2026-10-09T14:05:15+00:00"
     },
@@ -609,13 +622,6 @@
       ],
       "last_seen": "2026-10-10T01:35:54.015670+00:00"
     },
-    "The AI Whistleblower Initiative": {
-      "count": 1,
-      "job_ids": [
-        "916cd2848e14"
-      ],
-      "last_seen": "2026-10-07T08:25:32.130064+00:00"
-    },
     "Tierarzt Plus Partner": {
       "count": 1,
       "job_ids": [
@@ -702,10 +708,9 @@
       "last_seen": "2026-10-07T23:15:31+00:00"
     },
     "iMerit Technology": {
-      "count": 2,
+      "count": 1,
       "job_ids": [
-        "a0b1d92a97dd",
-        "aad0d581511f"
+        "a0b1d92a97dd"
       ],
       "last_seen": "2026-10-08T08:41:11.000576+00:00"
     },
@@ -724,5 +729,5 @@
       "last_seen": "2026-10-09T07:29:31+00:00"
     }
   },
-  "updated_at": "2026-10-10T08:18:01.653817+00:00"
+  "updated_at": "2026-10-10T15:09:15.413291+00:00"
 }
