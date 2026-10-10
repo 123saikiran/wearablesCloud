@@ -1,6 +1,153 @@
 {
   "jobs": [
     {
+      "company": "SIHO Insurance Services",
+      "fetched_at": "2026-10-10T23:22:35.116006+00:00",
+      "id": "a3c6466c8e30",
+      "location": "SIHO - Columbus, IN",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec",
+        "sys admin",
+        "education",
+        "supervisor",
+        "customer support",
+        "quality assurance",
+        "c",
+        "microsoft",
+        "ops",
+        "excel",
+        "legal",
+        "medical"
+      ],
+      "title": "Director Payment Integrity",
+      "url": "https://remoteOK.com/remote-jobs/remote-director-payment-integrity-siho-insurance-services-1137434"
+    },
+    {
+      "company": "Bjak",
+      "fetched_at": "2026-10-10T23:22:35.116006+00:00",
+      "id": "578e1bcc6323",
+      "location": "Germany",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "product manager",
+        "exec",
+        "design",
+        "sys admin",
+        "infosec",
+        "technical",
+        "finance",
+        "ruby",
+        "mobile",
+        "ops",
+        "engineer",
+        "digital nomad"
+      ],
+      "title": "Technical Product Manager AI Stockbroking App",
+      "url": "https://remoteOK.com/remote-jobs/remote-technical-product-manager-ai-stockbroking-app-bjak-1137421"
+    },
+    {
+      "company": "OkWhen",
+      "fetched_at": "2026-10-10T23:22:35.116006+00:00",
+      "id": "aafea233ce0d",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "dev",
+        "design",
+        "c sharp",
+        "saas",
+        "sys admin",
+        "infosec",
+        "education",
+        "technical",
+        "testing",
+        "web dev",
+        "xamarin",
+        "c",
+        "cloud",
+        "git",
+        "typescript",
+        "angular",
+        "mobile",
+        "exec",
+        "content writing",
+        "senior",
+        "ops",
+        "medical",
+        "engineer",
+        "backend",
+        "digital nomad"
+      ],
+      "title": "Senior .NET Software Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-net-software-engineer-okwhen-1137411"
+    },
+    {
+      "company": "Bjak",
+      "fetched_at": "2026-10-10T23:22:35.116006+00:00",
+      "id": "22294040f070",
+      "location": "Ireland",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "front end",
+        "design",
+        "react",
+        "graphql",
+        "react.js",
+        "technical",
+        "web dev",
+        "javascript",
+        "css",
+        "chatbot",
+        "html",
+        "typescript",
+        "node",
+        "node.js",
+        "exec",
+        "sys admin",
+        "engineer",
+        "backend",
+        "digital nomad"
+      ],
+      "title": "Frontend Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410"
+    },
+    {
+      "company": "Arango",
+      "fetched_at": "2026-10-10T23:22:35.116006+00:00",
+      "id": "0bad7d05c1cb",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "golang",
+        "golang",
+        "engineer"
+      ],
+      "title": "Golang Kubernetes Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400"
+    },
+    {
+      "company": "Sticker Mule",
+      "fetched_at": "2026-10-10T23:22:35.116006+00:00",
+      "id": "3ae373be1705",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "ai",
+        "golang",
+        "javascript",
+        "typescript"
+      ],
+      "title": "AI agent engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399"
+    },
+    {
       "company": "iMerit Technology",
       "fetched_at": "2026-10-10T19:55:16.465218+00:00",
       "id": "aad0d581511f",
@@ -2441,56 +2588,7 @@
       ],
       "title": "Sales Development Representative Attributeâ",
       "url": "https://remoteOK.com/remote-jobs/"
-    },
-    {
-      "company": "hiver",
-      "fetched_at": "2026-10-08T01:40:46.099239+00:00",
-      "id": "974b553feb72",
-      "location": "Remote",
-      "posted_at": "2026-10-07T23:15:31+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "jobs",
-        "python",
-        "api"
-      ],
-      "title": "Every open job for a list of companies, in one table (Workday, Greenhouse, Lever and 14 more)",
-      "url": "https://dev.to/hiver/every-open-job-for-a-list-of-companies-in-one-table-workday-greenhouse-lever-and-14-more-3kpj"
-    },
-    {
-      "company": "Spiralyze",
-      "fetched_at": "2026-10-07T21:51:52.871116+00:00",
-      "id": "3ab349eb039c",
-      "location": "Worldwide",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "project manager",
-        "exec",
-        "ops",
-        "marketing",
-        "cro"
-      ],
-      "title": "Project Manager",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-spiralyze-1137466"
-    },
-    {
-      "company": "Prenosis",
-      "fetched_at": "2026-10-07T21:51:52.871116+00:00",
-      "id": "e9064f4ba338",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "golang",
-        "dev",
-        "engineer",
-        "digital nomad"
-      ],
-      "title": "Software Engineer",
-      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-prenosis-1137427"
     }
   ],
-  "updated_at": "2026-10-10T19:55:16.465218+00:00"
+  "updated_at": "2026-10-10T23:22:35.116006+00:00"
 }
