@@ -138,14 +138,14 @@
     "Crackr": {
       "count": 6,
       "job_ids": [
+        "8c547ea59520",
+        "44c8f46d9bd6",
         "929fc1baa3c4",
         "13929765b7a5",
         "9cf8404cc300",
-        "c6ccbacbb0d2",
-        "bb89e465326d",
-        "be023e7bfb7b"
+        "c6ccbacbb0d2"
       ],
-      "last_seen": "2026-10-10T15:00:16+00:00"
+      "last_seen": "2026-10-11T15:00:18+00:00"
     },
     "Crystalia Glass LLC": {
       "count": 1,
@@ -430,10 +430,9 @@
       "last_seen": "2026-10-10T01:35:54.015670+00:00"
     },
     "Mitul": {
-      "count": 2,
+      "count": 1,
       "job_ids": [
-        "a3a3aa649500",
-        "573098b66b2e"
+        "a3a3aa649500"
       ],
       "last_seen": "2026-10-09T14:05:15+00:00"
     },
@@ -649,12 +648,13 @@
       ],
       "last_seen": "2026-10-10T19:55:16.465218+00:00"
     },
-    "Tierarzt Plus Partner": {
-      "count": 1,
+    "Toptal": {
+      "count": 2,
       "job_ids": [
-        "af126e4346b4"
+        "c53e67d7e3a5",
+        "756fdf8dcb2c"
       ],
-      "last_seen": "2026-10-08T16:16:42.967951+00:00"
+      "last_seen": "2026-10-11T17:56:55.045718+00:00"
     },
     "Transportation Partners &amp; Logistics": {
       "count": 1,
@@ -698,26 +698,13 @@
       ],
       "last_seen": "2026-10-09T16:00:53.996006+00:00"
     },
-    "Workana": {
-      "count": 1,
-      "job_ids": [
-        "9b41c1eeebc9"
-      ],
-      "last_seen": "2026-10-08T16:16:42.967951+00:00"
-    },
-    "eClinical Solutions": {
-      "count": 1,
-      "job_ids": [
-        "24895f61f51e"
-      ],
-      "last_seen": "2026-10-08T16:16:42.967951+00:00"
-    },
     "iMerit Technology": {
-      "count": 1,
+      "count": 2,
       "job_ids": [
+        "a0b1d92a97dd",
         "aad0d581511f"
       ],
-      "last_seen": "2026-10-10T19:55:16.465218+00:00"
+      "last_seen": "2026-10-11T17:56:55.045718+00:00"
     },
     "northloopworks": {
       "count": 1,
@@ -741,5 +728,5 @@
       "last_seen": "2026-10-09T07:29:31+00:00"
     }
   },
-  "updated_at": "2026-10-11T12:28:57.696671+00:00"
+  "updated_at": "2026-10-11T17:56:55.045718+00:00"
 }
