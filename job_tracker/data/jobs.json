@@ -1,6 +1,45 @@
 {
   "jobs": [
     {
+      "company": "Tierarzt Plus Partner",
+      "fetched_at": "2026-10-11T21:46:51.623953+00:00",
+      "id": "af126e4346b4",
+      "location": "Neuruppin",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "medical"
+      ],
+      "title": "Telefondienst fÃ¼r Tierarztpraxis Neuruppin o",
+      "url": "https://remoteOK.com/remote-jobs/remote-telefondienst-fur-tierarztpraxis-neuruppin-o-tierarzt-plus-partner-1137469"
+    },
+    {
+      "company": "Workana",
+      "fetched_at": "2026-10-11T21:46:51.623953+00:00",
+      "id": "9b41c1eeebc9",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [],
+      "title": "MecÃ¡nico Automotriz DiagnÃ³stico y Presupuestos",
+      "url": "https://remoteOK.com/remote-jobs/remote-mecanico-automotriz-diagnostico-y-presupuestos-workana-1137429"
+    },
+    {
+      "company": "eClinical Solutions",
+      "fetched_at": "2026-10-11T21:46:51.623953+00:00",
+      "id": "24895f61f51e",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "cloud",
+        "exec",
+        "stats"
+      ],
+      "title": "External Data Specialist",
+      "url": "https://remoteOK.com/remote-jobs/remote-external-data-specialist-eclinical-solutions-1137375"
+    },
+    {
       "company": "Toptal",
       "fetched_at": "2026-10-11T17:56:55.045718+00:00",
       "id": "c53e67d7e3a5",
@@ -2679,5 +2718,5 @@
       "url": "https://remoteOK.com/remote-jobs/remote-senior-people-talent-operations-partner-testgorilla-1137378"
     }
   ],
-  "updated_at": "2026-10-11T17:56:55.045718+00:00"
+  "updated_at": "2026-10-11T21:46:51.623953+00:00"
 }

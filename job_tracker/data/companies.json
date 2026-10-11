@@ -648,6 +648,13 @@
       ],
       "last_seen": "2026-10-10T19:55:16.465218+00:00"
     },
+    "Tierarzt Plus Partner": {
+      "count": 1,
+      "job_ids": [
+        "af126e4346b4"
+      ],
+      "last_seen": "2026-10-11T21:46:51.623953+00:00"
+    },
     "Toptal": {
       "count": 2,
       "job_ids": [
@@ -698,6 +705,20 @@
       ],
       "last_seen": "2026-10-09T16:00:53.996006+00:00"
     },
+    "Workana": {
+      "count": 1,
+      "job_ids": [
+        "9b41c1eeebc9"
+      ],
+      "last_seen": "2026-10-11T21:46:51.623953+00:00"
+    },
+    "eClinical Solutions": {
+      "count": 1,
+      "job_ids": [
+        "24895f61f51e"
+      ],
+      "last_seen": "2026-10-11T21:46:51.623953+00:00"
+    },
     "iMerit Technology": {
       "count": 2,
       "job_ids": [
@@ -728,5 +749,5 @@
       "last_seen": "2026-10-09T07:29:31+00:00"
     }
   },
-  "updated_at": "2026-10-11T17:56:55.045718+00:00"
+  "updated_at": "2026-10-11T21:46:51.623953+00:00"
 }
