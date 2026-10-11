@@ -1,6 +1,80 @@
 {
   "jobs": [
     {
+      "company": "EDETEK",
+      "fetched_at": "2026-10-11T12:28:57.696671+00:00",
+      "id": "4ce4b6ee1d34",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec",
+        "design",
+        "sys admin",
+        "education",
+        "customer support",
+        "dev",
+        "testing",
+        "travel",
+        "junior",
+        "ops",
+        "medical",
+        "recruiter",
+        "digital nomad"
+      ],
+      "title": "Manager Clinical Data Management",
+      "url": "https://remoteOK.com/remote-jobs/remote-manager-clinical-data-management-edetek-1137481"
+    },
+    {
+      "company": "Leverage Live Local",
+      "fetched_at": "2026-10-11T12:28:57.696671+00:00",
+      "id": "2584703aae88",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "non tech",
+        "ops",
+        "exec"
+      ],
+      "title": "Head of Operations",
+      "url": "https://remoteOK.com/remote-jobs/remote-head-of-operations-leverage-live-local-1137461"
+    },
+    {
+      "company": "DoiT",
+      "fetched_at": "2026-10-11T12:28:57.696671+00:00",
+      "id": "55ad3d8aceec",
+      "location": "Remote UK",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "technical",
+        "marketing",
+        "cloud",
+        "microsoft",
+        "exec",
+        "sales"
+      ],
+      "title": "Sales Development Representative Attributeâ",
+      "url": "https://remoteOK.com/remote-jobs/"
+    },
+    {
+      "company": "python Akshay",
+      "fetched_at": "2026-10-11T12:28:57.696671+00:00",
+      "id": "f2a72b071b2b",
+      "location": "Remote",
+      "posted_at": "2026-10-11T11:05:16+00:00",
+      "source": "devto",
+      "tags": [
+        "beginners",
+        "career",
+        "resume",
+        "jobs"
+      ],
+      "title": "How to Match Your Resume to a Job Description (Without Keyword Stuffing)",
+      "url": "https://dev.to/akshay_js/how-to-match-your-resume-to-a-job-description-without-keyword-stuffing-4odn"
+    },
+    {
       "company": "Huzzle",
       "fetched_at": "2026-10-11T05:11:17.872150+00:00",
       "id": "66144e0ce330",
@@ -2616,65 +2690,7 @@
       ],
       "title": "Ten interview questions you will actually be asked",
       "url": "https://dev.to/mitulgelani/ten-interview-questions-you-will-actually-be-asked-5blk"
-    },
-    {
-      "company": "Zebin Wang",
-      "fetched_at": "2026-10-08T16:16:42.967951+00:00",
-      "id": "0c737a571ceb",
-      "location": "Remote",
-      "posted_at": "2026-10-08T09:27:38+00:00",
-      "source": "devto",
-      "tags": [
-        "webscraping",
-        "python",
-        "jobs",
-        "automation"
-      ],
-      "title": "How to Scrape Job Listings from Workday Career Sites (Without Writing a Scraper)",
-      "url": "https://dev.to/wenwu_dev/how-to-scrape-job-listings-from-workday-career-sites-without-writing-a-scraper-43cg"
-    },
-    {
-      "company": "Toptal",
-      "fetched_at": "2026-10-08T08:41:11.000576+00:00",
-      "id": "c53e67d7e3a5",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "customer support",
-        "sales"
-      ],
-      "title": "Enterprise Sales Development Representative",
-      "url": "https://remoteOK.com/remote-jobs/remote-enterprise-sales-development-representative-toptal-1137451"
-    },
-    {
-      "company": "Toptal",
-      "fetched_at": "2026-10-08T08:41:11.000576+00:00",
-      "id": "756fdf8dcb2c",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "customer support"
-      ],
-      "title": "Client Advisor",
-      "url": "https://remoteOK.com/remote-jobs/remote-client-advisor-toptal-1137439"
-    },
-    {
-      "company": "iMerit Technology",
-      "fetched_at": "2026-10-08T08:41:11.000576+00:00",
-      "id": "a0b1d92a97dd",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "quality assurance",
-        "ai",
-        "data annotation"
-      ],
-      "title": "Video Data Annotator",
-      "url": "https://remoteOK.com/remote-jobs/remote-video-data-annotator-imerit-technology-1137428"
     }
   ],
-  "updated_at": "2026-10-11T05:11:17.872150+00:00"
+  "updated_at": "2026-10-11T12:28:57.696671+00:00"
 }
