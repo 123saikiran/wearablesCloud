@@ -1,6 +1,43 @@
 {
   "jobs": [
     {
+      "company": "DEUNA",
+      "fetched_at": "2026-10-12T01:06:36.658623+00:00",
+      "id": "d41d890b3209",
+      "location": "Ciudad de MÃ©xico, Mexico",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec",
+        "hr",
+        "technical",
+        "customer support",
+        "marketing",
+        "ops",
+        "golang",
+        "medical",
+        "engineer"
+      ],
+      "title": "Technical Account Manager",
+      "url": "https://remoteOK.com/remote-jobs/remote-technical-account-manager-deuna-1137482"
+    },
+    {
+      "company": "Haku",
+      "fetched_at": "2026-10-12T01:06:36.658623+00:00",
+      "id": "088ceffc419d",
+      "location": "Remote",
+      "posted_at": "2026-10-12T00:23:53+00:00",
+      "source": "devto",
+      "tags": [
+        "ai",
+        "career",
+        "data",
+        "jobs"
+      ],
+      "title": "AI hiring this week: Anduril added 60 net roles, ElevenLabs cut 47 (22,020 open roles tracked)",
+      "url": "https://dev.to/vittoria000li/ai-hiring-this-week-anduril-added-60-net-roles-elevenlabs-cut-47-22020-open-roles-tracked-253j"
+    },
+    {
       "company": "Tierarzt Plus Partner",
       "fetched_at": "2026-10-11T21:46:51.623953+00:00",
       "id": "af126e4346b4",
@@ -2658,65 +2695,7 @@
       ],
       "title": "Does this company really sponsor visas? I joined Workday job ads with H-1B and UK sponsor records",
       "url": "https://dev.to/quietbytedev/does-this-company-really-sponsor-visas-i-joined-workday-job-ads-with-h-1b-and-uk-sponsor-records-4edc"
-    },
-    {
-      "company": "Sleek",
-      "fetched_at": "2026-10-08T21:55:17.885875+00:00",
-      "id": "081ec9073d83",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "payroll",
-        "virtual assistant",
-        "education",
-        "technical",
-        "supervisor",
-        "customer support",
-        "dev",
-        "marketing",
-        "exec",
-        "accounting",
-        "finance",
-        "video",
-        "junior",
-        "ops",
-        "excel",
-        "sys admin",
-        "digital nomad"
-      ],
-      "title": "Junior Payroll Assistant",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-payroll-assistant-sleek-1137391"
-    },
-    {
-      "company": "GiveWell",
-      "fetched_at": "2026-10-08T21:55:17.885875+00:00",
-      "id": "0670c33f2a79",
-      "location": "United States",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "exec",
-        "senior",
-        "medical"
-      ],
-      "title": "Senior Communications Officer Strategic Communications",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-communications-officer-strategic-communications-givewell-1137379"
-    },
-    {
-      "company": "TestGorilla",
-      "fetched_at": "2026-10-08T21:55:17.885875+00:00",
-      "id": "8bb632e4f51a",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "hr",
-        "non tech"
-      ],
-      "title": "Senior People & Talent Operations Partner",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-people-talent-operations-partner-testgorilla-1137378"
     }
   ],
-  "updated_at": "2026-10-11T21:46:51.623953+00:00"
+  "updated_at": "2026-10-12T01:06:36.658623+00:00"
 }
