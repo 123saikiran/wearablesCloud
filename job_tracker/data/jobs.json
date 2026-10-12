@@ -1,6 +1,69 @@
 {
   "jobs": [
     {
+      "company": "Hunt St",
+      "fetched_at": "2026-10-12T08:55:39.770715+00:00",
+      "id": "3cb3337e312e",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "customer support",
+        "marketing",
+        "finance",
+        "admin",
+        "exec",
+        "content writing",
+        "sales"
+      ],
+      "title": "Marketing and Sales Administrator",
+      "url": "https://remoteOK.com/remote-jobs/remote-marketing-and-sales-administrator-hunt-st-1137488"
+    },
+    {
+      "company": "Sleek",
+      "fetched_at": "2026-10-12T08:55:39.770715+00:00",
+      "id": "081ec9073d83",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "payroll",
+        "virtual assistant",
+        "education",
+        "technical",
+        "supervisor",
+        "customer support",
+        "dev",
+        "marketing",
+        "exec",
+        "accounting",
+        "finance",
+        "video",
+        "junior",
+        "ops",
+        "excel",
+        "sys admin",
+        "digital nomad"
+      ],
+      "title": "Junior Payroll Assistant",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-payroll-assistant-sleek-1137391"
+    },
+    {
+      "company": "GiveWell",
+      "fetched_at": "2026-10-12T08:55:39.770715+00:00",
+      "id": "0670c33f2a79",
+      "location": "United States",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec",
+        "senior",
+        "medical"
+      ],
+      "title": "Senior Communications Officer Strategic Communications",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-communications-officer-strategic-communications-givewell-1137379"
+    },
+    {
       "company": "DEUNA",
       "fetched_at": "2026-10-12T01:06:36.658623+00:00",
       "id": "d41d890b3209",
@@ -2612,90 +2675,7 @@
       ],
       "title": "Answering with STAR without sounding rehearsed",
       "url": "https://dev.to/mitulgelani/answering-with-star-without-sounding-rehearsed-398k"
-    },
-    {
-      "company": "Fortanix",
-      "fetched_at": "2026-10-09T08:46:16.951047+00:00",
-      "id": "229019fcbf5f",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "exec",
-        "infosec",
-        "teaching",
-        "consulting",
-        "technical",
-        "customer support",
-        "marketing",
-        "speech",
-        "cloud",
-        "bus dev",
-        "sales",
-        "medical"
-      ],
-      "title": "Federal Business Development Director",
-      "url": "https://remoteOK.com/remote-jobs/remote-federal-business-development-director-fortanix-1137463"
-    },
-    {
-      "company": "Mercier Consultancy Group",
-      "fetched_at": "2026-10-09T08:46:16.951047+00:00",
-      "id": "c4f2e1b28841",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "consulting",
-        "education",
-        "technical",
-        "customer support",
-        "marketing",
-        "travel",
-        "excel",
-        "medical",
-        "recruiter"
-      ],
-      "title": "Danish Speaking Solutions Consultant Work Sofia Bulgaria",
-      "url": "https://remoteOK.com/remote-jobs/remote-danish-speaking-solutions-consultant-work-sofia-bulgaria-mercier-consultancy-group-1137431"
-    },
-    {
-      "company": "Copenhagen Optimization",
-      "fetched_at": "2026-10-09T08:46:16.951047+00:00",
-      "id": "f6a2d43e97e9",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "virtual assistant",
-        "strategy",
-        "customer support",
-        "dev",
-        "marketing",
-        "exec",
-        "content writing",
-        "ops",
-        "golang",
-        "digital nomad"
-      ],
-      "title": "Marketing Student Assistant",
-      "url": "https://remoteOK.com/remote-jobs/remote-marketing-student-assistant-copenhagen-optimization-1137381"
-    },
-    {
-      "company": "quietbyte",
-      "fetched_at": "2026-10-09T08:46:16.951047+00:00",
-      "id": "c660b8a902d6",
-      "location": "Remote",
-      "posted_at": "2026-10-09T07:29:31+00:00",
-      "source": "devto",
-      "tags": [
-        "python",
-        "api",
-        "career",
-        "jobs"
-      ],
-      "title": "Does this company really sponsor visas? I joined Workday job ads with H-1B and UK sponsor records",
-      "url": "https://dev.to/quietbytedev/does-this-company-really-sponsor-visas-i-joined-workday-job-ads-with-h-1b-and-uk-sponsor-records-4edc"
     }
   ],
-  "updated_at": "2026-10-12T01:06:36.658623+00:00"
+  "updated_at": "2026-10-12T08:55:39.770715+00:00"
 }
