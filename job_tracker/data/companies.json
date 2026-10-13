@@ -56,13 +56,28 @@
       ],
       "last_seen": "2026-10-13T01:11:34.375961+00:00"
     },
-    "Bjak": {
-      "count": 2,
+    "Benzinga": {
+      "count": 1,
       "job_ids": [
+        "08991bb5dd0b"
+      ],
+      "last_seen": "2026-10-13T17:27:33.506454+00:00"
+    },
+    "Bjak": {
+      "count": 3,
+      "job_ids": [
+        "5eefc2524a45",
         "578e1bcc6323",
         "22294040f070"
       ],
-      "last_seen": "2026-10-10T23:22:35.116006+00:00"
+      "last_seen": "2026-10-13T17:27:33.506454+00:00"
+    },
+    "Blackbird Interactive": {
+      "count": 1,
+      "job_ids": [
+        "63695c1ba827"
+      ],
+      "last_seen": "2026-10-13T17:27:33.506454+00:00"
     },
     "Bybit": {
       "count": 1,
@@ -102,14 +117,14 @@
     "Crackr": {
       "count": 6,
       "job_ids": [
+        "b2e0af767aa1",
+        "3259fec29535",
         "8394f063ef9a",
         "752adb893a82",
         "8c547ea59520",
-        "44c8f46d9bd6",
-        "929fc1baa3c4",
-        "13929765b7a5"
+        "44c8f46d9bd6"
       ],
-      "last_seen": "2026-10-12T15:00:22+00:00"
+      "last_seen": "2026-10-13T15:00:17+00:00"
     },
     "Crystalia Glass LLC": {
       "count": 1,
@@ -126,11 +141,12 @@
       "last_seen": "2026-10-12T01:06:36.658623+00:00"
     },
     "Delinea": {
-      "count": 1,
+      "count": 2,
       "job_ids": [
+        "5dc626541a14",
         "ec0ec3dc6073"
       ],
-      "last_seen": "2026-10-13T01:11:34.375961+00:00"
+      "last_seen": "2026-10-13T17:27:33.506454+00:00"
     },
     "DoiT": {
       "count": 1,
@@ -138,6 +154,13 @@
         "55ad3d8aceec"
       ],
       "last_seen": "2026-10-11T12:28:57.696671+00:00"
+    },
+    "DomainTools": {
+      "count": 1,
+      "job_ids": [
+        "88fcf7a684b1"
+      ],
+      "last_seen": "2026-10-13T17:27:33.506454+00:00"
     },
     "Dreem Health": {
       "count": 1,
@@ -152,6 +175,13 @@
         "4ce4b6ee1d34"
       ],
       "last_seen": "2026-10-11T12:28:57.696671+00:00"
+    },
+    "Empire Assets": {
+      "count": 1,
+      "job_ids": [
+        "4e9a75d2d6eb"
+      ],
+      "last_seen": "2026-10-13T17:27:33.506454+00:00"
     },
     "Enable Dental": {
       "count": 1,
@@ -202,6 +232,13 @@
       ],
       "last_seen": "2026-10-13T01:11:34.375961+00:00"
     },
+    "Fuel50": {
+      "count": 1,
+      "job_ids": [
+        "1259f006dacd"
+      ],
+      "last_seen": "2026-10-13T17:27:33.506454+00:00"
+    },
     "GROW10X": {
       "count": 2,
       "job_ids": [
@@ -216,13 +253,6 @@
         "0670c33f2a79"
       ],
       "last_seen": "2026-10-12T08:55:39.770715+00:00"
-    },
-    "Govtpvt": {
-      "count": 1,
-      "job_ids": [
-        "dee196533429"
-      ],
-      "last_seen": "2026-10-10T11:12:56+00:00"
     },
     "Grapefruit Health": {
       "count": 1,
@@ -280,6 +310,20 @@
       ],
       "last_seen": "2026-10-13T01:11:34.375961+00:00"
     },
+    "JumpCloud": {
+      "count": 1,
+      "job_ids": [
+        "000d516055a5"
+      ],
+      "last_seen": "2026-10-13T17:27:33.506454+00:00"
+    },
+    "KPI Solutions": {
+      "count": 1,
+      "job_ids": [
+        "3c4297a53702"
+      ],
+      "last_seen": "2026-10-13T17:27:33.506454+00:00"
+    },
     "Kruger NearShore LLC - Rekluti": {
       "count": 1,
       "job_ids": [
@@ -301,13 +345,6 @@
       ],
       "last_seen": "2026-10-13T01:11:34.375961+00:00"
     },
-    "Lemon.io": {
-      "count": 1,
-      "job_ids": [
-        "aaa1ec1c3d12"
-      ],
-      "last_seen": "2026-10-10T15:09:15.413291+00:00"
-    },
     "Leverage Live Local": {
       "count": 1,
       "job_ids": [
@@ -315,12 +352,26 @@
       ],
       "last_seen": "2026-10-11T12:28:57.696671+00:00"
     },
+    "Libertex Group": {
+      "count": 1,
+      "job_ids": [
+        "13adf68b920b"
+      ],
+      "last_seen": "2026-10-13T17:27:33.506454+00:00"
+    },
     "Liberty Mutual Insurance": {
       "count": 1,
       "job_ids": [
         "f2011eb0917d"
       ],
       "last_seen": "2026-10-13T09:10:47.567641+00:00"
+    },
+    "MADAN DHOUNDIYAL": {
+      "count": 1,
+      "job_ids": [
+        "7895d95f4d1f"
+      ],
+      "last_seen": "2026-10-13T12:54:22+00:00"
     },
     "Magic Eden": {
       "count": 1,
@@ -357,6 +408,20 @@
       ],
       "last_seen": "2026-10-13T09:10:47.567641+00:00"
     },
+    "Mirantis": {
+      "count": 1,
+      "job_ids": [
+        "99e1bd4c692e"
+      ],
+      "last_seen": "2026-10-13T17:27:33.506454+00:00"
+    },
+    "Mitul": {
+      "count": 1,
+      "job_ids": [
+        "99e5720ae72b"
+      ],
+      "last_seen": "2026-10-13T14:10:20+00:00"
+    },
     "MultiplyMii": {
       "count": 1,
       "job_ids": [
@@ -377,6 +442,13 @@
         "aafea233ce0d"
       ],
       "last_seen": "2026-10-10T23:22:35.116006+00:00"
+    },
+    "Omega Enterprises": {
+      "count": 1,
+      "job_ids": [
+        "f27fd8c61f4a"
+      ],
+      "last_seen": "2026-10-13T17:27:33.506454+00:00"
     },
     "Orca Bio": {
       "count": 1,
@@ -426,6 +498,20 @@
         "6ac7b5e81dd9"
       ],
       "last_seen": "2026-10-13T01:11:34.375961+00:00"
+    },
+    "QuickMail": {
+      "count": 1,
+      "job_ids": [
+        "ff781a9183f8"
+      ],
+      "last_seen": "2026-10-13T17:27:33.506454+00:00"
+    },
+    "RedMimicry": {
+      "count": 1,
+      "job_ids": [
+        "f72500a20c52"
+      ],
+      "last_seen": "2026-10-13T17:27:33.506454+00:00"
     },
     "Resource Guru": {
       "count": 1,
@@ -505,11 +591,12 @@
       "last_seen": "2026-10-11T05:11:17.872150+00:00"
     },
     "Sticker Mule": {
-      "count": 1,
+      "count": 2,
       "job_ids": [
+        "f850b279b35c",
         "3ae373be1705"
       ],
-      "last_seen": "2026-10-10T23:22:35.116006+00:00"
+      "last_seen": "2026-10-13T17:27:33.506454+00:00"
     },
     "Stone": {
       "count": 2,
@@ -519,12 +606,26 @@
       ],
       "last_seen": "2026-10-13T01:11:34.375961+00:00"
     },
+    "Tessera Labs": {
+      "count": 1,
+      "job_ids": [
+        "f18c1fd14d71"
+      ],
+      "last_seen": "2026-10-13T17:27:33.506454+00:00"
+    },
     "Tether Operations Limited": {
       "count": 1,
       "job_ids": [
         "c7c73fc0749f"
       ],
       "last_seen": "2026-10-11T05:11:17.872150+00:00"
+    },
+    "Thatchers Cider": {
+      "count": 1,
+      "job_ids": [
+        "4a59a86ff633"
+      ],
+      "last_seen": "2026-10-13T17:27:33.506454+00:00"
     },
     "The AI Whistleblower Initiative": {
       "count": 1,
@@ -620,5 +721,5 @@
       "last_seen": "2026-10-12T10:27:47+00:00"
     }
   },
-  "updated_at": "2026-10-13T09:10:47.567641+00:00"
+  "updated_at": "2026-10-13T17:27:33.506454+00:00"
 }
