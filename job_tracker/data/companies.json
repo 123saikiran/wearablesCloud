@@ -35,6 +35,13 @@
       ],
       "last_seen": "2026-10-13T01:11:34.375961+00:00"
     },
+    "Arango": {
+      "count": 1,
+      "job_ids": [
+        "0bad7d05c1cb"
+      ],
+      "last_seen": "2026-10-14T07:21:28.768709+00:00"
+    },
     "Ashby": {
       "count": 1,
       "job_ids": [
@@ -57,11 +64,13 @@
       "last_seen": "2026-10-13T17:27:33.506454+00:00"
     },
     "Bjak": {
-      "count": 1,
+      "count": 3,
       "job_ids": [
+        "578e1bcc6323",
+        "22294040f070",
         "5eefc2524a45"
       ],
-      "last_seen": "2026-10-13T17:27:33.506454+00:00"
+      "last_seen": "2026-10-14T07:21:28.768709+00:00"
     },
     "Blackbird Interactive": {
       "count": 1,
@@ -294,13 +303,6 @@
       ],
       "last_seen": "2026-10-12T08:55:39.770715+00:00"
     },
-    "Huzzle": {
-      "count": 1,
-      "job_ids": [
-        "66144e0ce330"
-      ],
-      "last_seen": "2026-10-11T05:11:17.872150+00:00"
-    },
     "INNERGY": {
       "count": 1,
       "job_ids": [
@@ -392,13 +394,6 @@
       ],
       "last_seen": "2026-10-12T18:52:05.491208+00:00"
     },
-    "Miaplaza": {
-      "count": 1,
-      "job_ids": [
-        "8ecf294a35da"
-      ],
-      "last_seen": "2026-10-11T05:11:17.872150+00:00"
-    },
     "Midnite": {
       "count": 1,
       "job_ids": [
@@ -440,6 +435,13 @@
         "2108aacaa944"
       ],
       "last_seen": "2026-10-13T01:11:34.375961+00:00"
+    },
+    "OkWhen": {
+      "count": 1,
+      "job_ids": [
+        "aafea233ce0d"
+      ],
+      "last_seen": "2026-10-14T07:21:28.768709+00:00"
     },
     "Omega Enterprises": {
       "count": 1,
@@ -483,13 +485,6 @@
       ],
       "last_seen": "2026-10-13T01:11:34.375961+00:00"
     },
-    "Prenosis": {
-      "count": 1,
-      "job_ids": [
-        "e9064f4ba338"
-      ],
-      "last_seen": "2026-10-11T05:11:17.872150+00:00"
-    },
     "PulseMediaNL": {
       "count": 1,
       "job_ids": [
@@ -525,6 +520,13 @@
       ],
       "last_seen": "2026-10-13T01:11:34.375961+00:00"
     },
+    "SIHO Insurance Services": {
+      "count": 1,
+      "job_ids": [
+        "a3c6466c8e30"
+      ],
+      "last_seen": "2026-10-14T07:21:28.768709+00:00"
+    },
     "SLB": {
       "count": 1,
       "job_ids": [
@@ -553,6 +555,13 @@
       ],
       "last_seen": "2026-10-13T01:11:34.375961+00:00"
     },
+    "Siftwright Data": {
+      "count": 1,
+      "job_ids": [
+        "d95384aa33ef"
+      ],
+      "last_seen": "2026-10-14T03:53:31+00:00"
+    },
     "SimSpace Corporation": {
       "count": 1,
       "job_ids": [
@@ -573,13 +582,6 @@
         "0861a6d3cc39"
       ],
       "last_seen": "2026-10-13T01:11:34.375961+00:00"
-    },
-    "Spiralyze": {
-      "count": 1,
-      "job_ids": [
-        "3ab349eb039c"
-      ],
-      "last_seen": "2026-10-11T05:11:17.872150+00:00"
     },
     "Sticker Mule": {
       "count": 1,
@@ -602,13 +604,6 @@
         "f18c1fd14d71"
       ],
       "last_seen": "2026-10-13T17:27:33.506454+00:00"
-    },
-    "Tether Operations Limited": {
-      "count": 1,
-      "job_ids": [
-        "c7c73fc0749f"
-      ],
-      "last_seen": "2026-10-11T05:11:17.872150+00:00"
     },
     "Thatchers Cider": {
       "count": 1,
@@ -732,5 +727,5 @@
       "last_seen": "2026-10-13T21:26:43+00:00"
     }
   },
-  "updated_at": "2026-10-14T01:43:12.374485+00:00"
+  "updated_at": "2026-10-14T07:21:28.768709+00:00"
 }
