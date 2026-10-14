@@ -131,14 +131,14 @@
     "Crackr": {
       "count": 6,
       "job_ids": [
+        "9999da0c94d2",
+        "871afdc86ab6",
         "b2e0af767aa1",
         "3259fec29535",
         "8394f063ef9a",
-        "752adb893a82",
-        "8c547ea59520",
-        "44c8f46d9bd6"
+        "752adb893a82"
       ],
-      "last_seen": "2026-10-13T15:00:17+00:00"
+      "last_seen": "2026-10-14T15:00:17+00:00"
     },
     "Crystalia Glass LLC": {
       "count": 1,
@@ -162,6 +162,13 @@
       ],
       "last_seen": "2026-10-13T17:27:33.506454+00:00"
     },
+    "DoiT": {
+      "count": 1,
+      "job_ids": [
+        "55ad3d8aceec"
+      ],
+      "last_seen": "2026-10-14T18:25:28.214934+00:00"
+    },
     "DomainTools": {
       "count": 1,
       "job_ids": [
@@ -175,6 +182,13 @@
         "8ff5ff432a8f"
       ],
       "last_seen": "2026-10-13T01:11:34.375961+00:00"
+    },
+    "EDETEK": {
+      "count": 1,
+      "job_ids": [
+        "4ce4b6ee1d34"
+      ],
+      "last_seen": "2026-10-14T18:25:28.214934+00:00"
     },
     "Empire Assets": {
       "count": 1,
@@ -352,6 +366,13 @@
       ],
       "last_seen": "2026-10-13T22:29:17.444752+00:00"
     },
+    "Leverage Live Local": {
+      "count": 1,
+      "job_ids": [
+        "2584703aae88"
+      ],
+      "last_seen": "2026-10-14T18:25:28.214934+00:00"
+    },
     "Libertex Group": {
       "count": 1,
       "job_ids": [
@@ -416,11 +437,12 @@
       "last_seen": "2026-10-13T17:27:33.506454+00:00"
     },
     "Mitul": {
-      "count": 1,
+      "count": 2,
       "job_ids": [
+        "56c918da2632",
         "99e5720ae72b"
       ],
-      "last_seen": "2026-10-13T14:10:20+00:00"
+      "last_seen": "2026-10-14T14:01:53+00:00"
     },
     "MultiplyMii": {
       "count": 1,
@@ -563,12 +585,13 @@
       "last_seen": "2026-10-13T01:11:34.375961+00:00"
     },
     "Siftwright Data": {
-      "count": 2,
+      "count": 3,
       "job_ids": [
+        "4f221c944de5",
         "f5fe49d3d1fa",
         "d95384aa33ef"
       ],
-      "last_seen": "2026-10-14T12:58:14+00:00"
+      "last_seen": "2026-10-14T15:00:29+00:00"
     },
     "SimSpace Corporation": {
       "count": 1,
@@ -662,14 +685,6 @@
       ],
       "last_seen": "2026-10-11T21:46:51.623953+00:00"
     },
-    "Toptal": {
-      "count": 2,
-      "job_ids": [
-        "c53e67d7e3a5",
-        "756fdf8dcb2c"
-      ],
-      "last_seen": "2026-10-11T17:56:55.045718+00:00"
-    },
     "Transportation Partners &amp; Logistics": {
       "count": 1,
       "job_ids": [
@@ -719,11 +734,17 @@
       ],
       "last_seen": "2026-10-11T21:46:51.623953+00:00"
     },
-    "iMerit Technology": {
-      "count": 2,
+    "eden": {
+      "count": 1,
       "job_ids": [
-        "aad0d581511f",
-        "a0b1d92a97dd"
+        "2333665389f1"
+      ],
+      "last_seen": "2026-10-14T16:40:13+00:00"
+    },
+    "iMerit Technology": {
+      "count": 1,
+      "job_ids": [
+        "aad0d581511f"
       ],
       "last_seen": "2026-10-14T01:43:12.374485+00:00"
     },
@@ -749,5 +770,5 @@
       "last_seen": "2026-10-13T21:26:43+00:00"
     }
   },
-  "updated_at": "2026-10-14T13:30:47.785359+00:00"
+  "updated_at": "2026-10-14T18:25:28.214934+00:00"
 }
