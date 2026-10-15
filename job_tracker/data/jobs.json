@@ -1,6 +1,40 @@
 {
   "jobs": [
     {
+      "company": "Ultimate Marketing",
+      "fetched_at": "2026-10-15T07:12:33.616075+00:00",
+      "id": "7f94e9d691d1",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "customer support"
+      ],
+      "title": "Customer Support Specialist",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-specialist-ultimate-marketing-1137512"
+    },
+    {
+      "company": "DEUNA",
+      "fetched_at": "2026-10-15T07:12:33.616075+00:00",
+      "id": "d41d890b3209",
+      "location": "Ciudad de MÃ©xico, Mexico",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec",
+        "hr",
+        "technical",
+        "customer support",
+        "marketing",
+        "ops",
+        "golang",
+        "medical",
+        "engineer"
+      ],
+      "title": "Technical Account Manager",
+      "url": "https://remoteOK.com/remote-jobs/remote-technical-account-manager-deuna-1137482"
+    },
+    {
       "company": "Tierarzt Plus Partner",
       "fetched_at": "2026-10-15T01:19:47.507031+00:00",
       "id": "af126e4346b4",
@@ -2754,5 +2788,5 @@
       "url": "https://remoteOK.com/remote-jobs/remote-senior-communications-officer-strategic-communications-givewell-1137379"
     }
   ],
-  "updated_at": "2026-10-15T01:19:47.507031+00:00"
+  "updated_at": "2026-10-15T07:12:33.616075+00:00"
 }
