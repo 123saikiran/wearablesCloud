@@ -1,6 +1,61 @@
 {
   "jobs": [
     {
+      "company": "Tierarzt Plus Partner",
+      "fetched_at": "2026-10-15T01:19:47.507031+00:00",
+      "id": "af126e4346b4",
+      "location": "Neuruppin",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "medical"
+      ],
+      "title": "Telefondienst fÃ¼r Tierarztpraxis Neuruppin o",
+      "url": "https://remoteOK.com/remote-jobs/remote-telefondienst-fur-tierarztpraxis-neuruppin-o-tierarzt-plus-partner-1137469"
+    },
+    {
+      "company": "Workana",
+      "fetched_at": "2026-10-15T01:19:47.507031+00:00",
+      "id": "9b41c1eeebc9",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [],
+      "title": "MecÃ¡nico Automotriz DiagnÃ³stico y Presupuestos",
+      "url": "https://remoteOK.com/remote-jobs/remote-mecanico-automotriz-diagnostico-y-presupuestos-workana-1137429"
+    },
+    {
+      "company": "eClinical Solutions",
+      "fetched_at": "2026-10-15T01:19:47.507031+00:00",
+      "id": "24895f61f51e",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "cloud",
+        "exec",
+        "stats"
+      ],
+      "title": "External Data Specialist",
+      "url": "https://remoteOK.com/remote-jobs/remote-external-data-specialist-eclinical-solutions-1137375"
+    },
+    {
+      "company": "hiver",
+      "fetched_at": "2026-10-15T01:19:47.507031+00:00",
+      "id": "47d0a8d3e01b",
+      "location": "Remote",
+      "posted_at": "2026-10-14T23:19:11+00:00",
+      "source": "devto",
+      "tags": [
+        "python",
+        "pandas",
+        "webscraping",
+        "jobs"
+      ],
+      "title": "JobSpy doesn't scrape company career sites. Add Greenhouse, Lever and Workday jobs in the same DataFrame",
+      "url": "https://dev.to/hiver/jobspy-doesnt-scrape-company-career-sites-add-greenhouse-lever-and-workday-jobs-in-the-same-4pji"
+    },
+    {
       "company": "Toptal",
       "fetched_at": "2026-10-14T22:09:25.274840+00:00",
       "id": "c53e67d7e3a5",
@@ -2697,44 +2752,7 @@
       ],
       "title": "Senior Communications Officer Strategic Communications",
       "url": "https://remoteOK.com/remote-jobs/remote-senior-communications-officer-strategic-communications-givewell-1137379"
-    },
-    {
-      "company": "DEUNA",
-      "fetched_at": "2026-10-12T01:06:36.658623+00:00",
-      "id": "d41d890b3209",
-      "location": "Ciudad de MÃ©xico, Mexico",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "exec",
-        "hr",
-        "technical",
-        "customer support",
-        "marketing",
-        "ops",
-        "golang",
-        "medical",
-        "engineer"
-      ],
-      "title": "Technical Account Manager",
-      "url": "https://remoteOK.com/remote-jobs/remote-technical-account-manager-deuna-1137482"
-    },
-    {
-      "company": "Haku",
-      "fetched_at": "2026-10-12T01:06:36.658623+00:00",
-      "id": "088ceffc419d",
-      "location": "Remote",
-      "posted_at": "2026-10-12T00:23:53+00:00",
-      "source": "devto",
-      "tags": [
-        "ai",
-        "career",
-        "data",
-        "jobs"
-      ],
-      "title": "AI hiring this week: Anduril added 60 net roles, ElevenLabs cut 47 (22,020 open roles tracked)",
-      "url": "https://dev.to/vittoria000li/ai-hiring-this-week-anduril-added-60-net-roles-elevenlabs-cut-47-22020-open-roles-tracked-253j"
     }
   ],
-  "updated_at": "2026-10-14T22:09:25.274840+00:00"
+  "updated_at": "2026-10-15T01:19:47.507031+00:00"
 }
