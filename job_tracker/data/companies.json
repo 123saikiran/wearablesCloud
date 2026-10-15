@@ -121,13 +121,6 @@
       ],
       "last_seen": "2026-10-13T01:11:34.375961+00:00"
     },
-    "Copenhagen Optimization": {
-      "count": 1,
-      "job_ids": [
-        "f6a2d43e97e9"
-      ],
-      "last_seen": "2026-10-12T18:52:05.491208+00:00"
-    },
     "Crackr": {
       "count": 4,
       "job_ids": [
@@ -229,13 +222,6 @@
         "711b2ca9a481"
       ],
       "last_seen": "2026-10-13T01:11:34.375961+00:00"
-    },
-    "Fortanix": {
-      "count": 1,
-      "job_ids": [
-        "229019fcbf5f"
-      ],
-      "last_seen": "2026-10-12T18:52:05.491208+00:00"
     },
     "FreedomPay": {
       "count": 1,
@@ -385,26 +371,12 @@
       ],
       "last_seen": "2026-10-13T09:10:47.567641+00:00"
     },
-    "Mercier Consultancy Group": {
-      "count": 1,
-      "job_ids": [
-        "c4f2e1b28841"
-      ],
-      "last_seen": "2026-10-12T18:52:05.491208+00:00"
-    },
     "Miaplaza": {
       "count": 1,
       "job_ids": [
         "8ecf294a35da"
       ],
       "last_seen": "2026-10-14T13:30:47.785359+00:00"
-    },
-    "Midnite": {
-      "count": 1,
-      "job_ids": [
-        "6d0f881bb0ea"
-      ],
-      "last_seen": "2026-10-12T18:52:05.491208+00:00"
     },
     "Mindrift - Data annotation": {
       "count": 1,
@@ -771,5 +743,5 @@
       "last_seen": "2026-10-13T21:26:43+00:00"
     }
   },
-  "updated_at": "2026-10-15T18:08:17.620859+00:00"
+  "updated_at": "2026-10-15T22:03:00.557475+00:00"
 }
