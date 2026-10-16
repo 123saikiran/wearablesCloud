@@ -71,13 +71,28 @@
       ],
       "last_seen": "2026-10-16T12:14:15.863420+00:00"
     },
-    "Bjak": {
-      "count": 2,
+    "Benzinga": {
+      "count": 1,
       "job_ids": [
+        "08991bb5dd0b"
+      ],
+      "last_seen": "2026-10-16T23:22:52.600977+00:00"
+    },
+    "Bjak": {
+      "count": 3,
+      "job_ids": [
+        "5eefc2524a45",
         "578e1bcc6323",
         "22294040f070"
       ],
-      "last_seen": "2026-10-14T07:21:28.768709+00:00"
+      "last_seen": "2026-10-16T23:22:52.600977+00:00"
+    },
+    "Blackbird Interactive": {
+      "count": 1,
+      "job_ids": [
+        "63695c1ba827"
+      ],
+      "last_seen": "2026-10-16T23:22:52.600977+00:00"
     },
     "BlueTuskr": {
       "count": 1,
@@ -153,11 +168,12 @@
       "last_seen": "2026-10-15T07:12:33.616075+00:00"
     },
     "Delinea": {
-      "count": 1,
+      "count": 2,
       "job_ids": [
+        "5dc626541a14",
         "ec0ec3dc6073"
       ],
-      "last_seen": "2026-10-16T12:14:15.863420+00:00"
+      "last_seen": "2026-10-16T23:22:52.600977+00:00"
     },
     "DoiT": {
       "count": 1,
@@ -165,6 +181,13 @@
         "55ad3d8aceec"
       ],
       "last_seen": "2026-10-14T18:25:28.214934+00:00"
+    },
+    "DomainTools": {
+      "count": 1,
+      "job_ids": [
+        "88fcf7a684b1"
+      ],
+      "last_seen": "2026-10-16T23:22:52.600977+00:00"
     },
     "Dreem Health": {
       "count": 1,
@@ -222,6 +245,13 @@
       ],
       "last_seen": "2026-10-16T12:14:15.863420+00:00"
     },
+    "Fuel50": {
+      "count": 1,
+      "job_ids": [
+        "1259f006dacd"
+      ],
+      "last_seen": "2026-10-16T23:22:52.600977+00:00"
+    },
     "GROW10X": {
       "count": 1,
       "job_ids": [
@@ -271,6 +301,20 @@
       ],
       "last_seen": "2026-10-16T12:14:15.863420+00:00"
     },
+    "JumpCloud": {
+      "count": 1,
+      "job_ids": [
+        "000d516055a5"
+      ],
+      "last_seen": "2026-10-16T23:22:52.600977+00:00"
+    },
+    "KPI Solutions": {
+      "count": 1,
+      "job_ids": [
+        "3c4297a53702"
+      ],
+      "last_seen": "2026-10-16T23:22:52.600977+00:00"
+    },
     "Kruger NearShore LLC - Rekluti": {
       "count": 1,
       "job_ids": [
@@ -285,19 +329,19 @@
       ],
       "last_seen": "2026-10-16T12:14:15.863420+00:00"
     },
-    "Lemon.io": {
-      "count": 1,
-      "job_ids": [
-        "aaa1ec1c3d12"
-      ],
-      "last_seen": "2026-10-13T22:29:17.444752+00:00"
-    },
     "Leverage Live Local": {
       "count": 1,
       "job_ids": [
         "2584703aae88"
       ],
       "last_seen": "2026-10-14T18:25:28.214934+00:00"
+    },
+    "Libertex Group": {
+      "count": 1,
+      "job_ids": [
+        "13adf68b920b"
+      ],
+      "last_seen": "2026-10-16T23:22:52.600977+00:00"
     },
     "Magic Eden": {
       "count": 1,
@@ -341,6 +385,13 @@
       ],
       "last_seen": "2026-10-16T17:15:36.702682+00:00"
     },
+    "Mirantis": {
+      "count": 1,
+      "job_ids": [
+        "99e1bd4c692e"
+      ],
+      "last_seen": "2026-10-16T23:22:52.600977+00:00"
+    },
     "Mitul": {
       "count": 1,
       "job_ids": [
@@ -368,6 +419,13 @@
         "aafea233ce0d"
       ],
       "last_seen": "2026-10-14T07:21:28.768709+00:00"
+    },
+    "Omega Enterprises": {
+      "count": 1,
+      "job_ids": [
+        "f27fd8c61f4a"
+      ],
+      "last_seen": "2026-10-16T23:22:52.600977+00:00"
     },
     "Orca Bio": {
       "count": 1,
@@ -403,6 +461,20 @@
         "e9064f4ba338"
       ],
       "last_seen": "2026-10-14T13:30:47.785359+00:00"
+    },
+    "QuickMail": {
+      "count": 1,
+      "job_ids": [
+        "ff781a9183f8"
+      ],
+      "last_seen": "2026-10-16T23:22:52.600977+00:00"
+    },
+    "RedMimicry": {
+      "count": 1,
+      "job_ids": [
+        "f72500a20c52"
+      ],
+      "last_seen": "2026-10-16T23:22:52.600977+00:00"
     },
     "SEAhub Asia": {
       "count": 1,
@@ -491,6 +563,13 @@
       ],
       "last_seen": "2026-10-16T12:14:15.863420+00:00"
     },
+    "Tessera Labs": {
+      "count": 1,
+      "job_ids": [
+        "f18c1fd14d71"
+      ],
+      "last_seen": "2026-10-16T23:22:52.600977+00:00"
+    },
     "Tether Operations Limited": {
       "count": 1,
       "job_ids": [
@@ -498,19 +577,19 @@
       ],
       "last_seen": "2026-10-14T13:30:47.785359+00:00"
     },
+    "Thatchers Cider": {
+      "count": 1,
+      "job_ids": [
+        "4a59a86ff633"
+      ],
+      "last_seen": "2026-10-16T23:22:52.600977+00:00"
+    },
     "The AI Whistleblower Initiative": {
       "count": 1,
       "job_ids": [
         "916cd2848e14"
       ],
       "last_seen": "2026-10-14T01:43:12.374485+00:00"
-    },
-    "TheCareery": {
-      "count": 1,
-      "job_ids": [
-        "d0a3effa5475"
-      ],
-      "last_seen": "2026-10-13T21:26:43+00:00"
     },
     "Thyme Care": {
       "count": 1,
@@ -627,14 +706,7 @@
         "aad0d581511f"
       ],
       "last_seen": "2026-10-15T18:08:17.620859+00:00"
-    },
-    "zainn4": {
-      "count": 1,
-      "job_ids": [
-        "d710baa395d0"
-      ],
-      "last_seen": "2026-10-13T21:26:43+00:00"
     }
   },
-  "updated_at": "2026-10-16T20:47:48.364599+00:00"
+  "updated_at": "2026-10-16T23:22:52.600977+00:00"
 }
