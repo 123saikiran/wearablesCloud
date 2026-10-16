@@ -1,6 +1,168 @@
 {
   "jobs": [
     {
+      "company": "Allego",
+      "fetched_at": "2026-10-16T17:15:36.702682+00:00",
+      "id": "db79afc69d97",
+      "location": "Waltham",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec",
+        "saas",
+        "customer support",
+        "marketing",
+        "ops",
+        "sales",
+        "golang"
+      ],
+      "title": "Account Manager Mid Market",
+      "url": "https://remoteOK.com/remote-jobs/remote-account-manager-mid-market-allego-1137528"
+    },
+    {
+      "company": "Wrapbook",
+      "fetched_at": "2026-10-16T17:15:36.702682+00:00",
+      "id": "7184f678691f",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "dev",
+        "design",
+        "amazon",
+        "sys admin",
+        "backend",
+        "infosec",
+        "python",
+        "education",
+        "technical",
+        "customer support",
+        "accounting",
+        "payroll",
+        "javascript",
+        "finance",
+        "java",
+        "typescript",
+        "node",
+        "node.js",
+        "content writing",
+        "senior",
+        "ops",
+        "marketing",
+        "sales",
+        "medical",
+        "engineer",
+        "digital nomad"
+      ],
+      "title": "Senior Software Engineer II Applied AI",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527"
+    },
+    {
+      "company": "Mindrift - Data annotation",
+      "fetched_at": "2026-10-16T17:15:36.702682+00:00",
+      "id": "27114a112780",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "data annotation",
+        "c"
+      ],
+      "title": "Freelance grabaciÃ³n de tareas cotidianas para proyecto de IA",
+      "url": "https://remoteOK.com/remote-jobs/remote-freelance-grabacion-de-tareas-cotidianas-para-proyecto-de-ia-mindrift-data-annotation-1137415"
+    },
+    {
+      "company": "Magic Eden",
+      "fetched_at": "2026-10-16T17:15:36.702682+00:00",
+      "id": "b339cea9a854",
+      "location": "Melbourne",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "product manager",
+        "marketing",
+        "exec",
+        "design",
+        "crypto",
+        "nft",
+        "game dev",
+        "consulting",
+        "testing",
+        "analyst",
+        "finance",
+        "senior",
+        "golang",
+        "engineer",
+        "digital nomad"
+      ],
+      "title": "Senior Growth Product Manager AI Native",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-growth-product-manager-ai-native-magic-eden-1137414"
+    },
+    {
+      "company": "Zakaria Blefkih",
+      "fetched_at": "2026-10-16T17:15:36.702682+00:00",
+      "id": "23560b88e722",
+      "location": "Remote",
+      "posted_at": "2026-10-16T16:16:14+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "python",
+        "jobs",
+        "api"
+      ],
+      "title": "How I scrape jobs from LinkedIn, Indeed and Glassdoor in one run (no login)",
+      "url": "https://dev.to/7_akariae/how-i-scrape-jobs-from-linkedin-indeed-and-glassdoor-in-one-run-no-login-5gd8"
+    },
+    {
+      "company": "hiver",
+      "fetched_at": "2026-10-16T17:15:36.702682+00:00",
+      "id": "36766b31c1aa",
+      "location": "Remote",
+      "posted_at": "2026-10-16T16:07:22+00:00",
+      "source": "devto",
+      "tags": [
+        "python",
+        "webscraping",
+        "jobs",
+        "api"
+      ],
+      "title": "Scraping Workday job listings with Python: the 2,000-job cap and two other traps",
+      "url": "https://dev.to/hiver/scraping-workday-job-listings-with-python-the-2000-job-cap-and-two-other-traps-19pg"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-10-16T17:15:36.702682+00:00",
+      "id": "24df049758d7",
+      "location": "Remote",
+      "posted_at": "2026-10-16T15:00:16+00:00",
+      "source": "devto",
+      "tags": [
+        "beginners",
+        "jobs",
+        "career",
+        "programming"
+      ],
+      "title": "These Companies Want Interns This Summer (Oct 16)",
+      "url": "https://dev.to/crackr/these-companies-want-interns-this-summer-oct-16-4pfn"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-10-16T17:15:36.702682+00:00",
+      "id": "467cec82f65a",
+      "location": "Remote",
+      "posted_at": "2026-10-16T15:00:13+00:00",
+      "source": "devto",
+      "tags": [
+        "remotework",
+        "jobs",
+        "webdev",
+        "career"
+      ],
+      "title": "8 Remote SWE Jobs You Can Apply to From Anywhere (Oct 16)",
+      "url": "https://dev.to/crackr/8-remote-swe-jobs-you-can-apply-to-from-anywhere-oct-16-11k8"
+    },
+    {
       "company": "Manila Recruitment",
       "fetched_at": "2026-10-16T12:14:15.863420+00:00",
       "id": "2824be0c3c48",
@@ -1127,6 +1289,22 @@
       ],
       "title": "Business Development",
       "url": "https://remoteOK.com/remote-jobs/remote-business-development-grow10x-1136221"
+    },
+    {
+      "company": "Craig Nicol (he/him)",
+      "fetched_at": "2026-10-16T17:15:36.702682+00:00",
+      "id": "67f44a38c1aa",
+      "location": "Remote",
+      "posted_at": "2026-10-16T10:28:25+00:00",
+      "source": "devto",
+      "tags": [
+        "leadership",
+        "jobs",
+        "recruitment",
+        "teams"
+      ],
+      "title": "Job hunter mental health",
+      "url": "https://dev.to/craignicol/job-hunter-mental-health-3le0"
     },
     {
       "company": "Somnio Software",
@@ -2462,71 +2640,7 @@
       ],
       "title": "Oracle Fusion Cloud Lead â Logistics & Supply Chain Management",
       "url": "https://remoteOK.com/remote-jobs/remote-oracle-fusion-cloud-lead-logistics-supply-chain-management-tessera-labs-1137155"
-    },
-    {
-      "company": "Crackr",
-      "fetched_at": "2026-10-13T17:27:33.506454+00:00",
-      "id": "b2e0af767aa1",
-      "location": "Remote",
-      "posted_at": "2026-10-13T15:00:17+00:00",
-      "source": "devto",
-      "tags": [
-        "beginners",
-        "jobs",
-        "career",
-        "programming"
-      ],
-      "title": "These Companies Want Interns This Summer (Oct 13)",
-      "url": "https://dev.to/crackr/these-companies-want-interns-this-summer-oct-13-2b5"
-    },
-    {
-      "company": "Crackr",
-      "fetched_at": "2026-10-13T17:27:33.506454+00:00",
-      "id": "3259fec29535",
-      "location": "Remote",
-      "posted_at": "2026-10-13T15:00:13+00:00",
-      "source": "devto",
-      "tags": [
-        "remotework",
-        "jobs",
-        "webdev",
-        "career"
-      ],
-      "title": "8 Remote SWE Jobs You Can Apply to From Anywhere (Oct 13)",
-      "url": "https://dev.to/crackr/8-remote-swe-jobs-you-can-apply-to-from-anywhere-oct-13-4idn"
-    },
-    {
-      "company": "Mitul",
-      "fetched_at": "2026-10-13T17:27:33.506454+00:00",
-      "id": "99e5720ae72b",
-      "location": "Remote",
-      "posted_at": "2026-10-13T14:10:20+00:00",
-      "source": "devto",
-      "tags": [
-        "career",
-        "resume",
-        "jobs",
-        "productivity"
-      ],
-      "title": "The salary question: what to say before you have an offer",
-      "url": "https://dev.to/mitulgelani/the-salary-question-what-to-say-before-you-have-an-offer-dm3"
-    },
-    {
-      "company": "MADAN DHOUNDIYAL",
-      "fetched_at": "2026-10-13T17:27:33.506454+00:00",
-      "id": "7895d95f4d1f",
-      "location": "Remote",
-      "posted_at": "2026-10-13T12:54:22+00:00",
-      "source": "devto",
-      "tags": [
-        "career",
-        "beginners",
-        "jobs",
-        "buildinpublic"
-      ],
-      "title": "How I Built an AI Resume Builder as a Solo Founder in India",
-      "url": "https://dev.to/mohan_dhoundiyal/how-i-built-an-ai-resume-builder-as-a-solo-founder-in-india-gaj"
     }
   ],
-  "updated_at": "2026-10-16T12:14:15.863420+00:00"
+  "updated_at": "2026-10-16T17:15:36.702682+00:00"
 }
