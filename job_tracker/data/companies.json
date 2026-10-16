@@ -7,27 +7,6 @@
       ],
       "last_seen": "2026-10-14T13:30:47.785359+00:00"
     },
-    "AWeber": {
-      "count": 1,
-      "job_ids": [
-        "f43cb09e6de4"
-      ],
-      "last_seen": "2026-10-13T01:11:34.375961+00:00"
-    },
-    "Ace IT Careers": {
-      "count": 1,
-      "job_ids": [
-        "bd3e619ebf5e"
-      ],
-      "last_seen": "2026-10-13T01:11:34.375961+00:00"
-    },
-    "Adaptive Teams": {
-      "count": 1,
-      "job_ids": [
-        "37140df697ef"
-      ],
-      "last_seen": "2026-10-13T01:11:34.375961+00:00"
-    },
     "Akicita Federal, LLC": {
       "count": 2,
       "job_ids": [
@@ -36,40 +15,12 @@
       ],
       "last_seen": "2026-10-16T01:05:05.657345+00:00"
     },
-    "American Bureau of Shipping (ABS)": {
-      "count": 1,
-      "job_ids": [
-        "ea12a15427d6"
-      ],
-      "last_seen": "2026-10-13T01:11:34.375961+00:00"
-    },
-    "Arabian Private Holdings": {
-      "count": 1,
-      "job_ids": [
-        "3decd8f0dbf5"
-      ],
-      "last_seen": "2026-10-13T01:11:34.375961+00:00"
-    },
     "Arango": {
       "count": 1,
       "job_ids": [
         "0bad7d05c1cb"
       ],
       "last_seen": "2026-10-14T07:21:28.768709+00:00"
-    },
-    "Ashby": {
-      "count": 1,
-      "job_ids": [
-        "015855af2351"
-      ],
-      "last_seen": "2026-10-13T01:11:34.375961+00:00"
-    },
-    "Benchling": {
-      "count": 1,
-      "job_ids": [
-        "bf385fe953c8"
-      ],
-      "last_seen": "2026-10-13T01:11:34.375961+00:00"
     },
     "Benzinga": {
       "count": 1,
@@ -101,34 +52,6 @@
       ],
       "last_seen": "2026-10-14T01:43:12.374485+00:00"
     },
-    "Bybit": {
-      "count": 1,
-      "job_ids": [
-        "6bb11a3b4b93"
-      ],
-      "last_seen": "2026-10-13T01:11:34.375961+00:00"
-    },
-    "Chaos": {
-      "count": 1,
-      "job_ids": [
-        "4190ce763efc"
-      ],
-      "last_seen": "2026-10-13T01:11:34.375961+00:00"
-    },
-    "Clera": {
-      "count": 1,
-      "job_ids": [
-        "ac4722536f8f"
-      ],
-      "last_seen": "2026-10-13T01:11:34.375961+00:00"
-    },
-    "Control Shift Video": {
-      "count": 1,
-      "job_ids": [
-        "a21bcc6ded29"
-      ],
-      "last_seen": "2026-10-13T01:11:34.375961+00:00"
-    },
     "Copenhagen Optimization": {
       "count": 1,
       "job_ids": [
@@ -146,13 +69,6 @@
       ],
       "last_seen": "2026-10-14T15:00:17+00:00"
     },
-    "Crystalia Glass LLC": {
-      "count": 1,
-      "job_ids": [
-        "861f5311a11c"
-      ],
-      "last_seen": "2026-10-13T01:11:34.375961+00:00"
-    },
     "DEUNA": {
       "count": 1,
       "job_ids": [
@@ -161,10 +77,9 @@
       "last_seen": "2026-10-15T07:12:33.616075+00:00"
     },
     "Delinea": {
-      "count": 2,
+      "count": 1,
       "job_ids": [
-        "5dc626541a14",
-        "ec0ec3dc6073"
+        "5dc626541a14"
       ],
       "last_seen": "2026-10-13T17:27:33.506454+00:00"
     },
@@ -182,13 +97,6 @@
       ],
       "last_seen": "2026-10-13T17:27:33.506454+00:00"
     },
-    "Dreem Health": {
-      "count": 1,
-      "job_ids": [
-        "8ff5ff432a8f"
-      ],
-      "last_seen": "2026-10-13T01:11:34.375961+00:00"
-    },
     "EDETEK": {
       "count": 1,
       "job_ids": [
@@ -203,54 +111,12 @@
       ],
       "last_seen": "2026-10-13T17:27:33.506454+00:00"
     },
-    "Enable Dental": {
-      "count": 1,
-      "job_ids": [
-        "a484b7ea18c9"
-      ],
-      "last_seen": "2026-10-13T01:11:34.375961+00:00"
-    },
-    "Engine": {
-      "count": 1,
-      "job_ids": [
-        "602eafac0909"
-      ],
-      "last_seen": "2026-10-13T01:11:34.375961+00:00"
-    },
-    "Evolve": {
-      "count": 1,
-      "job_ids": [
-        "79397a0b4c1e"
-      ],
-      "last_seen": "2026-10-13T01:11:34.375961+00:00"
-    },
-    "ExtraHop": {
-      "count": 1,
-      "job_ids": [
-        "31dfd150bb34"
-      ],
-      "last_seen": "2026-10-13T01:11:34.375961+00:00"
-    },
-    "FindTutors": {
-      "count": 1,
-      "job_ids": [
-        "711b2ca9a481"
-      ],
-      "last_seen": "2026-10-13T01:11:34.375961+00:00"
-    },
     "Fortanix": {
       "count": 1,
       "job_ids": [
         "229019fcbf5f"
       ],
       "last_seen": "2026-10-16T01:05:05.657345+00:00"
-    },
-    "FreedomPay": {
-      "count": 1,
-      "job_ids": [
-        "1497fd8d4592"
-      ],
-      "last_seen": "2026-10-13T01:11:34.375961+00:00"
     },
     "Fuel50": {
       "count": 1,
@@ -259,41 +125,12 @@
       ],
       "last_seen": "2026-10-13T17:27:33.506454+00:00"
     },
-    "GROW10X": {
-      "count": 2,
-      "job_ids": [
-        "7e7f30e317c9",
-        "3234b98a11bc"
-      ],
-      "last_seen": "2026-10-13T01:11:34.375961+00:00"
-    },
     "GiveWell": {
       "count": 1,
       "job_ids": [
         "0670c33f2a79"
       ],
       "last_seen": "2026-10-15T18:08:17.620859+00:00"
-    },
-    "Grapefruit Health": {
-      "count": 1,
-      "job_ids": [
-        "d658f7153d57"
-      ],
-      "last_seen": "2026-10-13T01:11:34.375961+00:00"
-    },
-    "Harbor": {
-      "count": 1,
-      "job_ids": [
-        "5f67eddcfa26"
-      ],
-      "last_seen": "2026-10-13T01:11:34.375961+00:00"
-    },
-    "HighLevel": {
-      "count": 1,
-      "job_ids": [
-        "2be7fb2c7d99"
-      ],
-      "last_seen": "2026-10-13T01:11:34.375961+00:00"
     },
     "Hunt St": {
       "count": 1,
@@ -309,13 +146,6 @@
       ],
       "last_seen": "2026-10-14T13:30:47.785359+00:00"
     },
-    "INNERGY": {
-      "count": 1,
-      "job_ids": [
-        "3f8306634dc8"
-      ],
-      "last_seen": "2026-10-13T01:11:34.375961+00:00"
-    },
     "JumpCloud": {
       "count": 1,
       "job_ids": [
@@ -329,27 +159,6 @@
         "3c4297a53702"
       ],
       "last_seen": "2026-10-13T17:27:33.506454+00:00"
-    },
-    "Kruger NearShore LLC - Rekluti": {
-      "count": 1,
-      "job_ids": [
-        "e74fef823751"
-      ],
-      "last_seen": "2026-10-13T01:11:34.375961+00:00"
-    },
-    "Law Offices of Sabrina Li": {
-      "count": 1,
-      "job_ids": [
-        "b3dd04aaa651"
-      ],
-      "last_seen": "2026-10-13T01:11:34.375961+00:00"
-    },
-    "Legal Services NYC": {
-      "count": 1,
-      "job_ids": [
-        "3212e83df92c"
-      ],
-      "last_seen": "2026-10-13T01:11:34.375961+00:00"
     },
     "Lemon.io": {
       "count": 1,
@@ -436,20 +245,6 @@
       ],
       "last_seen": "2026-10-14T14:01:53+00:00"
     },
-    "MultiplyMii": {
-      "count": 1,
-      "job_ids": [
-        "743ecd197f3b"
-      ],
-      "last_seen": "2026-10-13T01:11:34.375961+00:00"
-    },
-    "NT Health": {
-      "count": 1,
-      "job_ids": [
-        "2108aacaa944"
-      ],
-      "last_seen": "2026-10-13T01:11:34.375961+00:00"
-    },
     "OkWhen": {
       "count": 1,
       "job_ids": [
@@ -464,54 +259,12 @@
       ],
       "last_seen": "2026-10-13T17:27:33.506454+00:00"
     },
-    "Orca Bio": {
-      "count": 1,
-      "job_ids": [
-        "1701cf6919ff"
-      ],
-      "last_seen": "2026-10-13T01:11:34.375961+00:00"
-    },
-    "PFAS (Personal Functional Assessment Services)": {
-      "count": 1,
-      "job_ids": [
-        "8581d94129b4"
-      ],
-      "last_seen": "2026-10-13T01:11:34.375961+00:00"
-    },
-    "Physical Superintelligence": {
-      "count": 1,
-      "job_ids": [
-        "bcb3180a69c9"
-      ],
-      "last_seen": "2026-10-13T01:11:34.375961+00:00"
-    },
-    "Pivotal Health": {
-      "count": 1,
-      "job_ids": [
-        "1dc87e4d1898"
-      ],
-      "last_seen": "2026-10-13T01:11:34.375961+00:00"
-    },
-    "Precision Medicine Group": {
-      "count": 1,
-      "job_ids": [
-        "8c81a51aee36"
-      ],
-      "last_seen": "2026-10-13T01:11:34.375961+00:00"
-    },
     "Prenosis": {
       "count": 1,
       "job_ids": [
         "e9064f4ba338"
       ],
       "last_seen": "2026-10-14T13:30:47.785359+00:00"
-    },
-    "PulseMediaNL": {
-      "count": 1,
-      "job_ids": [
-        "6ac7b5e81dd9"
-      ],
-      "last_seen": "2026-10-13T01:11:34.375961+00:00"
     },
     "QuickMail": {
       "count": 1,
@@ -534,47 +287,12 @@
       ],
       "last_seen": "2026-10-13T09:10:47.567641+00:00"
     },
-    "SEAhub Asia": {
-      "count": 1,
-      "job_ids": [
-        "cf3117844396"
-      ],
-      "last_seen": "2026-10-13T01:11:34.375961+00:00"
-    },
     "SIHO Insurance Services": {
       "count": 1,
       "job_ids": [
         "a3c6466c8e30"
       ],
       "last_seen": "2026-10-14T07:21:28.768709+00:00"
-    },
-    "SLB": {
-      "count": 1,
-      "job_ids": [
-        "8df5a4907383"
-      ],
-      "last_seen": "2026-10-13T01:11:34.375961+00:00"
-    },
-    "Salesforge": {
-      "count": 1,
-      "job_ids": [
-        "73ab7a096cc0"
-      ],
-      "last_seen": "2026-10-13T01:11:34.375961+00:00"
-    },
-    "Sanctuary Computer": {
-      "count": 1,
-      "job_ids": [
-        "14bae49a6471"
-      ],
-      "last_seen": "2026-10-13T01:11:34.375961+00:00"
-    },
-    "Shapr3D": {
-      "count": 1,
-      "job_ids": [
-        "22fdb8ef856c"
-      ],
-      "last_seen": "2026-10-13T01:11:34.375961+00:00"
     },
     "Siftwright Data": {
       "count": 3,
@@ -585,26 +303,12 @@
       ],
       "last_seen": "2026-10-14T15:00:29+00:00"
     },
-    "SimSpace Corporation": {
-      "count": 1,
-      "job_ids": [
-        "78684872837c"
-      ],
-      "last_seen": "2026-10-13T01:11:34.375961+00:00"
-    },
     "Somnio Software": {
       "count": 1,
       "job_ids": [
         "dc2f9794bfbe"
       ],
       "last_seen": "2026-10-16T01:05:05.657345+00:00"
-    },
-    "Sophie's Flats Inc.": {
-      "count": 1,
-      "job_ids": [
-        "0861a6d3cc39"
-      ],
-      "last_seen": "2026-10-13T01:11:34.375961+00:00"
     },
     "Spiralyze": {
       "count": 1,
@@ -619,14 +323,6 @@
         "f850b279b35c"
       ],
       "last_seen": "2026-10-13T17:27:33.506454+00:00"
-    },
-    "Stone": {
-      "count": 2,
-      "job_ids": [
-        "ffbaf6584beb",
-        "625296cb597b"
-      ],
-      "last_seen": "2026-10-13T01:11:34.375961+00:00"
     },
     "Tessera Labs": {
       "count": 1,
@@ -685,20 +381,6 @@
       ],
       "last_seen": "2026-10-14T22:09:25.274840+00:00"
     },
-    "Transportation Partners &amp; Logistics": {
-      "count": 1,
-      "job_ids": [
-        "e7ba68dc9f7e"
-      ],
-      "last_seen": "2026-10-13T01:11:34.375961+00:00"
-    },
-    "Tremendous": {
-      "count": 1,
-      "job_ids": [
-        "b7fdb7582e59"
-      ],
-      "last_seen": "2026-10-13T01:11:34.375961+00:00"
-    },
     "Ultimate Marketing": {
       "count": 1,
       "job_ids": [
@@ -719,20 +401,6 @@
         "032d2b48d36d"
       ],
       "last_seen": "2026-10-14T01:43:12.374485+00:00"
-    },
-    "Webnotics Pvt Ltd": {
-      "count": 1,
-      "job_ids": [
-        "725517e57359"
-      ],
-      "last_seen": "2026-10-13T01:11:34.375961+00:00"
-    },
-    "Wing": {
-      "count": 1,
-      "job_ids": [
-        "3a08ab09ded6"
-      ],
-      "last_seen": "2026-10-13T01:11:34.375961+00:00"
     },
     "Workana": {
       "count": 1,
@@ -779,5 +447,5 @@
       "last_seen": "2026-10-13T21:26:43+00:00"
     }
   },
-  "updated_at": "2026-10-16T01:05:05.657345+00:00"
+  "updated_at": "2026-10-16T06:55:46.344843+00:00"
 }
