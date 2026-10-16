@@ -28,6 +28,14 @@
       ],
       "last_seen": "2026-10-13T01:11:34.375961+00:00"
     },
+    "Akicita Federal, LLC": {
+      "count": 2,
+      "job_ids": [
+        "881c8cedcd71",
+        "edde57b07154"
+      ],
+      "last_seen": "2026-10-16T01:05:05.657345+00:00"
+    },
     "American Bureau of Shipping (ABS)": {
       "count": 1,
       "job_ids": [
@@ -120,6 +128,13 @@
         "a21bcc6ded29"
       ],
       "last_seen": "2026-10-13T01:11:34.375961+00:00"
+    },
+    "Copenhagen Optimization": {
+      "count": 1,
+      "job_ids": [
+        "f6a2d43e97e9"
+      ],
+      "last_seen": "2026-10-16T01:05:05.657345+00:00"
     },
     "Crackr": {
       "count": 4,
@@ -222,6 +237,13 @@
         "711b2ca9a481"
       ],
       "last_seen": "2026-10-13T01:11:34.375961+00:00"
+    },
+    "Fortanix": {
+      "count": 1,
+      "job_ids": [
+        "229019fcbf5f"
+      ],
+      "last_seen": "2026-10-16T01:05:05.657345+00:00"
     },
     "FreedomPay": {
       "count": 1,
@@ -371,12 +393,26 @@
       ],
       "last_seen": "2026-10-13T09:10:47.567641+00:00"
     },
+    "Mercier Consultancy Group": {
+      "count": 1,
+      "job_ids": [
+        "c4f2e1b28841"
+      ],
+      "last_seen": "2026-10-16T01:05:05.657345+00:00"
+    },
     "Miaplaza": {
       "count": 1,
       "job_ids": [
         "8ecf294a35da"
       ],
       "last_seen": "2026-10-14T13:30:47.785359+00:00"
+    },
+    "Midnite": {
+      "count": 1,
+      "job_ids": [
+        "6d0f881bb0ea"
+      ],
+      "last_seen": "2026-10-16T01:05:05.657345+00:00"
     },
     "Mindrift - Data annotation": {
       "count": 1,
@@ -556,6 +592,13 @@
       ],
       "last_seen": "2026-10-13T01:11:34.375961+00:00"
     },
+    "Somnio Software": {
+      "count": 1,
+      "job_ids": [
+        "dc2f9794bfbe"
+      ],
+      "last_seen": "2026-10-16T01:05:05.657345+00:00"
+    },
     "Sophie's Flats Inc.": {
       "count": 1,
       "job_ids": [
@@ -728,13 +771,6 @@
       ],
       "last_seen": "2026-10-15T18:08:17.620859+00:00"
     },
-    "northloopworks": {
-      "count": 1,
-      "job_ids": [
-        "d6357bf4f93f"
-      ],
-      "last_seen": "2026-10-13T00:57:33+00:00"
-    },
     "zainn4": {
       "count": 1,
       "job_ids": [
@@ -743,5 +779,5 @@
       "last_seen": "2026-10-13T21:26:43+00:00"
     }
   },
-  "updated_at": "2026-10-15T22:03:00.557475+00:00"
+  "updated_at": "2026-10-16T01:05:05.657345+00:00"
 }

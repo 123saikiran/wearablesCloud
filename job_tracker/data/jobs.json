@@ -1,6 +1,148 @@
 {
   "jobs": [
     {
+      "company": "Somnio Software",
+      "fetched_at": "2026-10-16T01:05:05.657345+00:00",
+      "id": "dc2f9794bfbe",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "react native",
+        "react",
+        "dev",
+        "python",
+        "javascript",
+        "c",
+        "flutter",
+        "node",
+        "node.js",
+        "digital nomad"
+      ],
+      "title": "Sr REACT NATIVE",
+      "url": "https://remoteOK.com/remote-jobs/remote-sr-react-native-somnio-software-1137523"
+    },
+    {
+      "company": "Akicita Federal, LLC",
+      "fetched_at": "2026-10-16T01:05:05.657345+00:00",
+      "id": "881c8cedcd71",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec",
+        "medical",
+        "recruiter"
+      ],
+      "title": "Contracts Manager Federal",
+      "url": "https://remoteOK.com/remote-jobs/remote-contracts-manager-federal-akicita-federal-llc-1137522"
+    },
+    {
+      "company": "Akicita Federal, LLC",
+      "fetched_at": "2026-10-16T01:05:05.657345+00:00",
+      "id": "edde57b07154",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec",
+        "golang",
+        "recruiter"
+      ],
+      "title": "Federal Account Manager Client Relationships",
+      "url": "https://remoteOK.com/remote-jobs/remote-federal-account-manager-client-relationships-akicita-federal-llc-1137521"
+    },
+    {
+      "company": "Midnite",
+      "fetched_at": "2026-10-16T01:05:05.657345+00:00",
+      "id": "6d0f881bb0ea",
+      "location": "United Kingdom",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "design",
+        "exec",
+        "sys admin",
+        "game dev",
+        "testing",
+        "marketing",
+        "web dev",
+        "scheme",
+        "medical",
+        "engineer",
+        "digital nomad"
+      ],
+      "title": "Product Design Director",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-design-director-midnite-1137497"
+    },
+    {
+      "company": "Fortanix",
+      "fetched_at": "2026-10-16T01:05:05.657345+00:00",
+      "id": "229019fcbf5f",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec",
+        "infosec",
+        "teaching",
+        "consulting",
+        "technical",
+        "customer support",
+        "marketing",
+        "speech",
+        "cloud",
+        "bus dev",
+        "sales",
+        "medical"
+      ],
+      "title": "Federal Business Development Director",
+      "url": "https://remoteOK.com/remote-jobs/remote-federal-business-development-director-fortanix-1137463"
+    },
+    {
+      "company": "Mercier Consultancy Group",
+      "fetched_at": "2026-10-16T01:05:05.657345+00:00",
+      "id": "c4f2e1b28841",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "consulting",
+        "education",
+        "technical",
+        "customer support",
+        "marketing",
+        "travel",
+        "excel",
+        "medical",
+        "recruiter"
+      ],
+      "title": "Danish Speaking Solutions Consultant Work Sofia Bulgaria",
+      "url": "https://remoteOK.com/remote-jobs/remote-danish-speaking-solutions-consultant-work-sofia-bulgaria-mercier-consultancy-group-1137431"
+    },
+    {
+      "company": "Copenhagen Optimization",
+      "fetched_at": "2026-10-16T01:05:05.657345+00:00",
+      "id": "f6a2d43e97e9",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "virtual assistant",
+        "strategy",
+        "customer support",
+        "dev",
+        "marketing",
+        "exec",
+        "content writing",
+        "ops",
+        "golang",
+        "digital nomad"
+      ],
+      "title": "Marketing Student Assistant",
+      "url": "https://remoteOK.com/remote-jobs/remote-marketing-student-assistant-copenhagen-optimization-1137381"
+    },
+    {
       "company": "Utopia",
       "fetched_at": "2026-10-15T18:08:17.620859+00:00",
       "id": "063b321c679e",
@@ -2621,22 +2763,7 @@
       ],
       "title": "Patient Outreach Specialist",
       "url": "https://remoteOK.com/remote-jobs/remote-patient-outreach-specialist-grapefruit-health-1135789"
-    },
-    {
-      "company": "northloopworks",
-      "fetched_at": "2026-10-13T01:11:34.375961+00:00",
-      "id": "d6357bf4f93f",
-      "location": "Remote",
-      "posted_at": "2026-10-13T00:57:33+00:00",
-      "source": "devto",
-      "tags": [
-        "career",
-        "jobs",
-        "beginners"
-      ],
-      "title": "The 5 clauses in your offer letter that actually matter (and the 30 you can skim)",
-      "url": "https://dev.to/northloopworks/the-5-clauses-in-your-offer-letter-that-actually-matter-and-the-30-you-can-skim-4ijc"
     }
   ],
-  "updated_at": "2026-10-15T22:03:00.557475+00:00"
+  "updated_at": "2026-10-16T01:05:05.657345+00:00"
 }
