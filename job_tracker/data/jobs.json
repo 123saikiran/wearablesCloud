@@ -1,6 +1,153 @@
 {
   "jobs": [
     {
+      "company": "SIHO Insurance Services",
+      "fetched_at": "2026-10-17T12:50:37.537792+00:00",
+      "id": "a3c6466c8e30",
+      "location": "SIHO - Columbus, IN",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "exec",
+        "sys admin",
+        "education",
+        "supervisor",
+        "customer support",
+        "quality assurance",
+        "c",
+        "microsoft",
+        "ops",
+        "excel",
+        "legal",
+        "medical"
+      ],
+      "title": "Director Payment Integrity",
+      "url": "https://remoteOK.com/remote-jobs/remote-director-payment-integrity-siho-insurance-services-1137434"
+    },
+    {
+      "company": "Bjak",
+      "fetched_at": "2026-10-17T12:50:37.537792+00:00",
+      "id": "578e1bcc6323",
+      "location": "Germany",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "product manager",
+        "exec",
+        "design",
+        "sys admin",
+        "infosec",
+        "technical",
+        "finance",
+        "ruby",
+        "mobile",
+        "ops",
+        "engineer",
+        "digital nomad"
+      ],
+      "title": "Technical Product Manager AI Stockbroking App",
+      "url": "https://remoteOK.com/remote-jobs/remote-technical-product-manager-ai-stockbroking-app-bjak-1137421"
+    },
+    {
+      "company": "OkWhen",
+      "fetched_at": "2026-10-17T12:50:37.537792+00:00",
+      "id": "aafea233ce0d",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "dev",
+        "design",
+        "c sharp",
+        "saas",
+        "sys admin",
+        "infosec",
+        "education",
+        "technical",
+        "testing",
+        "web dev",
+        "xamarin",
+        "c",
+        "cloud",
+        "git",
+        "typescript",
+        "angular",
+        "mobile",
+        "exec",
+        "content writing",
+        "senior",
+        "ops",
+        "medical",
+        "engineer",
+        "backend",
+        "digital nomad"
+      ],
+      "title": "Senior .NET Software Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-net-software-engineer-okwhen-1137411"
+    },
+    {
+      "company": "Bjak",
+      "fetched_at": "2026-10-17T12:50:37.537792+00:00",
+      "id": "22294040f070",
+      "location": "Ireland",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "front end",
+        "design",
+        "react",
+        "graphql",
+        "react.js",
+        "technical",
+        "web dev",
+        "javascript",
+        "css",
+        "chatbot",
+        "html",
+        "typescript",
+        "node",
+        "node.js",
+        "exec",
+        "sys admin",
+        "engineer",
+        "backend",
+        "digital nomad"
+      ],
+      "title": "Frontend Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410"
+    },
+    {
+      "company": "Arango",
+      "fetched_at": "2026-10-17T12:50:37.537792+00:00",
+      "id": "0bad7d05c1cb",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "golang",
+        "golang",
+        "engineer"
+      ],
+      "title": "Golang Kubernetes Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400"
+    },
+    {
+      "company": "vee",
+      "fetched_at": "2026-10-17T12:50:37.537792+00:00",
+      "id": "4faef5253ad6",
+      "location": "Remote",
+      "posted_at": "2026-10-17T10:10:44+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "apify",
+        "jobs",
+        "python"
+      ],
+      "title": "I got tired of copying jobs off career pages, so I built a CSV exporter for Greenhouse, Lever and Ashby",
+      "url": "https://dev.to/veelabs/i-got-tired-of-copying-jobs-off-career-pages-so-i-built-a-csv-exporter-for-greenhouse-lever-and-bm2"
+    },
+    {
       "company": "Vytalize Health",
       "fetched_at": "2026-10-17T08:26:29.187536+00:00",
       "id": "032d2b48d36d",
@@ -2480,5 +2627,5 @@
       "url": "https://dev.to/siftwright_data/track-new-job-openings-at-specific-companies-without-scraping-indeed-or-linkedin-311h"
     }
   ],
-  "updated_at": "2026-10-17T08:26:29.187536+00:00"
+  "updated_at": "2026-10-17T12:50:37.537792+00:00"
 }
