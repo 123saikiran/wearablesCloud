@@ -29,6 +29,13 @@
       ],
       "last_seen": "2026-10-16T01:05:05.657345+00:00"
     },
+    "AlgaeCal": {
+      "count": 1,
+      "job_ids": [
+        "a90696ce9d9a"
+      ],
+      "last_seen": "2026-10-17T03:53:16.972515+00:00"
+    },
     "Allego": {
       "count": 1,
       "job_ids": [
@@ -93,13 +100,6 @@
         "63695c1ba827"
       ],
       "last_seen": "2026-10-16T23:22:52.600977+00:00"
-    },
-    "BlueTuskr": {
-      "count": 1,
-      "job_ids": [
-        "3a2208cf5efe"
-      ],
-      "last_seen": "2026-10-14T01:43:12.374485+00:00"
     },
     "Bybit": {
       "count": 1,
@@ -280,6 +280,13 @@
       ],
       "last_seen": "2026-10-16T12:14:15.863420+00:00"
     },
+    "Hippocratic AI": {
+      "count": 1,
+      "job_ids": [
+        "5c8a5a489e66"
+      ],
+      "last_seen": "2026-10-17T03:53:16.972515+00:00"
+    },
     "Hunt St": {
       "count": 1,
       "job_ids": [
@@ -328,6 +335,13 @@
         "3212e83df92c"
       ],
       "last_seen": "2026-10-16T12:14:15.863420+00:00"
+    },
+    "Lemon.io": {
+      "count": 1,
+      "job_ids": [
+        "aaa1ec1c3d12"
+      ],
+      "last_seen": "2026-10-17T03:53:16.972515+00:00"
     },
     "Leverage Live Local": {
       "count": 1,
@@ -584,13 +598,6 @@
       ],
       "last_seen": "2026-10-16T23:22:52.600977+00:00"
     },
-    "The AI Whistleblower Initiative": {
-      "count": 1,
-      "job_ids": [
-        "916cd2848e14"
-      ],
-      "last_seen": "2026-10-14T01:43:12.374485+00:00"
-    },
     "Thyme Care": {
       "count": 1,
       "job_ids": [
@@ -648,12 +655,12 @@
       ],
       "last_seen": "2026-10-15T18:08:17.620859+00:00"
     },
-    "Vytalize Health": {
+    "Voltus": {
       "count": 1,
       "job_ids": [
-        "032d2b48d36d"
+        "b528fbd55b81"
       ],
-      "last_seen": "2026-10-14T01:43:12.374485+00:00"
+      "last_seen": "2026-10-17T03:53:16.972515+00:00"
     },
     "Workana": {
       "count": 1,
@@ -699,14 +706,13 @@
       "last_seen": "2026-10-16T16:07:22+00:00"
     },
     "iMerit Technology": {
-      "count": 3,
+      "count": 2,
       "job_ids": [
         "da80803711b4",
-        "a0b1d92a97dd",
-        "aad0d581511f"
+        "a0b1d92a97dd"
       ],
       "last_seen": "2026-10-15T18:08:17.620859+00:00"
     }
   },
-  "updated_at": "2026-10-16T23:22:52.600977+00:00"
+  "updated_at": "2026-10-17T03:53:16.972515+00:00"
 }
