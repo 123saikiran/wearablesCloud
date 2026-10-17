@@ -1,12 +1,5 @@
 {
   "companies": {
-    "AO Garcia Agency": {
-      "count": 1,
-      "job_ids": [
-        "4452658952e1"
-      ],
-      "last_seen": "2026-10-14T13:30:47.785359+00:00"
-    },
     "AWeber": {
       "count": 1,
       "job_ids": [
@@ -146,12 +139,12 @@
     "Crackr": {
       "count": 4,
       "job_ids": [
+        "b07836eb796a",
+        "130332433fb1",
         "24df049758d7",
-        "467cec82f65a",
-        "9999da0c94d2",
-        "871afdc86ab6"
+        "467cec82f65a"
       ],
-      "last_seen": "2026-10-16T15:00:16+00:00"
+      "last_seen": "2026-10-17T15:00:17+00:00"
     },
     "Craig Nicol (he/him)": {
       "count": 1,
@@ -301,13 +294,6 @@
       ],
       "last_seen": "2026-10-15T18:08:17.620859+00:00"
     },
-    "Huzzle": {
-      "count": 1,
-      "job_ids": [
-        "66144e0ce330"
-      ],
-      "last_seen": "2026-10-14T13:30:47.785359+00:00"
-    },
     "INNERGY": {
       "count": 1,
       "job_ids": [
@@ -328,6 +314,13 @@
         "3c4297a53702"
       ],
       "last_seen": "2026-10-16T23:22:52.600977+00:00"
+    },
+    "Kodland": {
+      "count": 1,
+      "job_ids": [
+        "e9b6ee41005c"
+      ],
+      "last_seen": "2026-10-17T16:15:26.314260+00:00"
     },
     "Kruger NearShore LLC - Rekluti": {
       "count": 1,
@@ -385,13 +378,6 @@
       ],
       "last_seen": "2026-10-16T01:05:05.657345+00:00"
     },
-    "Miaplaza": {
-      "count": 1,
-      "job_ids": [
-        "8ecf294a35da"
-      ],
-      "last_seen": "2026-10-14T13:30:47.785359+00:00"
-    },
     "Midnite": {
       "count": 1,
       "job_ids": [
@@ -412,13 +398,6 @@
         "99e1bd4c692e"
       ],
       "last_seen": "2026-10-16T23:22:52.600977+00:00"
-    },
-    "Mitul": {
-      "count": 1,
-      "job_ids": [
-        "56c918da2632"
-      ],
-      "last_seen": "2026-10-14T14:01:53+00:00"
     },
     "MultiplyMii": {
       "count": 1,
@@ -476,13 +455,6 @@
       ],
       "last_seen": "2026-10-16T12:14:15.863420+00:00"
     },
-    "Prenosis": {
-      "count": 1,
-      "job_ids": [
-        "e9064f4ba338"
-      ],
-      "last_seen": "2026-10-14T13:30:47.785359+00:00"
-    },
     "QuickMail": {
       "count": 1,
       "job_ids": [
@@ -532,20 +504,19 @@
       ],
       "last_seen": "2026-10-16T12:14:15.863420+00:00"
     },
+    "Self Bill Pro": {
+      "count": 1,
+      "job_ids": [
+        "ec7c8c22e735"
+      ],
+      "last_seen": "2026-10-17T16:15:26.314260+00:00"
+    },
     "Shapr3D": {
       "count": 1,
       "job_ids": [
         "22fdb8ef856c"
       ],
       "last_seen": "2026-10-16T12:14:15.863420+00:00"
-    },
-    "Siftwright Data": {
-      "count": 2,
-      "job_ids": [
-        "4f221c944de5",
-        "f5fe49d3d1fa"
-      ],
-      "last_seen": "2026-10-14T15:00:29+00:00"
     },
     "SimSpace Corporation": {
       "count": 1,
@@ -568,13 +539,6 @@
       ],
       "last_seen": "2026-10-16T12:14:15.863420+00:00"
     },
-    "Spiralyze": {
-      "count": 1,
-      "job_ids": [
-        "3ab349eb039c"
-      ],
-      "last_seen": "2026-10-14T13:30:47.785359+00:00"
-    },
     "Stone": {
       "count": 2,
       "job_ids": [
@@ -590,13 +554,6 @@
       ],
       "last_seen": "2026-10-16T23:22:52.600977+00:00"
     },
-    "Tether Operations Limited": {
-      "count": 1,
-      "job_ids": [
-        "c7c73fc0749f"
-      ],
-      "last_seen": "2026-10-14T13:30:47.785359+00:00"
-    },
     "Thatchers Cider": {
       "count": 1,
       "job_ids": [
@@ -610,13 +567,6 @@
         "916cd2848e14"
       ],
       "last_seen": "2026-10-17T08:26:29.187536+00:00"
-    },
-    "Thyme Care": {
-      "count": 1,
-      "job_ids": [
-        "957714a3e795"
-      ],
-      "last_seen": "2026-10-14T13:30:47.785359+00:00"
     },
     "Tierarzt Plus Partner": {
       "count": 1,
@@ -696,6 +646,13 @@
       ],
       "last_seen": "2026-10-16T17:15:36.702682+00:00"
     },
+    "Yopeso Romania SRL": {
+      "count": 1,
+      "job_ids": [
+        "7c5b7214fbe3"
+      ],
+      "last_seen": "2026-10-17T16:15:26.314260+00:00"
+    },
     "Zakaria Blefkih": {
       "count": 1,
       "job_ids": [
@@ -741,5 +698,5 @@
       "last_seen": "2026-10-17T10:10:44+00:00"
     }
   },
-  "updated_at": "2026-10-17T12:50:37.537792+00:00"
+  "updated_at": "2026-10-17T16:15:26.314260+00:00"
 }
