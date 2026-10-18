@@ -50,6 +50,13 @@
       ],
       "last_seen": "2026-10-16T12:14:15.863420+00:00"
     },
+    "Apryse": {
+      "count": 1,
+      "job_ids": [
+        "0a05b54e1ab8"
+      ],
+      "last_seen": "2026-10-18T10:44:34.091192+00:00"
+    },
     "Arabian Private Holdings": {
       "count": 1,
       "job_ids": [
@@ -174,12 +181,12 @@
       ],
       "last_seen": "2026-10-16T12:14:15.863420+00:00"
     },
-    "DEUNA": {
+    "Curtins": {
       "count": 1,
       "job_ids": [
-        "d41d890b3209"
+        "a9bc7b93a4c3"
       ],
-      "last_seen": "2026-10-15T07:12:33.616075+00:00"
+      "last_seen": "2026-10-18T10:44:34.091192+00:00"
     },
     "Delinea": {
       "count": 2,
@@ -462,6 +469,13 @@
       ],
       "last_seen": "2026-10-16T12:14:15.863420+00:00"
     },
+    "Packmatic GmbH": {
+      "count": 1,
+      "job_ids": [
+        "049b40de90a9"
+      ],
+      "last_seen": "2026-10-18T10:44:34.091192+00:00"
+    },
     "Physical Superintelligence": {
       "count": 1,
       "job_ids": [
@@ -625,6 +639,13 @@
       ],
       "last_seen": "2026-10-17T19:08:53.730358+00:00"
     },
+    "Tierarzt Plus Partner": {
+      "count": 1,
+      "job_ids": [
+        "af126e4346b4"
+      ],
+      "last_seen": "2026-10-18T10:44:34.091192+00:00"
+    },
     "Toptal": {
       "count": 2,
       "job_ids": [
@@ -654,13 +675,6 @@
       ],
       "last_seen": "2026-10-16T12:14:15.863420+00:00"
     },
-    "Ultimate Marketing": {
-      "count": 1,
-      "job_ids": [
-        "7f94e9d691d1"
-      ],
-      "last_seen": "2026-10-15T07:12:33.616075+00:00"
-    },
     "Utopia": {
       "count": 1,
       "job_ids": [
@@ -682,6 +696,13 @@
       ],
       "last_seen": "2026-10-17T08:26:29.187536+00:00"
     },
+    "Workana": {
+      "count": 1,
+      "job_ids": [
+        "9b41c1eeebc9"
+      ],
+      "last_seen": "2026-10-18T10:44:34.091192+00:00"
+    },
     "Wrapbook": {
       "count": 1,
       "job_ids": [
@@ -696,12 +717,26 @@
       ],
       "last_seen": "2026-10-17T16:15:26.314260+00:00"
     },
+    "Yuno": {
+      "count": 1,
+      "job_ids": [
+        "12ad4547ea1d"
+      ],
+      "last_seen": "2026-10-18T10:44:34.091192+00:00"
+    },
     "Zakaria Blefkih": {
       "count": 1,
       "job_ids": [
         "23560b88e722"
       ],
       "last_seen": "2026-10-16T16:16:14+00:00"
+    },
+    "eClinical Solutions": {
+      "count": 1,
+      "job_ids": [
+        "24895f61f51e"
+      ],
+      "last_seen": "2026-10-18T10:44:34.091192+00:00"
     },
     "hiver": {
       "count": 1,
@@ -726,5 +761,5 @@
       "last_seen": "2026-10-17T10:10:44+00:00"
     }
   },
-  "updated_at": "2026-10-18T05:37:16.425339+00:00"
+  "updated_at": "2026-10-18T10:44:34.091192+00:00"
 }
