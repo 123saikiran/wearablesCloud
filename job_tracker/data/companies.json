@@ -625,14 +625,6 @@
       ],
       "last_seen": "2026-10-15T01:19:47.507031+00:00"
     },
-    "Toptal": {
-      "count": 2,
-      "job_ids": [
-        "c53e67d7e3a5",
-        "756fdf8dcb2c"
-      ],
-      "last_seen": "2026-10-14T22:09:25.274840+00:00"
-    },
     "Transportation Partners &amp; Logistics": {
       "count": 1,
       "job_ids": [
@@ -718,18 +710,16 @@
       "last_seen": "2026-10-15T01:19:47.507031+00:00"
     },
     "hiver": {
-      "count": 2,
+      "count": 1,
       "job_ids": [
-        "36766b31c1aa",
-        "47d0a8d3e01b"
+        "36766b31c1aa"
       ],
       "last_seen": "2026-10-16T16:07:22+00:00"
     },
     "iMerit Technology": {
-      "count": 2,
+      "count": 1,
       "job_ids": [
-        "da80803711b4",
-        "a0b1d92a97dd"
+        "da80803711b4"
       ],
       "last_seen": "2026-10-15T18:08:17.620859+00:00"
     },
@@ -741,5 +731,5 @@
       "last_seen": "2026-10-17T10:10:44+00:00"
     }
   },
-  "updated_at": "2026-10-17T22:05:48.272381+00:00"
+  "updated_at": "2026-10-18T00:46:19.016981+00:00"
 }
