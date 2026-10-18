@@ -1,6 +1,38 @@
 {
   "jobs": [
     {
+      "company": "Crackr",
+      "fetched_at": "2026-10-18T17:56:06.592643+00:00",
+      "id": "ee4b7e3e8706",
+      "location": "Remote",
+      "posted_at": "2026-10-18T15:00:16+00:00",
+      "source": "devto",
+      "tags": [
+        "beginners",
+        "jobs",
+        "career",
+        "programming"
+      ],
+      "title": "Summer 2026 Internships: 8 New Openings This Week (Oct 18)",
+      "url": "https://dev.to/crackr/summer-2026-internships-8-new-openings-this-week-oct-18-5gd4"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-10-18T17:56:06.592643+00:00",
+      "id": "f605c71834cd",
+      "location": "Remote",
+      "posted_at": "2026-10-18T15:00:13+00:00",
+      "source": "devto",
+      "tags": [
+        "remotework",
+        "jobs",
+        "webdev",
+        "career"
+      ],
+      "title": "Remote SWE Jobs Paying Up to $220k (Oct 18)",
+      "url": "https://dev.to/crackr/remote-swe-jobs-paying-up-to-220k-oct-18-56jj"
+    },
+    {
       "company": "Ultimate Marketing",
       "fetched_at": "2026-10-18T14:24:30.297579+00:00",
       "id": "7f94e9d691d1",
@@ -2742,5 +2774,5 @@
       "url": "https://remoteOK.com/remote-jobs/remote-senior-communications-officer-strategic-communications-givewell-1137379"
     }
   ],
-  "updated_at": "2026-10-18T14:24:30.297579+00:00"
+  "updated_at": "2026-10-18T17:56:06.592643+00:00"
 }
