@@ -50,13 +50,6 @@
       ],
       "last_seen": "2026-10-18T10:44:34.091192+00:00"
     },
-    "Arango": {
-      "count": 1,
-      "job_ids": [
-        "0bad7d05c1cb"
-      ],
-      "last_seen": "2026-10-17T12:50:37.537792+00:00"
-    },
     "Arthur Silva": {
       "count": 1,
       "job_ids": [
@@ -93,11 +86,9 @@
       "last_seen": "2026-10-20T05:47:40.300185+00:00"
     },
     "Bjak": {
-      "count": 3,
+      "count": 1,
       "job_ids": [
-        "5eefc2524a45",
-        "578e1bcc6323",
-        "22294040f070"
+        "5eefc2524a45"
       ],
       "last_seen": "2026-10-20T05:47:40.300185+00:00"
     },
@@ -107,6 +98,13 @@
         "63695c1ba827"
       ],
       "last_seen": "2026-10-20T05:47:40.300185+00:00"
+    },
+    "BlueTuskr": {
+      "count": 1,
+      "job_ids": [
+        "3a2208cf5efe"
+      ],
+      "last_seen": "2026-10-20T16:39:40.238870+00:00"
     },
     "Bybit": {
       "count": 1,
@@ -132,14 +130,14 @@
     "Crackr": {
       "count": 6,
       "job_ids": [
+        "e7bc204ee3da",
+        "63bed6abdfba",
         "c7b4bee235df",
         "43d99ea3d106",
         "ee4b7e3e8706",
-        "f605c71834cd",
-        "b07836eb796a",
-        "130332433fb1"
+        "f605c71834cd"
       ],
-      "last_seen": "2026-10-19T15:00:17+00:00"
+      "last_seen": "2026-10-20T15:00:17+00:00"
     },
     "Crystalia Glass LLC": {
       "count": 1,
@@ -240,6 +238,13 @@
       ],
       "last_seen": "2026-10-18T22:55:19.782005+00:00"
     },
+    "Gleanery Works": {
+      "count": 1,
+      "job_ids": [
+        "4e681e810063"
+      ],
+      "last_seen": "2026-10-20T12:45:53+00:00"
+    },
     "Harbor": {
       "count": 1,
       "job_ids": [
@@ -274,13 +279,6 @@
         "66144e0ce330"
       ],
       "last_seen": "2026-10-17T19:08:53.730358+00:00"
-    },
-    "Kodland": {
-      "count": 1,
-      "job_ids": [
-        "e9b6ee41005c"
-      ],
-      "last_seen": "2026-10-17T16:15:26.314260+00:00"
     },
     "Kruger NearShore LLC - Rekluti": {
       "count": 1,
@@ -366,6 +364,13 @@
       ],
       "last_seen": "2026-10-20T05:47:40.300185+00:00"
     },
+    "Mitul": {
+      "count": 1,
+      "job_ids": [
+        "0bd739e19d3d"
+      ],
+      "last_seen": "2026-10-20T14:08:05+00:00"
+    },
     "Mohamed Zaghloul": {
       "count": 1,
       "job_ids": [
@@ -386,13 +391,6 @@
         "2108aacaa944"
       ],
       "last_seen": "2026-10-19T20:28:52.832783+00:00"
-    },
-    "OkWhen": {
-      "count": 1,
-      "job_ids": [
-        "aafea233ce0d"
-      ],
-      "last_seen": "2026-10-17T12:50:37.537792+00:00"
     },
     "Omega Enterprises": {
       "count": 1,
@@ -464,13 +462,6 @@
       ],
       "last_seen": "2026-10-20T05:47:40.300185+00:00"
     },
-    "SIHO Insurance Services": {
-      "count": 1,
-      "job_ids": [
-        "a3c6466c8e30"
-      ],
-      "last_seen": "2026-10-17T12:50:37.537792+00:00"
-    },
     "SLB": {
       "count": 1,
       "job_ids": [
@@ -491,13 +482,6 @@
         "69bcdb70f227"
       ],
       "last_seen": "2026-10-17T19:08:53.730358+00:00"
-    },
-    "Self Bill Pro": {
-      "count": 1,
-      "job_ids": [
-        "ec7c8c22e735"
-      ],
-      "last_seen": "2026-10-17T16:15:26.314260+00:00"
     },
     "Siftwright Data": {
       "count": 1,
@@ -542,6 +526,13 @@
       ],
       "last_seen": "2026-10-19T20:28:52.832783+00:00"
     },
+    "SupportYourApp": {
+      "count": 1,
+      "job_ids": [
+        "e32c3c27e0b4"
+      ],
+      "last_seen": "2026-10-20T16:39:40.238870+00:00"
+    },
     "Tessera Labs": {
       "count": 1,
       "job_ids": [
@@ -562,6 +553,13 @@
         "4a59a86ff633"
       ],
       "last_seen": "2026-10-20T05:47:40.300185+00:00"
+    },
+    "The AI Whistleblower Initiative": {
+      "count": 1,
+      "job_ids": [
+        "916cd2848e14"
+      ],
+      "last_seen": "2026-10-20T16:39:40.238870+00:00"
     },
     "Thyme Care": {
       "count": 1,
@@ -620,6 +618,13 @@
       ],
       "last_seen": "2026-10-20T11:15:11.841984+00:00"
     },
+    "Vytalize Health": {
+      "count": 1,
+      "job_ids": [
+        "032d2b48d36d"
+      ],
+      "last_seen": "2026-10-20T16:39:40.238870+00:00"
+    },
     "Workana": {
       "count": 1,
       "job_ids": [
@@ -633,13 +638,6 @@
         "7184f678691f"
       ],
       "last_seen": "2026-10-20T00:11:12.596673+00:00"
-    },
-    "Yopeso Romania SRL": {
-      "count": 1,
-      "job_ids": [
-        "7c5b7214fbe3"
-      ],
-      "last_seen": "2026-10-17T16:15:26.314260+00:00"
     },
     "Yuno": {
       "count": 1,
@@ -669,7 +667,14 @@
         "a0b1d92a97dd"
       ],
       "last_seen": "2026-10-18T22:55:19.782005+00:00"
+    },
+    "nahueDev": {
+      "count": 1,
+      "job_ids": [
+        "0bb8336a2cec"
+      ],
+      "last_seen": "2026-10-20T14:06:47+00:00"
     }
   },
-  "updated_at": "2026-10-20T11:15:11.841984+00:00"
+  "updated_at": "2026-10-20T16:39:40.238870+00:00"
 }

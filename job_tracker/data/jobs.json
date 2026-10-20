@@ -1,6 +1,189 @@
 {
   "jobs": [
     {
+      "company": "SupportYourApp",
+      "fetched_at": "2026-10-20T16:39:40.238870+00:00",
+      "id": "e32c3c27e0b4",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "consulting",
+        "customer support",
+        "saas",
+        "infosec",
+        "technical",
+        "dev",
+        "travel",
+        "exec",
+        "medical",
+        "digital nomad"
+      ],
+      "title": "Customer Support Consultant hospitality",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-consultant-hospitality-supportyourapp-1137547"
+    },
+    {
+      "company": "Vytalize Health",
+      "fetched_at": "2026-10-20T16:39:40.238870+00:00",
+      "id": "032d2b48d36d",
+      "location": "Kansas",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "dev",
+        "design",
+        "infosec",
+        "python",
+        "docker",
+        "technical",
+        "recruiter",
+        "customer support",
+        "testing",
+        "marketing",
+        "quality assurance",
+        "finance",
+        "java",
+        "c",
+        "cloud",
+        "api",
+        "exec",
+        "content writing",
+        "senior",
+        "ops",
+        "stats",
+        "sys admin",
+        "golang",
+        "medical",
+        "engineer",
+        "backend",
+        "digital nomad"
+      ],
+      "title": "Principal Software Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-principal-software-engineer-vytalize-health-1137508"
+    },
+    {
+      "company": "BlueTuskr",
+      "fetched_at": "2026-10-20T16:39:40.238870+00:00",
+      "id": "3a2208cf5efe",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "design",
+        "designer",
+        "customer support",
+        "testing",
+        "marketing",
+        "web dev",
+        "video",
+        "mobile",
+        "photoshop",
+        "stats",
+        "sales",
+        "illustrator",
+        "ecommerce",
+        "shopify",
+        "part time",
+        "digital nomad"
+      ],
+      "title": "Graphic Designer & Video Editor",
+      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-video-editor-bluetuskr-1137507"
+    },
+    {
+      "company": "The AI Whistleblower Initiative",
+      "fetched_at": "2026-10-20T16:39:40.238870+00:00",
+      "id": "916cd2848e14",
+      "location": "Remote",
+      "posted_at": null,
+      "source": "remoteok",
+      "tags": [
+        "golang",
+        "engineer"
+      ],
+      "title": "Principal Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-principal-engineer-the-ai-whistleblower-initiative-1137162"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-10-20T16:39:40.238870+00:00",
+      "id": "e7bc204ee3da",
+      "location": "Remote",
+      "posted_at": "2026-10-20T15:00:17+00:00",
+      "source": "devto",
+      "tags": [
+        "beginners",
+        "jobs",
+        "career",
+        "programming"
+      ],
+      "title": "Where to Find Tech Internships This Summer (Oct 20)",
+      "url": "https://dev.to/crackr/where-to-find-tech-internships-this-summer-oct-20-5a5d"
+    },
+    {
+      "company": "Crackr",
+      "fetched_at": "2026-10-20T16:39:40.238870+00:00",
+      "id": "63bed6abdfba",
+      "location": "Remote",
+      "posted_at": "2026-10-20T15:00:13+00:00",
+      "source": "devto",
+      "tags": [
+        "remotework",
+        "jobs",
+        "webdev",
+        "career"
+      ],
+      "title": "Senior Remote SWE Roles Hiring Now - 4 Pay $150k+ (Oct 20)",
+      "url": "https://dev.to/crackr/senior-remote-swe-roles-hiring-now-4-pay-150k-oct-20-gkg"
+    },
+    {
+      "company": "Mitul",
+      "fetched_at": "2026-10-20T16:39:40.238870+00:00",
+      "id": "0bd739e19d3d",
+      "location": "Remote",
+      "posted_at": "2026-10-20T14:08:05+00:00",
+      "source": "devto",
+      "tags": [
+        "career",
+        "resume",
+        "jobs",
+        "productivity"
+      ],
+      "title": "Job hunting while employed and short on time",
+      "url": "https://dev.to/mitulgelani/job-hunting-while-employed-and-short-on-time-4855"
+    },
+    {
+      "company": "nahueDev",
+      "fetched_at": "2026-10-20T16:39:40.238870+00:00",
+      "id": "0bb8336a2cec",
+      "location": "Remote",
+      "posted_at": "2026-10-20T14:06:47+00:00",
+      "source": "devto",
+      "tags": [
+        "webscraping",
+        "api",
+        "automation",
+        "jobs"
+      ],
+      "title": "How to Scrape Google Jobs in 2026 (Salaries + Direct Apply Links, No Code)",
+      "url": "https://dev.to/nahuedev_dd1399259f8fc4f2/how-to-scrape-google-jobs-in-2026-salaries-direct-apply-links-no-code-jh6"
+    },
+    {
+      "company": "Gleanery Works",
+      "fetched_at": "2026-10-20T16:39:40.238870+00:00",
+      "id": "4e681e810063",
+      "location": "Remote",
+      "posted_at": "2026-10-20T12:45:53+00:00",
+      "source": "devto",
+      "tags": [
+        "python",
+        "api",
+        "webscraping",
+        "jobs"
+      ],
+      "title": "Get every open job from Greenhouse, Lever and Ashby in 40 lines of Python",
+      "url": "https://dev.to/gleaneryworks/get-every-open-job-from-greenhouse-lever-and-ashby-in-40-lines-of-python-5fdg"
+    },
+    {
       "company": "AlgaeCal",
       "fetched_at": "2026-10-20T11:15:11.841984+00:00",
       "id": "a90696ce9d9a",
@@ -2008,234 +2191,7 @@
       ],
       "title": "Software Engineer",
       "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-prenosis-1137427"
-    },
-    {
-      "company": "Self Bill Pro",
-      "fetched_at": "2026-10-17T16:15:26.314260+00:00",
-      "id": "ec7c8c22e735",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "product manager",
-        "exec",
-        "infosec",
-        "technical",
-        "customer support",
-        "dev",
-        "testing",
-        "ops",
-        "digital nomad"
-      ],
-      "title": "Director of Product Management and IT Operations",
-      "url": "https://remoteOK.com/remote-jobs/remote-director-of-product-management-and-it-operations-self-bill-pro-1137536"
-    },
-    {
-      "company": "Yopeso Romania SRL",
-      "fetched_at": "2026-10-17T16:15:26.314260+00:00",
-      "id": "7c5b7214fbe3",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "consulting",
-        "design",
-        "technical",
-        "customer support",
-        "dev",
-        "testing",
-        "marketing",
-        "exec",
-        "part time",
-        "digital nomad"
-      ],
-      "title": "SAP RE FX Consultant",
-      "url": "https://remoteOK.com/remote-jobs/remote-sap-re-fx-consultant-yopeso-romania-srl-1137535"
-    },
-    {
-      "company": "Kodland",
-      "fetched_at": "2026-10-17T16:15:26.314260+00:00",
-      "id": "e9b6ee41005c",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "python",
-        "teaching",
-        "education",
-        "customer support",
-        "dev",
-        "testing",
-        "part time",
-        "non tech",
-        "digital nomad"
-      ],
-      "title": "APAC Python",
-      "url": "https://remoteOK.com/remote-jobs/remote-apac-python-kodland-1137534"
-    },
-    {
-      "company": "Crackr",
-      "fetched_at": "2026-10-17T16:15:26.314260+00:00",
-      "id": "b07836eb796a",
-      "location": "Remote",
-      "posted_at": "2026-10-17T15:00:17+00:00",
-      "source": "devto",
-      "tags": [
-        "beginners",
-        "jobs",
-        "career",
-        "programming"
-      ],
-      "title": "Where to Find Tech Internships This Summer (Oct 17)",
-      "url": "https://dev.to/crackr/where-to-find-tech-internships-this-summer-oct-17-51p1"
-    },
-    {
-      "company": "Crackr",
-      "fetched_at": "2026-10-17T16:15:26.314260+00:00",
-      "id": "130332433fb1",
-      "location": "Remote",
-      "posted_at": "2026-10-17T15:00:13+00:00",
-      "source": "devto",
-      "tags": [
-        "remotework",
-        "jobs",
-        "webdev",
-        "career"
-      ],
-      "title": "Senior Remote SWE Roles Hiring Now - 5 Pay $150k+ (Oct 17)",
-      "url": "https://dev.to/crackr/senior-remote-swe-roles-hiring-now-5-pay-150k-oct-17-5229"
-    },
-    {
-      "company": "SIHO Insurance Services",
-      "fetched_at": "2026-10-17T12:50:37.537792+00:00",
-      "id": "a3c6466c8e30",
-      "location": "SIHO - Columbus, IN",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "exec",
-        "sys admin",
-        "education",
-        "supervisor",
-        "customer support",
-        "quality assurance",
-        "c",
-        "microsoft",
-        "ops",
-        "excel",
-        "legal",
-        "medical"
-      ],
-      "title": "Director Payment Integrity",
-      "url": "https://remoteOK.com/remote-jobs/remote-director-payment-integrity-siho-insurance-services-1137434"
-    },
-    {
-      "company": "Bjak",
-      "fetched_at": "2026-10-17T12:50:37.537792+00:00",
-      "id": "578e1bcc6323",
-      "location": "Germany",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "product manager",
-        "exec",
-        "design",
-        "sys admin",
-        "infosec",
-        "technical",
-        "finance",
-        "ruby",
-        "mobile",
-        "ops",
-        "engineer",
-        "digital nomad"
-      ],
-      "title": "Technical Product Manager AI Stockbroking App",
-      "url": "https://remoteOK.com/remote-jobs/remote-technical-product-manager-ai-stockbroking-app-bjak-1137421"
-    },
-    {
-      "company": "OkWhen",
-      "fetched_at": "2026-10-17T12:50:37.537792+00:00",
-      "id": "aafea233ce0d",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "dev",
-        "design",
-        "c sharp",
-        "saas",
-        "sys admin",
-        "infosec",
-        "education",
-        "technical",
-        "testing",
-        "web dev",
-        "xamarin",
-        "c",
-        "cloud",
-        "git",
-        "typescript",
-        "angular",
-        "mobile",
-        "exec",
-        "content writing",
-        "senior",
-        "ops",
-        "medical",
-        "engineer",
-        "backend",
-        "digital nomad"
-      ],
-      "title": "Senior .NET Software Engineer",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-net-software-engineer-okwhen-1137411"
-    },
-    {
-      "company": "Bjak",
-      "fetched_at": "2026-10-17T12:50:37.537792+00:00",
-      "id": "22294040f070",
-      "location": "Ireland",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "front end",
-        "design",
-        "react",
-        "graphql",
-        "react.js",
-        "technical",
-        "web dev",
-        "javascript",
-        "css",
-        "chatbot",
-        "html",
-        "typescript",
-        "node",
-        "node.js",
-        "exec",
-        "sys admin",
-        "engineer",
-        "backend",
-        "digital nomad"
-      ],
-      "title": "Frontend Engineer",
-      "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410"
-    },
-    {
-      "company": "Arango",
-      "fetched_at": "2026-10-17T12:50:37.537792+00:00",
-      "id": "0bad7d05c1cb",
-      "location": "Remote",
-      "posted_at": null,
-      "source": "remoteok",
-      "tags": [
-        "golang",
-        "golang",
-        "engineer"
-      ],
-      "title": "Golang Kubernetes Engineer",
-      "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400"
     }
   ],
-  "updated_at": "2026-10-20T11:15:11.841984+00:00"
+  "updated_at": "2026-10-20T16:39:40.238870+00:00"
 }
