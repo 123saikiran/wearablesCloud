@@ -1,5 +1,12 @@
 {
   "companies": {
+    "AO Garcia Agency": {
+      "count": 1,
+      "job_ids": [
+        "4452658952e1"
+      ],
+      "last_seen": "2026-10-20T23:42:53.657042+00:00"
+    },
     "Ace IT Careers": {
       "count": 1,
       "job_ids": [
@@ -170,26 +177,12 @@
       ],
       "last_seen": "2026-10-20T05:47:40.300185+00:00"
     },
-    "DoiT": {
-      "count": 1,
-      "job_ids": [
-        "55ad3d8aceec"
-      ],
-      "last_seen": "2026-10-17T22:05:48.272381+00:00"
-    },
     "Dreem Health": {
       "count": 1,
       "job_ids": [
         "8ff5ff432a8f"
       ],
       "last_seen": "2026-10-19T20:28:52.832783+00:00"
-    },
-    "EDETEK": {
-      "count": 1,
-      "job_ids": [
-        "4ce4b6ee1d34"
-      ],
-      "last_seen": "2026-10-17T22:05:48.272381+00:00"
     },
     "Engine": {
       "count": 1,
@@ -275,6 +268,13 @@
       ],
       "last_seen": "2026-10-18T22:55:19.782005+00:00"
     },
+    "Huzzle": {
+      "count": 1,
+      "job_ids": [
+        "66144e0ce330"
+      ],
+      "last_seen": "2026-10-20T23:42:53.657042+00:00"
+    },
     "Kodland": {
       "count": 1,
       "job_ids": [
@@ -303,13 +303,6 @@
       ],
       "last_seen": "2026-10-20T11:15:11.841984+00:00"
     },
-    "Leverage Live Local": {
-      "count": 1,
-      "job_ids": [
-        "2584703aae88"
-      ],
-      "last_seen": "2026-10-17T22:05:48.272381+00:00"
-    },
     "Libertex Group": {
       "count": 1,
       "job_ids": [
@@ -337,6 +330,13 @@
         "c4f2e1b28841"
       ],
       "last_seen": "2026-10-19T14:30:39.454378+00:00"
+    },
+    "Miaplaza": {
+      "count": 1,
+      "job_ids": [
+        "8ecf294a35da"
+      ],
+      "last_seen": "2026-10-20T23:42:53.657042+00:00"
     },
     "Midnite": {
       "count": 1,
@@ -436,6 +436,13 @@
       ],
       "last_seen": "2026-10-19T20:28:52.832783+00:00"
     },
+    "Prenosis": {
+      "count": 1,
+      "job_ids": [
+        "e9064f4ba338"
+      ],
+      "last_seen": "2026-10-20T23:42:53.657042+00:00"
+    },
     "QuickMail": {
       "count": 1,
       "job_ids": [
@@ -478,6 +485,13 @@
       ],
       "last_seen": "2026-10-19T20:28:52.832783+00:00"
     },
+    "Sanctuary Computer": {
+      "count": 1,
+      "job_ids": [
+        "69bcdb70f227"
+      ],
+      "last_seen": "2026-10-20T23:42:53.657042+00:00"
+    },
     "Self Bill Pro": {
       "count": 1,
       "job_ids": [
@@ -513,6 +527,13 @@
       ],
       "last_seen": "2026-10-19T20:28:52.832783+00:00"
     },
+    "Spiralyze": {
+      "count": 1,
+      "job_ids": [
+        "3ab349eb039c"
+      ],
+      "last_seen": "2026-10-20T23:42:53.657042+00:00"
+    },
     "Stone": {
       "count": 2,
       "job_ids": [
@@ -535,6 +556,13 @@
       ],
       "last_seen": "2026-10-20T05:47:40.300185+00:00"
     },
+    "Tether Operations Limited": {
+      "count": 1,
+      "job_ids": [
+        "c7c73fc0749f"
+      ],
+      "last_seen": "2026-10-20T23:42:53.657042+00:00"
+    },
     "Thatchers Cider": {
       "count": 1,
       "job_ids": [
@@ -548,6 +576,13 @@
         "916cd2848e14"
       ],
       "last_seen": "2026-10-20T16:39:40.238870+00:00"
+    },
+    "Thyme Care": {
+      "count": 1,
+      "job_ids": [
+        "957714a3e795"
+      ],
+      "last_seen": "2026-10-20T23:42:53.657042+00:00"
     },
     "Tierarzt Plus Partner": {
       "count": 1,
@@ -664,5 +699,5 @@
       "last_seen": "2026-10-20T14:06:47+00:00"
     }
   },
-  "updated_at": "2026-10-20T20:22:03.407633+00:00"
+  "updated_at": "2026-10-20T23:42:53.657042+00:00"
 }
