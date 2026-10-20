@@ -22,13 +22,6 @@
       ],
       "last_seen": "2026-10-19T14:30:39.454378+00:00"
     },
-    "AlgaeCal": {
-      "count": 1,
-      "job_ids": [
-        "a90696ce9d9a"
-      ],
-      "last_seen": "2026-10-17T03:53:16.972515+00:00"
-    },
     "Allego": {
       "count": 1,
       "job_ids": [
@@ -85,13 +78,28 @@
       ],
       "last_seen": "2026-10-19T20:28:52.832783+00:00"
     },
-    "Bjak": {
-      "count": 2,
+    "Benzinga": {
+      "count": 1,
       "job_ids": [
+        "08991bb5dd0b"
+      ],
+      "last_seen": "2026-10-20T05:47:40.300185+00:00"
+    },
+    "Bjak": {
+      "count": 3,
+      "job_ids": [
+        "5eefc2524a45",
         "578e1bcc6323",
         "22294040f070"
       ],
-      "last_seen": "2026-10-17T12:50:37.537792+00:00"
+      "last_seen": "2026-10-20T05:47:40.300185+00:00"
+    },
+    "Blackbird Interactive": {
+      "count": 1,
+      "job_ids": [
+        "63695c1ba827"
+      ],
+      "last_seen": "2026-10-20T05:47:40.300185+00:00"
     },
     "BlueTuskr": {
       "count": 1,
@@ -155,11 +163,12 @@
       "last_seen": "2026-10-18T14:24:30.297579+00:00"
     },
     "Delinea": {
-      "count": 1,
+      "count": 2,
       "job_ids": [
+        "5dc626541a14",
         "ec0ec3dc6073"
       ],
-      "last_seen": "2026-10-19T20:28:52.832783+00:00"
+      "last_seen": "2026-10-20T05:47:40.300185+00:00"
     },
     "DoiT": {
       "count": 1,
@@ -189,6 +198,13 @@
       ],
       "last_seen": "2026-10-19T20:28:52.832783+00:00"
     },
+    "Evolve": {
+      "count": 1,
+      "job_ids": [
+        "79397a0b4c1e"
+      ],
+      "last_seen": "2026-10-20T05:47:40.300185+00:00"
+    },
     "ExtraHop": {
       "count": 1,
       "job_ids": [
@@ -210,6 +226,13 @@
       ],
       "last_seen": "2026-10-19T20:28:52.832783+00:00"
     },
+    "Fuel50": {
+      "count": 1,
+      "job_ids": [
+        "1259f006dacd"
+      ],
+      "last_seen": "2026-10-20T05:47:40.300185+00:00"
+    },
     "GiveWell": {
       "count": 1,
       "job_ids": [
@@ -230,13 +253,6 @@
         "2be7fb2c7d99"
       ],
       "last_seen": "2026-10-19T20:28:52.832783+00:00"
-    },
-    "Hippocratic AI": {
-      "count": 1,
-      "job_ids": [
-        "5c8a5a489e66"
-      ],
-      "last_seen": "2026-10-17T03:53:16.972515+00:00"
     },
     "Hunt St": {
       "count": 1,
@@ -273,19 +289,19 @@
       ],
       "last_seen": "2026-10-19T20:28:52.832783+00:00"
     },
-    "Lemon.io": {
-      "count": 1,
-      "job_ids": [
-        "aaa1ec1c3d12"
-      ],
-      "last_seen": "2026-10-17T03:53:16.972515+00:00"
-    },
     "Leverage Live Local": {
       "count": 1,
       "job_ids": [
         "2584703aae88"
       ],
       "last_seen": "2026-10-17T22:05:48.272381+00:00"
+    },
+    "Libertex Group": {
+      "count": 1,
+      "job_ids": [
+        "13adf68b920b"
+      ],
+      "last_seen": "2026-10-20T05:47:40.300185+00:00"
     },
     "Magic Eden": {
       "count": 1,
@@ -329,6 +345,13 @@
       ],
       "last_seen": "2026-10-20T00:11:12.596673+00:00"
     },
+    "Mirantis": {
+      "count": 1,
+      "job_ids": [
+        "99e1bd4c692e"
+      ],
+      "last_seen": "2026-10-20T05:47:40.300185+00:00"
+    },
     "Mohamed Zaghloul": {
       "count": 1,
       "job_ids": [
@@ -356,6 +379,13 @@
         "aafea233ce0d"
       ],
       "last_seen": "2026-10-17T12:50:37.537792+00:00"
+    },
+    "Omega Enterprises": {
+      "count": 1,
+      "job_ids": [
+        "f27fd8c61f4a"
+      ],
+      "last_seen": "2026-10-20T05:47:40.300185+00:00"
     },
     "Orca Bio": {
       "count": 1,
@@ -399,12 +429,26 @@
       ],
       "last_seen": "2026-10-17T19:08:53.730358+00:00"
     },
+    "QuickMail": {
+      "count": 1,
+      "job_ids": [
+        "ff781a9183f8"
+      ],
+      "last_seen": "2026-10-20T05:47:40.300185+00:00"
+    },
     "Rain": {
       "count": 1,
       "job_ids": [
         "ea6d0f0ddd3e"
       ],
       "last_seen": "2026-10-19T20:28:52.832783+00:00"
+    },
+    "RedMimicry": {
+      "count": 1,
+      "job_ids": [
+        "f72500a20c52"
+      ],
+      "last_seen": "2026-10-20T05:47:40.300185+00:00"
     },
     "SIHO Insurance Services": {
       "count": 1,
@@ -484,12 +528,26 @@
       ],
       "last_seen": "2026-10-19T20:28:52.832783+00:00"
     },
+    "Tessera Labs": {
+      "count": 1,
+      "job_ids": [
+        "f18c1fd14d71"
+      ],
+      "last_seen": "2026-10-20T05:47:40.300185+00:00"
+    },
     "Tether Operations Limited": {
       "count": 1,
       "job_ids": [
         "c7c73fc0749f"
       ],
       "last_seen": "2026-10-17T19:08:53.730358+00:00"
+    },
+    "Thatchers Cider": {
+      "count": 1,
+      "job_ids": [
+        "4a59a86ff633"
+      ],
+      "last_seen": "2026-10-20T05:47:40.300185+00:00"
     },
     "The AI Whistleblower Initiative": {
       "count": 1,
@@ -547,13 +605,6 @@
         "063b321c679e"
       ],
       "last_seen": "2026-10-18T22:55:19.782005+00:00"
-    },
-    "Voltus": {
-      "count": 1,
-      "job_ids": [
-        "b528fbd55b81"
-      ],
-      "last_seen": "2026-10-17T03:53:16.972515+00:00"
     },
     "Vytalize Health": {
       "count": 1,
@@ -613,5 +664,5 @@
       "last_seen": "2026-10-17T10:10:44+00:00"
     }
   },
-  "updated_at": "2026-10-20T00:11:12.596673+00:00"
+  "updated_at": "2026-10-20T05:47:40.300185+00:00"
 }
