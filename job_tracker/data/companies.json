@@ -1,12 +1,5 @@
 {
   "companies": {
-    "AO Garcia Agency": {
-      "count": 1,
-      "job_ids": [
-        "4452658952e1"
-      ],
-      "last_seen": "2026-10-17T19:08:53.730358+00:00"
-    },
     "Ace IT Careers": {
       "count": 1,
       "job_ids": [
@@ -50,6 +43,13 @@
       ],
       "last_seen": "2026-10-18T10:44:34.091192+00:00"
     },
+    "Arango": {
+      "count": 1,
+      "job_ids": [
+        "0bad7d05c1cb"
+      ],
+      "last_seen": "2026-10-20T20:22:03.407633+00:00"
+    },
     "Arthur Silva": {
       "count": 1,
       "job_ids": [
@@ -86,11 +86,13 @@
       "last_seen": "2026-10-20T05:47:40.300185+00:00"
     },
     "Bjak": {
-      "count": 1,
+      "count": 3,
       "job_ids": [
+        "578e1bcc6323",
+        "22294040f070",
         "5eefc2524a45"
       ],
-      "last_seen": "2026-10-20T05:47:40.300185+00:00"
+      "last_seen": "2026-10-20T20:22:03.407633+00:00"
     },
     "Blackbird Interactive": {
       "count": 1,
@@ -273,12 +275,12 @@
       ],
       "last_seen": "2026-10-18T22:55:19.782005+00:00"
     },
-    "Huzzle": {
+    "Kodland": {
       "count": 1,
       "job_ids": [
-        "66144e0ce330"
+        "e9b6ee41005c"
       ],
-      "last_seen": "2026-10-17T19:08:53.730358+00:00"
+      "last_seen": "2026-10-20T20:22:03.407633+00:00"
     },
     "Kruger NearShore LLC - Rekluti": {
       "count": 1,
@@ -336,13 +338,6 @@
       ],
       "last_seen": "2026-10-19T14:30:39.454378+00:00"
     },
-    "Miaplaza": {
-      "count": 1,
-      "job_ids": [
-        "8ecf294a35da"
-      ],
-      "last_seen": "2026-10-17T19:08:53.730358+00:00"
-    },
     "Midnite": {
       "count": 1,
       "job_ids": [
@@ -392,6 +387,13 @@
       ],
       "last_seen": "2026-10-19T20:28:52.832783+00:00"
     },
+    "OkWhen": {
+      "count": 1,
+      "job_ids": [
+        "aafea233ce0d"
+      ],
+      "last_seen": "2026-10-20T20:22:03.407633+00:00"
+    },
     "Omega Enterprises": {
       "count": 1,
       "job_ids": [
@@ -434,13 +436,6 @@
       ],
       "last_seen": "2026-10-19T20:28:52.832783+00:00"
     },
-    "Prenosis": {
-      "count": 1,
-      "job_ids": [
-        "e9064f4ba338"
-      ],
-      "last_seen": "2026-10-17T19:08:53.730358+00:00"
-    },
     "QuickMail": {
       "count": 1,
       "job_ids": [
@@ -462,6 +457,13 @@
       ],
       "last_seen": "2026-10-20T05:47:40.300185+00:00"
     },
+    "SIHO Insurance Services": {
+      "count": 1,
+      "job_ids": [
+        "a3c6466c8e30"
+      ],
+      "last_seen": "2026-10-20T20:22:03.407633+00:00"
+    },
     "SLB": {
       "count": 1,
       "job_ids": [
@@ -476,12 +478,12 @@
       ],
       "last_seen": "2026-10-19T20:28:52.832783+00:00"
     },
-    "Sanctuary Computer": {
+    "Self Bill Pro": {
       "count": 1,
       "job_ids": [
-        "69bcdb70f227"
+        "ec7c8c22e735"
       ],
-      "last_seen": "2026-10-17T19:08:53.730358+00:00"
+      "last_seen": "2026-10-20T20:22:03.407633+00:00"
     },
     "Siftwright Data": {
       "count": 1,
@@ -511,13 +513,6 @@
       ],
       "last_seen": "2026-10-19T20:28:52.832783+00:00"
     },
-    "Spiralyze": {
-      "count": 1,
-      "job_ids": [
-        "3ab349eb039c"
-      ],
-      "last_seen": "2026-10-17T19:08:53.730358+00:00"
-    },
     "Stone": {
       "count": 2,
       "job_ids": [
@@ -540,13 +535,6 @@
       ],
       "last_seen": "2026-10-20T05:47:40.300185+00:00"
     },
-    "Tether Operations Limited": {
-      "count": 1,
-      "job_ids": [
-        "c7c73fc0749f"
-      ],
-      "last_seen": "2026-10-17T19:08:53.730358+00:00"
-    },
     "Thatchers Cider": {
       "count": 1,
       "job_ids": [
@@ -560,13 +548,6 @@
         "916cd2848e14"
       ],
       "last_seen": "2026-10-20T16:39:40.238870+00:00"
-    },
-    "Thyme Care": {
-      "count": 1,
-      "job_ids": [
-        "957714a3e795"
-      ],
-      "last_seen": "2026-10-17T19:08:53.730358+00:00"
     },
     "Tierarzt Plus Partner": {
       "count": 1,
@@ -639,6 +620,13 @@
       ],
       "last_seen": "2026-10-20T00:11:12.596673+00:00"
     },
+    "Yopeso Romania SRL": {
+      "count": 1,
+      "job_ids": [
+        "7c5b7214fbe3"
+      ],
+      "last_seen": "2026-10-20T20:22:03.407633+00:00"
+    },
     "Yuno": {
       "count": 1,
       "job_ids": [
@@ -676,5 +664,5 @@
       "last_seen": "2026-10-20T14:06:47+00:00"
     }
   },
-  "updated_at": "2026-10-20T16:39:40.238870+00:00"
+  "updated_at": "2026-10-20T20:22:03.407633+00:00"
 }
